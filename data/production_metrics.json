@@ -1,0 +1,292 @@
+{
+ "rows": [
+  {
+   "ch": "whackdoor",
+   "per_day": 18.9,
+   "n": 295,
+   "days": 15.6,
+   "subs": 1590000.0
+  },
+  {
+   "ch": "technomedia",
+   "per_day": 16.06,
+   "n": 251,
+   "days": 15.6,
+   "subs": 3050000.0
+  },
+  {
+   "ch": "technomotel",
+   "per_day": 15.16,
+   "n": 237,
+   "days": 15.6,
+   "subs": 2980000.0
+  },
+  {
+   "ch": "d_code",
+   "per_day": 15.04,
+   "n": 235,
+   "days": 15.6,
+   "subs": 405000.0
+  },
+  {
+   "ch": "bugnotfeature",
+   "per_day": 14.46,
+   "n": 226,
+   "days": 15.6,
+   "subs": 1070000.0
+  },
+  {
+   "ch": "exploitex",
+   "per_day": 13.02,
+   "n": 203,
+   "days": 15.6,
+   "subs": 2040000.0
+  },
+  {
+   "ch": "trends",
+   "per_day": 11.32,
+   "n": 177,
+   "days": 15.6,
+   "subs": 1140000.0
+  },
+  {
+   "ch": "naebnet",
+   "per_day": 8.92,
+   "n": 139,
+   "days": 15.6,
+   "subs": 2200000.0
+  },
+  {
+   "ch": "rozetked",
+   "per_day": 7.88,
+   "n": 122,
+   "days": 15.5,
+   "subs": 672000.0
+  },
+  {
+   "ch": "cgevent",
+   "per_day": 6.56,
+   "n": 102,
+   "days": 15.5,
+   "subs": 52600.0
+  },
+  {
+   "ch": "data_secrets",
+   "per_day": 6.25,
+   "n": 97,
+   "days": 15.5,
+   "subs": 94200.0
+  },
+  {
+   "ch": "xor_journal",
+   "per_day": 5.95,
+   "n": 93,
+   "days": 15.6,
+   "subs": 185000.0
+  },
+  {
+   "ch": "ai_machinelearning_big_data",
+   "per_day": 5.32,
+   "n": 83,
+   "days": 15.6,
+   "subs": 279000.0
+  },
+  {
+   "ch": "neuraldvig",
+   "per_day": 4.46,
+   "n": 69,
+   "days": 15.5,
+   "subs": 294000.0
+  },
+  {
+   "ch": "tlive",
+   "per_day": 2.75,
+   "n": 39,
+   "days": 14.2,
+   "subs": 1700000.0
+  },
+  {
+   "ch": "hiaimedia",
+   "per_day": 2.65,
+   "n": 41,
+   "days": 15.5,
+   "subs": 2620000.0
+  },
+  {
+   "ch": "tproger",
+   "per_day": 2.43,
+   "n": 37,
+   "days": 15.2,
+   "subs": 78200.0
+  },
+  {
+   "ch": "gptpublic",
+   "per_day": 2.16,
+   "n": 33,
+   "days": 15.3,
+   "subs": 270000.0
+  },
+  {
+   "ch": "NeuralShit",
+   "per_day": 1.96,
+   "n": 30,
+   "days": 15.3,
+   "subs": 54000.0
+  },
+  {
+   "ch": "seeallochnaya",
+   "per_day": 1.83,
+   "n": 28,
+   "days": 15.3,
+   "subs": 80000.0
+  },
+  {
+   "ch": "denissexy",
+   "per_day": 1.62,
+   "n": 25,
+   "days": 15.4,
+   "subs": 138000.0
+  },
+  {
+   "ch": "ai_newz",
+   "per_day": 1.21,
+   "n": 17,
+   "days": 14.1,
+   "subs": 97100.0
+  }
+ ],
+ "er": [
+  {
+   "ch": "denissexy",
+   "subs": 138000.0,
+   "median_views": 65400,
+   "er": 0.4739
+  },
+  {
+   "ch": "seeallochnaya",
+   "subs": 80000.0,
+   "median_views": 25750,
+   "er": 0.3219
+  },
+  {
+   "ch": "NeuralShit",
+   "subs": 54000.0,
+   "median_views": 14150,
+   "er": 0.262
+  },
+  {
+   "ch": "ai_newz",
+   "subs": 97100.0,
+   "median_views": 24300,
+   "er": 0.2503
+  },
+  {
+   "ch": "data_secrets",
+   "subs": 94200.0,
+   "median_views": 20000,
+   "er": 0.2123
+  },
+  {
+   "ch": "rozetked",
+   "subs": 672000.0,
+   "median_views": 109500,
+   "er": 0.1629
+  },
+  {
+   "ch": "cgevent",
+   "subs": 52600.0,
+   "median_views": 6995,
+   "er": 0.133
+  },
+  {
+   "ch": "xor_journal",
+   "subs": 185000.0,
+   "median_views": 18900,
+   "er": 0.1022
+  },
+  {
+   "ch": "tproger",
+   "subs": 78200.0,
+   "median_views": 7000,
+   "er": 0.0895
+  },
+  {
+   "ch": "d_code",
+   "subs": 405000.0,
+   "median_views": 29800,
+   "er": 0.0736
+  },
+  {
+   "ch": "ai_machinelearning_big_data",
+   "subs": 279000.0,
+   "median_views": 20400,
+   "er": 0.0731
+  },
+  {
+   "ch": "neuraldvig",
+   "subs": 294000.0,
+   "median_views": 18700,
+   "er": 0.0636
+  },
+  {
+   "ch": "exploitex",
+   "subs": 2040000.0,
+   "median_views": 100000,
+   "er": 0.049
+  },
+  {
+   "ch": "gptpublic",
+   "subs": 270000.0,
+   "median_views": 13200,
+   "er": 0.0489
+  },
+  {
+   "ch": "trends",
+   "subs": 1140000.0,
+   "median_views": 45400,
+   "er": 0.0398
+  },
+  {
+   "ch": "naebnet",
+   "subs": 2200000.0,
+   "median_views": 85000,
+   "er": 0.0386
+  },
+  {
+   "ch": "whackdoor",
+   "subs": 1590000.0,
+   "median_views": 57700,
+   "er": 0.0363
+  },
+  {
+   "ch": "hiaimedia",
+   "subs": 2620000.0,
+   "median_views": 65600,
+   "er": 0.025
+  },
+  {
+   "ch": "bugnotfeature",
+   "subs": 1070000.0,
+   "median_views": 23600,
+   "er": 0.0221
+  },
+  {
+   "ch": "technomedia",
+   "subs": 3050000.0,
+   "median_views": 47400,
+   "er": 0.0155
+  },
+  {
+   "ch": "technomotel",
+   "subs": 2980000.0,
+   "median_views": 43700,
+   "er": 0.0147
+  },
+  {
+   "ch": "tlive",
+   "subs": 1700000.0,
+   "median_views": 14200,
+   "er": 0.0084
+  }
+ ]
+}

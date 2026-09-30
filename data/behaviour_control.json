@@ -1,0 +1,22 @@
+{
+ "age_effect": {
+  "views": -0.09051970814736099,
+  "rx": -0.16947293806412192,
+  "rx_1k": 0.20240555185381745,
+  "rx_views": -0.15431148222291396
+ },
+ "fresh_threshold_rx_1k_p90": 1.1604938271604939,
+ "fresh_top_channels": {
+  "rozetked": 22,
+  "data_secrets": 43,
+  "denissexy": 10,
+  "cgevent": 19,
+  "neuraldvig": 3,
+  "xor_journal": 10,
+  "d_code": 3,
+  "ai_newz": 8,
+  "seeallochnaya": 12,
+  "trends": 1
+ },
+ "volume_vs_rx_fresh_rho": -0.7202797202797203
+}

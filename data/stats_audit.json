@@ -1,0 +1,18 @@
+{
+ "min_detectable_rho_n20": 0.5911839834295171,
+ "min_detectable_rho_n12": 0.7323892904160965,
+ "rho_raw": -0.6616541353383458,
+ "rho_partial_layer": -0.3157144289201669,
+ "perm_within_layer_p": 0.11954402279886006,
+ "within_channel_meta": -0.15862106788090316,
+ "within_channel_ci": [
+  -0.2296213706256676,
+  -0.08594145615911326
+ ],
+ "design_effect": 1.0361809045226131,
+ "fdr_survived": 8,
+ "fdr_total": 18,
+ "layer_gap_sum": 5.690972564439073,
+ "layer_gap_maxchip": 5.069708491761723,
+ "frontier_rho": -0.009022556390977444
+}

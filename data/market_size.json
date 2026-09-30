@@ -1,0 +1,8369 @@
+{
+ "by_category": {
+  "tech": [
+   "agtfind",
+   "aimusical",
+   "aiwiremoney",
+   "anthropic",
+   "antipov",
+   "bbqcointeam",
+   "birds_announcement",
+   "blink_en",
+   "br_dev",
+   "bugfeature",
+   "bugnotfeature",
+   "bums_official",
+   "driverone",
+   "durov_russia",
+   "fabrika_channel",
+   "farda_ai",
+   "fastxnetwork",
+   "hiaimedia",
+   "hoosha_ai",
+   "hoosha_hamkari",
+   "imnotbozhena",
+   "ipapkorn",
+   "kreator",
+   "malepeg",
+   "meshchainai",
+   "mig41",
+   "mitivpn",
+   "mobsec_ai",
+   "mozo_news",
+   "muaid92",
+   "neuralzone",
+   "novosty_glavnyei",
+   "nproxy",
+   "plusmsgr",
+   "portuguese_movies_portuguese_hd",
+   "proxymtproto",
+   "respawn_media",
+   "richaichannel",
+   "rideonwaves",
+   "roidbest",
+   "rozetked",
+   "tch_channel",
+   "technolavka",
+   "technomotel",
+   "telegaru",
+   "telegramtips",
+   "temki_zvezdys",
+   "tiktokmodcloud",
+   "tlive",
+   "trendswhat",
+   "typespace",
+   "ukr_2025_ru",
+   "xayrulla_hamidov",
+   "yabrowser",
+   "yandex"
+  ],
+  "news": [
+   "activitylauncher_offical",
+   "akhbare_fouri",
+   "akhbarefori",
+   "asrefori",
+   "bazabazon",
+   "bbbreaking",
+   "be_the_firsttt",
+   "boinkersnews",
+   "breakingmash",
+   "dva_majors",
+   "farsna",
+   "insider_usa_news",
+   "insiderukr",
+   "iran_efsha_news",
+   "irzagrosnews",
+   "kh_b2",
+   "khabar_fouri",
+   "khabar_furei",
+   "khabarehir",
+   "khabarfouri",
+   "km_ap",
+   "m0_hm",
+   "mash",
+   "meduzalive",
+   "moscowach",
+   "mosnews",
+   "msk7days",
+   "msky_media",
+   "n_no_f",
+   "ne_wg",
+   "novosti_efir",
+   "nw_za",
+   "okak",
+   "readovkanews",
+   "rhymestg",
+   "rian_ru",
+   "rockyrabbit_ugc",
+   "rybar",
+   "sabrennewss",
+   "sara_xabarlar",
+   "shot_shot",
+   "telegram",
+   "tezkorozbekiston",
+   "thememetimes",
+   "timefarmchannel",
+   "trendwatching24",
+   "tyxuzbek",
+   "username",
+   "vv_volodin",
+   "xempireapps",
+   "yaxshi_yomon",
+   "zhestnovosty",
+   "zubarefff"
+  ],
+  "business": [
+   "aaaa_business",
+   "avito",
+   "baykinaolga",
+   "belaya_kaska",
+   "bes_pilot",
+   "bloomberg",
+   "bomj_tour_trip",
+   "bpmkiller",
+   "dosye_sk",
+   "forbesrussia",
+   "founderwoman",
+   "hamsedair",
+   "healertacmed",
+   "hikollegi",
+   "icpbtrubicon",
+   "igor_artamonov48",
+   "ikromsharif",
+   "ilyaseredyuk",
+   "investingcorp",
+   "irinavolk_mvd",
+   "justdemidovit",
+   "kartozz",
+   "kate_blanche",
+   "klientvsprav",
+   "kommersant",
+   "lauradjagadiary",
+   "media1337",
+   "mikhaildashkiev",
+   "na_morozhenoe",
+   "naiznankuo",
+   "nikitabsg",
+   "nmiacm",
+   "philologist_zov",
+   "placemed",
+   "premiumspanish",
+   "prokurator_ru",
+   "rbc_news",
+   "russ_orientalist",
+   "ryanrun",
+   "sammyfam",
+   "sberbank",
+   "sberinvestments",
+   "serch",
+   "sergeisergienkoen",
+   "shipilovaks",
+   "tbank",
+   "tech",
+   "techgames",
+   "temir_dorvozalari_rovotlari",
+   "thebell_io",
+   "tolk_tolk",
+   "trends",
+   "uavdev",
+   "vedomosti",
+   "vpngen",
+   "yndx_ed",
+   "zloy_kollega",
+   "zonaosoboho"
+  ],
+  "education": [
+   "adda247live",
+   "akhbare_madrs",
+   "altfwok",
+   "anyclass_faceonline",
+   "beriskala",
+   "bomber_fighter",
+   "digi_classs",
+   "edu211",
+   "edu2iq",
+   "englishforyou",
+   "exphub910",
+   "fargona_andijon_namangan1",
+   "hamclasixii",
+   "hand_knit",
+   "hjjhhhjjnkkjhgg1234",
+   "iraqed4",
+   "iraqedu",
+   "iraqedulibrary",
+   "kalamacademysikar",
+   "latest_govt_notification",
+   "letslearnsquad",
+   "luka_ebkov",
+   "madrese_official",
+   "manjmy",
+   "matematik_andrei_channel",
+   "mathsbyadityaranjan_vidyagram",
+   "mathsbygaganpratap",
+   "messo12",
+   "mlazemna",
+   "nextexam",
+   "nf_english1n",
+   "official_mpsc",
+   "officialevedex",
+   "only_khaki",
+   "opersvodki",
+   "parmar_ssc",
+   "priness22",
+   "rankersgurukullive",
+   "rbe_s",
+   "sadshelp",
+   "sanjeshrasmi",
+   "seepmaam",
+   "simplecdz",
+   "ssc_maths_reasoning_gd_gk_quiz",
+   "sscquizparmar",
+   "step_alhassani",
+   "syriast",
+   "thepundits_official",
+   "tikvahuniversity",
+   "upsc_gk_gs_quiz_bpsc_ssc_gd",
+   "utkarshclasses",
+   "veronikastepanova20011",
+   "zhidkovskiy_talk"
+  ],
+  "finance": [
+   "aeroflot_official",
+   "alfa_vygodno",
+   "alfabank",
+   "ba_z1",
+   "bezposhady",
+   "bitget_wallet_announcement",
+   "do_l4",
+   "dollar_tehran3bze",
+   "drops_on_hot",
+   "economica",
+   "ecoshariff",
+   "en_qe",
+   "en_wk",
+   "f8ffl",
+   "filmseven_asli7",
+   "finansist_busines",
+   "herewallet",
+   "hjayatt",
+   "holdbull",
+   "honghotduongpho0",
+   "hotonnear",
+   "jaryanpool",
+   "kekodev",
+   "kkkkb",
+   "mosbusy",
+   "msk_live",
+   "nails_manik_nogotki",
+   "nknnn",
+   "nlnnn",
+   "nnknn",
+   "nnnzn",
+   "okx_campaign_announcements",
+   "ozonru",
+   "piggybankgamechannel",
+   "pn_nn",
+   "pocket_rocket_game",
+   "pp_02",
+   "pppjp",
+   "ppppj",
+   "pvvvv",
+   "qpmns68",
+   "ruble30",
+   "s3_me",
+   "se_pz",
+   "skurlatovlive",
+   "smartest_official",
+   "smpl_app",
+   "stockbot",
+   "storyat_11",
+   "the_signal_24",
+   "venture",
+   "voina_belgorod_novosti",
+   "voletcom",
+   "winnersinstituteindoreadityasir",
+   "yyy3n",
+   "yyyxy",
+   "yyyyd",
+   "zz_tzt"
+  ],
+  "gaming": [
+   "app301",
+   "battle_games_com",
+   "bravl_nuls_skachat",
+   "bravl_starstg",
+   "bravl_starsww",
+   "brawldroo1",
+   "brwlaura",
+   "bulkin_live",
+   "dota2",
+   "dotcoincommunity",
+   "fishwar_io",
+   "hamster_kombat",
+   "ikakprosto",
+   "instasamkacore",
+   "jolybells",
+   "kunuzofficial",
+   "mir_supercell",
+   "mlbbcis",
+   "mlbbesports",
+   "moscowheel",
+   "mosguru",
+   "narek_cr",
+   "pixelverse_xyz",
+   "realmadridcdf",
+   "roblru",
+   "scamsociety",
+   "steamkupikod",
+   "strimrs",
+   "tapswapai",
+   "telegramtipses",
+   "teyvat_guids",
+   "theyescoin",
+   "tobeor_official",
+   "trumps_empire_chat",
+   "tutvseosporte",
+   "ultra_cardinal1",
+   "vanileaks",
+   "wontonorg",
+   "world_playstation",
+   "zhfootballll"
+  ],
+  "crypto": [
+   "airdrop6officialchannel",
+   "airdropfindteam",
+   "architecton_tech",
+   "asikalive",
+   "baks_ton",
+   "binance_announcements",
+   "binance_moonbix_announcements",
+   "blumcrypto",
+   "blumcrypto_memepad",
+   "boomloudcoin",
+   "dogs",
+   "dogs_community",
+   "drop_cryptogo",
+   "eduardinvest",
+   "foruai_channel",
+   "hash_cats",
+   "hexnio",
+   "just",
+   "learn2earnings",
+   "lenvies",
+   "lordxau",
+   "majors",
+   "matchain_fam",
+   "mawtincrypto_vip",
+   "money",
+   "nomis_protocol",
+   "notcoin",
+   "okx_ru",
+   "okxwalletannouncement",
+   "piannouncements",
+   "pigscrew",
+   "pocketfi",
+   "popcorn_today",
+   "roxman",
+   "thelion011",
+   "therealyescoin",
+   "thezencoin",
+   "timefarmchannel",
+   "tofan_trade",
+   "trade_nobody",
+   "wormfare",
+   "zoo_story"
+  ],
+  "jobs": [
+   "akademi_fidaa",
+   "akademi_fidaaa",
+   "andijon_asaka_ish",
+   "beleqetjobs",
+   "dibai2025",
+   "disnakerja",
+   "eafc_prime",
+   "eestekhdam_com",
+   "estekhdamiiiiiiiiiii",
+   "ethiojobs2000",
+   "ewdifh",
+   "fargona_ish_bor_margilon_ish",
+   "feixingzhe_qzzz",
+   "fontsstore",
+   "freejobalertofficially",
+   "freelance_ethio",
+   "freetasks",
+   "freshershunt",
+   "harmeejobs",
+   "ieq4ee",
+   "iranestekhdam_ir",
+   "ish_bor_ishchi_toshkent_kerak",
+   "ish_bor_toshkent_kerak_vakansiya",
+   "ishbort",
+   "ishlar_ishbor_bor_kunlik",
+   "ishlar_kerak_bormi",
+   "ishtopuz_rasmiy",
+   "job4fresherss",
+   "jobs_for_us",
+   "jobsgovind",
+   "jobz_sa",
+   "laborx",
+   "majhinaukri",
+   "maskva_tayanche",
+   "moskva_v_moskve_vakhtoy",
+   "moskva_vakhta_udalennaya_rf",
+   "namangan_ish_bor_elon_reklamalar",
+   "oplata_skoro_budet",
+   "playboyjobo",
+   "qzzpfabu888",
+   "rabota_dneprb",
+   "rabota_kieve8",
+   "rajasthanvacancy_in",
+   "rankmitra",
+   "rojgaarwithankit",
+   "sarkariresult2012",
+   "shikshavibhag",
+   "shogll",
+   "stjegypt",
+   "telegramtipsar",
+   "teleworksjobs",
+   "tocpns",
+   "tutorrnyadisiniyay",
+   "tw_jg",
+   "uietkanpurgroup",
+   "wadhefadotcom",
+   "ytt789"
+  ],
+  "health": [
+   "astrogiks",
+   "biznes_financi_ekonomika",
+   "brooella",
+   "bzdorov",
+   "delicious_retsepty",
+   "dilya_asliddinovna_dietolog",
+   "doctor_zubareva",
+   "dormintannouncements",
+   "dranshina",
+   "drdzari",
+   "drzahoraaa9",
+   "economika24_7",
+   "economylive",
+   "es_qb",
+   "esteghlal_ss",
+   "esteghlallinews",
+   "esteghlalpage",
+   "f0_tb",
+   "havadari_soorkh",
+   "ilovesex666",
+   "khabar_varzeshee",
+   "maagas",
+   "magerya",
+   "majalepezeshki",
+   "mashablinovafit",
+   "medical_secrecy",
+   "multievan",
+   "nails_nogotki",
+   "nailsluv",
+   "odessaras",
+   "olga_pomoynetskaya",
+   "ourbody_tg",
+   "perspolisirfans",
+   "pitanie798",
+   "po_receptj",
+   "pussy_tel",
+   "realmadridcfz",
+   "ross_name",
+   "ruseconomica",
+   "shortasport",
+   "sorkh1967",
+   "svoikr",
+   "tabobat_tibbiyot_dorilar_apteka",
+   "tebesonati99",
+   "tretyakovaele",
+   "vaarzesh_plus",
+   "varzesh3_3o",
+   "virauniversitycom",
+   "vivoyoga_larisa",
+   "volkovaforwomen"
+  ],
+  "auto": [
+   "andijon_arzon_mashina",
+   "asia_express_auto",
+   "auto_lubitell",
+   "auto_manya",
+   "auto_zakazz25",
+   "autoru_new",
+   "autoruss",
+   "avto_stillll",
+   "avtopulse_news",
+   "benzincream_russia",
+   "bmchn",
+   "bozorim_moshina",
+   "damasbozor_damaz",
+   "dr_ales",
+   "easycars8",
+   "fastcarmarket",
+   "fokeev",
+   "fura_bozor",
+   "inamarka_mashinalar",
+   "jizzax_toshkenth",
+   "jizzax_toshkenttaksii",
+   "major_auto_official",
+   "mashina_engarzoni_elon_bozor",
+   "montather313m",
+   "moshina_bozorim",
+   "most_official",
+   "muscarx",
+   "muzika_dlyamashiny",
+   "muzyka_track",
+   "nikitakrivolapov",
+   "nizherinkaspb1",
+   "offersegyptofficial",
+   "offerssaudiofficial",
+   "olya_penguin",
+   "olzhass_games_tg",
+   "pdd_for_all",
+   "porsche911gift",
+   "porshee_auto",
+   "proautoruu",
+   "proavto_krd",
+   "rasmiyavtobozor",
+   "revheadcrypto",
+   "samarqand_toshkent_taxi2",
+   "samarqand_zarafshon1250",
+   "sergeli_toshkent_bozori_sergili1",
+   "tachki",
+   "teslaaws",
+   "tutgruz",
+   "unidraminhas",
+   "uyavtomobil",
+   "vladglenttg",
+   "vodiy_bozori_avtoelon",
+   "vodiybozor_mashinabozor"
+  ],
+  "lifestyle": [
+   "advocat_almaz_timerbulat_maxs",
+   "anxiety_treatment",
+   "arameshvip",
+   "artful_teach",
+   "beckyclimson7",
+   "behavior_modification",
+   "boroda_cars",
+   "bumble_bumble",
+   "depression_help",
+   "detkalilka08",
+   "dog_behavior",
+   "dropopt_stas_boroda",
+   "egorikvtg",
+   "estetika_zhizni",
+   "estetikavida",
+   "hyundai_official",
+   "immigration_services",
+   "intermittent_fasting",
+   "lifehacksqueerserbia",
+   "londonkitesurfers",
+   "me_estetika_w",
+   "memes",
+   "mental_health_support",
+   "mental_tired",
+   "moskva_only",
+   "moskvichca",
+   "mossgirls",
+   "moswalker",
+   "msktrnds",
+   "my_thai_life",
+   "olga_expat",
+   "origins_official",
+   "piter_go_live",
+   "pravilazhiznitv",
+   "prostoy_retsept",
+   "receptok",
+   "relocation_russia",
+   "samirkumarstudycenter376",
+   "saopaulocity",
+   "serbian4greens",
+   "solokumi",
+   "solokumi_chat",
+   "spb_walk",
+   "stas_boroda13",
+   "stas_boroda_company",
+   "strogik_55",
+   "sustainable_fashion",
+   "thailandchill",
+   "vasha_dacha_ua",
+   "vsedlyadachisadugorodu",
+   "youcanoffthis",
+   "yyyxy"
+  ],
+  "shopping": [
+   "alenawb13",
+   "amourethy",
+   "anora_ganiyevna",
+   "beribuy",
+   "blackcraftgallery",
+   "bloshkamarket",
+   "dealdost",
+   "deals_offerzone_loots",
+   "detskie_volosy",
+   "detskiy_volos",
+   "discordsemis",
+   "dkof911",
+   "elite_lady_hair",
+   "ereshairlab",
+   "eshgho_sokoot",
+   "feebacker",
+   "feliciamalets",
+   "honeybeetours",
+   "honeydeels",
+   "ingrcsl_outlet",
+   "kachibazar",
+   "keshbekovam",
+   "khalyava",
+   "kosha_dora",
+   "loot_dealsx",
+   "luxvolos_ru",
+   "marketbenefit",
+   "nft_signaler",
+   "offxrs",
+   "onaponimaet",
+   "poblat",
+   "promokody",
+   "prosti_zahodi",
+   "rapiddeals_unlimited",
+   "ravasian",
+   "sellingcore",
+   "shagaze",
+   "shakhova_hairstudio_adler",
+   "shoping_skidki",
+   "shopingworldtg11",
+   "skidki_shoping",
+   "soikohair",
+   "stihilebedevoi",
+   "tatardesign_official",
+   "toshkentbozor",
+   "trickxpert",
+   "umnorauz",
+   "username_group9",
+   "usernameremont",
+   "usernamesdiscord",
+   "usernamesforselling",
+   "wbkeshbekkk",
+   "whitewingsdance",
+   "yndx_market",
+   "zakup_control"
+  ],
+  "travel": [
+   "akstar1music",
+   "amazingworldtravel",
+   "anoravia_kassa",
+   "aslan_best_blog",
+   "aviasales",
+   "babymelo_1",
+   "bna_travel",
+   "dramacinafree",
+   "dreamgroupe",
+   "elena_fentsik",
+   "ethiopian_airlines",
+   "eur99",
+   "family_and_home",
+   "female_moscow",
+   "find_punerooms",
+   "hosseinsafarimusic",
+   "ht_kz",
+   "im_ksun_official",
+   "indlootdeals",
+   "inst_rinnaa",
+   "lerakudryavtseva",
+   "lootalertsofficial",
+   "madk1dmus",
+   "malayalam_mallu_movies_group",
+   "manyasha_anisimova",
+   "massheraa",
+   "mirror_ofthe_soul",
+   "mnogomama_msk",
+   "mostvaluableghost",
+   "nationgeographic",
+   "negarestanparvaz",
+   "onetwotrip",
+   "ozontravel_official",
+   "piratesru",
+   "pobedaairlines",
+   "prokhorova_ksenia",
+   "pune_pg_hostel_rooms",
+   "qasrtravelll",
+   "rosakhutoralerts",
+   "s7airlines",
+   "scallymilanogram",
+   "tr_media",
+   "travel_dada",
+   "travel_from_siberia",
+   "trvlclick",
+   "turkhakassia",
+   "turkiyaga_kassalar1",
+   "tutu_travel",
+   "vandroukiru",
+   "velour_life",
+   "visa_required",
+   "yandex_travel",
+   "yuksak_travel_rasmiy1",
+   "yuksaktravelll"
+  ],
+  "sports": [
+   "alcarazdjokovic1",
+   "anuragxcricket",
+   "aromaivika",
+   "atp_wta_24",
+   "auto_saleufa102",
+   "autosale24_do100k",
+   "avtobusinessrt",
+   "emily_sale24",
+   "es_qb",
+   "es_t4",
+   "espn",
+   "esteghlalfan",
+   "esteghlallinews",
+   "euroleague",
+   "faceandplace",
+   "fckrasnodar",
+   "futbol_fudbol_sport_tv_gollar",
+   "juventus",
+   "kaiserbet_f1_motogp",
+   "karistore38",
+   "khabib_nurmagomedov",
+   "korahubgoals",
+   "laliga_teg",
+   "levyrozmanchess",
+   "lewonstoreaccount",
+   "luggage_surfing_il",
+   "mirlan_auto_sale",
+   "motogp",
+   "motogp_fans",
+   "myasnoy_dvorick",
+   "novak_djokovic_tennis",
+   "olympics",
+   "pattaya_happy_auto",
+   "pe_az",
+   "perekupikievlive",
+   "perspolisirfans",
+   "prodbyminho",
+   "promotion_place",
+   "ranbirroyoffice",
+   "saleammstore",
+   "sales6618_jellycatti",
+   "shri_lanka_surfing",
+   "sky_sports_world_chat",
+   "skysports",
+   "sorkh1967",
+   "sport_hub_football",
+   "sportexpress",
+   "sportsru",
+   "ss_2e",
+   "tambovavtomobi",
+   "the_place_promised",
+   "wakeupfitness",
+   "wbchek_channel",
+   "zerexhastore"
+  ],
+  "entertainment": [
+   "all_festivals",
+   "anime_news",
+   "besprintsipnye_serialy",
+   "bestmemes",
+   "dancewithus",
+   "domistorii",
+   "emojitgpremiumm",
+   "festivali_v_moskve",
+   "hcsu61",
+   "igromania",
+   "ipapkorn",
+   "itflaska",
+   "ithumor",
+   "kino_filmach",
+   "kinopoisk",
+   "konohakeras",
+   "krinj",
+   "kvnofficial",
+   "linoneee",
+   "markosdelalaa",
+   "marvel4",
+   "mediarussia",
+   "mediyca",
+   "memachh",
+   "moskuda",
+   "mrbeast",
+   "mrbeastdrop_ann",
+   "myanimelist",
+   "navkashow",
+   "netflix",
+   "nknnn",
+   "nlnnn",
+   "nnnzn",
+   "notaspoiler",
+   "pacanki_new1",
+   "phantombooks",
+   "pikabu",
+   "prebit_official_community",
+   "rhymesrim",
+   "shoopingco",
+   "sixtyfourmag",
+   "snovavteatr",
+   "solarsysto",
+   "theboys",
+   "thememetimes",
+   "trnd_x",
+   "tvnetflix",
+   "vcnews",
+   "voenobzortelega",
+   "vpiskaslivvtgk",
+   "yaplakal",
+   "yyyyd",
+   "zhestnovosty",
+   "zindagi_thought_quotes_words",
+   "zrzzzz",
+   "zzzzzz"
+  ],
+  "music": [
+   "ahangawmeh",
+   "ahangify",
+   "anime_obrazy",
+   "apoyoaldoctorbenito",
+   "arianagrande",
+   "artik_i_asti_musicc",
+   "artikasti",
+   "avtoradiokhv",
+   "avtoradios",
+   "avtoradiouz",
+   "badbunnyb",
+   "benito_outlet",
+   "benitogamedev",
+   "bighitmusic_bts",
+   "billieeilish",
+   "billiehok",
+   "blackpink",
+   "blackpink_mmsub",
+   "bts_bighit",
+   "btsbighithybe",
+   "dmitryzhan",
+   "drake",
+   "drake_ichancy",
+   "drluismiguelbenito",
+   "dualipa",
+   "eliny_ent",
+   "icyremix",
+   "inbox365toolz",
+   "inbox365toolz2",
+   "iranmusic94",
+   "jggl_official",
+   "jungle_market",
+   "m0_zk",
+   "melodio",
+   "melomixes",
+   "metallica",
+   "morgen_giftss",
+   "morgenshtern",
+   "morgenshternd",
+   "morgenshterntochnovsepesni",
+   "morgenshterntrej",
+   "musicaeel",
+   "muzika_pankrock",
+   "nftgorillass",
+   "officialbtslabs",
+   "operaomnia_benitomussolini",
+   "radiorecord",
+   "radiorecord21",
+   "radiorecordmoscow",
+   "remixerapy",
+   "rimixeyou",
+   "russky_rock_777",
+   "spotifyru",
+   "taronalar_qoshiqlar_mp3lar",
+   "v2a1z05",
+   "yhlqmdlgc",
+   "zemfira"
+  ],
+  "gambling": [
+   "a333bet",
+   "anuragxcricket",
+   "bahis_iddaab",
+   "bahmdan",
+   "banki_oil",
+   "bcgamewin",
+   "belarusian_silovik",
+   "buffalo688_qq",
+   "disawar_satta_gali_desawar",
+   "elguazzar66",
+   "epoddubny",
+   "evo_memy",
+   "fcgofficial",
+   "findolucky",
+   "hitvpn_news",
+   "hsbet",
+   "inkdoniunit69",
+   "ir_javan",
+   "javadtrade",
+   "kalyan_matka080",
+   "kalyan_sridevi_dpboss_mataka",
+   "kosti",
+   "livenews_1win",
+   "loot_dealsx",
+   "lottery_service1",
+   "mariavladimirovnazakharova",
+   "matka_kalyan_milan_satta",
+   "md_ps",
+   "melbets_1xbet_winwinbet_xbets",
+   "moscow_laundry",
+   "mosnow",
+   "n4_v2",
+   "notruphil",
+   "olegtsarov",
+   "onexbeti_1xbet",
+   "petrovtel",
+   "pocket_option_signal_quotex",
+   "portals_community",
+   "realgoats_channel",
+   "redacted6",
+   "sergey1win",
+   "sfxauusd1",
+   "ssigny",
+   "telegaru",
+   "thelion011",
+   "trading_binomo_signals_tips",
+   "trickxpert",
+   "vvgladkov",
+   "wildberriesru_official",
+   "zarubinreporter"
+  ],
+  "bots": [
+   "bloodysx",
+   "digiai",
+   "dogiators",
+   "ejdailyru",
+   "etoznakmag",
+   "exploitex",
+   "fabrika_channel",
+   "fintopionews",
+   "hitvpnvideo",
+   "ipapkornbots",
+   "iris_cm",
+   "jairbolsonarobrasil",
+   "kafiha",
+   "kulinariya_retsept",
+   "lachentyt",
+   "legitimniy",
+   "leoday",
+   "leoindonesia",
+   "litvintm",
+   "modyolo_official",
+   "mp_zg",
+   "n1nnnn",
+   "naebnet",
+   "novahubchannel",
+   "pravdadirty",
+   "premium",
+   "r7com",
+   "replabs",
+   "rezident_ua",
+   "rkadyrov_95",
+   "sladkov_plus",
+   "ssternenko",
+   "taiabati",
+   "the_vertus",
+   "tomarket_ai",
+   "trading",
+   "trendingapps",
+   "trucallerbot",
+   "tspyaterochka",
+   "vahidonline",
+   "war_monitor",
+   "whackdoor",
+   "wylsared"
+  ]
+ },
+ "channels": {
+  "technolavka": {
+   "subs": 1320000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "typespace": {
+   "subs": 1150000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "xayrulla_hamidov": {
+   "subs": 382000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "hoosha_hamkari": {
+   "subs": 964000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-27",
+   "cats": [
+    "tech"
+   ]
+  },
+  "driverone": {
+   "subs": 464000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "mitivpn": {
+   "subs": 2400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "tech"
+   ]
+  },
+  "imnotbozhena": {
+   "subs": 504000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "telegaru": {
+   "subs": 6400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-07-17",
+   "cats": [
+    "tech",
+    "gambling"
+   ]
+  },
+  "temki_zvezdys": {
+   "subs": 2350000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "portuguese_movies_portuguese_hd": {
+   "subs": 512000.0,
+   "posts_on_page": 20,
+   "newest": "2026-02-09",
+   "cats": [
+    "tech"
+   ]
+  },
+  "bbqcointeam": {
+   "subs": 942000.0,
+   "posts_on_page": 20,
+   "newest": "2026-04-16",
+   "cats": [
+    "tech"
+   ]
+  },
+  "rozetked": {
+   "subs": 672000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "hoosha_ai": {
+   "subs": 916000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "mig41": {
+   "subs": 481000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "bums_official": {
+   "subs": 4730000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "tech"
+   ]
+  },
+  "tlive": {
+   "subs": 1700000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "fabrika_channel": {
+   "subs": 2800000.0,
+   "posts_on_page": 2,
+   "newest": "2026-08-19",
+   "cats": [
+    "tech",
+    "bots"
+   ]
+  },
+  "birds_announcement": {
+   "subs": 1510000.0,
+   "posts_on_page": 20,
+   "newest": "2025-08-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "novosty_glavnyei": {
+   "subs": 2760000.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "plusmsgr": {
+   "subs": 880000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "technomotel": {
+   "subs": 2980000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "tch_channel": {
+   "subs": 736000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "ukr_2025_ru": {
+   "subs": 494000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "meshchainai": {
+   "subs": 1770000.0,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "tech"
+   ]
+  },
+  "nproxy": {
+   "subs": 2380000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "bugnotfeature": {
+   "subs": 1070000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "aimusical": {
+   "subs": 579000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-18",
+   "cats": [
+    "tech"
+   ]
+  },
+  "roidbest": {
+   "subs": 1640000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "br_dev": {
+   "subs": 1070000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "mozo_news": {
+   "subs": 433000.0,
+   "posts_on_page": 20,
+   "newest": "2024-12-17",
+   "cats": [
+    "tech"
+   ]
+  },
+  "antipov": {
+   "subs": 401000.0,
+   "posts_on_page": 20,
+   "newest": "2025-03-03",
+   "cats": [
+    "tech"
+   ]
+  },
+  "neuralzone": {
+   "subs": 382000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-15",
+   "cats": [
+    "tech"
+   ]
+  },
+  "telegramtips": {
+   "subs": 10900000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-27",
+   "cats": [
+    "tech"
+   ]
+  },
+  "farda_ai": {
+   "subs": 766000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "rideonwaves": {
+   "subs": 818000.0,
+   "posts_on_page": 20,
+   "newest": "2026-06-24",
+   "cats": [
+    "tech"
+   ]
+  },
+  "malepeg": {
+   "subs": 499000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "tiktokmodcloud": {
+   "subs": 3060000.0,
+   "posts_on_page": 18,
+   "newest": "2026-08-17",
+   "cats": [
+    "tech"
+   ]
+  },
+  "anthropic": {
+   "subs": 1440000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "agtfind": {
+   "subs": 400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "aiwiremoney": {
+   "subs": 442000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-04",
+   "cats": [
+    "tech"
+   ]
+  },
+  "yabrowser": {
+   "subs": 681000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-28",
+   "cats": [
+    "tech"
+   ]
+  },
+  "muaid92": {
+   "subs": 381000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "kreator": {
+   "subs": 559000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "fastxnetwork": {
+   "subs": 380000.0,
+   "posts_on_page": 20,
+   "newest": "2025-02-09",
+   "cats": [
+    "tech"
+   ]
+  },
+  "mobsec_ai": {
+   "subs": 489000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "bugfeature": {
+   "subs": 570000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "respawn_media": {
+   "subs": 648000.0,
+   "posts_on_page": 17,
+   "newest": "2025-08-22",
+   "cats": [
+    "tech"
+   ]
+  },
+  "proxymtproto": {
+   "subs": 11900000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "hiaimedia": {
+   "subs": 2620000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "trendswhat": {
+   "subs": 3620000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "yandex": {
+   "subs": 618000.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech"
+   ]
+  },
+  "blink_en": {
+   "subs": 576000.0,
+   "posts_on_page": 20,
+   "newest": "2025-12-16",
+   "cats": [
+    "tech"
+   ]
+  },
+  "durov_russia": {
+   "subs": 981000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-01",
+   "cats": [
+    "tech"
+   ]
+  },
+  "ipapkorn": {
+   "subs": 1870000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "tech",
+    "entertainment"
+   ]
+  },
+  "richaichannel": {
+   "subs": 382000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "tech"
+   ]
+  },
+  "bazabazon": {
+   "subs": 1560000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "breakingmash": {
+   "subs": 3110000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "rhymestg": {
+   "subs": 1420000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "akhbarefori": {
+   "subs": 4310000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "n_no_f": {
+   "subs": 2390000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "rybar": {
+   "subs": 1550000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "khabar_furei": {
+   "subs": 3640000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "xempireapps": {
+   "subs": 3780000.0,
+   "posts_on_page": 11,
+   "newest": "2024-12-25",
+   "cats": [
+    "news"
+   ]
+  },
+  "telegram": {
+   "subs": 9440000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-26",
+   "cats": [
+    "news"
+   ]
+  },
+  "okak": {
+   "subs": 1610000.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "farsna": {
+   "subs": 1830000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "readovkanews": {
+   "subs": 2020000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "rockyrabbit_ugc": {
+   "subs": 1480000.0,
+   "posts_on_page": 20,
+   "newest": "2024-09-14",
+   "cats": [
+    "news"
+   ]
+  },
+  "m0_hm": {
+   "subs": 3600000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "zubarefff": {
+   "subs": 1330000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "dva_majors": {
+   "subs": 1170000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "irzagrosnews": {
+   "subs": 1280000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "km_ap": {
+   "subs": 7820000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "msky_media": {
+   "subs": 1250000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "thememetimes": {
+   "subs": 2500000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "news",
+    "entertainment"
+   ]
+  },
+  "zhestnovosty": {
+   "subs": 1410000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "news",
+    "entertainment"
+   ]
+  },
+  "activitylauncher_offical": {
+   "subs": 4410000.0,
+   "posts_on_page": 15,
+   "newest": "2025-12-01",
+   "cats": [
+    "news"
+   ]
+  },
+  "novosti_efir": {
+   "subs": 3970000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "ne_wg": {
+   "subs": 5670000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "yaxshi_yomon": {
+   "subs": 1930000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "iran_efsha_news": {
+   "subs": 1310000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "sara_xabarlar": {
+   "subs": 2190000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "moscowach": {
+   "subs": 4059999.9999999995,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "insiderukr": {
+   "subs": 2190000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "insider_usa_news": {
+   "subs": 1360000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "vv_volodin": {
+   "subs": 1300000.0,
+   "posts_on_page": 3,
+   "newest": "2026-09-27",
+   "cats": [
+    "news"
+   ]
+  },
+  "rian_ru": {
+   "subs": 3040000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "username": {
+   "subs": 1320000.0,
+   "posts_on_page": 11,
+   "newest": "2023-03-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "tyxuzbek": {
+   "subs": 1100000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "khabarfouri": {
+   "subs": 5120000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "mosnews": {
+   "subs": 2500000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "asrefori": {
+   "subs": 1330000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "mash": {
+   "subs": 3110000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "akhbare_fouri": {
+   "subs": 1070000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "boinkersnews": {
+   "subs": 2540000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "shot_shot": {
+   "subs": 1270000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "nw_za": {
+   "subs": 2910000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "tezkorozbekiston": {
+   "subs": 1160000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "khabarehir": {
+   "subs": 2060000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "meduzalive": {
+   "subs": 1120000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "kh_b2": {
+   "subs": 4380000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "trendwatching24": {
+   "subs": 1420000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "be_the_firsttt": {
+   "subs": 1290000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "timefarmchannel": {
+   "subs": 5180000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news",
+    "crypto"
+   ]
+  },
+  "khabar_fouri": {
+   "subs": 1170000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "bbbreaking": {
+   "subs": 1970000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "sabrennewss": {
+   "subs": 1100000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "msk7days": {
+   "subs": 2210000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "news"
+   ]
+  },
+  "tolk_tolk": {
+   "subs": 126000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "kommersant": {
+   "subs": 294000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "ilyaseredyuk": {
+   "subs": 47400.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "sammyfam": {
+   "subs": 693000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-13",
+   "cats": [
+    "business"
+   ]
+  },
+  "thebell_io": {
+   "subs": 105000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "naiznankuo": {
+   "subs": 58700.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "hikollegi": {
+   "subs": 56000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "nikitabsg": {
+   "subs": 390000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "dosye_sk": {
+   "subs": 153000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "icpbtrubicon": {
+   "subs": 97600.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "igor_artamonov48": {
+   "subs": 187000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "justdemidovit": {
+   "subs": 43900.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "mikhaildashkiev": {
+   "subs": 43900.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "sberinvestments": {
+   "subs": 253000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "media1337": {
+   "subs": 1140000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "zonaosoboho": {
+   "subs": 154000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "klientvsprav": {
+   "subs": 1060000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "nmiacm": {
+   "subs": 60400.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "lauradjagadiary": {
+   "subs": 76300.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "trends": {
+   "subs": 1140000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "placemed": {
+   "subs": 1070000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "rbc_news": {
+   "subs": 915000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "bloomberg": {
+   "subs": 187000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-22",
+   "cats": [
+    "business"
+   ]
+  },
+  "yndx_ed": {
+   "subs": 56300.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-28",
+   "cats": [
+    "business"
+   ]
+  },
+  "bomj_tour_trip": {
+   "subs": 55800.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-27",
+   "cats": [
+    "business"
+   ]
+  },
+  "russ_orientalist": {
+   "subs": 130000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-26",
+   "cats": [
+    "business"
+   ]
+  },
+  "belaya_kaska": {
+   "subs": 85400.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "tech": {
+   "subs": 2220000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "aaaa_business": {
+   "subs": 554000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "baykinaolga": {
+   "subs": 50800.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "investingcorp": {
+   "subs": 246000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "bpmkiller": {
+   "subs": 82200.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "vedomosti": {
+   "subs": 86500.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "zloy_kollega": {
+   "subs": 45000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-31",
+   "cats": [
+    "business"
+   ]
+  },
+  "ryanrun": {
+   "subs": 1110000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "healertacmed": {
+   "subs": 131000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "tbank": {
+   "subs": 332000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "shipilovaks": {
+   "subs": 46800.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "bes_pilot": {
+   "subs": 43700.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "na_morozhenoe": {
+   "subs": 1700000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "temir_dorvozalari_rovotlari": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "business"
+   ]
+  },
+  "premiumspanish": {
+   "subs": 116000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-27",
+   "cats": [
+    "business"
+   ]
+  },
+  "serch": {
+   "subs": 1660000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "hamsedair": {
+   "subs": 1180000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "founderwoman": {
+   "subs": 44900.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "sberbank": {
+   "subs": 744000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "ikromsharif": {
+   "subs": 48900.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "kate_blanche": {
+   "subs": 324000.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "philologist_zov": {
+   "subs": 59500.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "avito": {
+   "subs": 289000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "vpngen": {
+   "subs": 68800.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "business"
+   ]
+  },
+  "forbesrussia": {
+   "subs": 235000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "sergeisergienkoen": {
+   "subs": 3030000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "techgames": {
+   "subs": 1060000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "prokurator_ru": {
+   "subs": 45600.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "uavdev": {
+   "subs": 124000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "irinavolk_mvd": {
+   "subs": 51900.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "kartozz": {
+   "subs": 123000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "business"
+   ]
+  },
+  "nf_english1n": {
+   "subs": 491000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-27",
+   "cats": [
+    "education"
+   ]
+  },
+  "upsc_gk_gs_quiz_bpsc_ssc_gd": {
+   "subs": 382000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "sscquizparmar": {
+   "subs": 543000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "manjmy": {
+   "subs": 403000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "rbe_s": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "priness22": {
+   "subs": 473000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "anyclass_faceonline": {
+   "subs": 469000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "matematik_andrei_channel": {
+   "subs": 980000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "hjjhhhjjnkkjhgg1234": {
+   "subs": 382000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-27",
+   "cats": [
+    "education"
+   ]
+  },
+  "letslearnsquad": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "iraqedulibrary": {
+   "subs": 567000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "luka_ebkov": {
+   "subs": 431000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "syriast": {
+   "subs": 586000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "education"
+   ]
+  },
+  "altfwok": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "hamclasixii": {
+   "subs": 848000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "only_khaki": {
+   "subs": 546000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "mlazemna": {
+   "subs": 1040000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "edu2iq": {
+   "subs": 1180000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "official_mpsc": {
+   "subs": 386000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "sanjeshrasmi": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "latest_govt_notification": {
+   "subs": 403000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "officialevedex": {
+   "subs": 415000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "tikvahuniversity": {
+   "subs": 391000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "seepmaam": {
+   "subs": 418000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "education"
+   ]
+  },
+  "messo12": {
+   "subs": 493000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "education"
+   ]
+  },
+  "madrese_official": {
+   "subs": 163.0,
+   "posts_on_page": 2,
+   "newest": "2024-04-11",
+   "cats": [
+    "education"
+   ]
+  },
+  "adda247live": {
+   "subs": 442000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "kalamacademysikar": {
+   "subs": 390000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "beriskala": {
+   "subs": 389000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "edu211": {
+   "subs": 670000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "utkarshclasses": {
+   "subs": 976000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "hand_knit": {
+   "subs": 378000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "fargona_andijon_namangan1": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "akhbare_madrs": {
+   "subs": 419000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "iraqedu": {
+   "subs": 4420000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "bomber_fighter": {
+   "subs": 527000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "mathsbygaganpratap": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "zhidkovskiy_talk": {
+   "subs": 576000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "digi_classs": {
+   "subs": 53.0,
+   "posts_on_page": 1,
+   "newest": "2026-09-25",
+   "cats": [
+    "education"
+   ]
+  },
+  "parmar_ssc": {
+   "subs": 1340000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "opersvodki": {
+   "subs": 406000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "step_alhassani": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "sadshelp": {
+   "subs": 1010000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "nextexam": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "ssc_maths_reasoning_gd_gk_quiz": {
+   "subs": 409000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "mathsbyadityaranjan_vidyagram": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "education"
+   ]
+  },
+  "rankersgurukullive": {
+   "subs": 842000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "exphub910": {
+   "subs": 784000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-16",
+   "cats": [
+    "education"
+   ]
+  },
+  "englishforyou": {
+   "subs": 422000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "veronikastepanova20011": {
+   "subs": 487000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "thepundits_official": {
+   "subs": 420000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "iraqed4": {
+   "subs": 3290000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "education"
+   ]
+  },
+  "simplecdz": {
+   "subs": 1120000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-01",
+   "cats": [
+    "education"
+   ]
+  },
+  "pp_02": {
+   "subs": 1140000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "se_pz": {
+   "subs": 4450000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "alfa_vygodno": {
+   "subs": 548000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "pvvvv": {
+   "subs": 816000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "hjayatt": {
+   "subs": 484000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "do_l4": {
+   "subs": 4050000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "ruble30": {
+   "subs": 547000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "nknnn": {
+   "subs": 2170000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance",
+    "entertainment"
+   ]
+  },
+  "yyyxy": {
+   "subs": 1040000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance",
+    "lifestyle"
+   ]
+  },
+  "yyy3n": {
+   "subs": 929000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "yyyyd": {
+   "subs": 1670000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance",
+    "entertainment"
+   ]
+  },
+  "holdbull": {
+   "subs": 724000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-27",
+   "cats": [
+    "finance"
+   ]
+  },
+  "f8ffl": {
+   "subs": 1310000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "s3_me": {
+   "subs": 533000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "bezposhady": {
+   "subs": 897000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "hotonnear": {
+   "subs": 4600000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "ba_z1": {
+   "subs": 1810000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "msk_live": {
+   "subs": 1800000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "okx_campaign_announcements": {
+   "subs": 1200000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "alfabank": {
+   "subs": 989000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "smartest_official": {
+   "subs": 642000.0,
+   "posts_on_page": 12,
+   "newest": "2026-05-18",
+   "cats": [
+    "finance"
+   ]
+  },
+  "skurlatovlive": {
+   "subs": 1050000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "voletcom": {
+   "subs": 496000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-23",
+   "cats": [
+    "finance"
+   ]
+  },
+  "pocket_rocket_game": {
+   "subs": 680000.0,
+   "posts_on_page": 20,
+   "newest": "2025-12-30",
+   "cats": [
+    "finance"
+   ]
+  },
+  "honghotduongpho0": {
+   "subs": 484000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "jaryanpool": {
+   "subs": 2460000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "finansist_busines": {
+   "subs": 617000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "venture": {
+   "subs": 2190000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "ppppj": {
+   "subs": 2330000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "economica": {
+   "subs": 1550000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "ozonru": {
+   "subs": 1100000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "nnnzn": {
+   "subs": 1410000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance",
+    "entertainment"
+   ]
+  },
+  "qpmns68": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "finance"
+   ]
+  },
+  "en_wk": {
+   "subs": 986000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "kkkkb": {
+   "subs": 1270000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "nails_manik_nogotki": {
+   "subs": 560000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "storyat_11": {
+   "subs": 537000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-07",
+   "cats": [
+    "finance"
+   ]
+  },
+  "zz_tzt": {
+   "subs": 513000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "kekodev": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "finance"
+   ]
+  },
+  "filmseven_asli7": {
+   "subs": 486000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "ecoshariff": {
+   "subs": 3850000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "pn_nn": {
+   "subs": 512000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "smpl_app": {
+   "subs": 1600000.0,
+   "posts_on_page": 20,
+   "newest": "2026-05-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "aeroflot_official": {
+   "subs": 520000.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "piggybankgamechannel": {
+   "subs": 865000.0,
+   "posts_on_page": 20,
+   "newest": "2025-12-14",
+   "cats": [
+    "finance"
+   ]
+  },
+  "voina_belgorod_novosti": {
+   "subs": 1120000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "stockbot": {
+   "subs": 2160000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "herewallet": {
+   "subs": 1120000.0,
+   "posts_on_page": 20,
+   "newest": "2025-05-15",
+   "cats": [
+    "finance"
+   ]
+  },
+  "the_signal_24": {
+   "subs": 5930000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "nlnnn": {
+   "subs": 2089999.9999999998,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance",
+    "entertainment"
+   ]
+  },
+  "dollar_tehran3bze": {
+   "subs": 646000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "nnknn": {
+   "subs": 1240000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "drops_on_hot": {
+   "subs": 861000.0,
+   "posts_on_page": 17,
+   "newest": "2026-06-17",
+   "cats": [
+    "finance"
+   ]
+  },
+  "mosbusy": {
+   "subs": 1240000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "winnersinstituteindoreadityasir": {
+   "subs": 702000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "bitget_wallet_announcement": {
+   "subs": 3880000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "pppjp": {
+   "subs": 3210000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "en_qe": {
+   "subs": 796000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "finance"
+   ]
+  },
+  "brwlaura": {
+   "subs": 625000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "hamster_kombat": {
+   "subs": 20700000.0,
+   "posts_on_page": 20,
+   "newest": "2026-01-20",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "scamsociety": {
+   "subs": 363000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "bravl_nuls_skachat": {
+   "subs": 706000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-26",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "teyvat_guids": {
+   "subs": 302000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "app301": {
+   "subs": 2610000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "fishwar_io": {
+   "subs": 401000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "realmadridcdf": {
+   "subs": 328000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "dota2": {
+   "subs": 315000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "pixelverse_xyz": {
+   "subs": 3090000.0,
+   "posts_on_page": 20,
+   "newest": "2026-03-13",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "tutvseosporte": {
+   "subs": 349000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "battle_games_com": {
+   "subs": 2630000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-23",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "narek_cr": {
+   "subs": 425000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "strimrs": {
+   "subs": 403000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "mlbbesports": {
+   "subs": 299000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "ikakprosto": {
+   "subs": 326000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "dotcoincommunity": {
+   "subs": 3910000.0,
+   "posts_on_page": 12,
+   "newest": "2026-03-27",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "bravl_starstg": {
+   "subs": 583000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "brawldroo1": {
+   "subs": 1100000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "steamkupikod": {
+   "subs": 388000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "tapswapai": {
+   "subs": 10200000.0,
+   "posts_on_page": 20,
+   "newest": "2025-07-17",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "tobeor_official": {
+   "subs": 303000.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "mlbbcis": {
+   "subs": 634000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "theyescoin": {
+   "subs": 5590000.0,
+   "posts_on_page": 20,
+   "newest": "2026-02-10",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "telegramtipses": {
+   "subs": 1490000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-27",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "roblru": {
+   "subs": 1260000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "kunuzofficial": {
+   "subs": 1170000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "jolybells": {
+   "subs": 359000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "mosguru": {
+   "subs": 3220000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "vanileaks": {
+   "subs": 667000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "instasamkacore": {
+   "subs": 433000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "ultra_cardinal1": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gaming"
+   ]
+  },
+  "wontonorg": {
+   "subs": 726000.0,
+   "posts_on_page": 20,
+   "newest": "2026-04-24",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "moscowheel": {
+   "subs": 730000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "zhfootballll": {
+   "subs": 489000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "trumps_empire_chat": {
+   "subs": 508000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "bravl_starsww": {
+   "subs": 353000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "mir_supercell": {
+   "subs": 2620000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "world_playstation": {
+   "subs": 307000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "bulkin_live": {
+   "subs": 909000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "gaming"
+   ]
+  },
+  "tofan_trade": {
+   "subs": 8260000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "hexnio": {
+   "subs": 1960000.0,
+   "posts_on_page": 20,
+   "newest": "2025-04-04",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "lenvies": {
+   "subs": 1530000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "drop_cryptogo": {
+   "subs": 1420000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "therealyescoin": {
+   "subs": 2060000.0,
+   "posts_on_page": 20,
+   "newest": "2025-07-18",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "money": {
+   "subs": 2900000.0,
+   "posts_on_page": 20,
+   "newest": "2026-07-28",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "learn2earnings": {
+   "subs": 1810000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "wormfare": {
+   "subs": 1430000.0,
+   "posts_on_page": 20,
+   "newest": "2024-12-31",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "hash_cats": {
+   "subs": 2049999.9999999998,
+   "posts_on_page": 20,
+   "newest": "2025-12-25",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "eduardinvest": {
+   "subs": 1340000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "mawtincrypto_vip": {
+   "subs": 4620000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "pocketfi": {
+   "subs": 1770000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-22",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "zoo_story": {
+   "subs": 4290000.0,
+   "posts_on_page": 20,
+   "newest": "2025-03-01",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "notcoin": {
+   "subs": 8490000.0,
+   "posts_on_page": 20,
+   "newest": "2026-06-08",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "okx_ru": {
+   "subs": 3710000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "popcorn_today": {
+   "subs": 2630000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "nomis_protocol": {
+   "subs": 1530000.0,
+   "posts_on_page": 16,
+   "newest": "2026-07-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "roxman": {
+   "subs": 7110000.0,
+   "posts_on_page": 10,
+   "newest": "2026-08-27",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "pigscrew": {
+   "subs": 2100000.0,
+   "posts_on_page": 20,
+   "newest": "2025-12-25",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "thezencoin": {
+   "subs": 1400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-04-20",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "boomloudcoin": {
+   "subs": 1640000.0,
+   "posts_on_page": 20,
+   "newest": "2025-07-03",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "piannouncements": {
+   "subs": 2420000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-25",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "blumcrypto_memepad": {
+   "subs": 2610000.0,
+   "posts_on_page": 20,
+   "newest": "2026-02-06",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "architecton_tech": {
+   "subs": 1990000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "binance_announcements": {
+   "subs": 3400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "trade_nobody": {
+   "subs": 3130000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "dogs": {
+   "subs": 6930000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-18",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "just": {
+   "subs": 2920000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "okxwalletannouncement": {
+   "subs": 3180000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "foruai_channel": {
+   "subs": 1890000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-08",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "binance_moonbix_announcements": {
+   "subs": 2710000.0,
+   "posts_on_page": 20,
+   "newest": "2025-06-10",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "matchain_fam": {
+   "subs": 1850000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "blumcrypto": {
+   "subs": 14000000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "baks_ton": {
+   "subs": 5060000.0,
+   "posts_on_page": 20,
+   "newest": "2026-07-10",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "thelion011": {
+   "subs": 1550000.0,
+   "posts_on_page": 2,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto",
+    "gambling"
+   ]
+  },
+  "lordxau": {
+   "subs": 2080000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "asikalive": {
+   "subs": 1370000.0,
+   "posts_on_page": 20,
+   "newest": "2025-11-09",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "dogs_community": {
+   "subs": 6930000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-18",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "airdrop6officialchannel": {
+   "subs": 1330000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "majors": {
+   "subs": 10800000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-27",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "airdropfindteam": {
+   "subs": 2330000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-22",
+   "cats": [
+    "crypto"
+   ]
+  },
+  "freshershunt": {
+   "subs": 278000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "disnakerja": {
+   "subs": 275000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "estekhdamiiiiiiiiiii": {
+   "subs": 730000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-27",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "majhinaukri": {
+   "subs": 435000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "freelance_ethio": {
+   "subs": 279000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "rankmitra": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "namangan_ish_bor_elon_reklamalar": {
+   "subs": 278000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "qzzpfabu888": {
+   "subs": 634000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ethiojobs2000": {
+   "subs": 380000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "akademi_fidaa": {
+   "subs": 311000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-16",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "fontsstore": {
+   "subs": 268000.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-28",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "rajasthanvacancy_in": {
+   "subs": 569000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "tw_jg": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "dibai2025": {
+   "subs": 311000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "rabota_dneprb": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "feixingzhe_qzzz": {
+   "subs": 617000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "freejobalertofficially": {
+   "subs": 274000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "iranestekhdam_ir": {
+   "subs": 578000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ish_bor_toshkent_kerak_vakansiya": {
+   "subs": 815000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "jobsgovind": {
+   "subs": 286000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "eestekhdam_com": {
+   "subs": 679000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "stjegypt": {
+   "subs": 375000.0,
+   "posts_on_page": 20,
+   "newest": "2026-02-25",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "tutorrnyadisiniyay": {
+   "subs": 374000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-25",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "harmeejobs": {
+   "subs": 298000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "freetasks": {
+   "subs": 270000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "teleworksjobs": {
+   "subs": 338000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "moskva_v_moskve_vakhtoy": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "oplata_skoro_budet": {
+   "subs": 500000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "wadhefadotcom": {
+   "subs": 266000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "andijon_asaka_ish": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ishlar_ishbor_bor_kunlik": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "rojgaarwithankit": {
+   "subs": 1240000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "uietkanpurgroup": {
+   "subs": 305000.0,
+   "posts_on_page": 20,
+   "newest": "2025-12-04",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "sarkariresult2012": {
+   "subs": 1540000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "telegramtipsar": {
+   "subs": 1610000.0,
+   "posts_on_page": 20,
+   "newest": "2026-05-01",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "jobz_sa": {
+   "subs": 295000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "eafc_prime": {
+   "subs": 1880000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ishbort": {
+   "subs": 396000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "jobs_for_us": {
+   "subs": 274000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "job4fresherss": {
+   "subs": 320000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "rabota_kieve8": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "tocpns": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ishlar_kerak_bormi": {
+   "subs": 1140000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "shikshavibhag": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ieq4ee": {
+   "subs": 405000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-25",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "moskva_vakhta_udalennaya_rf": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ewdifh": {
+   "subs": 1250000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "laborx": {
+   "subs": 1000000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "playboyjobo": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "akademi_fidaaa": {
+   "subs": 293000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-04",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "shogll": {
+   "subs": 350000.0,
+   "posts_on_page": 20,
+   "newest": "2026-04-28",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ish_bor_ishchi_toshkent_kerak": {
+   "subs": 1450000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ytt789": {
+   "subs": 316000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "fargona_ish_bor_margilon_ish": {
+   "subs": 311000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "beleqetjobs": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "maskva_tayanche": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "jobs"
+   ]
+  },
+  "ishtopuz_rasmiy": {
+   "subs": 311000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "jobs"
+   ]
+  },
+  "odessaras": {
+   "subs": 232000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "vivoyoga_larisa": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "health"
+   ]
+  },
+  "doctor_zubareva": {
+   "subs": 403000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "drdzari": {
+   "subs": 267000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "brooella": {
+   "subs": 314000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "shortasport": {
+   "subs": 486000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "bzdorov": {
+   "subs": 440000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "magerya": {
+   "subs": 288000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "varzesh3_3o": {
+   "subs": 279000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "dranshina": {
+   "subs": 406000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "health"
+   ]
+  },
+  "havadari_soorkh": {
+   "subs": 334000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "volkovaforwomen": {
+   "subs": 278000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "esteghlallinews": {
+   "subs": 1550000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "health",
+    "sports"
+   ]
+  },
+  "f0_tb": {
+   "subs": 785000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "economika24_7": {
+   "subs": 314000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "nails_nogotki": {
+   "subs": 311000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "health"
+   ]
+  },
+  "mashablinovafit": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "health"
+   ]
+  },
+  "majalepezeshki": {
+   "subs": 518000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "perspolisirfans": {
+   "subs": 4550000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health",
+    "sports"
+   ]
+  },
+  "po_receptj": {
+   "subs": 294000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "maagas": {
+   "subs": 695000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "ilovesex666": {
+   "subs": 286000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "health"
+   ]
+  },
+  "olga_pomoynetskaya": {
+   "subs": 252000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "nailsluv": {
+   "subs": 251000.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "tretyakovaele": {
+   "subs": 243000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-24",
+   "cats": [
+    "health"
+   ]
+  },
+  "sorkh1967": {
+   "subs": 2400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health",
+    "sports"
+   ]
+  },
+  "esteghlal_ss": {
+   "subs": 527000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "astrogiks": {
+   "subs": 307000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "tebesonati99": {
+   "subs": 1210.0,
+   "posts_on_page": 2,
+   "newest": "2024-11-27",
+   "cats": [
+    "health"
+   ]
+  },
+  "pussy_tel": {
+   "subs": 528000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "virauniversitycom": {
+   "subs": 376000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "ross_name": {
+   "subs": 301000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "svoikr": {
+   "subs": 275000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "dilya_asliddinovna_dietolog": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "health"
+   ]
+  },
+  "drzahoraaa9": {
+   "subs": 346000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "realmadridcfz": {
+   "subs": 253000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "vaarzesh_plus": {
+   "subs": 329000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "pitanie798": {
+   "subs": 340000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "tabobat_tibbiyot_dorilar_apteka": {
+   "subs": 400000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "economylive": {
+   "subs": 663000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "khabar_varzeshee": {
+   "subs": 383000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "es_qb": {
+   "subs": 5220000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "health",
+    "sports"
+   ]
+  },
+  "ourbody_tg": {
+   "subs": 470000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "biznes_financi_ekonomika": {
+   "subs": 321000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "dormintannouncements": {
+   "subs": 485000.0,
+   "posts_on_page": 20,
+   "newest": "2026-03-14",
+   "cats": [
+    "health"
+   ]
+  },
+  "medical_secrecy": {
+   "subs": 11.0,
+   "posts_on_page": 2,
+   "newest": "2026-09-22",
+   "cats": [
+    "health"
+   ]
+  },
+  "ruseconomica": {
+   "subs": 310000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "delicious_retsepty": {
+   "subs": 238000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "multievan": {
+   "subs": 869000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-27",
+   "cats": [
+    "health"
+   ]
+  },
+  "esteghlalpage": {
+   "subs": 482000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "health"
+   ]
+  },
+  "major_auto_official": {
+   "subs": 108000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "vodiybozor_mashinabozor": {
+   "subs": 1020000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "most_official": {
+   "subs": 467000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "muzyka_track": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "porshee_auto": {
+   "subs": 252000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "avtopulse_news": {
+   "subs": 363000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "vladglenttg": {
+   "subs": 572000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-28",
+   "cats": [
+    "auto"
+   ]
+  },
+  "bmchn": {
+   "subs": 176000.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "sergeli_toshkent_bozori_sergili1": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "moshina_bozorim": {
+   "subs": 1190000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "tutgruz": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "unidraminhas": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "revheadcrypto": {
+   "subs": 826000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "proautoruu": {
+   "subs": 412000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "muzika_dlyamashiny": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "nizherinkaspb1": {
+   "subs": 133000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "uyavtomobil": {
+   "subs": 470000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "inamarka_mashinalar": {
+   "subs": 172000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "dr_ales": {
+   "subs": 464000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "nikitakrivolapov": {
+   "subs": 204000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "offerssaudiofficial": {
+   "subs": 117000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "auto_lubitell": {
+   "subs": 265000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "samarqand_toshkent_taxi2": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "muscarx": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "benzincream_russia": {
+   "subs": 859000.0,
+   "posts_on_page": 20,
+   "newest": "2026-07-11",
+   "cats": [
+    "auto"
+   ]
+  },
+  "teslaaws": {
+   "subs": 297000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "olya_penguin": {
+   "subs": 144000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-26",
+   "cats": [
+    "auto"
+   ]
+  },
+  "proavto_krd": {
+   "subs": 219000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "auto_zakazz25": {
+   "subs": 480000.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "pdd_for_all": {
+   "subs": 125000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "autoruss": {
+   "subs": 819000.0,
+   "posts_on_page": 14,
+   "newest": "2026-07-26",
+   "cats": [
+    "auto"
+   ]
+  },
+  "auto_manya": {
+   "subs": 2089999.9999999998,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "easycars8": {
+   "subs": 222000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "fura_bozor": {
+   "subs": 149000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "fastcarmarket": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "montather313m": {
+   "subs": 138000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-28",
+   "cats": [
+    "auto"
+   ]
+  },
+  "vodiy_bozori_avtoelon": {
+   "subs": 103000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "samarqand_zarafshon1250": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "mashina_engarzoni_elon_bozor": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "olzhass_games_tg": {
+   "subs": 606000.0,
+   "posts_on_page": 7,
+   "newest": "2026-08-13",
+   "cats": [
+    "auto"
+   ]
+  },
+  "fokeev": {
+   "subs": 137000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "porsche911gift": {
+   "subs": 378000.0,
+   "posts_on_page": 13,
+   "newest": "2026-07-28",
+   "cats": [
+    "auto"
+   ]
+  },
+  "asia_express_auto": {
+   "subs": 186000.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "offersegyptofficial": {
+   "subs": 211000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "autoru_new": {
+   "subs": 116000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "damasbozor_damaz": {
+   "subs": 140000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "tachki": {
+   "subs": 3940000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "andijon_arzon_mashina": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "avto_stillll": {
+   "subs": 209000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "bozorim_moshina": {
+   "subs": 1.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-25",
+   "cats": [
+    "auto"
+   ]
+  },
+  "jizzax_toshkenth": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "jizzax_toshkenttaksii": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "auto"
+   ]
+  },
+  "rasmiyavtobozor": {
+   "subs": 411000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "auto"
+   ]
+  },
+  "hyundai_official": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "moswalker": {
+   "subs": 547000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "solokumi_chat": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "depression_help": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "youcanoffthis": {
+   "subs": 260.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-27",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "intermittent_fasting": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "detkalilka08": {
+   "subs": 385.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "immigration_services": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "me_estetika_w": {
+   "subs": 127.0,
+   "posts_on_page": 8,
+   "newest": "2026-06-11",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "olga_expat": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "egorikvtg": {
+   "subs": 699000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-25",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "advocat_almaz_timerbulat_maxs": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "stas_boroda_company": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "serbian4greens": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "arameshvip": {
+   "subs": 706000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "origins_official": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "beckyclimson7": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "vsedlyadachisadugorodu": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "mossgirls": {
+   "subs": 948000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "msktrnds": {
+   "subs": 931000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "dropopt_stas_boroda": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "stas_boroda13": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "spb_walk": {
+   "subs": 62000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "lifehacksqueerserbia": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "my_thai_life": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "saopaulocity": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "moskvichca": {
+   "subs": 722000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "artful_teach": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "bumble_bumble": {
+   "subs": 936.0,
+   "posts_on_page": 14,
+   "newest": "2026-06-21",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "behavior_modification": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "londonkitesurfers": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "sustainable_fashion": {
+   "subs": 490.0,
+   "posts_on_page": 14,
+   "newest": "2021-11-02",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "samirkumarstudycenter376": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "relocation_russia": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "anxiety_treatment": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "mental_tired": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "vasha_dacha_ua": {
+   "subs": 445.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "estetika_zhizni": {
+   "subs": 843.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-26",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "strogik_55": {
+   "subs": 100.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-27",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "thailandchill": {
+   "subs": 221.0,
+   "posts_on_page": 16,
+   "newest": "2025-07-04",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "solokumi": {
+   "subs": 37500.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "mental_health_support": {
+   "subs": 361.0,
+   "posts_on_page": 8,
+   "newest": "2025-06-16",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "prostoy_retsept": {
+   "subs": 582000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "memes": {
+   "subs": 85000.0,
+   "posts_on_page": 20,
+   "newest": "2025-02-11",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "moskva_only": {
+   "subs": 1340000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "boroda_cars": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "estetikavida": {
+   "subs": 131.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-26",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "dog_behavior": {
+   "subs": 2560.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-27",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "receptok": {
+   "subs": 550000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "pravilazhiznitv": {
+   "subs": 1410.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-18",
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "piter_go_live": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "lifestyle"
+   ]
+  },
+  "toshkentbozor": {
+   "subs": 1090000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "promokody": {
+   "subs": 3980.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "skidki_shoping": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "poblat": {
+   "subs": 829000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "offxrs": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "feebacker": {
+   "subs": 560.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "prosti_zahodi": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "stihilebedevoi": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "detskie_volosy": {
+   "subs": 560.0,
+   "posts_on_page": 6,
+   "newest": "2026-05-02",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "usernameremont": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "dealdost": {
+   "subs": 3140000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "ereshairlab": {
+   "subs": 115.0,
+   "posts_on_page": 8,
+   "newest": "2024-09-26",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "rapiddeals_unlimited": {
+   "subs": 957000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "amourethy": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "keshbekovam": {
+   "subs": 306.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-27",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "kachibazar": {
+   "subs": 2820.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "feliciamalets": {
+   "subs": 22500.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-28",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "eshgho_sokoot": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "loot_dealsx": {
+   "subs": 1630000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping",
+    "gambling"
+   ]
+  },
+  "wbkeshbekkk": {
+   "subs": 13800.0,
+   "posts_on_page": 4,
+   "newest": "2026-08-20",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "usernamesdiscord": {
+   "subs": 345.0,
+   "posts_on_page": 3,
+   "newest": "2026-09-23",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "deals_offerzone_loots": {
+   "subs": 1150000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-24",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "shopingworldtg11": {
+   "subs": 761.0,
+   "posts_on_page": 20,
+   "newest": "2026-04-13",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "luxvolos_ru": {
+   "subs": 244.0,
+   "posts_on_page": 10,
+   "newest": "2025-12-09",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "kosha_dora": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "usernamesforselling": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "marketbenefit": {
+   "subs": 968000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "detskiy_volos": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "honeydeels": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "trickxpert": {
+   "subs": 866000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-24",
+   "cats": [
+    "shopping",
+    "gambling"
+   ]
+  },
+  "tatardesign_official": {
+   "subs": 6040.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "shagaze": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "sellingcore": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "yndx_market": {
+   "subs": 979000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "bloshkamarket": {
+   "subs": 1290.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-28",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "shakhova_hairstudio_adler": {
+   "subs": 108.0,
+   "posts_on_page": 3,
+   "newest": "2025-10-10",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "zakup_control": {
+   "subs": 736000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "whitewingsdance": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "soikohair": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "shoping_skidki": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "ingrcsl_outlet": {
+   "subs": 1.0,
+   "posts_on_page": 3,
+   "newest": "2023-03-22",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "blackcraftgallery": {
+   "subs": 917.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-23",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "beribuy": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "nft_signaler": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "elite_lady_hair": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "discordsemis": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "dkof911": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "ravasian": {
+   "subs": 70.0,
+   "posts_on_page": 20,
+   "newest": "2024-01-07",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "anora_ganiyevna": {
+   "subs": 1050.0,
+   "posts_on_page": 11,
+   "newest": "2025-07-17",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "username_group9": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "khalyava": {
+   "subs": 9220.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "alenawb13": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "onaponimaet": {
+   "subs": 744000.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-03",
+   "cats": [
+    "shopping"
+   ]
+  },
+  "umnorauz": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "honeybeetours": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "shopping"
+   ]
+  },
+  "amazingworldtravel": {
+   "subs": 1010000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "mostvaluableghost": {
+   "subs": 108000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-10",
+   "cats": [
+    "travel"
+   ]
+  },
+  "find_punerooms": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "indlootdeals": {
+   "subs": 290000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "velour_life": {
+   "subs": 215000.0,
+   "posts_on_page": 8,
+   "newest": "2026-07-08",
+   "cats": [
+    "travel"
+   ]
+  },
+  "pune_pg_hostel_rooms": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "turkiyaga_kassalar1": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "turkhakassia": {
+   "subs": 144000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-27",
+   "cats": [
+    "travel"
+   ]
+  },
+  "tutu_travel": {
+   "subs": 493000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "nationgeographic": {
+   "subs": 325000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "tr_media": {
+   "subs": 153000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "lerakudryavtseva": {
+   "subs": 236000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "negarestanparvaz": {
+   "subs": 212000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "babymelo_1": {
+   "subs": 142000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "hosseinsafarimusic": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "madk1dmus": {
+   "subs": 155000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-24",
+   "cats": [
+    "travel"
+   ]
+  },
+  "s7airlines": {
+   "subs": 279000.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "anoravia_kassa": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "family_and_home": {
+   "subs": 150000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "travel"
+   ]
+  },
+  "scallymilanogram": {
+   "subs": 202000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-24",
+   "cats": [
+    "travel"
+   ]
+  },
+  "mirror_ofthe_soul": {
+   "subs": 120000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "prokhorova_ksenia": {
+   "subs": 123000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "elena_fentsik": {
+   "subs": 200000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "im_ksun_official": {
+   "subs": 326000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-28",
+   "cats": [
+    "travel"
+   ]
+  },
+  "malayalam_mallu_movies_group": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "rosakhutoralerts": {
+   "subs": 114000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "vandroukiru": {
+   "subs": 403000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "inst_rinnaa": {
+   "subs": 279000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "yuksak_travel_rasmiy1": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "bna_travel": {
+   "subs": 466000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "ethiopian_airlines": {
+   "subs": 110000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "mnogomama_msk": {
+   "subs": 106000.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-28",
+   "cats": [
+    "travel"
+   ]
+  },
+  "aviasales": {
+   "subs": 300000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "manyasha_anisimova": {
+   "subs": 141000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-18",
+   "cats": [
+    "travel"
+   ]
+  },
+  "female_moscow": {
+   "subs": 710000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "ozontravel_official": {
+   "subs": 416000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "lootalertsofficial": {
+   "subs": 223000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "trvlclick": {
+   "subs": 184000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "dramacinafree": {
+   "subs": 142000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "travel_from_siberia": {
+   "subs": 124000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "aslan_best_blog": {
+   "subs": 396000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-28",
+   "cats": [
+    "travel"
+   ]
+  },
+  "onetwotrip": {
+   "subs": 121000.0,
+   "posts_on_page": 6,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "piratesru": {
+   "subs": 158000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "travel_dada": {
+   "subs": 365000.0,
+   "posts_on_page": 5,
+   "newest": "2026-07-21",
+   "cats": [
+    "travel"
+   ]
+  },
+  "ht_kz": {
+   "subs": 144000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "massheraa": {
+   "subs": 111000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-24",
+   "cats": [
+    "travel"
+   ]
+  },
+  "akstar1music": {
+   "subs": 134000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "dreamgroupe": {
+   "subs": 116000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "pobedaairlines": {
+   "subs": 1030000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "yandex_travel": {
+   "subs": 491000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "eur99": {
+   "subs": 211000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "qasrtravelll": {
+   "subs": 164000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "visa_required": {
+   "subs": 109000.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "travel"
+   ]
+  },
+  "yuksaktravelll": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "travel"
+   ]
+  },
+  "aromaivika": {
+   "subs": 1630.0,
+   "posts_on_page": 3,
+   "newest": "2026-09-04",
+   "cats": [
+    "sports"
+   ]
+  },
+  "es_t4": {
+   "subs": 4330000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "tambovavtomobi": {
+   "subs": 4110.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "futbol_fudbol_sport_tv_gollar": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "juventus": {
+   "subs": 26900.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "perekupikievlive": {
+   "subs": 16600.0,
+   "posts_on_page": 3,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "skysports": {
+   "subs": 9870.0,
+   "posts_on_page": 8,
+   "newest": "2025-07-02",
+   "cats": [
+    "sports"
+   ]
+  },
+  "zerexhastore": {
+   "subs": 9690.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "sports"
+   ]
+  },
+  "khabib_nurmagomedov": {
+   "subs": 211000.0,
+   "posts_on_page": 16,
+   "newest": "2026-08-16",
+   "cats": [
+    "sports"
+   ]
+  },
+  "korahubgoals": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "espn": {
+   "subs": 47400.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-23",
+   "cats": [
+    "sports"
+   ]
+  },
+  "saleammstore": {
+   "subs": 2360.0,
+   "posts_on_page": 8,
+   "newest": "2026-08-22",
+   "cats": [
+    "sports"
+   ]
+  },
+  "levyrozmanchess": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "pattaya_happy_auto": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "anuragxcricket": {
+   "subs": 1990000.0,
+   "posts_on_page": 18,
+   "newest": "2026-03-30",
+   "cats": [
+    "sports",
+    "gambling"
+   ]
+  },
+  "karistore38": {
+   "subs": 4520.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "wakeupfitness": {
+   "subs": 1190.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-14",
+   "cats": [
+    "sports"
+   ]
+  },
+  "promotion_place": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "motogp": {
+   "subs": 48400.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "sports"
+   ]
+  },
+  "emily_sale24": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "sportsru": {
+   "subs": 437000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "alcarazdjokovic1": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "euroleague": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "sky_sports_world_chat": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "prodbyminho": {
+   "subs": 1950.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "laliga_teg": {
+   "subs": 18300.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "luggage_surfing_il": {
+   "subs": 23900.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "lewonstoreaccount": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "the_place_promised": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "esteghlalfan": {
+   "subs": 1600000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "sport_hub_football": {
+   "subs": 1340000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "mirlan_auto_sale": {
+   "subs": 4390.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "auto_saleufa102": {
+   "subs": 8610.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "avtobusinessrt": {
+   "subs": 14900.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "pe_az": {
+   "subs": 2300000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "ss_2e": {
+   "subs": 2520000.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "sales6618_jellycatti": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "faceandplace": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "autosale24_do100k": {
+   "subs": 11100.0,
+   "posts_on_page": 5,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "myasnoy_dvorick": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "motogp_fans": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "atp_wta_24": {
+   "subs": 2090.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "ranbirroyoffice": {
+   "subs": 2450000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "sportexpress": {
+   "subs": 102000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "shri_lanka_surfing": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "sports"
+   ]
+  },
+  "fckrasnodar": {
+   "subs": 112000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "sports"
+   ]
+  },
+  "wbchek_channel": {
+   "subs": 25900.0,
+   "posts_on_page": 1,
+   "newest": "2022-07-11",
+   "cats": [
+    "sports"
+   ]
+  },
+  "novak_djokovic_tennis": {
+   "subs": 1570.0,
+   "posts_on_page": 20,
+   "newest": "2026-02-01",
+   "cats": [
+    "sports"
+   ]
+  },
+  "kaiserbet_f1_motogp": {
+   "subs": 1930.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "sports"
+   ]
+  },
+  "olympics": {
+   "subs": 4790.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "sports"
+   ]
+  },
+  "myanimelist": {
+   "subs": 293000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "mediarussia": {
+   "subs": 1700000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "pacanki_new1": {
+   "subs": 49800.0,
+   "posts_on_page": 9,
+   "newest": "2026-03-31",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "hcsu61": {
+   "subs": 81500.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "konohakeras": {
+   "subs": 31000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-27",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "dancewithus": {
+   "subs": 21000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "vcnews": {
+   "subs": 112000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "besprintsipnye_serialy": {
+   "subs": 44400.0,
+   "posts_on_page": 5,
+   "newest": "2026-06-04",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "mrbeast": {
+   "subs": 34600.0,
+   "posts_on_page": 20,
+   "newest": "2026-05-10",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "moskuda": {
+   "subs": 178000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "kvnofficial": {
+   "subs": 25700.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "mrbeastdrop_ann": {
+   "subs": 10800.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-27",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "sixtyfourmag": {
+   "subs": 71600.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "igromania": {
+   "subs": 57600.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "kinopoisk": {
+   "subs": 804000.0,
+   "posts_on_page": 7,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "all_festivals": {
+   "subs": 24800.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "zindagi_thought_quotes_words": {
+   "subs": 42800.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-19",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "phantombooks": {
+   "subs": 13600.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "notaspoiler": {
+   "subs": 28700.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "voenobzortelega": {
+   "subs": 10400.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "snovavteatr": {
+   "subs": 16600.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "trnd_x": {
+   "subs": 3220000.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "navkashow": {
+   "subs": 12100.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-28",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "emojitgpremiumm": {
+   "subs": 53900.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "kino_filmach": {
+   "subs": 52400.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "festivali_v_moskve": {
+   "subs": 10900.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "prebit_official_community": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "solarsysto": {
+   "subs": 18700.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-09",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "rhymesrim": {
+   "subs": 294000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "pikabu": {
+   "subs": 256000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "zzzzzz": {
+   "subs": 2000000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "memachh": {
+   "subs": 4340000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "domistorii": {
+   "subs": 16300.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "shoopingco": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "markosdelalaa": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "theboys": {
+   "subs": 357000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "vpiskaslivvtgk": {
+   "subs": 106000.0,
+   "posts_on_page": 14,
+   "newest": "2026-03-31",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "anime_news": {
+   "subs": 18500.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "netflix": {
+   "subs": 91600.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-26",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "bestmemes": {
+   "subs": 104000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "yaplakal": {
+   "subs": 422000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "ithumor": {
+   "subs": 60600.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "marvel4": {
+   "subs": 212000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "krinj": {
+   "subs": 19600.0,
+   "posts_on_page": 11,
+   "newest": "2026-08-31",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "zrzzzz": {
+   "subs": 1440000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "tvnetflix": {
+   "subs": 74600.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "mediyca": {
+   "subs": 856000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "linoneee": {
+   "subs": 27600.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-19",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "itflaska": {
+   "subs": 102000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-26",
+   "cats": [
+    "entertainment"
+   ]
+  },
+  "ahangawmeh": {
+   "subs": 1630000.0,
+   "posts_on_page": 15,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "spotifyru": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "morgenshtern": {
+   "subs": 505.0,
+   "posts_on_page": 13,
+   "newest": "2026-05-28",
+   "cats": [
+    "music"
+   ]
+  },
+  "artik_i_asti_musicc": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "m0_zk": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "v2a1z05": {
+   "subs": 160.0,
+   "posts_on_page": 13,
+   "newest": "2026-08-31",
+   "cats": [
+    "music"
+   ]
+  },
+  "inbox365toolz": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "metallica": {
+   "subs": 4930.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "musicaeel": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "operaomnia_benitomussolini": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "morgen_giftss": {
+   "subs": 4050.0,
+   "posts_on_page": 14,
+   "newest": "2026-02-26",
+   "cats": [
+    "music"
+   ]
+  },
+  "arianagrande": {
+   "subs": 1530.0,
+   "posts_on_page": 11,
+   "newest": "2026-07-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "drake": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "avtoradiouz": {
+   "subs": 3200.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "drluismiguelbenito": {
+   "subs": 7420.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "avtoradiokhv": {
+   "subs": 2910.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "eliny_ent": {
+   "subs": 149.0,
+   "posts_on_page": 20,
+   "newest": "2026-01-11",
+   "cats": [
+    "music"
+   ]
+  },
+  "jggl_official": {
+   "subs": 1950000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "blackpink_mmsub": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "btsbighithybe": {
+   "subs": 1090.0,
+   "posts_on_page": 18,
+   "newest": "2025-11-20",
+   "cats": [
+    "music"
+   ]
+  },
+  "melodio": {
+   "subs": 2210000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "radiorecordmoscow": {
+   "subs": 458.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "muzika_pankrock": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "remixerapy": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "billieeilish": {
+   "subs": 433.0,
+   "posts_on_page": 4,
+   "newest": "2024-07-28",
+   "cats": [
+    "music"
+   ]
+  },
+  "inbox365toolz2": {
+   "subs": 210.0,
+   "posts_on_page": 5,
+   "newest": "2026-08-28",
+   "cats": [
+    "music"
+   ]
+  },
+  "taronalar_qoshiqlar_mp3lar": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "russky_rock_777": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "icyremix": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "avtoradios": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "dualipa": {
+   "subs": 648.0,
+   "posts_on_page": 8,
+   "newest": "2024-09-10",
+   "cats": [
+    "music"
+   ]
+  },
+  "badbunnyb": {
+   "subs": 436.0,
+   "posts_on_page": 17,
+   "newest": "2024-04-06",
+   "cats": [
+    "music"
+   ]
+  },
+  "artikasti": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "zemfira": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "morgenshterntochnovsepesni": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "benitogamedev": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "billiehok": {
+   "subs": 394.0,
+   "posts_on_page": 12,
+   "newest": "2025-12-18",
+   "cats": [
+    "music"
+   ]
+  },
+  "radiorecord21": {
+   "subs": 191.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "nftgorillass": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "benito_outlet": {
+   "subs": 15100.0,
+   "posts_on_page": 4,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "jungle_market": {
+   "subs": 111.0,
+   "posts_on_page": 20,
+   "newest": "2024-10-01",
+   "cats": [
+    "music"
+   ]
+  },
+  "anime_obrazy": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "dmitryzhan": {
+   "subs": 273.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "music"
+   ]
+  },
+  "rimixeyou": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "drake_ichancy": {
+   "subs": 2190.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-24",
+   "cats": [
+    "music"
+   ]
+  },
+  "morgenshterntrej": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "officialbtslabs": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "ahangify": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "apoyoaldoctorbenito": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "iranmusic94": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "yhlqmdlgc": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "bts_bighit": {
+   "subs": 262.0,
+   "posts_on_page": 8,
+   "newest": "2023-06-10",
+   "cats": [
+    "music"
+   ]
+  },
+  "bighitmusic_bts": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "blackpink": {
+   "subs": 2690.0,
+   "posts_on_page": 20,
+   "newest": "2026-06-08",
+   "cats": [
+    "music"
+   ]
+  },
+  "morgenshternd": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "melomixes": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "music"
+   ]
+  },
+  "radiorecord": {
+   "subs": 70600.0,
+   "posts_on_page": 13,
+   "newest": "2026-09-29",
+   "cats": [
+    "music"
+   ]
+  },
+  "bcgamewin": {
+   "subs": 761000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "moscow_laundry": {
+   "subs": 689000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "wildberriesru_official": {
+   "subs": 506000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "zarubinreporter": {
+   "subs": 457000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "buffalo688_qq": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "pocket_option_signal_quotex": {
+   "subs": 809000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "elguazzar66": {
+   "subs": 2049999.9999999998,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "petrovtel": {
+   "subs": 548000.0,
+   "posts_on_page": 8,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "evo_memy": {
+   "subs": 1020000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "hsbet": {
+   "subs": 1540000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "bahis_iddaab": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "banki_oil": {
+   "subs": 547000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "portals_community": {
+   "subs": 713000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-21",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "fcgofficial": {
+   "subs": 537000.0,
+   "posts_on_page": 2,
+   "newest": "2026-04-28",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "sergey1win": {
+   "subs": 1620000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "epoddubny": {
+   "subs": 574000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "kalyan_matka080": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "matka_kalyan_milan_satta": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "belarusian_silovik": {
+   "subs": 451000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "realgoats_channel": {
+   "subs": 4580000.0,
+   "posts_on_page": 20,
+   "newest": "2026-02-10",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "disawar_satta_gali_desawar": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "hitvpn_news": {
+   "subs": 4430000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-15",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "n4_v2": {
+   "subs": 402000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "kalyan_sridevi_dpboss_mataka": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "vvgladkov": {
+   "subs": 409000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "findolucky": {
+   "subs": 2190000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-28",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "bahmdan": {
+   "subs": 885000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "sfxauusd1": {
+   "subs": 1660000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "lottery_service1": {
+   "subs": 475000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "javadtrade": {
+   "subs": 959000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-04",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "md_ps": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "notruphil": {
+   "subs": 385000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "mosnow": {
+   "subs": 446000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "kosti": {
+   "subs": 562000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "olegtsarov": {
+   "subs": 403000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "inkdoniunit69": {
+   "subs": 407000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "livenews_1win": {
+   "subs": 1560000.0,
+   "posts_on_page": 18,
+   "newest": "2026-07-13",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "a333bet": {
+   "subs": 399000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "melbets_1xbet_winwinbet_xbets": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "gambling"
+   ]
+  },
+  "ir_javan": {
+   "subs": 637000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "onexbeti_1xbet": {
+   "subs": 453000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-21",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "ssigny": {
+   "subs": 446000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "mariavladimirovnazakharova": {
+   "subs": 462000.0,
+   "posts_on_page": 14,
+   "newest": "2026-09-27",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "redacted6": {
+   "subs": 1060000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "trading_binomo_signals_tips": {
+   "subs": 409000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "gambling"
+   ]
+  },
+  "lachentyt": {
+   "subs": 1550000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "digiai": {
+   "subs": 720000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "kafiha": {
+   "subs": 674000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "replabs": {
+   "subs": 1430000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-04",
+   "cats": [
+    "bots"
+   ]
+  },
+  "modyolo_official": {
+   "subs": 830000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "dogiators": {
+   "subs": 2360000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-25",
+   "cats": [
+    "bots"
+   ]
+  },
+  "fintopionews": {
+   "subs": 2220000.0,
+   "posts_on_page": 20,
+   "newest": "2025-10-22",
+   "cats": [
+    "bots"
+   ]
+  },
+  "the_vertus": {
+   "subs": 2120000.0,
+   "posts_on_page": 20,
+   "newest": "2026-05-13",
+   "cats": [
+    "bots"
+   ]
+  },
+  "ssternenko": {
+   "subs": 880000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "tomarket_ai": {
+   "subs": 6510000.0,
+   "posts_on_page": 20,
+   "newest": "2026-01-09",
+   "cats": [
+    "bots"
+   ]
+  },
+  "sladkov_plus": {
+   "subs": 703000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "ejdailyru": {
+   "subs": 673000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "hitvpnvideo": {
+   "subs": 883000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-14",
+   "cats": [
+    "bots"
+   ]
+  },
+  "bloodysx": {
+   "subs": 1180000.0,
+   "posts_on_page": 11,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "war_monitor": {
+   "subs": 972000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "r7com": {
+   "subs": 1730000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-24",
+   "cats": [
+    "bots"
+   ]
+  },
+  "iris_cm": {
+   "subs": 1640000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-20",
+   "cats": [
+    "bots"
+   ]
+  },
+  "trading": {
+   "subs": null,
+   "posts_on_page": 0,
+   "newest": null,
+   "cats": [
+    "bots"
+   ]
+  },
+  "naebnet": {
+   "subs": 2200000.0,
+   "posts_on_page": 12,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "taiabati": {
+   "subs": 761000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "mp_zg": {
+   "subs": 859000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-18",
+   "cats": [
+    "bots"
+   ]
+  },
+  "trendingapps": {
+   "subs": 3760000.0,
+   "posts_on_page": 20,
+   "newest": "2026-06-22",
+   "cats": [
+    "bots"
+   ]
+  },
+  "leoday": {
+   "subs": 5530000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "pravdadirty": {
+   "subs": 1390000.0,
+   "posts_on_page": 9,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "n1nnnn": {
+   "subs": 1010000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "jairbolsonarobrasil": {
+   "subs": 1060000.0,
+   "posts_on_page": 20,
+   "newest": "2025-07-17",
+   "cats": [
+    "bots"
+   ]
+  },
+  "ipapkornbots": {
+   "subs": 982000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-24",
+   "cats": [
+    "bots"
+   ]
+  },
+  "tspyaterochka": {
+   "subs": 853000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "litvintm": {
+   "subs": 1640000.0,
+   "posts_on_page": 18,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "premium": {
+   "subs": 6540000.0,
+   "posts_on_page": 20,
+   "newest": "2026-08-27",
+   "cats": [
+    "bots"
+   ]
+  },
+  "rezident_ua": {
+   "subs": 934000.0,
+   "posts_on_page": 19,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "wylsared": {
+   "subs": 1120000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "kulinariya_retsept": {
+   "subs": 998000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "legitimniy": {
+   "subs": 1040000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "novahubchannel": {
+   "subs": 1050000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "whackdoor": {
+   "subs": 1590000.0,
+   "posts_on_page": 17,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "exploitex": {
+   "subs": 2040000.0,
+   "posts_on_page": 10,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "etoznakmag": {
+   "subs": 636000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "leoindonesia": {
+   "subs": 844000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-16",
+   "cats": [
+    "bots"
+   ]
+  },
+  "vahidonline": {
+   "subs": 1400000.0,
+   "posts_on_page": 16,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  },
+  "trucallerbot": {
+   "subs": 1840000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-06",
+   "cats": [
+    "bots"
+   ]
+  },
+  "rkadyrov_95": {
+   "subs": 2110000.0,
+   "posts_on_page": 20,
+   "newest": "2026-09-29",
+   "cats": [
+    "bots"
+   ]
+  }
+ }
+}
