@@ -9,3 +9,8 @@ venv/
 .DS_Store
 Thumbs.db
 addons/godot_mcp/cache/
+
+# research corpus cache (large, regenerable)
+data/r/emb_vecs.npy
+data/r/emb_keys.json
+data/r/origins_cache.json
