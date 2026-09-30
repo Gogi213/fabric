@@ -1,0 +1,370 @@
+{
+ "alias_inflation_links": 362,
+ "self_sites": {
+  "thehackernews.com": "TheHackerNews",
+  "rozetked.me": "rozetked",
+  "bleepingcomputer.com": "bleepingcomputer",
+  "kod.ru": "d_code",
+  "tproger.ru": "tproger",
+  "substack.com": "tldrtech",
+  "tldrnewsletter.com": "tldrtech",
+  "threadreaderapp.com": "tldrtech"
+ },
+ "kinds_ru": {
+  "tg:свой канал (подпись)": 1341,
+  "внешний источник": 1647,
+  "реклама": 166,
+  "сокращатель": 36,
+  "tg:чужой канал (без поста)": 86,
+  "tg:свой пост": 43,
+  "tg:пост чужого канала": 41,
+  "tg:бот": 14,
+  "tg:приглашение": 58,
+  "свой сайт": 436
+ },
+ "kinds_en": {
+  "внешний источник": 972,
+  "tg:свой канал (подпись)": 408,
+  "tg:чужой канал (без поста)": 117,
+  "tg:бот": 52,
+  "свой сайт": 548,
+  "реклама": 1
+ },
+ "ru_posts_with_external_source_pct": 41.76037223730128,
+ "stable_domains_ru": [
+  [
+   "github.com",
+   140,
+   15
+  ],
+  [
+   "x.com",
+   118,
+   19
+  ],
+  [
+   "openai.com",
+   73,
+   13
+  ],
+  [
+   "huggingface.co",
+   59,
+   10
+  ],
+  [
+   "youtube.com",
+   42,
+   10
+  ],
+  [
+   "anthropic.com",
+   28,
+   11
+  ],
+  [
+   "steampowered.com",
+   25,
+   4
+  ],
+  [
+   "youtu.be",
+   24,
+   11
+  ],
+  [
+   "apple.com",
+   21,
+   11
+  ],
+  [
+   "arxiv.org",
+   20,
+   9
+  ],
+  [
+   "google.com",
+   19,
+   10
+  ],
+  [
+   "reuters.com",
+   17,
+   9
+  ],
+  [
+   "ria.ru",
+   17,
+   6
+  ],
+  [
+   "rbc.ru",
+   16,
+   6
+  ],
+  [
+   "yandex.ru",
+   14,
+   9
+  ],
+  [
+   "tass.ru",
+   14,
+   6
+  ],
+  [
+   "blog.google",
+   14,
+   6
+  ],
+  [
+   "claude.com",
+   12,
+   7
+  ],
+  [
+   "reddit.com",
+   12,
+   5
+  ],
+  [
+   "claude.ai",
+   11,
+   8
+  ],
+  [
+   "iz.ru",
+   11,
+   5
+  ],
+  [
+   "qwen.ai",
+   10,
+   7
+  ],
+  [
+   "elevenlabs.io",
+   9,
+   6
+  ],
+  [
+   "xn--80aa2abijcbdyq6a.xn--p1ai",
+   9,
+   3
+  ],
+  [
+   "fontanka.ru",
+   8,
+   6
+  ],
+  [
+   "chatgpt.com",
+   8,
+   7
+  ],
+  [
+   "kommersant.ru",
+   8,
+   7
+  ],
+  [
+   "rg.ru",
+   8,
+   6
+  ],
+  [
+   "quiver.ai",
+   8,
+   5
+  ],
+  [
+   "habr.com",
+   8,
+   6
+  ],
+  [
+   "hacktron.ai",
+   8,
+   8
+  ],
+  [
+   "vedomosti.ru",
+   7,
+   6
+  ],
+  [
+   "prismml.com",
+   7,
+   3
+  ],
+  [
+   "typesafe.ai",
+   7,
+   6
+  ],
+  [
+   "lenta.ru",
+   6,
+   6
+  ],
+  [
+   "max.ru",
+   6,
+   5
+  ],
+  [
+   "claude.dev",
+   6,
+   4
+  ],
+  [
+   "gazeta.ru",
+   6,
+   4
+  ],
+  [
+   "cnn.com",
+   6,
+   6
+  ],
+  [
+   "gov.ru",
+   5,
+   3
+  ],
+  [
+   "yandex.com",
+   5,
+   5
+  ],
+  [
+   "variety.com",
+   5,
+   3
+  ],
+  [
+   "x.ai",
+   5,
+   5
+  ],
+  [
+   "wired.com",
+   5,
+   4
+  ],
+  [
+   "drivingbench.com",
+   5,
+   5
+  ],
+  [
+   "businessinsider.com",
+   5,
+   3
+  ],
+  [
+   "bloomberg.com",
+   5,
+   4
+  ],
+  [
+   "wsj.com",
+   5,
+   5
+  ],
+  [
+   "openrouter.ai",
+   5,
+   3
+  ],
+  [
+   "telegra.ph",
+   4,
+   4
+  ],
+  [
+   "autonews.ru",
+   4,
+   4
+  ],
+  [
+   "robbietilton.com",
+   4,
+   3
+  ],
+  [
+   "chatgpt.site",
+   4,
+   4
+  ],
+  [
+   "nexusmods.com",
+   4,
+   3
+  ],
+  [
+   "trackgleam.com",
+   4,
+   3
+  ],
+  [
+   "arstechnica.com",
+   4,
+   3
+  ],
+  [
+   "404media.co",
+   4,
+   3
+  ],
+  [
+   "theinformation.com",
+   4,
+   3
+  ],
+  [
+   "theverge.com",
+   4,
+   4
+  ],
+  [
+   "arena.ai",
+   3,
+   3
+  ]
+ ],
+ "ru_external_buckets": {
+  "Лаборатории/вендоры ИИ (блоги, продукты)": [
+   242,
+   21
+  ],
+  "прочее (длинный хвост)": [
+   766,
+   21
+  ],
+  "Код и модели (GitHub, Hugging Face, arXiv)": [
+   226,
+   17
+  ],
+  "СМИ РФ (агентства, газеты)": [
+   119,
+   13
+  ],
+  "Игры (Steam и т. п.)": [
+   27,
+   5
+  ],
+  "СМИ мир (англоязычные)": [
+   68,
+   14
+  ],
+  "Соцсети/видео (X, YouTube, Reddit)": [
+   199,
+   20
+  ]
+ },
+ "forward_share_posts_pct": 3.4897246994959286,
+ "erid_regex_posts": 105,
+ "erid_regex_digit_only_posts": 105,
+ "real_erid_posts": 64
+}

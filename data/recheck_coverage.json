@@ -1,0 +1,206 @@
+{
+ "posts.json": {
+  "channels": 23,
+  "posts": 1600,
+  "first": "2026-09-22",
+  "last": "2026-09-29",
+  "dup": 0,
+  "future": 0,
+  "no_views": 0
+ },
+ "posts_en.json": {
+  "channels": 14,
+  "posts": 957,
+  "first": "2026-09-22",
+  "last": "2026-09-29",
+  "dup": 0,
+  "future": 0,
+  "no_views": 0
+ },
+ "links.json": {
+  "channels": 37,
+  "posts": 4464,
+  "first": "2026-09-15",
+  "last": "2026-09-29",
+  "dup": 0,
+  "future": 0,
+  "no_views": 0
+ },
+ "reactions.json": {
+  "channels": 22,
+  "posts": 4126,
+  "first": "2026-04-14",
+  "last": "2026-09-30",
+  "dup": 0,
+  "future": 0,
+  "no_views": 2
+ },
+ "reaction_depth_days": {
+  "whackdoor": 8.1,
+  "bugnotfeature": 12.8,
+  "technomedia": 10.1,
+  "exploitex": 10.6,
+  "naebnet": 20.0,
+  "trends": 12.2,
+  "technomotel": 6.7,
+  "hiaimedia": 78.2,
+  "rozetked": 23.0,
+  "d_code": 15.0,
+  "gptpublic": 72.0,
+  "xor_journal": 33.2,
+  "neuraldvig": 38.5,
+  "data_secrets": 31.0,
+  "seeallochnaya": 105.4,
+  "denissexy": 132.9,
+  "ai_newz": 168.4,
+  "cgevent": 22.0,
+  "NeuralShit": 91.8,
+  "ai_machinelearning_big_data": 35.0,
+  "tproger": 88.7,
+  "tlive": 106.3
+ },
+ "days_covered_links": {
+  "whackdoor": 15,
+  "bugnotfeature": 15,
+  "technomedia": 15,
+  "exploitex": 15,
+  "naebnet": 15,
+  "trends": 15,
+  "technomotel": 15,
+  "hiaimedia": 15,
+  "rozetked": 15,
+  "d_code": 15,
+  "gptpublic": 15,
+  "xor_journal": 15,
+  "neuraldvig": 15,
+  "data_secrets": 15,
+  "seeallochnaya": 12,
+  "denissexy": 12,
+  "ai_newz": 7,
+  "cgevent": 14,
+  "NeuralShit": 15,
+  "ai_machinelearning_big_data": 15,
+  "tproger": 14,
+  "tlive": 12
+ },
+ "id_rate": {
+  "whackdoor": [
+   29.4,
+   20.2
+  ],
+  "bugnotfeature": [
+   21.9,
+   15.4
+  ],
+  "technomedia": [
+   24.7,
+   17.2
+  ],
+  "exploitex": [
+   24.5,
+   13.9
+  ],
+  "naebnet": [
+   12.3,
+   9.5
+  ],
+  "trends": [
+   20.1,
+   12.1
+  ],
+  "technomotel": [
+   37.0,
+   16.2
+  ],
+  "hiaimedia": [
+   4.2,
+   2.8
+  ],
+  "rozetked": [
+   9.3,
+   8.4
+  ],
+  "d_code": [
+   16.7,
+   16.1
+  ],
+  "gptpublic": [
+   3.0,
+   2.3
+  ],
+  "xor_journal": [
+   7.6,
+   6.4
+  ],
+  "neuraldvig": [
+   7.1,
+   4.8
+  ],
+  "data_secrets": [
+   8.9,
+   6.7
+  ],
+  "seeallochnaya": [
+   2.9,
+   2.0
+  ],
+  "denissexy": [
+   2.6,
+   1.7
+  ],
+  "ai_newz": [
+   2.2,
+   1.3
+  ],
+  "cgevent": [
+   12.0,
+   7.0
+  ],
+  "NeuralShit": [
+   3.2,
+   2.1
+  ],
+  "ai_machinelearning_big_data": [
+   7.8,
+   5.7
+  ],
+  "tproger": [
+   2.9,
+   2.6
+  ],
+  "tlive": [
+   3.3,
+   3.0
+  ]
+ },
+ "post_id_coverage_median": 0.6914682731857247,
+ "reactions": {
+  "channels_file": 22,
+  "channels_with_data": 20,
+  "posts_file": 4126,
+  "posts_with_rx": 3690,
+  "total_rx": 1245377.0,
+  "capped_posts": 71,
+  "empty_channels": [
+   "NeuralShit",
+   "tlive"
+  ]
+ },
+ "frame_A": 58,
+ "sample_in_frame_A": [
+  "technomedia",
+  "technomotel",
+  "hiaimedia",
+  "naebnet",
+  "exploitex",
+  "whackdoor",
+  "bugnotfeature",
+  "rozetked",
+  "d_code",
+  "neuraldvig",
+  "ai_machinelearning_big_data",
+  "gptpublic"
+ ],
+ "hosts": 1076,
+ "domain_singletons_pct": 14.310722100656456
+}
