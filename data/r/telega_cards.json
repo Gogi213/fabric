@@ -1,0 +1,4146 @@
+[
+{
+"u": "sofiandpartners",
+"menu_subs": 17280,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "rybolos_channel",
+"menu_subs": 19053,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "idad27",
+"menu_subs": 13768,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "chudotechnikintv",
+"menu_subs": 12120,
+"menu_cat": "tech",
+"code": "200",
+"subs": 7521,
+"price_from": 13986.0,
+"category": "Наука и технологии",
+"desc": "«Чудо техники» — это доходчивый и интересный рассказ о новейших научных разработках, которые способны поменять или уже м",
+"formats": [],
+"er": null
+},
+{
+"u": "Python_per_month",
+"menu_subs": 28242,
+"menu_cat": "tech",
+"code": "200",
+"subs": 28812,
+"price_from": 6993.0,
+"category": "Интернет технологии",
+"desc": "Активный канал без накруток и ботов. Взрослая платежеспособная аудитория",
+"formats": [],
+"er": null
+},
+{
+"u": "texnachru",
+"menu_subs": 12911,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "IT_picnic",
+"menu_subs": 23105,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "roseuorg",
+"menu_subs": 13621,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "petsproject",
+"menu_subs": 16619,
+"menu_cat": "tech",
+"code": "200",
+"subs": 16654,
+"price_from": 4895.1,
+"category": "Интернет технологии",
+"desc": "Авторский канал о нейросетях, технологиях и немного играх. Живая, активная и платежеспособная аудитория (18-35) с открыт",
+"formats": [
+{
+"reach": 1425,
+"cpv": 3.44,
+"err": 8.6,
+"fmt": "24",
+"price": 4895.1,
+"price_nodisc": 4895.1
+},
+{
+"reach": 1843,
+"cpv": 3.41,
+"err": 11.1,
+"fmt": "48",
+"price": 6293.7,
+"price_nodisc": 6293.7
+}
+],
+"er": 2.2
+},
+{
+"u": "technoretail_nom",
+"menu_subs": 12366,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "perfectechru",
+"menu_subs": 12313,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "devhumor_tg",
+"menu_subs": 13528,
+"menu_cat": "tech",
+"code": "200",
+"subs": 13528,
+"price_from": 3496.5,
+"category": "Юмор и мемы",
+"desc": "Daily dose of developer humor",
+"formats": [
+{
+"reach": 1861,
+"cpv": 1.88,
+"err": 13.8,
+"fmt": "24",
+"price": 3496.5,
+"price_nodisc": 3496.5
+},
+{
+"reach": 2072,
+"cpv": 2.03,
+"err": 15.3,
+"fmt": "48",
+"price": 4195.8,
+"price_nodisc": 4195.8
+},
+{
+"reach": 2246,
+"cpv": 2.18,
+"err": 16.6,
+"fmt": "72",
+"price": 4895.1,
+"price_nodisc": 4895.1
+}
+],
+"er": 2.23
+},
+{
+"u": "prgrcab",
+"menu_subs": 18575,
+"menu_cat": "tech",
+"code": "200",
+"subs": 33524,
+"price_from": 13846.14,
+"category": "Интернет технологии",
+"desc": "Рай для IT-специалистов и не только. Курсы, полезные сервисы, книги.",
+"formats": [],
+"er": null
+},
+{
+"u": "DevBlog_Monjaro",
+"menu_subs": 11063,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "PC_Repackers",
+"menu_subs": 49579,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "my_el_lab",
+"menu_subs": 44286,
+"menu_cat": "tech",
+"code": "200",
+"subs": 21995,
+"price_from": 9790.2,
+"category": "Наука и технологии",
+"desc": "Российский изготовитель радиоэлектроники приборов для защиты воздушного пространства: детекторы, глушилки, антидроны.  \n",
+"formats": [],
+"er": null
+},
+{
+"u": "futru_it",
+"menu_subs": 15065,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ptichkahome",
+"menu_subs": 12397,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "intosecurity",
+"menu_subs": 11902,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "csp_voron",
+"menu_subs": 24505,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "germesfpv",
+"menu_subs": 17185,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "qa_chillout",
+"menu_subs": 10560,
+"menu_cat": "tech",
+"code": "200",
+"subs": 10786,
+"price_from": 20279.7,
+"category": "Интернет технологии",
+"desc": "Канал про тестирование. Полезен для джунов и специалистов по тестированию. Ведет канал Яковлев Станислав, QA Team Lead в",
+"formats": [],
+"er": null
+},
+{
+"u": "IT_elect",
+"menu_subs": 11789,
+"menu_cat": "tech",
+"code": "200",
+"subs": 13913,
+"price_from": 2097.9,
+"category": "Интернет технологии",
+"desc": "IT Best - канал, в котором собраны все самые важные и интересные новости ИТ-технологий и всё, что с ними связано.",
+"formats": [],
+"er": null
+},
+{
+"u": "vladimir_kkkkk",
+"menu_subs": 14763,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "StarshipNewsLive",
+"menu_subs": 18129,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "hidemyname_ru",
+"menu_subs": 48553,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "denisov_valya",
+"menu_subs": 11160,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "irozysk",
+"menu_subs": 45954,
+"menu_cat": "tech",
+"code": "200",
+"subs": 14900,
+"price_from": 13986.0,
+"category": "Интернет технологии",
+"desc": "Шерлоки Холмсы цифровой эпохи",
+"formats": [],
+"er": null
+},
+{
+"u": "neurolena1",
+"menu_subs": 16695,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "atouchdesign",
+"menu_subs": 10568,
+"menu_cat": "tech",
+"code": "200",
+"subs": 9091,
+"price_from": 12307.68,
+"category": "Интернет технологии",
+"desc": "Про нейросети и дизайн 💫🧩 нейро-экспериментатор 💻 7 лет в дизайне 🖥 эксперт на тильде 💌",
+"formats": [],
+"er": null
+},
+{
+"u": "generalov_ai_agents",
+"menu_subs": 40129,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "machinelearning_interview",
+"menu_subs": 30309,
+"menu_cat": "tech",
+"code": "200",
+"subs": 30310,
+"price_from": 25174.8,
+"category": "Интернет технологии",
+"desc": "Машинное обучение подготовка к собеседованию. Machine learning, Data Science , Статистика, Python",
+"formats": [
+{
+"reach": 2020,
+"cpv": 12.46,
+"err": 6.7,
+"fmt": "24",
+"price": 25174.8,
+"price_nodisc": 25174.8
+},
+{
+"reach": 2466,
+"cpv": 10.78,
+"err": 8.1,
+"fmt": "48",
+"price": 26573.4,
+"price_nodisc": 26573.4
+},
+{
+"reach": 2517,
+"cpv": 16.11,
+"err": 8.3,
+"fmt": "72",
+"price": 40559.4,
+"price_nodisc": 40559.4
+}
+],
+"er": 1.94
+},
+{
+"u": "tomhunter",
+"menu_subs": 14225,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "devbooksarchive",
+"menu_subs": 15732,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15725,
+"price_from": 2097.9,
+"category": "Интернет технологии",
+"desc": "Архив с книгами по программированию. \nКол-во подписчиков более 15.000 человек.\nОхват поста - от 5000 до 20.000 просмотро",
+"formats": [
+{
+"reach": 1014,
+"cpv": 2.07,
+"err": 6.5,
+"fmt": "24",
+"price": 2097.9,
+"price_nodisc": 2097.9
+},
+{
+"reach": 1163,
+"cpv": 2.41,
+"err": 7.4,
+"fmt": "48",
+"price": 2797.2,
+"price_nodisc": 2797.2
+},
+{
+"reach": 1240,
+"cpv": 2.82,
+"err": 7.9,
+"fmt": "72",
+"price": 3496.5,
+"price_nodisc": 3496.5
+}
+],
+"er": 1.2
+},
+{
+"u": "ITtishka",
+"menu_subs": 21407,
+"menu_cat": "tech",
+"code": "200",
+"subs": 21401,
+"price_from": 2097.9,
+"category": "Интернет технологии",
+"desc": "Вещаю про диджитал, айти и нейросети.",
+"formats": [
+{
+"reach": 461,
+"cpv": 4.55,
+"err": 2.2,
+"fmt": "24",
+"price": 2097.9,
+"price_nodisc": 2097.9
+},
+{
+"reach": 553,
+"cpv": 5.06,
+"err": 2.6,
+"fmt": "48",
+"price": 2797.2,
+"price_nodisc": 2797.2
+},
+{
+"reach": 638,
+"cpv": 5.48,
+"err": 3.0,
+"fmt": "72",
+"price": 3496.5,
+"price_nodisc": 3496.5
+}
+],
+"er": 2.01
+},
+{
+"u": "NanaBananaRobott",
+"menu_subs": 40698,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "it_books_tg",
+"menu_subs": 19884,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "prog_tools",
+"menu_subs": 12927,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15309,
+"price_from": 2797.2,
+"category": "Наука и технологии",
+"desc": "Полезные инструменты для программистов — бесплатные и платные",
+"formats": [],
+"er": null
+},
+{
+"u": "Vladharoshtg",
+"menu_subs": 22476,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "linktek",
+"menu_subs": 11382,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "jamesbondarapple",
+"menu_subs": 10824,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "govoritalisa",
+"menu_subs": 42094,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "time_design",
+"menu_subs": 11504,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11309,
+"price_from": 2657.34,
+"category": "Искусство и дизайн",
+"desc": "Авторский канал по всем направлениям в дизайне: Figma, Photoshop, Illustrator, Blender3D и UX/Ui",
+"formats": [],
+"er": null
+},
+{
+"u": "zobghi",
+"menu_subs": 10415,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "sl1vakerA",
+"menu_subs": 19128,
+"menu_cat": "tech",
+"code": "200",
+"subs": 19127,
+"price_from": 2097.9,
+"category": "Интернет технологии",
+"desc": "Архив материалов для разработчиков, качественно отобранные файлы для изучения программирования.",
+"formats": [
+{
+"reach": 706,
+"cpv": 2.97,
+"err": 3.7,
+"fmt": "24",
+"price": 2097.9,
+"price_nodisc": 2097.9
+},
+{
+"reach": 867,
+"cpv": 3.23,
+"err": 4.5,
+"fmt": "48",
+"price": 2797.2,
+"price_nodisc": 2797.2
+},
+{
+"reach": 947,
+"cpv": 3.69,
+"err": 5.0,
+"fmt": "72",
+"price": 3496.5,
+"price_nodisc": 3496.5
+}
+],
+"er": 1.46
+},
+{
+"u": "cifrusru",
+"menu_subs": 44612,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "giryaevpro",
+"menu_subs": 26719,
+"menu_cat": "tech",
+"code": "200",
+"subs": 26577,
+"price_from": 1538.46,
+"category": "Интернет технологии",
+"desc": "РКН № 5549291765 Техноблог про современные технологии и жизнь в эпоху цифрового прогресса. Простой, понятный, практичный",
+"formats": [
+{
+"reach": 449,
+"cpv": 3.43,
+"err": 1.7,
+"fmt": "24",
+"price": 1538.46,
+"price_nodisc": 1538.46
+},
+{
+"reach": 525,
+"cpv": 4.8,
+"err": 2.0,
+"fmt": "48",
+"price": 2517.48,
+"price_nodisc": 2517.48
+},
+{
+"reach": 576,
+"cpv": 5.34,
+"err": 2.2,
+"fmt": "72",
+"price": 3076.92,
+"price_nodisc": 3076.92
+}
+],
+"er": 3.47
+},
+{
+"u": "neyrogid",
+"menu_subs": 16936,
+"menu_cat": "tech",
+"code": "200",
+"subs": 3104,
+"price_from": 2797.2,
+"category": "Интернет технологии",
+"desc": "Нейрогид — навигатор по миру AI. ⚡Экспертные советы и лайфхаки по внедрению нейросетей в процессы маркетинга и бизнеса. ",
+"formats": [],
+"er": null
+},
+{
+"u": "Zuev10_Apple",
+"menu_subs": 16576,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "cmd_it",
+"menu_subs": 24361,
+"menu_cat": "tech",
+"code": "200",
+"subs": 24344,
+"price_from": 979.02,
+"category": "Интернет технологии",
+"desc": "Данный канал является одним из топовых в тематике IT и имеет активную и большую аудиторию, клиенты которые размещаются в",
+"formats": [
+{
+"reach": 454,
+"cpv": 2.16,
+"err": 1.9,
+"fmt": "24",
+"price": 979.02,
+"price_nodisc": 979.02
+},
+{
+"reach": 515,
+"cpv": 2.44,
+"err": 2.1,
+"fmt": "48",
+"price": 1258.74,
+"price_nodisc": 1258.74
+},
+{
+"reach": 562,
+"cpv": 2.74,
+"err": 2.3,
+"fmt": "72",
+"price": 1538.46,
+"price_nodisc": 1538.46
+}
+],
+"er": 1.22
+},
+{
+"u": "themarfa",
+"menu_subs": 17663,
+"menu_cat": "tech",
+"code": "200",
+"subs": 17659,
+"price_from": 4195.8,
+"category": "Интернет технологии",
+"desc": "Авторские и не только тщательно отобранные советы по автоматизации рутины и настройке ваших любимых гаджетов и приложени",
+"formats": [
+{
+"reach": 473,
+"cpv": 8.87,
+"err": 2.7,
+"fmt": "24",
+"price": 4195.8,
+"price_nodisc": 4195.8
+},
+{
+"reach": 561,
+"cpv": 7.73,
+"err": 3.2,
+"fmt": "48",
+"price": 4335.66,
+"price_nodisc": 4335.66
+},
+{
+"reach": 626,
+"cpv": 7.15,
+"err": 3.6,
+"fmt": "72",
+"price": 4475.52,
+"price_nodisc": 4475.52
+}
+],
+"er": 1.6
+},
+{
+"u": "uptechstore",
+"menu_subs": 10559,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "tojdoronmobile",
+"menu_subs": 16299,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "forklogAI",
+"menu_subs": 11356,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11271,
+"price_from": 2797.2,
+"category": "Интернет технологии",
+"desc": "Канал посвященный искусственному интеллекту, нейронным сетям и машинному обучению. От культового журнала о распределенны",
+"formats": [],
+"er": null
+},
+{
+"u": "konspekty_shpargalki",
+"menu_subs": 15564,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15578,
+"price_from": 27972.0,
+"category": "Образование",
+"desc": "Доступные и качественные конспект по Биологии к ЕГЭ",
+"formats": [
+{
+"reach": 412,
+"cpv": 67.89,
+"err": 2.7,
+"fmt": "24",
+"price": 27972.0,
+"price_nodisc": 27972.0
+}
+],
+"er": 1.23
+},
+{
+"u": "promt_aiphotos",
+"menu_subs": 38780,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Positive_Technologies",
+"menu_subs": 29064,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "first_neiro",
+"menu_subs": 11946,
+"menu_cat": "tech",
+"code": "200",
+"subs": 14592,
+"price_from": 1398.6,
+"category": "Интернет технологии",
+"desc": "Все про нейросети, IT и бизнес: новинки, проекты, туториалы и новости.",
+"formats": [],
+"er": null
+},
+{
+"u": "Python_Community_ru",
+"menu_subs": 11602,
+"menu_cat": "tech",
+"code": "200",
+"subs": 14647,
+"price_from": 4195.8,
+"category": "Интернет технологии",
+"desc": "Неофициальное сообщество языка программирования Python в СНГ\nПринимаем только белые ниши",
+"formats": [],
+"er": null
+},
+{
+"u": "dolly_ai_prompts",
+"menu_subs": 14113,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11938,
+"price_from": 5594.4,
+"category": "Интернет технологии",
+"desc": "Лучшие промты, а также идеи и вдохновение для твоих новых фото 📷",
+"formats": [],
+"er": null
+},
+{
+"u": "pashaaiaiai",
+"menu_subs": 15750,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "TorZireael1",
+"menu_subs": 11943,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "PomaIIIka_13",
+"menu_subs": 31078,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "aivexa_hub",
+"menu_subs": 25081,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "pythonquestions",
+"menu_subs": 11885,
+"menu_cat": "tech",
+"code": "200",
+"subs": 13304,
+"price_from": 5594.4,
+"category": "Интернет технологии",
+"desc": "Алгоритмы, регулярные выражения, вопросы с интервью, задачи для Junior Python Developer.",
+"formats": [],
+"er": null
+},
+{
+"u": "rybakalexey",
+"menu_subs": 10278,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "CyberInvestorTrends",
+"menu_subs": 11639,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "best_in_development",
+"menu_subs": 15405,
+"menu_cat": "tech",
+"code": "200",
+"subs": 5961,
+"price_from": 9170.62,
+"category": "Недвижимость",
+"desc": "бронируйте 2/48",
+"formats": [],
+"er": null
+},
+{
+"u": "abstractDL",
+"menu_subs": 18654,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "itbook_library",
+"menu_subs": 15821,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15819,
+"price_from": 11188.8,
+"category": "Интернет технологии",
+"desc": "ИБ канал, аудитория канала от начинающих ИБ и OSINT специалистов. Есть разработчики Python, c++, Java, JavaScript, Бэкен",
+"formats": [
+{
+"reach": 620,
+"cpv": 18.05,
+"err": 3.9,
+"fmt": "24",
+"price": 11188.8,
+"price_nodisc": 11188.8
+},
+{
+"reach": 798,
+"cpv": 15.77,
+"err": 5.0,
+"fmt": "48",
+"price": 12587.4,
+"price_nodisc": 12587.4
+},
+{
+"reach": 913,
+"cpv": 15.32,
+"err": 5.8,
+"fmt": "72",
+"price": 13986.0,
+"price_nodisc": 13986.0
+}
+],
+"er": 2.12
+},
+{
+"u": "ViamSupervadetVadens",
+"menu_subs": 10093,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "package_security",
+"menu_subs": 33007,
+"menu_cat": "tech",
+"code": "200",
+"subs": 32945,
+"price_from": 45314.64,
+"category": "Интернет технологии",
+"desc": "Авторский канал для ИТшников, ИБшников и всех неравнодушных.",
+"formats": [
+{
+"reach": 2145,
+"cpv": 21.13,
+"err": 6.5,
+"fmt": "24",
+"price": 45314.64,
+"price_nodisc": 45314.64
+},
+{
+"reach": 2665,
+"cpv": 21.31,
+"err": 8.1,
+"fmt": "48",
+"price": 56783.16,
+"price_nodisc": 56783.16
+},
+{
+"reach": 2940,
+"cpv": 21.03,
+"err": 8.9,
+"fmt": "72",
+"price": 61818.12,
+"price_nodisc": 61818.12
+}
+],
+"er": 1.44
+},
+{
+"u": "bdufstecru",
+"menu_subs": 10591,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "dmitrii_ireshev_Agile_PMP",
+"menu_subs": 30243,
+"menu_cat": "tech",
+"code": "200",
+"subs": 25716,
+"price_from": 46153.8,
+"category": "Интернет технологии",
+"desc": "Привет, я Дима Ирешев, Директор продуктов и проектов в e-com",
+"formats": [],
+"er": null
+},
+{
+"u": "MiTechTalks",
+"menu_subs": 47308,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ftsec",
+"menu_subs": 19385,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15583,
+"price_from": 5454.54,
+"category": "Интернет технологии",
+"desc": "Главное про интернет, технологии, медиа, ритейл и финтех из российских и международных источников. За 42 секунды.",
+"formats": [],
+"er": null
+},
+{
+"u": "TimepadRU",
+"menu_subs": 45894,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "localhost_public",
+"menu_subs": 16745,
+"menu_cat": "tech",
+"code": "200",
+"subs": 16743,
+"price_from": 4475.52,
+"category": "Интернет технологии",
+"desc": "Качественный канал с IT-юмором. Серьезная и вовлеченная аудитория. Программирование PHP, C++, SQL, Java, Python, JavaScr",
+"formats": [
+{
+"reach": 2565,
+"cpv": 1.74,
+"err": 15.3,
+"fmt": "24",
+"price": 4475.52,
+"price_nodisc": 4475.52
+},
+{
+"reach": 3064,
+"cpv": 1.57,
+"err": 18.3,
+"fmt": "48",
+"price": 4795.8,
+"price_nodisc": 4795.8
+}
+],
+"er": 4.03
+},
+{
+"u": "mobi_dev",
+"menu_subs": 13169,
+"menu_cat": "tech",
+"code": "200",
+"subs": 13159,
+"price_from": 25174.8,
+"category": "Интернет технологии",
+"desc": "Актуальное по мобильной разработке — Android, iOS, кроссплатформа.",
+"formats": [
+{
+"reach": 821,
+"cpv": 30.66,
+"err": 6.2,
+"fmt": "24",
+"price": 25174.8,
+"price_nodisc": 25174.8
+},
+{
+"reach": 934,
+"cpv": 27.55,
+"err": 7.1,
+"fmt": "48",
+"price": 25734.24,
+"price_nodisc": 25734.24
+},
+{
+"reach": 1013,
+"cpv": 25.96,
+"err": 7.7,
+"fmt": "72",
+"price": 26293.68,
+"price_nodisc": 26293.68
+}
+],
+"er": 0.91
+},
+{
+"u": "FRP_Plusko",
+"menu_subs": 13523,
+"menu_cat": "tech",
+"code": "200",
+"subs": 14603,
+"price_from": 4195.8,
+"category": "Наука и технологии",
+"desc": "Ремонт телефонов,  ноутбуков,  планшетов и прочей портативной техники.",
+"formats": [],
+"er": null
+},
+{
+"u": "javascript_jobs_feed",
+"menu_subs": 14909,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "FastMotionChannel",
+"menu_subs": 10277,
+"menu_cat": "tech",
+"code": "200",
+"subs": 8859,
+"price_from": 3496.5,
+"category": "Авто и мото",
+"desc": "Делаем контент про электротрнаспорт и СИМ (самокаты, монколеса , мото) в",
+"formats": [],
+"er": null
+},
+{
+"u": "tips_ai",
+"menu_subs": 25361,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "pythonboost",
+"menu_subs": 10792,
+"menu_cat": "tech",
+"code": "200",
+"subs": 10793,
+"price_from": 1398.6,
+"category": "Интернет технологии",
+"desc": "Python телеграм канал для новичков.",
+"formats": [
+{
+"reach": 380,
+"cpv": 3.68,
+"err": 3.5,
+"fmt": "24",
+"price": 1398.6,
+"price_nodisc": 1398.6
+},
+{
+"reach": 473,
+"cpv": 4.44,
+"err": 4.4,
+"fmt": "48",
+"price": 2097.9,
+"price_nodisc": 2097.9
+},
+{
+"reach": 559,
+"cpv": 3.75,
+"err": 5.2,
+"fmt": "72",
+"price": 2097.9,
+"price_nodisc": 2097.9
+}
+],
+"er": 0.35
+},
+{
+"u": "antenkaru",
+"menu_subs": 12573,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "prompt1_ru",
+"menu_subs": 15375,
+"menu_cat": "ai",
+"code": "200",
+"subs": 15479,
+"price_from": 1118.88,
+"category": "Интернет технологии",
+"desc": "🔍 Канал о промптах для нейросетей - Самые свежие и актуальные. \nКонкурс на лучший - каждый Четверг.",
+"formats": [
+{
+"reach": 682,
+"cpv": 1.64,
+"err": 4.4,
+"fmt": "24",
+"price": 1118.88,
+"price_nodisc": 1118.88
+},
+{
+"reach": 826,
+"cpv": 1.86,
+"err": 5.3,
+"fmt": "48",
+"price": 1538.46,
+"price_nodisc": 1538.46
+},
+{
+"reach": 882,
+"cpv": 2.38,
+"err": 5.7,
+"fmt": "72",
+"price": 2097.9,
+"price_nodisc": 2097.9
+}
+],
+"er": 2.45
+},
+{
+"u": "infosec_work",
+"menu_subs": 15781,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15804,
+"price_from": 7692.3,
+"category": "Работа и вакансии",
+"desc": "Актуальные ИБ вакансии от крупных работодателей",
+"formats": [
+{
+"reach": 2327,
+"cpv": 3.31,
+"err": 14.7,
+"fmt": "24",
+"price": 7692.3,
+"price_nodisc": 7692.3
+},
+{
+"reach": 2516,
+"cpv": 3.34,
+"err": 15.9,
+"fmt": "48",
+"price": 8391.6,
+"price_nodisc": 8391.6
+},
+{
+"reach": 2715,
+"cpv": 3.61,
+"err": 17.2,
+"fmt": "72",
+"price": 9790.2,
+"price_nodisc": 9790.2
+}
+],
+"er": 1.14
+},
+{
+"u": "seytuevru",
+"menu_subs": 22183,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "shotixidea",
+"menu_subs": 12051,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "bezopasno_soft",
+"menu_subs": 29679,
+"menu_cat": "tech",
+"code": "200",
+"subs": 29638,
+"price_from": 11188.8,
+"category": "Интернет технологии",
+"desc": "Канал с взрослой аудиторией интересующейся информационной безопасностью и в частности языками C++,SQL,Java,Python,JavaSc",
+"formats": [
+{
+"reach": 1265,
+"cpv": 8.84,
+"err": 4.3,
+"fmt": "24",
+"price": 11188.8,
+"price_nodisc": 11188.8
+},
+{
+"reach": 1664,
+"cpv": 6.81,
+"err": 5.6,
+"fmt": "48",
+"price": 11328.66,
+"price_nodisc": 11328.66
+},
+{
+"reach": 1890,
+"cpv": 5.99,
+"err": 6.4,
+"fmt": "72",
+"price": 11328.66,
+"price_nodisc": 11328.66
+}
+],
+"er": 0.94
+},
+{
+"u": "OZ_ITPQ",
+"menu_subs": 21536,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "neuro_ready",
+"menu_subs": 13387,
+"menu_cat": "tech",
+"code": "200",
+"subs": 12891,
+"price_from": 3636.36,
+"category": "Интернет технологии",
+"desc": "Авторский канал про искусственный интеллект и нейросети.",
+"formats": [],
+"er": null
+},
+{
+"u": "hahacker_news",
+"menu_subs": 25527,
+"menu_cat": "tech",
+"code": "200",
+"subs": 25512,
+"price_from": 20979.0,
+"category": "Интернет технологии",
+"desc": "Смешные новости из мира IT.",
+"formats": [
+{
+"reach": 1123,
+"cpv": 18.68,
+"err": 4.4,
+"fmt": "24",
+"price": 20979.0,
+"price_nodisc": 20979.0
+},
+{
+"reach": 1497,
+"cpv": 14.48,
+"err": 5.9,
+"fmt": "48",
+"price": 21678.3,
+"price_nodisc": 21678.3
+},
+{
+"reach": 1600,
+"cpv": 13.99,
+"err": 6.3,
+"fmt": "72",
+"price": 22377.6,
+"price_nodisc": 22377.6
+}
+],
+"er": 0.85
+},
+{
+"u": "headai_hub",
+"menu_subs": 21669,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "serious_tester",
+"menu_subs": 30092,
+"menu_cat": "tech",
+"code": "200",
+"subs": 30541,
+"price_from": 20979.0,
+"category": "Интернет технологии",
+"desc": "Для тестировщиков и QA. - для джуниоров - русскоговорящее сообщество - для автоматизаторов - вакансии и поиск работы - п",
+"formats": [],
+"er": null
+},
+{
+"u": "ai_ins",
+"menu_subs": 41965,
+"menu_cat": "tech",
+"code": "200",
+"subs": 41914,
+"price_from": 13986.0,
+"category": "Интернет технологии",
+"desc": "Канал о новостях из мира нейронных сетей со взрослой платежеспособной аудиторией.",
+"formats": [
+{
+"reach": 876,
+"cpv": 15.97,
+"err": 2.1,
+"fmt": "24",
+"price": 13986.0,
+"price_nodisc": 13986.0
+},
+{
+"reach": 1020,
+"cpv": 15.08,
+"err": 2.4,
+"fmt": "48",
+"price": 15384.6,
+"price_nodisc": 15384.6
+}
+],
+"er": 0.67
+},
+{
+"u": "technodrifters",
+"menu_subs": 33743,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ofd24",
+"menu_subs": 20760,
+"menu_cat": "tech",
+"code": "200",
+"subs": 20761,
+"price_from": 27972.0,
+"category": "Экономика и Финансы",
+"desc": "Про маркировку Честный ЗНАК, онлайн-кассы (ККТ), ЕГАИС, налоги, проверки бизнеса и прочие радости для розницы.",
+"formats": [
+{
+"reach": 1939,
+"cpv": 14.43,
+"err": 9.3,
+"fmt": "24",
+"price": 27972.0,
+"price_nodisc": 27972.0
+},
+{
+"reach": 2052,
+"cpv": 17.04,
+"err": 9.9,
+"fmt": "48",
+"price": 34965.0,
+"price_nodisc": 34965.0
+},
+{
+"reach": 2092,
+"cpv": 20.06,
+"err": 10.1,
+"fmt": "72",
+"price": 41958.0,
+"price_nodisc": 41958.0
+}
+],
+"er": 1.25
+},
+{
+"u": "app1pro",
+"menu_subs": 14133,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Master_PC_01",
+"menu_subs": 26045,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "books_ready",
+"menu_subs": 18050,
+"menu_cat": "tech",
+"code": "200",
+"subs": 17714,
+"price_from": 5034.96,
+"category": "Интернет технологии",
+"desc": "Архив лучших IT книг для каждого программиста!",
+"formats": [],
+"er": null
+},
+{
+"u": "simplify_ai",
+"menu_subs": 17342,
+"menu_cat": "tech",
+"code": "200",
+"subs": 17436,
+"price_from": 2797.2,
+"category": "Интернет технологии",
+"desc": "AI Simplify  канал с вовлечённой аудиторией, где каждый день выходят посты про AI, технологии и полезные сайты. Вся ауди",
+"formats": [
+{
+"reach": 1605,
+"cpv": 1.74,
+"err": 9.2,
+"fmt": "24",
+"price": 2797.2,
+"price_nodisc": 2797.2
+},
+{
+"reach": 1915,
+"cpv": 1.61,
+"err": 11.0,
+"fmt": "48",
+"price": 3076.92,
+"price_nodisc": 3076.92
+},
+{
+"reach": 2101,
+"cpv": 1.6,
+"err": 12.1,
+"fmt": "72",
+"price": 3356.64,
+"price_nodisc": 3356.64
+}
+],
+"er": 1.9
+},
+{
+"u": "honestpc",
+"menu_subs": 11096,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "n2d2ai",
+"menu_subs": 24848,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "martyfiles",
+"menu_subs": 22527,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "nboost_ai",
+"menu_subs": 16995,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ii_masters",
+"menu_subs": 13683,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "sector_lab",
+"menu_subs": 10419,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "russioncyberchannel",
+"menu_subs": 15471,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "CyberShieldTips",
+"menu_subs": 23636,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "lovedeathtransformers",
+"menu_subs": 25682,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "python_easy_ru",
+"menu_subs": 12713,
+"menu_cat": "tech",
+"code": "200",
+"subs": 12709,
+"price_from": 6153.84,
+"category": "Интернет технологии",
+"desc": "Разбираем вопросы с собеседований на Python разработчика. Очень активная и лояльная аудитория.",
+"formats": [
+{
+"reach": 588,
+"cpv": 10.47,
+"err": 4.6,
+"fmt": "24",
+"price": 6153.84,
+"price_nodisc": 6153.84
+},
+{
+"reach": 652,
+"cpv": 9.65,
+"err": 5.1,
+"fmt": "48",
+"price": 6293.7,
+"price_nodisc": 6293.7
+}
+],
+"er": 0.54
+},
+{
+"u": "iosgr",
+"menu_subs": 12056,
+"menu_cat": "tech",
+"code": "200",
+"subs": 10442,
+"price_from": 2797.2,
+"category": "Наука и технологии",
+"desc": "Самые интересные статьи, видео и новости, связанные с iOS разработкой. Не больше трёх материалов в день.",
+"formats": [],
+"er": null
+},
+{
+"u": "pythonknigiru",
+"menu_subs": 11554,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11553,
+"price_from": 6292.3,
+"category": "Интернет технологии",
+"desc": "Книги по Python\nВсё свежее 2017 года\nКниги на русском языке.",
+"formats": [
+{
+"reach": 894,
+"cpv": 7.04,
+"err": 7.7,
+"fmt": "24",
+"price": 6292.3,
+"price_nodisc": 6292.3
+},
+{
+"reach": 991,
+"cpv": 7.06,
+"err": 8.6,
+"fmt": "48",
+"price": 6991.6,
+"price_nodisc": 6991.6
+},
+{
+"reach": 1046,
+"cpv": 7.49,
+"err": 9.1,
+"fmt": "72",
+"price": 7830.76,
+"price_nodisc": 7830.76
+}
+],
+"er": 1.85
+},
+{
+"u": "xakep_ru",
+"menu_subs": 39621,
+"menu_cat": "tech",
+"code": "200",
+"subs": 26091,
+"price_from": 9790.2,
+"category": "Интернет технологии",
+"desc": "Xakep.RU: взлом, защита, кодинг",
+"formats": [],
+"er": null
+},
+{
+"u": "small_biz",
+"menu_subs": 10205,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "pythonist_ru",
+"menu_subs": 24045,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "belyakAi",
+"menu_subs": 30931,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "python_job_interview",
+"menu_subs": 24870,
+"menu_cat": "tech",
+"code": "200",
+"subs": 24867,
+"price_from": 6573.42,
+"category": "Интернет технологии",
+"desc": "Python вопросы с собеседований. Задачи и реальные примеры вопросы с собеседований Python",
+"formats": [
+{
+"reach": 685,
+"cpv": 9.6,
+"err": 2.8,
+"fmt": "24",
+"price": 6573.42,
+"price_nodisc": 6573.42
+},
+{
+"reach": 834,
+"cpv": 9.73,
+"err": 3.4,
+"fmt": "48",
+"price": 8111.88,
+"price_nodisc": 8111.88
+},
+{
+"reach": 952,
+"cpv": 9.55,
+"err": 3.8,
+"fmt": "72",
+"price": 9090.9,
+"price_nodisc": 9090.9
+}
+],
+"er": 1.86
+},
+{
+"u": "nplod",
+"menu_subs": 11712,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "breakout_ai",
+"menu_subs": 19439,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "it_windows",
+"menu_subs": 18805,
+"menu_cat": "tech",
+"code": "200",
+"subs": 19187,
+"price_from": 1538.46,
+"category": "Интернет технологии",
+"desc": "Канал про интернет технологии, различные лайфхаки windows, программы и игры\nпродвигался закупами, взаимопиаром\nпостоянно",
+"formats": [],
+"er": null
+},
+{
+"u": "chilltunnel",
+"menu_subs": 12658,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "deep_school",
+"menu_subs": 10740,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "iOSshortcut",
+"menu_subs": 44744,
+"menu_cat": "tech",
+"code": "200",
+"subs": 48387,
+"price_from": 6993.0,
+"category": "Наука и технологии",
+"desc": "Быстрые команды для iOS/iPadOS  и  MacOS.",
+"formats": [],
+"er": null
+},
+{
+"u": "pylinux0",
+"menu_subs": 11046,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11001,
+"price_from": 2237.76,
+"category": "Интернет технологии",
+"desc": "Канал про Python и Linux. Рассматриваются различные библиотеки и скрипты Python, инструменты и техники Linux, безопаснос",
+"formats": [],
+"er": null
+},
+{
+"u": "neuroadepts",
+"menu_subs": 41216,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "seniorsql",
+"menu_subs": 14314,
+"menu_cat": "tech",
+"code": "200",
+"subs": 14314,
+"price_from": 4895.1,
+"category": "Интернет технологии",
+"desc": "SQL изучаем",
+"formats": [
+{
+"reach": 479,
+"cpv": 10.22,
+"err": 3.4,
+"fmt": "24",
+"price": 4895.1,
+"price_nodisc": 4895.1
+},
+{
+"reach": 589,
+"cpv": 9.5,
+"err": 4.1,
+"fmt": "48",
+"price": 5594.4,
+"price_nodisc": 5594.4
+},
+{
+"reach": 650,
+"cpv": 10.76,
+"err": 4.5,
+"fmt": "72",
+"price": 6993.0,
+"price_nodisc": 6993.0
+}
+],
+"er": 0.59
+},
+{
+"u": "manmadepc",
+"menu_subs": 22131,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "qwintry",
+"menu_subs": 20680,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "oestick",
+"menu_subs": 13677,
+"menu_cat": "ai",
+"code": "404"
+},
+{
+"u": "skoltech_daily",
+"menu_subs": 11274,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "hacckingbook",
+"menu_subs": 11915,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11911,
+"price_from": 1398.6,
+"category": "Книги, Аудиокниги и Подкасты",
+"desc": "Огромная подборка курсов и статей по всем языкам программирования (только все самое актуальное и лучшее), как для новичк",
+"formats": [
+{
+"reach": 323,
+"cpv": 4.33,
+"err": 2.7,
+"fmt": "24",
+"price": 1398.6,
+"price_nodisc": 1398.6
+},
+{
+"reach": 412,
+"cpv": 4.07,
+"err": 3.5,
+"fmt": "48",
+"price": 1678.32,
+"price_nodisc": 1678.32
+},
+{
+"reach": 475,
+"cpv": 3.83,
+"err": 4.0,
+"fmt": "72",
+"price": 1818.18,
+"price_nodisc": 1818.18
+}
+],
+"er": 3.78
+},
+{
+"u": "glavhack",
+"menu_subs": 28503,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "react_tg",
+"menu_subs": 16272,
+"menu_cat": "tech",
+"code": "200",
+"subs": 16264,
+"price_from": 6853.14,
+"category": "Интернет технологии",
+"desc": "React JS программирование, Frontend",
+"formats": [
+{
+"reach": 1031,
+"cpv": 6.65,
+"err": 6.3,
+"fmt": "24",
+"price": 6853.14,
+"price_nodisc": 6853.14
+},
+{
+"reach": 1163,
+"cpv": 6.97,
+"err": 7.2,
+"fmt": "48",
+"price": 8110.48,
+"price_nodisc": 8110.48
+},
+{
+"reach": 1421,
+"cpv": 6.59,
+"err": 8.7,
+"fmt": "72",
+"price": 9370.62,
+"price_nodisc": 9370.62
+}
+],
+"er": 1.57
+},
+{
+"u": "edl_testpoints",
+"menu_subs": 10754,
+"menu_cat": "tech",
+"code": "200",
+"subs": 5619,
+"price_from": 1538.46,
+"category": "Наука и технологии",
+"desc": "Схемы подключения и перевод в режим загрузки Schematics ISP Pinout EDL test point",
+"formats": [],
+"er": null
+},
+{
+"u": "prorobotovchannel",
+"menu_subs": 13072,
+"menu_cat": "tech",
+"code": "200",
+"subs": 2351,
+"price_from": 2797.2,
+"category": "Наука и технологии",
+"desc": "PRO Роботов - самый интересный канал про роботов и технологии будущего. Здесь вы увидите самые современные технологии из",
+"formats": [],
+"er": null
+},
+{
+"u": "clickordie",
+"menu_subs": 40192,
+"menu_cat": "tech",
+"code": "200",
+"subs": 16200,
+"price_from": 4153.84,
+"category": "Маркетинг и PR",
+"desc": "Кликни или умри. Медиа, IT, безумие.",
+"formats": [],
+"er": null
+},
+{
+"u": "m0bileAPK",
+"menu_subs": 19574,
+"menu_cat": "tech",
+"code": "200",
+"subs": 19573,
+"price_from": 559.44,
+"category": "Видеоигры",
+"desc": "Всем привет! При покупки рекламы обращаю внимание что буду размещать рекламу по времени после 18:00 по МСК! \nСвободные д",
+"formats": [
+{
+"reach": 760,
+"cpv": 0.74,
+"err": 3.9,
+"fmt": "24",
+"price": 559.44,
+"price_nodisc": 559.44
+},
+{
+"reach": 1017,
+"cpv": 0.62,
+"err": 5.2,
+"fmt": "48",
+"price": 629.37,
+"price_nodisc": 629.37
+},
+{
+"reach": 1178,
+"cpv": 0.59,
+"err": 6.0,
+"fmt": "72",
+"price": 699.3,
+"price_nodisc": 699.3
+}
+],
+"er": 0.22
+},
+{
+"u": "knijnoe_xranilishe",
+"menu_subs": 19607,
+"menu_cat": "tech",
+"code": "200",
+"subs": 19723,
+"price_from": 2097.9,
+"category": "Интернет технологии",
+"desc": "Отборные книги от команды гиков.",
+"formats": [],
+"er": null
+},
+{
+"u": "ocypus_russia",
+"menu_subs": 19811,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "avanta_telecom_ru",
+"menu_subs": 14858,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "AizenSoloBotInfo",
+"menu_subs": 18813,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "rosatomru",
+"menu_subs": 34107,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "pmdaily",
+"menu_subs": 23678,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "dsorkin",
+"menu_subs": 22016,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "pm_and_it",
+"menu_subs": 11368,
+"menu_cat": "tech",
+"code": "200",
+"subs": 11367,
+"price_from": 18181.8,
+"category": "Маркетинг и PR",
+"desc": "Канал по управлению проектами (продуктами), как для начинающих, так и для бывалых специалистов. Выкладываем статьи (такж",
+"formats": [
+{
+"reach": 794,
+"cpv": 22.9,
+"err": 7.0,
+"fmt": "24",
+"price": 18181.8,
+"price_nodisc": 18181.8
+},
+{
+"reach": 944,
+"cpv": 19.41,
+"err": 8.3,
+"fmt": "48",
+"price": 18321.66,
+"price_nodisc": 18321.66
+},
+{
+"reach": 1055,
+"cpv": 17.5,
+"err": 9.3,
+"fmt": "72",
+"price": 18461.52,
+"price_nodisc": 18461.52
+}
+],
+"er": 1.48
+},
+{
+"u": "max_about_ai",
+"menu_subs": 11938,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "neurobiznes",
+"menu_subs": 12434,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "java_tg",
+"menu_subs": 14803,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "databases_tg",
+"menu_subs": 12482,
+"menu_cat": "tech",
+"code": "200",
+"subs": 12477,
+"price_from": 8391.6,
+"category": "Интернет технологии",
+"desc": "Всё о базах данных! Активная аудитория канала включает в себя специалистов из разных областей: \nПрограммирование, Fronte",
+"formats": [
+{
+"reach": 792,
+"cpv": 10.6,
+"err": 6.4,
+"fmt": "24",
+"price": 8391.6,
+"price_nodisc": 8391.6
+},
+{
+"reach": 931,
+"cpv": 11.27,
+"err": 7.5,
+"fmt": "48",
+"price": 10489.5,
+"price_nodisc": 10489.5
+},
+{
+"reach": 1052,
+"cpv": 10.64,
+"err": 8.4,
+"fmt": "72",
+"price": 11188.8,
+"price_nodisc": 11188.8
+}
+],
+"er": 1.46
+},
+{
+"u": "brief_ii",
+"menu_subs": 43952,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "incubeai_pro",
+"menu_subs": 14577,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "drussia",
+"menu_subs": 13885,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "seniorjavist",
+"menu_subs": 20569,
+"menu_cat": "tech",
+"code": "200",
+"subs": 20569,
+"price_from": 8391.6,
+"category": "Интернет технологии",
+"desc": "Изучаем Java.",
+"formats": [
+{
+"reach": 983,
+"cpv": 8.54,
+"err": 4.8,
+"fmt": "24",
+"price": 8391.6,
+"price_nodisc": 8391.6
+},
+{
+"reach": 1220,
+"cpv": 8.02,
+"err": 5.9,
+"fmt": "48",
+"price": 9790.2,
+"price_nodisc": 9790.2
+},
+{
+"reach": 1353,
+"cpv": 8.27,
+"err": 6.6,
+"fmt": "72",
+"price": 11188.8,
+"price_nodisc": 11188.8
+}
+],
+"er": 0.49
+},
+{
+"u": "rfonservice",
+"menu_subs": 10087,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "aibotlist",
+"menu_subs": 20474,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "EgorKuzminxr1",
+"menu_subs": 21441,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "edward_club",
+"menu_subs": 11866,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "inferno_retail",
+"menu_subs": 49553,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "sysodmins_league",
+"menu_subs": 13231,
+"menu_cat": "tech",
+"code": "200",
+"subs": 13237,
+"price_from": 3916.08,
+"category": "Интернет технологии",
+"desc": "Канал, посвященный специалистам сферы ИТ, занимающимся поддержкой сетевой и серверной инфраструктуры, девопсам, SRE, а т",
+"formats": [
+{
+"reach": 1002,
+"cpv": 3.91,
+"err": 7.6,
+"fmt": "24",
+"price": 3916.08,
+"price_nodisc": 3916.08
+},
+{
+"reach": 1243,
+"cpv": 4.5,
+"err": 9.4,
+"fmt": "48",
+"price": 5594.4,
+"price_nodisc": 5594.4
+},
+{
+"reach": 1422,
+"cpv": 4.43,
+"err": 10.7,
+"fmt": "72",
+"price": 6293.7,
+"price_nodisc": 6293.7
+}
+],
+"er": 2.48
+},
+{
+"u": "neural_university_webinar",
+"menu_subs": 37455,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "na_sviazi",
+"menu_subs": 25805,
+"menu_cat": "tech",
+"code": "200",
+"subs": 25749,
+"price_from": 4195.8,
+"category": "Наука и технологии",
+"desc": "Просто и доходчиво о сложном, интересно и читаемо о технологиях, системах и гаджетах.",
+"formats": [
+{
+"reach": 2447,
+"cpv": 1.71,
+"err": 9.5,
+"fmt": "24",
+"price": 4195.8,
+"price_nodisc": 4195.8
+},
+{
+"reach": 2933,
+"cpv": 1.91,
+"err": 11.4,
+"fmt": "48",
+"price": 5594.4,
+"price_nodisc": 5594.4
+}
+],
+"er": 2.18
+},
+{
+"u": "dailyprompts",
+"menu_subs": 42734,
+"menu_cat": "tech",
+"code": "200",
+"subs": 42734,
+"price_from": 15384.6,
+"category": "Наука и технологии",
+"desc": "Авторский канал Рината Шакирова про нейросети. \nВ этом канале найдешь:\n— Лучшие промпты для Midjourney, ChatGPT и других",
+"formats": [
+{
+"reach": 2874,
+"cpv": 5.35,
+"err": 6.7,
+"fmt": "24",
+"price": 15384.6,
+"price_nodisc": 15384.6
+},
+{
+"reach": 3168,
+"cpv": 5.3,
+"err": 7.4,
+"fmt": "48",
+"price": 16783.2,
+"price_nodisc": 16783.2
+}
+],
+"er": 0.87
+},
+{
+"u": "vni_hosting",
+"menu_subs": 17131,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "yab2btech",
+"menu_subs": 14510,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "nwindpro",
+"menu_subs": 15690,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "cryptovalerii",
+"menu_subs": 30805,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "programmist_of",
+"menu_subs": 20655,
+"menu_cat": "tech",
+"code": "200",
+"subs": 20655,
+"price_from": 9090.9,
+"category": "Интернет технологии",
+"desc": "Книги по программированию. Книги для дизайнеров, верстальщиков, IT специалистов.",
+"formats": [
+{
+"reach": 873,
+"cpv": 10.41,
+"err": 4.2,
+"fmt": "24",
+"price": 9090.9,
+"price_nodisc": 9090.9
+},
+{
+"reach": 984,
+"cpv": 9.59,
+"err": 4.8,
+"fmt": "48",
+"price": 9440.55,
+"price_nodisc": 9440.55
+},
+{
+"reach": 1063,
+"cpv": 9.21,
+"err": 5.2,
+"fmt": "72",
+"price": 9790.2,
+"price_nodisc": 9790.2
+}
+],
+"er": 1.06
+},
+{
+"u": "cpp_ready",
+"menu_subs": 15531,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15031,
+"price_from": 4055.94,
+"category": "Интернет технологии",
+"desc": "Авторский канал по разработке на C и C++",
+"formats": [],
+"er": null
+},
+{
+"u": "elektromobil_tesla_elektrokar",
+"menu_subs": 55512,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "mmmorozov",
+"menu_subs": 61445,
+"menu_cat": "tech",
+"code": "200",
+"subs": 61409,
+"price_from": 11888.1,
+"category": "Интернет технологии",
+"desc": "Канал блогера про создание контента, нейросети, образование и полезные сайты. 180K в TikTok, 25K в Instagram.",
+"formats": [
+{
+"reach": 3903,
+"cpv": 3.05,
+"err": 6.4,
+"fmt": "24",
+"price": 11888.1,
+"price_nodisc": 11888.1
+},
+{
+"reach": 4533,
+"cpv": 3.09,
+"err": 7.4,
+"fmt": "48",
+"price": 13986.0,
+"price_nodisc": 13986.0
+},
+{
+"reach": 5323,
+"cpv": 3.15,
+"err": 8.7,
+"fmt": "72",
+"price": 16783.2,
+"price_nodisc": 16783.2
+}
+],
+"er": 1.4
+},
+{
+"u": "connorwow",
+"menu_subs": 95860,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "aitshnya",
+"menu_subs": 69918,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "habr_com",
+"menu_subs": 132688,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Inno_scope",
+"menu_subs": 157558,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "neuroset_vidit",
+"menu_subs": 127501,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "cyberpolice_rus",
+"menu_subs": 83571,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "it_secur",
+"menu_subs": 61909,
+"menu_cat": "tech",
+"code": "200",
+"subs": 62054,
+"price_from": 27972.0,
+"category": "Интернет технологии",
+"desc": "Информационная безопасность, DevSecOps, DevOps, литература для ИТ специалистов. Пентест, Хакинг, OSINT, Социальная Инжен",
+"formats": [
+{
+"reach": 5730,
+"cpv": 4.88,
+"err": 9.2,
+"fmt": "24",
+"price": 27972.0,
+"price_nodisc": 27972.0
+},
+{
+"reach": 5896,
+"cpv": 5.22,
+"err": 9.5,
+"fmt": "48",
+"price": 30769.2,
+"price_nodisc": 30769.2
+},
+{
+"reach": 6204,
+"cpv": 5.19,
+"err": 10.0,
+"fmt": "72",
+"price": 32167.8,
+"price_nodisc": 32167.8
+}
+],
+"er": 1.55
+},
+{
+"u": "bfbook",
+"menu_subs": 54019,
+"menu_cat": "tech",
+"code": "200",
+"subs": 54023,
+"price_from": 13986.0,
+"category": "Книги, Аудиокниги и Подкасты",
+"desc": "Книги по программированию, библиотека электронных книг для разработчиков.",
+"formats": [
+{
+"reach": 2348,
+"cpv": 5.96,
+"err": 4.4,
+"fmt": "24",
+"price": 13986.0,
+"price_nodisc": 13986.0
+},
+{
+"reach": 2653,
+"cpv": 6.33,
+"err": 4.9,
+"fmt": "48",
+"price": 16783.2,
+"price_nodisc": 16783.2
+},
+{
+"reach": 2871,
+"cpv": 7.31,
+"err": 5.3,
+"fmt": "72",
+"price": 20979.0,
+"price_nodisc": 20979.0
+}
+],
+"er": 1.42
+},
+{
+"u": "kramola_online",
+"menu_subs": 57809,
+"menu_cat": "tech",
+"code": "200",
+"subs": 61104,
+"price_from": 4895.1,
+"category": "Наука и технологии",
+"desc": "Канал про технологии и техно-новости. Организован перелив трафика с ютуба, где на канале ~3 млн подписчиков. Платёжеспос",
+"formats": [],
+"er": null
+},
+{
+"u": "discoveryit_channel",
+"menu_subs": 146267,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "upvote_media",
+"menu_subs": 68067,
+"menu_cat": "tech",
+"code": "200",
+"subs": 74737,
+"price_from": 19580.4,
+"category": "Наука и технологии",
+"desc": "Самые интересные новости и тренды из мира технологий, ИТ и бизнеса со всего интернета",
+"formats": [],
+"er": null
+},
+{
+"u": "Selectel",
+"menu_subs": 63197,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "gpt4_tg",
+"menu_subs": 54127,
+"menu_cat": "tech",
+"code": "200",
+"subs": 76941,
+"price_from": 6993.0,
+"category": "Интернет технологии",
+"desc": "ИТ канал с активной взрослой и платежеспособной аудиторией \nХорошая статистика, радует рекламодателей",
+"formats": [],
+"er": null
+},
+{
+"u": "technodeus2023",
+"menu_subs": 102352,
+"menu_cat": "tech",
+"code": "200",
+"subs": 101160,
+"price_from": 105571.92,
+"category": "Интернет технологии",
+"desc": "Ламповый канал о гаджетах, технологиях, и IT индустрии!",
+"formats": [
+{
+"reach": 2831,
+"cpv": 37.29,
+"err": 2.8,
+"fmt": "24",
+"price": 105571.92,
+"price_nodisc": 105571.92
+}
+],
+"er": 1.84
+},
+{
+"u": "rozetkedplus",
+"menu_subs": 72782,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "pythonl",
+"menu_subs": 58770,
+"menu_cat": "tech",
+"code": "200",
+"subs": 58683,
+"price_from": 9790.2,
+"category": "Интернет технологии",
+"desc": "Добро пожаловать в мир продвинутого Python программирования.",
+"formats": [
+{
+"reach": 1986,
+"cpv": 4.93,
+"err": 3.4,
+"fmt": "24",
+"price": 9790.2,
+"price_nodisc": 9790.2
+},
+{
+"reach": 2427,
+"cpv": 4.61,
+"err": 4.1,
+"fmt": "48",
+"price": 11188.8,
+"price_nodisc": 11188.8
+},
+{
+"reach": 2670,
+"cpv": 4.71,
+"err": 4.6,
+"fmt": "72",
+"price": 12587.4,
+"price_nodisc": 12587.4
+}
+],
+"er": 2.33
+},
+{
+"u": "findllimonix",
+"menu_subs": 161904,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "boxb2b",
+"menu_subs": 70623,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "midjourney_home",
+"menu_subs": 153271,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "haccking",
+"menu_subs": 63183,
+"menu_cat": "tech",
+"code": "200",
+"subs": 63182,
+"price_from": 12587.4,
+"category": "Наука и технологии",
+"desc": "Сообщество по информационной безопасности (кибербезопасности).\nСтатьи, гайды, обучения, рекомендации, обзоры, новости, п",
+"formats": [
+{
+"reach": 2561,
+"cpv": 4.92,
+"err": 4.1,
+"fmt": "24",
+"price": 12587.4,
+"price_nodisc": 12587.4
+},
+{
+"reach": 3280,
+"cpv": 4.26,
+"err": 5.2,
+"fmt": "48",
+"price": 13986.0,
+"price_nodisc": 13986.0
+},
+{
+"reach": 3552,
+"cpv": 4.33,
+"err": 5.6,
+"fmt": "72",
+"price": 15384.6,
+"price_nodisc": 15384.6
+}
+],
+"er": 1.41
+},
+{
+"u": "iPumpBrain",
+"menu_subs": 182755,
+"menu_cat": "tech",
+"code": "200",
+"subs": 182643,
+"price_from": 8391.6,
+"category": "Наука и технологии",
+"desc": "IT тренды, новости, главное из мира технологий.",
+"formats": [
+{
+"reach": 4690,
+"cpv": 1.79,
+"err": 2.6,
+"fmt": "24",
+"price": 8391.6,
+"price_nodisc": 8391.6
+},
+{
+"reach": 5236,
+"cpv": 2.35,
+"err": 2.9,
+"fmt": "48",
+"price": 12307.68,
+"price_nodisc": 12307.68
+}
+],
+"er": 2.86
+},
+{
+"u": "chat_ai_bot_news",
+"menu_subs": 105678,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Wylsacomoff",
+"menu_subs": 78551,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "GPTronhub",
+"menu_subs": 169444,
+"menu_cat": "tech",
+"code": "200",
+"subs": 168625,
+"price_from": 30769.2,
+"category": "Интернет технологии",
+"desc": "GPTron — нейросети на практике Промты • инструменты • кейсы • фишки ИИ Показываем, как использовать GPT и нейросети: — д",
+"formats": [
+{
+"reach": 2141,
+"cpv": 14.37,
+"err": 1.3,
+"fmt": "24",
+"price": 30769.2,
+"price_nodisc": 30769.2
+},
+{
+"reach": 2552,
+"cpv": 14.25,
+"err": 1.5,
+"fmt": "48",
+"price": 36363.6,
+"price_nodisc": 36363.6
+},
+{
+"reach": 2711,
+"cpv": 15.48,
+"err": 1.6,
+"fmt": "72",
+"price": 41958.0,
+"price_nodisc": 41958.0
+}
+],
+"er": 0.4
+},
+{
+"u": "neyrosetkapic",
+"menu_subs": 150608,
+"menu_cat": "tech",
+"code": "200",
+"subs": 0,
+"price_from": 13986.0,
+"category": "Наука и технологии",
+"desc": "Самые свежие новости по AI | Адм kegadad",
+"formats": [],
+"er": null
+},
+{
+"u": "technoinsider",
+"menu_subs": 75744,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "cmd_cv",
+"menu_subs": 53562,
+"menu_cat": "tech",
+"code": "200",
+"subs": 64785,
+"price_from": 13986.0,
+"category": "Интернет технологии",
+"desc": "Уникальный канал, который читают не только программисты и разработчики, но и дизайнеры, копирайтеры и другие IT-специали",
+"formats": [],
+"er": null
+},
+{
+"u": "chatgpt_try",
+"menu_subs": 160755,
+"menu_cat": "tech",
+"code": "200",
+"subs": 159698,
+"price_from": 6993.0,
+"category": "Интернет технологии",
+"desc": "Канал посвященный развитию сервиса trychatgpt. Техническая поддержка сервиса (писать по поводу ошибок): ссылка",
+"formats": [
+{
+"reach": 4985,
+"cpv": 1.4,
+"err": 3.1,
+"fmt": "24",
+"price": 6993.0,
+"price_nodisc": 6993.0
+},
+{
+"reach": 6019,
+"cpv": 2.32,
+"err": 3.8,
+"fmt": "48",
+"price": 13986.0,
+"price_nodisc": 13986.0
+},
+{
+"reach": 6539,
+"cpv": 3.21,
+"err": 4.1,
+"fmt": "72",
+"price": 20979.0,
+"price_nodisc": 20979.0
+}
+],
+"er": 0.43
+},
+{
+"u": "cryptoEssay",
+"menu_subs": 62589,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Nano_Community",
+"menu_subs": 89293,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ohmy_gadgets",
+"menu_subs": 197553,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "data_secrets",
+"menu_subs": 94131,
+"menu_cat": "tech",
+"code": "200",
+"subs": 94278,
+"price_from": 97902.0,
+"category": "Интернет технологии",
+"desc": "Data Science / Machine Learning / Big Data / Python / Анализ Данных",
+"formats": [
+{
+"reach": 16721,
+"cpv": 5.86,
+"err": 17.7,
+"fmt": "24",
+"price": 97902.0,
+"price_nodisc": 97902.0
+},
+{
+"reach": 18322,
+"cpv": 5.5,
+"err": 19.4,
+"fmt": "48",
+"price": 100699.2,
+"price_nodisc": 100699.2
+}
+],
+"er": 2.24
+},
+{
+"u": "ipoint_stores",
+"menu_subs": 60325,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "xor_journal",
+"menu_subs": 181829,
+"menu_cat": "tech",
+"code": "200",
+"subs": 191086,
+"price_from": 55944.0,
+"category": "Интернет технологии",
+"desc": "Журнал о программировании и технологиях. Публикуем все самое интересное из мира IT для специалистов.",
+"formats": [
+{
+"reach": 16725,
+"cpv": 3.34,
+"err": 9.0,
+"fmt": "24",
+"price": 55944.0,
+"price_nodisc": 55944.0
+}
+],
+"er": 2.81
+},
+{
+"u": "okno_media",
+"menu_subs": 61306,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "howdyho_official",
+"menu_subs": 78817,
+"menu_cat": "tech",
+"code": "200",
+"subs": 81522,
+"price_from": 27972.0,
+"category": "Интернет технологии",
+"desc": "Интересные заметки, мысли вслух, годный юмор, эксперименты и многое другое из типичной \"программистской\" жизни 😏",
+"formats": [],
+"er": null
+},
+{
+"u": "droidergram",
+"menu_subs": 103211,
+"menu_cat": "tech",
+"code": "200",
+"subs": 19146,
+"price_from": 19580.4,
+"category": "Интернет технологии",
+"desc": "Официальный канал Droider. О высоких технологиях, умных домах и не только!",
+"formats": [],
+"er": null
+},
+{
+"u": "integer_promt",
+"menu_subs": 65153,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "InterNews_HW",
+"menu_subs": 68066,
+"menu_cat": "tech",
+"code": "200",
+"subs": 73460,
+"price_from": 1636.36,
+"category": "Наука и технологии",
+"desc": "Новостной канал в тематике компьютеры и смартфоны",
+"formats": [
+{
+"reach": 1671,
+"cpv": 0.98,
+"err": 2.3,
+"fmt": "24",
+"price": 1636.36,
+"price_nodisc": 1636.36
+},
+{
+"reach": 1896,
+"cpv": 1.03,
+"err": 2.6,
+"fmt": "48",
+"price": 1958.04,
+"price_nodisc": 1958.04
+},
+{
+"reach": 1571,
+"cpv": 1.42,
+"err": 2.1,
+"fmt": "72",
+"price": 2237.76,
+"price_nodisc": 2237.76
+}
+],
+"er": 1.04
+},
+{
+"u": "technoperry",
+"menu_subs": 60365,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "citilink_official",
+"menu_subs": 58190,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ramzan",
+"menu_subs": 88043,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "cgevent",
+"menu_subs": 52550,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "iteach_ru",
+"menu_subs": 66754,
+"menu_cat": "tech",
+"code": "200",
+"subs": 66652,
+"price_from": 6993.0,
+"category": "Интернет технологии",
+"desc": "17% премиум подписчиков! Зарегистрирован в перечне РКН. Медиа о кибербезопасности и IT-мероприятиях. Аудитория айтишнико",
+"formats": [
+{
+"reach": 1335,
+"cpv": 5.24,
+"err": 2.0,
+"fmt": "24",
+"price": 6993.0,
+"price_nodisc": 6993.0
+},
+{
+"reach": 1531,
+"cpv": 5.48,
+"err": 2.3,
+"fmt": "48",
+"price": 8391.6,
+"price_nodisc": 8391.6
+},
+{
+"reach": 1616,
+"cpv": 6.06,
+"err": 2.4,
+"fmt": "72",
+"price": 9790.2,
+"price_nodisc": 9790.2
+}
+],
+"er": 3.38
+},
+{
+"u": "AI_Apocalypse",
+"menu_subs": 57186,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "jdmaxchannel",
+"menu_subs": 98429,
+"menu_cat": "tech",
+"code": "200",
+"subs": 98121,
+"price_from": 2447.55,
+"category": "Интернет технологии",
+"desc": "Свежий канал про технологии и нейросети. С уникальным контентом по использованию СhatGPT.",
+"formats": [
+{
+"reach": 3748,
+"cpv": 0.65,
+"err": 3.8,
+"fmt": "24",
+"price": 2447.55,
+"price_nodisc": 2447.55
+},
+{
+"reach": 4243,
+"cpv": 0.76,
+"err": 4.3,
+"fmt": "48",
+"price": 3216.78,
+"price_nodisc": 3216.78
+},
+{
+"reach": 4534,
+"cpv": 1.08,
+"err": 4.6,
+"fmt": "72",
+"price": 4895.1,
+"price_nodisc": 4895.1
+}
+],
+"er": 1.38
+},
+{
+"u": "backspace_mag",
+"menu_subs": 128366,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "trojan_anonym",
+"menu_subs": 64502,
+"menu_cat": "tech",
+"code": "200",
+"subs": 64467,
+"price_from": 25174.8,
+"category": "Наука и технологии",
+"desc": "Канал о приватности в интернете, интересных сервисах и вашей безопасности.",
+"formats": [
+{
+"reach": 1310,
+"cpv": 19.22,
+"err": 2.0,
+"fmt": "24",
+"price": 25174.8,
+"price_nodisc": 25174.8
+},
+{
+"reach": 1494,
+"cpv": 26.96,
+"err": 2.3,
+"fmt": "48",
+"price": 40279.68,
+"price_nodisc": 40279.68
+},
+{
+"reach": 1629,
+"cpv": 26.27,
+"err": 2.5,
+"fmt": "72",
+"price": 42797.16,
+"price_nodisc": 42797.16
+}
+],
+"er": 0.92
+},
+{
+"u": "ba_sa_analytics",
+"menu_subs": 52310,
+"menu_cat": "tech",
+"code": "200",
+"subs": 52284,
+"price_from": 9230.76,
+"category": "Бизнес и стартапы",
+"desc": "Всё о системном и бизнес-анализе простым языком.",
+"formats": [
+{
+"reach": 2451,
+"cpv": 3.77,
+"err": 4.7,
+"fmt": "24",
+"price": 9230.76,
+"price_nodisc": 9230.76
+},
+{
+"reach": 3039,
+"cpv": 3.36,
+"err": 5.8,
+"fmt": "48",
+"price": 10209.78,
+"price_nodisc": 10209.78
+},
+{
+"reach": 2948,
+"cpv": 3.8,
+"err": 5.6,
+"fmt": "72",
+"price": 11188.8,
+"price_nodisc": 11188.8
+}
+],
+"er": 0.78
+},
+{
+"u": "ru3dnews",
+"menu_subs": 172713,
+"menu_cat": "tech",
+"code": "200",
+"subs": 15393,
+"price_from": 11188.8,
+"category": "Новости и СМИ",
+"desc": "Канал 3DNews.ru | Новости, обзоры и тесты из мира IT: железо и электроника, игры и софт, консоли и гаджеты, а также высо",
+"formats": [],
+"er": null
+},
+{
+"u": "cyberpunkc",
+"menu_subs": 184282,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "deminslounge",
+"menu_subs": 64171,
+"menu_cat": "tech",
+"code": "200",
+"subs": 63061,
+"price_from": 34965.0,
+"category": "Наука и технологии",
+"desc": "Здесь о технологиях говорят серьезные ребята! Техноблог, как частичка жизни!",
+"formats": [
+{
+"reach": 8387,
+"cpv": 4.17,
+"err": 13.3,
+"fmt": "24",
+"price": 34965.0,
+"price_nodisc": 34965.0
+},
+{
+"reach": 9844,
+"cpv": 4.55,
+"err": 15.6,
+"fmt": "48",
+"price": 44755.2,
+"price_nodisc": 44755.2
+},
+{
+"reach": 9637,
+"cpv": 4.93,
+"err": 15.2,
+"fmt": "72",
+"price": 47552.4,
+"price_nodisc": 47552.4
+}
+],
+"er": 1.54
+},
+{
+"u": "trendo",
+"menu_subs": 67817,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "shahabstore14",
+"menu_subs": 53348,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "voron_fpv",
+"menu_subs": 116594,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "data_analysis_ml",
+"menu_subs": 50656,
+"menu_cat": "tech",
+"code": "200",
+"subs": 50655,
+"price_from": 25874.1,
+"category": "Интернет технологии",
+"desc": "Все о аналитике даннных, Data Science , machine learning , нейронных сетях",
+"formats": [
+{
+"reach": 3674,
+"cpv": 7.04,
+"err": 7.3,
+"fmt": "24",
+"price": 25874.1,
+"price_nodisc": 25874.1
+},
+{
+"reach": 4131,
+"cpv": 6.6,
+"err": 8.2,
+"fmt": "48",
+"price": 27272.7,
+"price_nodisc": 27272.7
+},
+{
+"reach": 4175,
+"cpv": 6.87,
+"err": 8.2,
+"fmt": "72",
+"price": 28671.3,
+"price_nodisc": 28671.3
+}
+],
+"er": 3.7
+},
+{
+"u": "hotcodeit",
+"menu_subs": 159176,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "rkn_tg",
+"menu_subs": 63491,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "denissexy",
+"menu_subs": 137565,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Bezprovodov174",
+"menu_subs": 87836,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ithumor",
+"menu_subs": 60568,
+"menu_cat": "tech",
+"code": "200",
+"subs": 60583,
+"price_from": 76923.0,
+"category": "Юмор и мемы",
+"desc": "Сливаем ваше время в /dev/null — развлекаем программистов.",
+"formats": [
+{
+"reach": 8005,
+"cpv": 9.61,
+"err": 13.2,
+"fmt": "24",
+"price": 76923.0,
+"price_nodisc": 76923.0
+},
+{
+"reach": 8670,
+"cpv": 9.68,
+"err": 14.3,
+"fmt": "48",
+"price": 83916.0,
+"price_nodisc": 83916.0
+},
+{
+"reach": 9639,
+"cpv": 9.43,
+"err": 15.9,
+"fmt": "72",
+"price": 90909.0,
+"price_nodisc": 90909.0
+}
+],
+"er": 1.91
+},
+{
+"u": "honor_rus",
+"menu_subs": 60340,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "datais",
+"menu_subs": 62376,
+"menu_cat": "tech",
+"code": "200",
+"subs": 62236,
+"price_from": 15384.6,
+"category": "Интернет технологии",
+"desc": "Технологии. Интернет. Безопасность.",
+"formats": [
+{
+"reach": 4358,
+"cpv": 3.53,
+"err": 7.0,
+"fmt": "24",
+"price": 15384.6,
+"price_nodisc": 15384.6
+},
+{
+"reach": 4735,
+"cpv": 3.54,
+"err": 7.6,
+"fmt": "48",
+"price": 16783.2,
+"price_nodisc": 16783.2
+},
+{
+"reach": 5293,
+"cpv": 3.44,
+"err": 8.5,
+"fmt": "72",
+"price": 18181.8,
+"price_nodisc": 18181.8
+}
+],
+"er": 3.69
+},
+{
+"u": "ITSTAND_ORG",
+"menu_subs": 155919,
+"menu_cat": "tech",
+"code": "200",
+"subs": 0,
+"price_from": 1398.6,
+"category": "Интернет технологии",
+"desc": "🔥 Публикации и Новости IT мира\n📢 Конференции, Подкасты, Митапы\n📚 Обучающий контент\n💼 Вакансии\n🤝 Сотрудничество: @fidelin",
+"formats": [],
+"er": null
+},
+{
+"u": "texno_yard",
+"menu_subs": 95373,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "programmer_memes",
+"menu_subs": 51202,
+"menu_cat": "tech",
+"code": "200",
+"subs": 51128,
+"price_from": 20979.0,
+"category": "Интернет технологии",
+"desc": "Айтишный юмор для настоящих ценителей кода и всего что с ним связано.",
+"formats": [
+{
+"reach": 4823,
+"cpv": 4.35,
+"err": 9.4,
+"fmt": "24",
+"price": 20979.0,
+"price_nodisc": 20979.0
+},
+{
+"reach": 5116,
+"cpv": 4.78,
+"err": 10.0,
+"fmt": "48",
+"price": 24475.5,
+"price_nodisc": 24475.5
+}
+],
+"er": 2.79
+},
+{
+"u": "Veo3clips",
+"menu_subs": 58530,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "PushEnter",
+"menu_subs": 91288,
+"menu_cat": "tech",
+"code": "200",
+"subs": 91200,
+"price_from": 30643.59,
+"category": "Интернет технологии",
+"desc": "Формат 1/24 = 1/30",
+"formats": [
+{
+"reach": 3663,
+"cpv": 8.37,
+"err": 4.0,
+"fmt": "24",
+"price": 30643.59,
+"price_nodisc": 30643.59
+}
+],
+"er": 1.5
+},
+{
+"u": "netstalkers",
+"menu_subs": 64748,
+"menu_cat": "tech",
+"code": "200",
+"subs": 65590,
+"price_from": 41958.0,
+"category": "Маркетинг и PR",
+"desc": "Телеграм канал YouTube проекта Netstalkers. Фиксируем влияние диджитального мира на реальный и наоборот.",
+"formats": [],
+"er": null
+},
+{
+"u": "mashagpt",
+"menu_subs": 145500,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "its_capitan",
+"menu_subs": 84544,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "banana_pros",
+"menu_subs": 57623,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "cyber_cabb",
+"menu_subs": 81639,
+"menu_cat": "tech",
+"code": "200",
+"subs": 83545,
+"price_from": 9090.9,
+"category": "Интернет технологии",
+"desc": "Безопасность в сети, IT-технологии, полезные фишки и сервисы.",
+"formats": [],
+"er": null
+},
+{
+"u": "realmerussia",
+"menu_subs": 94847,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "promtyi",
+"menu_subs": 94587,
+"menu_cat": "tech",
+"code": "200",
+"subs": 36887,
+"price_from": 4895.1,
+"category": "Интернет технологии",
+"desc": "Бесплатные готовые промты для генерации изображений.",
+"formats": [],
+"er": null
+},
+{
+"u": "JarvisNew",
+"menu_subs": 86097,
+"menu_cat": "tech",
+"code": "200",
+"subs": 90450,
+"price_from": 5594.4,
+"category": "Интернет технологии",
+"desc": "Джарвис, твой новостной ассистент в мире нейросетей. Лучший контент — здесь!",
+"formats": [],
+"er": null
+},
+{
+"u": "iQOO_rus",
+"menu_subs": 94129,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "lifegoodd1",
+"menu_subs": 183730,
+"menu_cat": "tech",
+"code": "200",
+"subs": 71630,
+"price_from": 12594.39,
+"category": "Интернет технологии",
+"desc": "Меня зовут Артур и добро пожаловать в техно-семью❤️",
+"formats": [],
+"er": null
+},
+{
+"u": "androidclubnik",
+"menu_subs": 67653,
+"menu_cat": "tech",
+"code": "200",
+"subs": 106301,
+"price_from": 4895.1,
+"category": "Интернет технологии",
+"desc": "Привет, меня зовут Никита и я техноблогер.\nПриглашаю вас в первый Android Club.",
+"formats": [],
+"er": null
+},
+{
+"u": "prohitec",
+"menu_subs": 69643,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "itdidgest",
+"menu_subs": 63069,
+"menu_cat": "tech",
+"code": "200",
+"subs": 9,
+"price_from": 34965.0,
+"category": "Интернет технологии",
+"desc": "- Новости IT - Безопасность в сети - Социальная инженерия И мой личный опыт. Ссылка:  Сайт: Менеджер: № 5904649143",
+"formats": [],
+"er": null
+},
+{
+"u": "vapcbuild",
+"menu_subs": 101260,
+"menu_cat": "tech",
+"code": "200",
+"subs": 71698,
+"price_from": 11188.8,
+"category": "Интернет технологии",
+"desc": "Взрослая аудитория, интересующаяся миром IT технологий, привлеченная с авторского YT канала.",
+"formats": [],
+"er": null
+},
+{
+"u": "proglibrary",
+"menu_subs": 78289,
+"menu_cat": "tech",
+"code": "200",
+"subs": 78257,
+"price_from": 90909.0,
+"category": "Интернет технологии",
+"desc": "Полезные материалы по всему, что может быть интересно программисту.",
+"formats": [
+{
+"reach": 3302,
+"cpv": 27.53,
+"err": 4.2,
+"fmt": "24",
+"price": 90909.0,
+"price_nodisc": 90909.0
+},
+{
+"reach": 3641,
+"cpv": 25.16,
+"err": 4.7,
+"fmt": "48",
+"price": 91608.3,
+"price_nodisc": 91608.3
+},
+{
+"reach": 3925,
+"cpv": 23.52,
+"err": 5.0,
+"fmt": "72",
+"price": 92307.6,
+"price_nodisc": 92307.6
+}
+],
+"er": 2.14
+},
+{
+"u": "pygen_ru",
+"menu_subs": 50240,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "let_media",
+"menu_subs": 63609,
+"menu_cat": "tech",
+"code": "200",
+"subs": 85526,
+"price_from": 13972.01,
+"category": "Интернет технологии",
+"desc": "Медиа про нейросети, диджитал-маркетинг и интернет-тренды.",
+"formats": [],
+"er": null
+},
+{
+"u": "PythonPortal",
+"menu_subs": 50421,
+"menu_cat": "tech",
+"code": "200",
+"subs": 50346,
+"price_from": 25174.8,
+"category": "Интернет технологии",
+"desc": "Присоединяйтесь к нашему каналу и погрузитесь в мир для Python-разработчика",
+"formats": [
+{
+"reach": 2336,
+"cpv": 10.78,
+"err": 4.6,
+"fmt": "24",
+"price": 25174.8,
+"price_nodisc": 25174.8
+}
+],
+"er": 2.83
+},
+{
+"u": "BROwser_exe",
+"menu_subs": 64958,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "YANtech",
+"menu_subs": 50582,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "blogprogrammers",
+"menu_subs": 68018,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "tecnorussia",
+"menu_subs": 54179,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "sakutin_csharp",
+"menu_subs": 71874,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "m0rtymerr_channel",
+"menu_subs": 80429,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "reggy_photo_ai",
+"menu_subs": 88361,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "moscow_2030",
+"menu_subs": 56190,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "pochinka",
+"menu_subs": 81918,
+"menu_cat": "tech",
+"code": "200",
+"subs": 81807,
+"price_from": 6993.0,
+"category": "Интернет технологии",
+"desc": "Первый полезный техноблог",
+"formats": [
+{
+"reach": 1500,
+"cpv": 4.66,
+"err": 1.8,
+"fmt": "24",
+"price": 6993.0,
+"price_nodisc": 6993.0
+},
+{
+"reach": 2046,
+"cpv": 4.79,
+"err": 2.5,
+"fmt": "48",
+"price": 9790.2,
+"price_nodisc": 9790.2
+},
+{
+"reach": 2315,
+"cpv": 5.44,
+"err": 2.8,
+"fmt": "72",
+"price": 12587.4,
+"price_nodisc": 12587.4
+}
+],
+"er": 1.7
+},
+{
+"u": "osint_mindset",
+"menu_subs": 64703,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "open_source_friend",
+"menu_subs": 52302,
+"menu_cat": "tech",
+"code": "200",
+"subs": 52302,
+"price_from": 12307.68,
+"category": "Интернет технологии",
+"desc": "Подборка полезных программ с открытым исходным кодом",
+"formats": [
+{
+"reach": 5297,
+"cpv": 2.32,
+"err": 10.1,
+"fmt": "24",
+"price": 12307.68,
+"price_nodisc": 12307.68
+},
+{
+"reach": 6303,
+"cpv": 1.97,
+"err": 12.1,
+"fmt": "48",
+"price": 12447.54,
+"price_nodisc": 12447.54
+},
+{
+"reach": 6845,
+"cpv": 1.84,
+"err": 13.1,
+"fmt": "72",
+"price": 12587.4,
+"price_nodisc": 12587.4
+}
+],
+"er": 3.5
+},
+{
+"u": "IT_Portal",
+"menu_subs": 100095,
+"menu_cat": "tech",
+"code": "200",
+"subs": 99970,
+"price_from": 37762.2,
+"category": "Интернет технологии",
+"desc": "Один из самых крупных каналов про IT/программирование",
+"formats": [
+{
+"reach": 7902,
+"cpv": 4.78,
+"err": 7.9,
+"fmt": "24",
+"price": 37762.2,
+"price_nodisc": 37762.2
+}
+],
+"er": 1.81
+},
+{
+"u": "iznytri",
+"menu_subs": 80270,
+"menu_cat": "tech",
+"code": "200",
+"subs": 80698,
+"price_from": 11748.24,
+"category": "Работа и вакансии",
+"desc": "Показываем внутрянку IT профессий. Без прикрас",
+"formats": [],
+"er": null
+},
+{
+"u": "newtech_digest",
+"menu_subs": 168140,
+"menu_cat": "tech",
+"code": "200",
+"subs": 0,
+"price_from": 19580.4,
+"category": "Наука и технологии",
+"desc": "Бизнес, технологиии, инновации",
+"formats": [],
+"er": null
+},
+{
+"u": "geekneural",
+"menu_subs": 62801,
+"menu_cat": "tech",
+"code": "200",
+"subs": 82099,
+"price_from": 8391.6,
+"category": "Интернет технологии",
+"desc": "Первый и лучший канал про нейросети на рынке ИТ\nПрограммисты, интересующиеся технологиями, нейросетями и диджиталом",
+"formats": [],
+"er": null
+},
+{
+"u": "dddOutlet",
+"menu_subs": 82196,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "ai2smm",
+"menu_subs": 59038,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "LakiNeuro",
+"menu_subs": 58723,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "FPV_vyZOV",
+"menu_subs": 68340,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "chestniyblog",
+"menu_subs": 79535,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "python2day",
+"menu_subs": 63769,
+"menu_cat": "tech",
+"code": "200",
+"subs": 63752,
+"price_from": 13566.42,
+"category": "Интернет технологии",
+"desc": "— Уроки по программированию\n— Созданию ботов и сайтов \n— Приложений на смартфон \n— Парсингу сайтов, машинному обучению и",
+"formats": [
+{
+"reach": 4903,
+"cpv": 2.77,
+"err": 7.7,
+"fmt": "24",
+"price": 13566.42,
+"price_nodisc": 13566.42
+},
+{
+"reach": 5550,
+"cpv": 2.65,
+"err": 8.7,
+"fmt": "48",
+"price": 14685.3,
+"price_nodisc": 14685.3
+},
+{
+"reach": 6369,
+"cpv": 2.64,
+"err": 10.0,
+"fmt": "72",
+"price": 16783.2,
+"price_nodisc": 16783.2
+}
+],
+"er": 3.39
+},
+{
+"u": "miramedia_ru",
+"menu_subs": 124986,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "FostersNews",
+"menu_subs": 158848,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "elonmusk_ru",
+"menu_subs": 60708,
+"menu_cat": "tech",
+"code": "200",
+"subs": 67236,
+"price_from": 34965.0,
+"category": "Бизнес и стартапы",
+"desc": "Илон Маск - cооснователь компании PayPal; основатель, совладелец, генеральный директор и главный инженер компании SpaceX",
+"formats": [],
+"er": null
+},
+{
+"u": "dedairu",
+"menu_subs": 54600,
+"menu_cat": "tech",
+"code": "000"
+},
+{
+"u": "tproger",
+"menu_subs": 78292,
+"menu_cat": "tech",
+"code": "200",
+"subs": 78196,
+"price_from": 90909.0,
+"category": "Интернет технологии",
+"desc": "Tproger — одно из крупнейших в рунете объединений программистов. Всё самое интересное по программированию. Образовательн",
+"formats": [
+{
+"reach": 5087,
+"cpv": 17.87,
+"err": 6.5,
+"fmt": "24",
+"price": 90909.0,
+"price_nodisc": 90909.0
+},
+{
+"reach": 5461,
+"cpv": 16.72,
+"err": 7.0,
+"fmt": "48",
+"price": 91328.58,
+"price_nodisc": 91328.58
+},
+{
+"reach": 5893,
+"cpv": 15.55,
+"err": 7.5,
+"fmt": "72",
+"price": 91608.3,
+"price_nodisc": 91608.3
+}
+],
+"er": 1.04
+},
+{
+"u": "vistehno",
+"menu_subs": 71231,
+"menu_cat": "tech",
+"code": "200",
+"subs": 71068,
+"price_from": 20279.7,
+"category": "Интернет технологии",
+"desc": "Нейросети, Искусственный интеллект. Высокие технологии, chatgpt",
+"formats": [
+{
+"reach": 4391,
+"cpv": 4.62,
+"err": 6.2,
+"fmt": "24",
+"price": 20279.7,
+"price_nodisc": 20279.7
+},
+{
+"reach": 4852,
+"cpv": 4.38,
+"err": 6.8,
+"fmt": "48",
+"price": 21258.72,
+"price_nodisc": 21258.72
+},
+{
+"reach": 4981,
+"cpv": 4.55,
+"err": 7.0,
+"fmt": "72",
+"price": 22657.32,
+"price_nodisc": 22657.32
+}
+],
+"er": 1.32
+},
+{
+"u": "chatgptme",
+"menu_subs": 103703,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "Za5minyt",
+"menu_subs": 72831,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "repremium",
+"menu_subs": 110778,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "media_apple",
+"menu_subs": 126849,
+"menu_cat": "tech",
+"code": "200",
+"subs": 126626,
+"price_from": 41958.0,
+"category": "Интернет технологии",
+"desc": "Самое крупное медиа про продукты компании Apple: новости, обзоры, интересные фишки. Отлично заходит все связанное с IT.",
+"formats": [
+{
+"reach": 14716,
+"cpv": 2.85,
+"err": 11.6,
+"fmt": "24",
+"price": 41958.0,
+"price_nodisc": 41958.0
+},
+{
+"reach": 16332,
+"cpv": 2.83,
+"err": 12.9,
+"fmt": "48",
+"price": 46153.8,
+"price_nodisc": 46153.8
+}
+],
+"er": 1.24
+},
+{
+"u": "ironmanexpress",
+"menu_subs": 58368,
+"menu_cat": "tech",
+"code": "200",
+"subs": 46907,
+"price_from": 3776.22,
+"category": "Скидки и акции",
+"desc": "Алиэкспресс",
+"formats": [],
+"er": null
+},
+{
+"u": "vibecoding_tg",
+"menu_subs": 63119,
+"menu_cat": "tech",
+"code": "200",
+"subs": 63291,
+"price_from": 146853.0,
+"category": "Интернет технологии",
+"desc": "Авторский, самый крупный канал по вайбкодингу. ЦА - вайбкодеры, интересующиеся ИИ, платежоспособные и взрослые. Трафик и",
+"formats": [
+{
+"reach": 14837,
+"cpv": 9.9,
+"err": 23.5,
+"fmt": "24",
+"price": 146853.0,
+"price_nodisc": 146853.0
+},
+{
+"reach": 16940,
+"cpv": 10.73,
+"err": 26.8,
+"fmt": "48",
+"price": 181816.6,
+"price_nodisc": 181816.6
+}
+],
+"er": 1.05
+},
+{
+"u": "ai_newz",
+"menu_subs": 97046,
+"menu_cat": "tech",
+"code": "200",
+"subs": 23670,
+"price_from": 23076.9,
+"category": "Наука и технологии",
+"desc": "Культурно освещаю самые и не самые важные новости из мира AI, и облагораживаю их своим авторитетным профессиональным мне",
+"formats": [],
+"er": null
+},
+{
+"u": "linuxos_tg",
+"menu_subs": 56622,
+"menu_cat": "tech",
+"code": "200",
+"subs": 56601,
+"price_from": 41958.0,
+"category": "Интернет технологии",
+"desc": "Самый крупный канал по Линукс - аудитория  Девопс/Сисадмин/InfoSec/ИБ/Программисты",
+"formats": [
+{
+"reach": 9239,
+"cpv": 4.54,
+"err": 16.3,
+"fmt": "24",
+"price": 41958.0,
+"price_nodisc": 41958.0
+},
+{
+"reach": 10656,
+"cpv": 4.59,
+"err": 18.8,
+"fmt": "48",
+"price": 48951.0,
+"price_nodisc": 48951.0
+}
+],
+"er": 2.58
+},
+{
+"u": "facebox_ai_prompts",
+"menu_subs": 171236,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "addmeto",
+"menu_subs": 71845,
+"menu_cat": "tech",
+"code": "200",
+"subs": 39390,
+"price_from": 38461.5,
+"category": "Маркетинг и PR",
+"desc": "филиал addmeto.сс на земле",
+"formats": [],
+"er": null
+},
+{
+"u": "aiaiai",
+"menu_subs": 176124,
+"menu_cat": "tech",
+"code": "200",
+"subs": 248659,
+"price_from": 29370.6,
+"category": "Интернет технологии",
+"desc": "Нейросети и Технологии.",
+"formats": [],
+"er": null
+},
+{
+"u": "stasyagloss",
+"menu_subs": 52912,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "gadget_bar_ru",
+"menu_subs": 73969,
+"menu_cat": "tech",
+"code": "404"
+},
+{
+"u": "progbook",
+"menu_subs": 139317,
+"menu_cat": "tech",
+"code": "200",
+"subs": 139289,
+"price_from": 104895.0,
+"category": "Интернет технологии",
+"desc": "Книги для программистов",
+"formats": [
+{
+"reach": 4856,
+"cpv": 21.6,
+"err": 3.5,
+"fmt": "24",
+"price": 104895.0,
+"price_nodisc": 104895.0
+},
+{
+"reach": 11256,
+"cpv": 9.38,
+"err": 8.1,
+"fmt": "48",
+"price": 105594.3,
+"price_nodisc": 105594.3
+},
+{
+"reach": 11850,
+"cpv": 8.97,
+"err": 8.5,
+"fmt": "72",
+"price": 106293.6,
+"price_nodisc": 106293.6
+}
+],
+"er": 1.42
+},
+{
+"u": "s7vice",
+"menu_subs": 61885,
+"menu_cat": "tech",
+"code": "200",
+"subs": 5072,
+"price_from": 4195.8,
+"category": "Интернет технологии",
+"desc": "Ваш лучший VPN🔝 Тех. поддержка Глава",
+"formats": [],
+"er": null
+}
+]
