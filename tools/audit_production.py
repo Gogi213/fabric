@@ -308,6 +308,11 @@ for g, names in (("массовый", MASS), ("экспертный", EXP)):
 for lab, hs in (("13–16 (4 ч)", range(13, 17)), ("13–15 (3 ч)", range(13, 16)), ("08–11", range(8, 12)),
                 ("18–20", range(18, 21)), ("06–20", range(6, 21))):
     print(f"    пул {lab}: {pool[list(hs)].sum()/pool.sum()*100:.1f} %  | равновзв.: {eq[list(hs)].sum()*100:.1f} %")
+for lab, hs in (("09–18", range(9, 19)), ("06–20", range(6, 21))):
+    for g, names in (("масс", MASS), ("эксп", EXP)):
+        v = [H[c][list(hs)].sum() / H[c].sum() * 100 for c in names]
+        bm = RNG.choice(v, (B, len(v))).mean(axis=1)
+        print(f"    доля в {lab} UTC, {g}: среднее по каналам {np.mean(v):.1f} % [{q(bm,.025):.1f}; {q(bm,.975):.1f}]")
 act = pool[6:21] / pool[6:21].sum()
 print(f"  Неравномерность внутри 06–20 UTC: max/min часа = {act.max()/act.min():.2f}; "
       f"энтропия/макс = {-(act*np.log(act)).sum()/math.log(15):.3f} (1 = равномерно)")
@@ -368,6 +373,22 @@ print(f"  Механизм: log-просмотры ~ log(часов до сле�
 ng = [math.exp(r[0]) for c in RU for r in rows_g[c] if r[3] >= 21 or r[3] < 6]
 dg = [math.exp(r[0]) for c in RU for r in rows_g[c] if 6 <= r[3] < 21]
 print(f"  медианная пауза до следующего поста: после ночного поста {st.median(ng):.1f} ч, после дневного {st.median(dg):.1f} ч")
+
+# docs/05 §2.2: «в пик копии расходятся за минуты, вне пика окно спокойнее» — лаг 1-й -> 2-й канал по кластерам
+CL = J("clusters.json")["clusters"]
+lagp, lago = [], []
+for cl in CL:
+    ms = sorted(cl["members"], key=lambda m: m["dt"])
+    t1 = dt(ms[0]["dt"])
+    nxt = next((m for m in ms[1:] if m["ch"] != ms[0]["ch"]), None)
+    if not nxt:
+        continue
+    lag = (dt(nxt["dt"]) - t1).total_seconds() / 60
+    (lagp if 13 <= t1.hour <= 17 else lago).append(lag)
+print(f"  docs/05 §2.2: лаг до 2-го канала в кластерах, первый пост в 13–17 UTC: медиана {st.median(lagp):.0f} мин "
+      f"(n={len(lagp)}); вне 13–17: {st.median(lago):.0f} мин (n={len(lago)}); MW p={mw(lagp, lago):.2f}")
+print(f"  «13:00–17:00 = 29 % постов» (docs/05): пул 13:00–16:59 = {pool[13:17].sum()/pool.sum()*100:.1f} %, "
+      f"13:00–17:59 = {pool[13:18].sum()/pool.sum()*100:.1f} %")
 
 # =================================================================== 3. реклама
 hr("3. РЕКЛАМНАЯ НАГРУЗКА (docs/08 §4)")
@@ -587,6 +608,14 @@ bb = np.array(bb)
 print(f"  log10 ER = a + b*log10 subs + c*[эксп]: b = {beta[1]:.2f} [{q(bb[:,1],.025):.2f}; {q(bb[:,1],.975):.2f}], "
       f"c = {beta[2]:.2f} [{q(bb[:,2],.025):.2f}; {q(bb[:,2],.975):.2f}] (x{10**beta[2]:.2f} "
       f"[{10**q(bb[:,2],.025):.2f}; {10**q(bb[:,2],.975):.2f}])")
+X0 = np.column_stack([np.ones(22), ls])
+b0 = np.linalg.lstsq(X0, le, rcond=None)[0]
+res = le - X0 @ b0
+print(f"  ER по размеру: log10 ER = {b0[0]:.2f} {b0[1]:+.2f}*log10 subs; остатки (x раз к ожидаемому по размеру): " +
+      ", ".join(f"{c}:{10**r:.2f}" for c, r in sorted(zip(RU, res), key=lambda x: x[1])))
+print(f"  прогноз этой подгонки для 30K (вне диапазона данных!): ER {10**(b0[0]+b0[1]*math.log10(3e4)):.0f} %")
+print(f"  валовые просмотры/сутки на подписчика при равном размере (по цифрам docs/08): масс 3.86 %*13.0 = {3.86*13.0/100:.2f}, "
+      f"эксп 13.30 %*2.7 = {13.30*2.7/100:.2f}")
 X1 = np.column_stack([np.ones(22), [1.0 if c in EXP else 0.0 for c in RU]])
 b1 = np.linalg.lstsq(X1, le, rcond=None)[0]
 print(f"  без контроля размера: c = x{10**b1[1]:.2f}")

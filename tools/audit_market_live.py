@@ -186,3 +186,23 @@ def run_menu_pages(pages):
 if __name__ == "__main__" and "menupages" in sys.argv:
     run_menu_pages([int(x) for x in sys.argv[sys.argv.index("menupages") + 1:]])
     save()
+
+
+def run_raw(key, urls):
+    X = RES.setdefault(key, {})
+    for u in urls:
+        if u in X and "err" not in X[u]:
+            continue
+        r = get(u)
+        if r is None:
+            X[u] = {"err": "net"}
+        else:
+            t = re.sub(r"<!--.*?-->", " ", BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True))
+            X[u] = {"status": r.status_code, "final_url": r.url, "bytes": len(r.text), "text": t[:20000]}
+        save()
+        print(key, u, X[u].get("status"), X[u].get("bytes"), file=sys.stderr)
+
+
+if __name__ == "__main__" and "raw" in sys.argv:
+    run_raw("raw", sys.argv[sys.argv.index("raw") + 1:])
+    save()

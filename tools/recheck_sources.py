@@ -124,9 +124,29 @@ out["self_sites"] = SELF_SITE
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Классификация каждой ссылки
+for _ch, _v in links.items():
+    for _p in _v:
+        _p["_ch"] = _ch
+
+
+def erid_links(p):
+    """erid= в ссылках, кроме ссылки на собственный канал: @whackdoor ставит erid в подпись
+    «t.me/whackdoor?erid=…» и на редакционных постах — это не признак рекламы поста."""
+    own = {p["_ch"].lower()} | {a for a, b in ALIAS.items() if b == p["_ch"]}
+    out = []
+    for u in p["links"]:
+        if not ERID_PARAM.search(u):
+            continue
+        m = TG.search(u)
+        if m and m.group(1).lower() in own:
+            continue
+        out.append(u)
+    return out
+
+
 def post_is_ad(p, strict=False):
     blob = p["text"] + " " + " ".join(p["links"])
-    if any(ERID_PARAM.search(u) for u in p["links"]):
+    if erid_links(p):
         return True
     if strict:
         return bool(ADTAG_STRICT.search(p["text"]))
@@ -339,7 +359,11 @@ digit_only = sum(1 for ch in RU for p in links[ch]
 any_bare = sum(1 for ch in RU for p in links[ch]
                if ERID_BARE.search(p["text"] + " " + " ".join(p["links"])))
 real_erid = sum(1 for ch in RU for p in links[ch]
-                if re.search(r"\berid\b", p["text"], re.I) or any(ERID_PARAM.search(u) for u in p["links"]))
+                if re.search(r"\berid\b", p["text"], re.I) or erid_links(p))
+own_erid = sum(1 for ch in RU for p in links[ch]
+               if any(ERID_PARAM.search(u) for u in p["links"]) and not erid_links(p)
+               and not re.search(r"\berid\b", p["text"], re.I))
+print(f"  Постов, где erid есть только в ссылке на собственный канал (не считаются рекламой): {own_erid}")
 print(f"\n  Проектный ERID_BARE сработал в {any_bare} постах; из них {digit_only} — только чисто цифровые строки "
       f"(ID твитов в ссылках x.com), настоящих erid среди них нет.")
 print(f"  Постов с реальным erid (слово erid в тексте или erid= в ссылке): {real_erid}")
