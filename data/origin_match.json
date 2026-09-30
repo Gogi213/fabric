@@ -840,14 +840,14 @@
     "register": 1,
     "hackernews": 1
    },
-   "earliest_src": "openai",
-   "earliest_cat": "lab",
-   "earliest_title": "Introducing dots",
-   "lag_min": 1029.6833333333334,
+   "earliest_src": "hackernews",
+   "earliest_cat": "agg",
+   "earliest_title": "Dots: Always-on agents",
+   "lag_min": 1.7333333333333334,
    "best_sim": 0.8131680488586426,
    "best_src": "3dnews",
    "best_title": "OpenAI представила Dots — ИИ-агентов с собственными компьютерами, которые могут работать круглосуточно без пользователя",
-   "earliest_sim": 0.7095791101455688
+   "earliest_sim": 0.7645100355148315
   },
   {
    "channels": [

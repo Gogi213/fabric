@@ -72,6 +72,10 @@ def anchors(text):
             out.add(w)
     return out
 
+# Ленты с неточным временем (data/feeds_probe.json: time_class ≠ second/minute_precision):
+# OpenAI — тихоокеанское время с подписью GMT, округлено до часа; остальные — полночь или константа.
+IMPRECISE = {"openai", "google_ai", "google_gemini", "apple_ml", "huggingface_blog", "arxiv_cs_ai",
+             "arxiv_cs_cl", "tldr_ai", "tldr_tech", "hf_daily_papers", "smol_ai"}
 AD = re.compile(r"(\berid\b|#реклама|реклама\.\s*рекламодатель|на правах рекламы)", re.I)
 URL = re.compile(r"https?://\S+")
 EMO = re.compile("[\U0001F000-\U0001FAFF☀-➿️‍]")
@@ -206,7 +210,8 @@ for s in stories:
     matched = strict_m          # всё дальнейшее — по строгому уровню
     cats = Counter(items[j]["cat"] for j in matched)
     srcs = Counter(items[j]["src"] for j in matched)
-    earliest = min(matched, key=lambda j: tf[j]) if matched else None
+    precise = [j for j in matched if items[j]["src"] not in IMPRECISE]
+    earliest = min(precise, key=lambda j: tf[j]) if precise else None      # лаг — только по точным лентам
     bestj = max(matched, key=lambda j: matched[j]) if matched else None
     rows.append({
         "channels": sorted({posts[i]["ch"] for i in s}), "n_posts": len(s),
@@ -224,14 +229,16 @@ for s in stories:
     })
 
 N = len(rows)
-m = [r for r in rows if r["matched"]]
+m = [r for r in rows if r["matched"] and r["lag_min"] is not None]
+print(f"(совпадения только с лентами неточного времени, без лага: "
+      f"{sum(1 for r in rows if r['matched'] and r['lag_min'] is None)})")
 multi = [r for r in rows if len(r["channels"]) >= 2]
 mm = [r for r in multi if r["matched"]]
 lo = [r for r in rows if r["loose_matched"]]
 print(f"\nМЯГКИЙ уровень (верхняя граница, точность по аудиту ≈ 50 %): {len(lo)} из {len(rows)} сюжетов "
       f"({100 * len(lo) / len(rows):.0f} %)")
 print(f"СТРОГИЙ уровень (sim ≥ {STRICT_SIM} или sim ≥ {STRICT_ENT_SIM} и ≥2 общих латинских/числовых якоря):")
-print(f"сюжетов с совпадением в фидах: {len(m)} из {N} ({100 * len(m) / N:.0f} %); "
+print(f"сюжетов с совпадением в фидах: {sum(1 for r in rows if r['matched'])} из {N} ({100 * len(m) / N:.0f} %); "
       f"среди сюжетов ≥2 каналов: {len(mm)} из {len(multi)} ({100 * len(mm) / max(len(multi), 1):.0f} %)")
 before = [r for r in m if r["lag_min"] > 0]
 print(f"фид раньше первого поста: {len(before)} из {len(m)}; медиана лага {st.median([r['lag_min'] for r in before]) if before else float('nan'):.0f} мин")
