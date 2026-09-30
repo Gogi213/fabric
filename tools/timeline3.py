@@ -1,9 +1,9 @@
-import json, sys, time
+import json, sys, time, os
 from datetime import datetime, timezone, timedelta
 import requests
 from xml.etree import ElementTree as ET
 
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 S = requests.Session()
 S.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"})
 

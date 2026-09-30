@@ -1,10 +1,10 @@
-import json, re, sys
+import json, re, sys, os
 from collections import defaultdict, Counter
 from datetime import datetime, timedelta
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 ru = json.load(open(D + "posts.json", encoding="utf-8"))
 en = json.load(open(D + "posts_en.json", encoding="utf-8"))
 

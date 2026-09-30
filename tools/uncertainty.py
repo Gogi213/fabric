@@ -9,12 +9,12 @@
 
 Запуск: python tools/uncertainty.py  -> data/uncertainty.json + печать отчёта
 """
-import json, re, math, random, statistics as st
+import json, re, math, random, statistics as st, os
 from collections import Counter, defaultdict
 from datetime import datetime
 
 random.seed(20260930)
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 
 MASS = ["whackdoor", "bugnotfeature", "technomedia", "exploitex", "naebnet",
         "trends", "technomotel", "hiaimedia", "rozetked", "d_code", "gptpublic"]

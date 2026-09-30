@@ -114,7 +114,7 @@ if __name__ == "__main__":
         nl = sum(len(p["links"]) for p in ps)
         nm = sum(len(p["mentions"]) for p in ps)
         print(f"  {u:32s} posts={len(ps):4d} links={nl:4d} mentions={nm:4d}", file=sys.stderr)
-    with open("C:/visual projects/parser/data/links.json", "w",
+    with open(os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "links.json"), "w",
               encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False)
     print("saved", sum(len(v) for v in out.values()), file=sys.stderr)

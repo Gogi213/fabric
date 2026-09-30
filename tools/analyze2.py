@@ -1,10 +1,10 @@
-import json, re, sys
+import json, re, sys, os
 from collections import defaultdict, Counter
 from datetime import datetime
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-P = "C:/visual projects/parser/data/posts.json"
+P = os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "posts.json")
 data = json.load(open(P, encoding="utf-8"))
 
 # ---------- normalize ----------
@@ -168,6 +168,6 @@ json.dump({
                      "text": p["text"][:180],
                      "url": f"https://t.me/{p['ch']}/{p['id']}"} for p in r["ps"]],
     } for r in rows],
-}, open("C:/visual projects/parser/data/clusters.json", "w",
+}, open(os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "clusters.json"), "w",
         encoding="utf-8"), ensure_ascii=False, indent=1)
 print("\nwrote clusters.json", file=sys.stderr)

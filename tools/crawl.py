@@ -122,9 +122,9 @@ if __name__ == "__main__":
         out[u] = posts
         print(f"  {len(posts)} posts, oldest={posts[-1]['dt'][:10] if posts else '-'}",
               file=sys.stderr)
-    outfile = ("C:/visual projects/parser/data/posts_en.json"
+    outfile = (os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "posts_en.json")
                if os.environ.get("EN_ONLY") else
-               "C:/visual projects/parser/data/posts.json")
+               os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "posts.json"))
     with open(outfile, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False)
     print("total", sum(len(v) for v in out.values()), "->", outfile, file=sys.stderr)

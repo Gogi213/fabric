@@ -7,11 +7,11 @@
 
 Метрика: rx/просм — отношение, слабо зависящее от возраста.
 """
-import json, re, statistics as st
+import json, re, statistics as st, os
 from collections import defaultdict
 from datetime import datetime
 
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 R = json.load(open(D + "reactions.json", encoding="utf-8"))
 MASS = ["whackdoor", "bugnotfeature", "technomedia", "exploitex", "naebnet",
         "trends", "technomotel", "hiaimedia", "rozetked", "d_code", "gptpublic"]

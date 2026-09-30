@@ -1,3 +1,4 @@
+import os
 import requests, json, re, sys, time
 from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
@@ -73,7 +74,7 @@ alive = {h: v for h, v in res.items() if v["subs"]}
 print("ответили: %d, с численностью: %d" % (len(res), len(alive)), file=sys.stderr)
 
 json.dump({"by_category": cats, "channels": res},
-          open("C:/visual projects/parser/data/market_size.json", "w", encoding="utf-8"),
+          open(os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "market_size.json"), "w", encoding="utf-8"),
           ensure_ascii=False, indent=1)
 
 print("\n" + "=" * 100)

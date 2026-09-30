@@ -17,12 +17,12 @@
  11. Фронтир: суммарные реакции/мес против частоты (корректная метрика)
  12. Полная таблица сопряжённости по длине (проверка формулировки C4)
 """
-import json, re, math, random, statistics as st
+import json, re, math, random, statistics as st, os
 from collections import defaultdict, Counter
 from datetime import datetime, timedelta
 
 random.seed(20260930)
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 R = json.load(open(D + "reactions.json", encoding="utf-8"))
 MASS = ["whackdoor", "bugnotfeature", "technomedia", "exploitex", "naebnet",
         "trends", "technomotel", "hiaimedia", "rozetked", "d_code", "gptpublic"]

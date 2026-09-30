@@ -1,8 +1,8 @@
-import json, re, sys
+import json, re, sys, os
 from collections import Counter, defaultdict
 from urllib.parse import urlparse
 
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 data = json.load(open(D + "links.json", encoding="utf-8"))
 
 RU = ["whackdoor", "bugnotfeature", "technomedia", "exploitex", "naebnet",

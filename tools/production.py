@@ -15,7 +15,7 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 
 MASS = ["whackdoor", "bugnotfeature", "technomedia", "exploitex", "naebnet",
         "trends", "technomotel", "hiaimedia", "rozetked", "d_code", "gptpublic"]

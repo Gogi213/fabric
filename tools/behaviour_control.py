@@ -10,11 +10,11 @@
   3. смотрим концентрацию: сколько каналов/событий держат топ
   4. проверяем «эффект очереди»: первый пост пачки против следующих
 """
-import json, re, statistics as st
+import json, re, statistics as st, os
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 
-D = "C:/visual projects/parser/data/"
+D = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data") + os.sep
 R = json.load(open(D + "reactions.json", encoding="utf-8"))
 
 MASS = ["whackdoor", "bugnotfeature", "technomedia", "exploitex", "naebnet",

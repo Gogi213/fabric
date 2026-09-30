@@ -1,3 +1,4 @@
+import os
 import requests, re, json, sys, time
 from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
@@ -126,7 +127,7 @@ try:
 except Exception as e:
     print("totals err", e, file=sys.stderr)
 
-json.dump(OUT, open("C:/visual projects/parser/data/market_deep.json", "w",
+json.dump(OUT, open(os.path.join(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"), "market_deep.json"), "w",
                     encoding="utf-8"), ensure_ascii=False, indent=1)
 
 # ================= ВЫВОД =================
