@@ -31,7 +31,7 @@ EN = ["anthropic", "aipost", "hiaimediaen", "TheHackerNews", "GitHub", "news_cry
       "levelsio", "tldrtech", "AInews_en", "ml_news"]
 
 TG = re.compile(r"(?:^|//)(?:www\.)?(?:t\.me|telegram\.me)/([A-Za-z0-9_+]+)(?:/(\d+))?", re.I)
-ERID_PARAM = re.compile(r"[?&]erid=", re.I)
+ERID_PARAM = re.compile(r"\berid=", re.I)          # в ссылках & часто записан как &amp;
 ERID_BARE = re.compile(r"\b2[A-Za-z0-9]{15,25}\b")          # как в tools/production.py
 ADTAG = re.compile(r"(#реклама\b|#ad\b|\bреклама\b|\bрекламное сообщение\b|"
                    r"\bsponsored\b|\bpartnership\b)", re.I)
