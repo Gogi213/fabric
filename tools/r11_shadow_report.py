@@ -5,13 +5,16 @@
 
 1. Задержка лент: момент, когда элемент впервые появился в нашем опросе, минус время публикации
    в самой ленте (только элементы, появившиеся во время прогона, у лент с точным временем).
-2. Сюжеты каналов: новые посты (не форварды, ≥40 знаков) склеиваются так же, как в R3
-   (якорь, косинус ≥ 0.80, окно 48 ч); в сюжет входят и посты, опубликованные до старта прогона.
+2. Сюжеты каналов: новые посты (не форварды, ≥40 знаков) склеиваются к первому посту сюжета (окно 48 ч)
+   при косинусе ≥ 0.80, как в R3, или ≥ 0.65 с общим конкретным якорем: короткие посты разных каналов
+   об одном событии редко дают 0.80. В сюжет входят и посты, опубликованные до старта прогона.
    Берутся сюжеты, первый пост которых вышел во время прогона.
 3. Источник сюжета: элемент ленты, замеченный не позже чем через 30 мин после первого поста, с косинусом
    ≥ HIGH_SIM и любым общим якорем или ≥ MATCH_SIM при общем конкретном якоре (версия, модель, имя; не просто
    бренд вроде Apple/OpenAI, не страна и не год). Без якоря короткие посты дают ложные совпадения.
-   Порог подобран по 25 размеченным парам (14 из 15 принятых верны).
+   Порог подобран по 25 размеченным парам (14 из 15 принятых верны). Итоговые пары проверены вручную:
+   data/r/r11_verdicts.json, ключ «канал|время первого поста» → {"ok": bool, "note": "..."}; пара с ok=false
+   отбрасывается; у сюжета без источника note объясняет, откуда он (местная новость, вирусное и т.п.).
    Запас машины = первый пост в Telegram минус момент, когда машина увидела источник.
    Если элемент был в ленте уже при старте, момент — время публикации из ленты (помечается).
 
@@ -28,8 +31,10 @@ from r_lib import ROOT  # noqa: E402
 
 D = os.path.join(ROOT, "data", "r")
 SH = os.path.join(D, "shadow")
-MATCH_SIM, HIGH_SIM, STORY_SIM, STORY_H = 0.60, 0.75, 0.80, 48
+MATCH_SIM, HIGH_SIM, STORY_SIM, STORY_SIM_ANCHOR, STORY_H = 0.60, 0.75, 0.80, 0.65, 48
 ALL = "--all" in sys.argv
+RU_FEEDS = {"3dnews", "ixbt", "4pda", "cnews", "habr_news", "securitylab", "vcru", "overclockers", "opennet", "rb_ru",
+            "kommersant", "lenta", "rbc", "ria", "tass", "interfax"}
 IMPRECISE = {"openai", "anthropic_sitemap", "reddit_localllama", "reddit_openai"}  # время ленты неточное или его нет
 STOP = set("the and for new with from this that your what how are was has have its into over after about more than "
            "will just can not you all out now one two use app apps model update release today first open video free "
@@ -96,13 +101,16 @@ from sentence_transformers import SentenceTransformer  # noqa: E402
 model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
 enc = lambda xs: model.encode(xs, normalize_embeddings=True, show_progress_bar=False, batch_size=64)
 P = enc([p["text"][:400] for p in posts])
-story_of, members = {}, {}
+specific = lambda xs: {x for x in xs if x not in BRANDS and not re.fullmatch(r"20[12]\d", x)}
+PA = [anchors(p["text"]) for p in posts]
+members = {}
 for j in range(len(posts)):
     best, bs = None, 0.0
     for a in members:
         if posts[j]["t"] - posts[a]["t"] <= STORY_H * 3600:
             s = float(P[j] @ P[a])
-            if s >= STORY_SIM and s > bs:
+            ok = s >= STORY_SIM or (s >= STORY_SIM_ANCHOR and specific(PA[j] & PA[a]))
+            if ok and s > bs:
                 best, bs = a, s
     if best is None:
         members[j] = [j]
@@ -118,6 +126,8 @@ cand = [r for r in items if r["detect_t"]]
 I = enc([(r["title"] + ". " + (r.get("summary") or ""))[:400] for r in cand])
 IA = [anchors(r["title"] + " " + (r.get("summary") or "")) for r in cand]
 IT = np.array([r["detect_t"] for r in cand])
+VP = os.path.join(D, "r11_verdicts.json")
+VERD = json.load(open(VP, encoding="utf-8")) if os.path.exists(VP) else {}
 rows = []
 for m in stories:
     a = posts[m[0]]
@@ -125,11 +135,13 @@ for m in stories:
     sims = I @ P[m[0]]
     aa = anchors(a["text"])
     hits = [k for k in np.where(win & (sims >= MATCH_SIM))[0]
-            if (sims[k] >= HIGH_SIM and IA[k] & aa)
-            or any(x not in BRANDS and not re.fullmatch(r"20[12]\d", x) for x in IA[k] & aa)]
+            if (sims[k] >= HIGH_SIM and IA[k] & aa) or specific(IA[k] & aa)]
+    v = VERD.get(f'{a["ch"]}|{a["dt"]}')
     row = {"first_ch": a["ch"], "first_dt": a["dt"], "n_posts": len(m), "n_ch": len({posts[j]["ch"] for j in m}),
            "chs": [posts[j]["ch"] for j in m], "text": a["text"][:200], "sources": []}
-    if hits:
+    if v:
+        row["verdict"] = v
+    if hits and not (v and v.get("ok") is False):
         hits.sort(key=lambda k: IT[k])
         e = cand[hits[0]]
         row.update({"src": e["src"], "src_title": e["title"], "src_link": e["link"], "sim": float(sims[hits[0]]),
@@ -138,7 +150,8 @@ for m in stories:
     rows.append(row)
 
 found = [r for r in rows if "lead_min" in r]
-print(f"с найденным источником: {len(found)} из {len(rows)}")
+print(f"с найденным источником: {len(found)} из {len(rows)}; проверено вручную: "
+      f"{sum('verdict' in r for r in rows)}, отброшено: {sum(r.get('verdict', {}).get('ok') is False for r in rows)}")
 bands = [(-1e9, 0, "Telegram раньше ленты"), (0, 5, "0–5 мин"), (5, 30, "5–30 мин"), (30, 120, "30 мин – 2 ч"),
          (120, 360, "2–6 ч"), (360, 1e9, "> 6 ч")]
 dist = {name: sum(lo <= r["lead_min"] < hi for r in found) for lo, hi, name in bands}
@@ -147,6 +160,10 @@ for k, v in dist.items():
 if found:
     print(f"  медиана запаса {st.median(r['lead_min'] for r in found):.0f} мин; "
           f"по seen_t: {sum(r['lead_by'] == 'seen_t' for r in found)}")
+for lang in ("ru", "en"):
+    xs = [r["lead_min"] for r in found if (r["src"] in RU_FEEDS) == (lang == "ru")]
+    if xs:
+        print(f"  источник {lang}: n={len(xs)}, медиана запаса {st.median(xs):.0f} мин")
 first_src = Counter(r["src"] for r in found)
 print("лента, давшая сюжет первой:", first_src.most_common(15))
 print("канал, вышедший первым:", Counter(r["first_ch"] for r in rows).most_common(10))
