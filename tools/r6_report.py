@@ -22,7 +22,7 @@ SECTORS = [
     ("IT-мероприятия", r"techday|digitalday|pt-event|heisenbug|jokerconf|yace|deeptechnight|conf|summit|forum|meetup|holyjs|highload|podlodka|cybercamp|jetcsirt"),
     ("Банки и финтех", r"alfa|sber|tbank|tinkoff|vtb|gazprombank|raiffeisen|psbank|ozonbank|yoomoney|qiwi|bank"),
     ("Телеком", r"mts\.ru|beeline|megafon|t2\.ru|tele2|rostelecom|yota"),
-    ("Кибербез-вендоры", r"kaspersky|securityvision|ptsecurity|positive|kontur|infowatch|solar|bi\.zone|gis|securitycode|usergate"),
+    ("Кибербез-вендоры", r"kaspersky|securityvision|ptsecurity|positive|kontur|infowatch|solar|bi\.zone|securitycode|usergate"),
     ("Видео и медиа (самопромо)", r"youtube|vkvideo|rutube|teletype|dzen|securitylab|habr"),
     ("ИИ-сервисы и боты", r"gpt|ai\.|neuro|bot|nano|midjourney|syntx|chatgpt"),
 ]

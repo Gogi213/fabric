@@ -5648,7 +5648,7 @@
    "subs": 405000,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "alfa.me",
+   "host": "alfabank.sale",
    "sector": "Банки и финтех",
    "advertiser": null,
    "inn": null,
@@ -5681,8 +5681,8 @@
    "subs": 42700,
    "kind": "Промо ИИ-ботов и нейросетей",
    "deal_channel": false,
-   "host": "slc.tl",
-   "sector": "Прочее",
+   "host": "techday.selectel.ru",
+   "sector": "Облака и IT-инфраструктура",
    "advertiser": null,
    "inn": null,
    "views": 2780
@@ -5692,8 +5692,8 @@
    "subs": 50700,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "tglink.io",
-   "sector": "Прочее",
+   "host": "vkvideo.ru",
+   "sector": "Видео и медиа (самопромо)",
    "advertiser": null,
    "inn": null,
    "views": 4020
@@ -5725,7 +5725,7 @@
    "subs": 50700,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "click.wowblogger.ru",
+   "host": "truetechchamp.ru",
    "sector": "Прочее",
    "advertiser": null,
    "inn": null,
@@ -5747,8 +5747,8 @@
    "subs": 50700,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "clc.to",
-   "sector": "Прочее",
+   "host": "youtube.com",
+   "sector": "Видео и медиа (самопромо)",
    "advertiser": null,
    "inn": null,
    "views": 2900
@@ -5791,8 +5791,8 @@
    "subs": 94300,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "commercial.link",
-   "sector": "Прочее",
+   "host": "avito.ru",
+   "sector": "Маркетплейсы и ритейл",
    "advertiser": null,
    "inn": null,
    "views": 11500
@@ -5802,8 +5802,8 @@
    "subs": 30000,
    "kind": "Программирование: обучающие",
    "deal_channel": false,
-   "host": "clc.to",
-   "sector": "Прочее",
+   "host": "karpov.courses",
+   "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": "7811764627",
    "views": 995
@@ -5813,8 +5813,8 @@
    "subs": 62200,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "slc.tl",
-   "sector": "Прочее",
+   "host": "study.selectel.ru",
+   "sector": "Облака и IT-инфраструктура",
    "advertiser": null,
    "inn": null,
    "views": 5870
@@ -5835,8 +5835,8 @@
    "subs": 62200,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "slc.tl",
-   "sector": "Прочее",
+   "host": "selectel.ru",
+   "sector": "Облака и IT-инфраструктура",
    "advertiser": null,
    "inn": null,
    "views": 5160
@@ -5868,8 +5868,8 @@
    "subs": 21300,
    "kind": "Книги и курсы для программистов",
    "deal_channel": false,
-   "host": "clc.to",
-   "sector": "Прочее",
+   "host": "habr.com",
+   "sector": "Видео и медиа (самопромо)",
    "advertiser": null,
    "inn": null,
    "views": 1480
@@ -5923,8 +5923,8 @@
    "subs": 14800,
    "kind": "Кибербез и Linux: практика",
    "deal_channel": false,
-   "host": "clc.to",
-   "sector": "Прочее",
+   "host": "aot-kuberconf.ru",
+   "sector": "IT-мероприятия",
    "advertiser": null,
    "inn": null,
    "views": 709
@@ -5945,8 +5945,8 @@
    "subs": 19800,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "clc.to",
-   "sector": "Прочее",
+   "host": "habr.com",
+   "sector": "Видео и медиа (самопромо)",
    "advertiser": null,
    "inn": null,
    "views": 1310
@@ -5978,8 +5978,8 @@
    "subs": 47300,
    "kind": "Медиа: гаджеты и железо",
    "deal_channel": true,
-   "host": "ali.click",
-   "sector": "Прочее",
+   "host": "aliexpress.com",
+   "sector": "Маркетплейсы и ритейл",
    "advertiser": null,
    "inn": null,
    "views": 17600
@@ -5989,8 +5989,8 @@
    "subs": 47300,
    "kind": "Медиа: гаджеты и железо",
    "deal_channel": true,
-   "host": "ali.click",
-   "sector": "Прочее",
+   "host": "aliexpress.com",
+   "sector": "Маркетплейсы и ритейл",
    "advertiser": null,
    "inn": null,
    "views": 26200
@@ -6033,7 +6033,7 @@
    "subs": 22300,
    "kind": "Бренды и магазины (корпоративные)",
    "deal_channel": false,
-   "host": "goo.su",
+   "host": "smpesports.ru",
    "sector": "Прочее",
    "advertiser": null,
    "inn": "9714014693",
@@ -6044,7 +6044,7 @@
    "subs": 103000,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "clck.ru",
+   "host": "platipomiru.com",
    "sector": "Прочее",
    "advertiser": null,
    "inn": null,
@@ -6055,8 +6055,8 @@
    "subs": 103000,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "clck.ru",
-   "sector": "Прочее",
+   "host": "yace.yandex.ru",
+   "sector": "IT-мероприятия",
    "advertiser": null,
    "inn": null,
    "views": 8660
@@ -6066,8 +6066,8 @@
    "subs": 103000,
    "kind": "Медиа: AI и тех-новости",
    "deal_channel": false,
-   "host": "slc.tl",
-   "sector": "Прочее",
+   "host": "techday.selectel.ru",
+   "sector": "Облака и IT-инфраструктура",
    "advertiser": null,
    "inn": null,
    "views": 6190
@@ -6077,7 +6077,7 @@
    "subs": 18300,
    "kind": "Книги и курсы для программистов",
    "deal_channel": false,
-   "host": "tprg.ru",
+   "host": "tproger.ru",
    "sector": "Прочее",
    "advertiser": null,
    "inn": null,
@@ -6121,8 +6121,8 @@
    "subs": 60600,
    "kind": "Нишевые: дроны, электромобили, бренды",
    "deal_channel": false,
-   "host": "go.avnxt.site",
-   "sector": "Прочее",
+   "host": "eduson.academy",
+   "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": null,
    "views": 5590
@@ -6132,7 +6132,7 @@
    "subs": 60600,
    "kind": "Нишевые: дроны, электромобили, бренды",
    "deal_channel": false,
-   "host": "kursy-tut.ru",
+   "host": "content.eduson.academy",
    "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": null,
@@ -6143,7 +6143,7 @@
    "subs": 60600,
    "kind": "Нишевые: дроны, электромобили, бренды",
    "deal_channel": false,
-   "host": "kursy-tut.ru",
+   "host": "content.eduson.academy",
    "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": null,
@@ -6243,7 +6243,7 @@
    "kind": "Нишевые: дроны, электромобили, бренды",
    "deal_channel": false,
    "host": "2gis.ru",
-   "sector": "Кибербез-вендоры",
+   "sector": "Прочее",
    "advertiser": null,
    "inn": null,
    "views": 3980
@@ -8949,7 +8949,7 @@
    "kind": "Книги и курсы для программистов",
    "deal_channel": false,
    "host": "2gis.ru",
-   "sector": "Кибербез-вендоры",
+   "sector": "Прочее",
    "advertiser": null,
    "inn": null,
    "views": 693
@@ -11743,7 +11743,7 @@
    "kind": "Книги и курсы для программистов",
    "deal_channel": false,
    "host": "2gis.ru",
-   "sector": "Кибербез-вендоры",
+   "sector": "Прочее",
    "advertiser": null,
    "inn": null,
    "views": 2350
@@ -11952,7 +11952,7 @@
    "kind": "IT-компании, авторские блоги, мероприятия",
    "deal_channel": false,
    "host": "2gis.ru",
-   "sector": "Кибербез-вендоры",
+   "sector": "Прочее",
    "advertiser": null,
    "inn": null,
    "views": 3690
@@ -13887,8 +13887,8 @@
    "subs": 64500,
    "kind": "Полезные сервисы и софт",
    "deal_channel": false,
-   "host": "go.avnxt.site",
-   "sector": "Прочее",
+   "host": "eduson.academy",
+   "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": null,
    "views": 1750
@@ -13898,7 +13898,7 @@
    "subs": 64500,
    "kind": "Полезные сервисы и софт",
    "deal_channel": false,
-   "host": "kursy-tut.ru",
+   "host": "content.eduson.academy",
    "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": null,
@@ -13909,7 +13909,7 @@
    "subs": 64500,
    "kind": "Полезные сервисы и софт",
    "deal_channel": false,
-   "host": "kursy-tut.ru",
+   "host": "content.eduson.academy",
    "sector": "Онлайн-школы и курсы",
    "advertiser": null,
    "inn": null,
@@ -14009,7 +14009,7 @@
    "kind": "не определён (мало постов)",
    "deal_channel": false,
    "host": "2gis.onelink.me",
-   "sector": "Кибербез-вендоры",
+   "sector": "Прочее",
    "advertiser": null,
    "inn": null,
    "views": 4890
@@ -17483,11 +17483,11 @@
  "sectors": [
   [
    "Прочее",
-   287
+   278
   ],
   [
    "Онлайн-школы и курсы",
-   82
+   85
   ],
   [
    "Банки и финтех",
@@ -17495,31 +17495,31 @@
   ],
   [
    "IT-мероприятия",
-   43
+   45
   ],
   [
    "Маркетплейсы и ритейл",
-   38
+   39
+  ],
+  [
+   "Облака и IT-инфраструктура",
+   29
   ],
   [
    "Telegram-канал/бот",
    28
   ],
   [
-   "Облака и IT-инфраструктура",
-   25
-  ],
-  [
    "Телеком",
    22
   ],
   [
-   "Кибербез-вендоры",
-   15
+   "Видео и медиа (самопромо)",
+   12
   ],
   [
-   "Видео и медиа (самопромо)",
-   8
+   "Кибербез-вендоры",
+   10
   ],
   [
    "без ссылки",
@@ -17571,9 +17571,8 @@
   {
    "key": "tglink.io",
    "sector": "Прочее",
-   "posts": 45,
+   "posts": 44,
    "channels": [
-    "data_analysis_ml",
     "freeitevent",
     "hack_less",
     "imaxairu",
@@ -17596,9 +17595,9 @@
     "vistehno"
    ],
    "bands": {
-    "50–200K": 3,
     "10–50K": 41,
-    "200K–1M": 1
+    "200K–1M": 1,
+    "50–200K": 2
    }
   },
   {
@@ -17630,34 +17629,6 @@
    }
   },
   {
-   "key": "slc.tl",
-   "sector": "Прочее",
-   "posts": 17,
-   "channels": [
-    "dailyprompts",
-    "datais",
-    "droidergram",
-    "i_odmin",
-    "leadgr",
-    "linux_gram",
-    "linuxkalii",
-    "linuxos_tg",
-    "machinelearning_interview",
-    "neuro_code",
-    "python2day",
-    "serious_tester",
-    "vibecoding_tg",
-    "vistehno",
-    "vselennayaplus",
-    "xor_journal"
-   ],
-   "bands": {
-    "10–50K": 6,
-    "50–200K": 10,
-    "200K–1M": 1
-   }
-  },
-  {
    "key": "personal.ep.mts.ru",
    "sector": "Телеком",
    "posts": 15,
@@ -17685,34 +17656,9 @@
    }
   },
   {
-   "key": "clc.to",
-   "sector": "Прочее",
-   "posts": 15,
-   "channels": [
-    "analytics_secrets",
-    "data_analysis_ml",
-    "databases_secrets",
-    "datascienceml_jobs",
-    "devops_sc",
-    "devsp",
-    "leadgr",
-    "linuxacademiya",
-    "loose_code",
-    "machinelearning_ru",
-    "notboring_tech",
-    "product_and_project",
-    "ruspm",
-    "thingsprogrammersdo"
-   ],
-   "bands": {
-    "10–50K": 14,
-    "50–200K": 1
-   }
-  },
-  {
    "key": "avito.ru",
    "sector": "Маркетплейсы и ритейл",
-   "posts": 12,
+   "posts": 13,
    "channels": [
     "GPThelp_ru",
     "Tehnomaks",
@@ -17721,6 +17667,7 @@
     "ai_machinelearning_big_data",
     "aiaiai",
     "chatgpt_try",
+    "data_secrets",
     "deminslounge",
     "lifegoodd1",
     "maniacvoice",
@@ -17730,7 +17677,32 @@
    "bands": {
     "200K–1M": 3,
     "10–50K": 5,
-    "50–200K": 4
+    "50–200K": 5
+   }
+  },
+  {
+   "key": "slc.tl",
+   "sector": "Прочее",
+   "posts": 13,
+   "channels": [
+    "i_odmin",
+    "leadgr",
+    "linux_gram",
+    "linuxkalii",
+    "linuxos_tg",
+    "machinelearning_interview",
+    "neuro_code",
+    "python2day",
+    "serious_tester",
+    "vibecoding_tg",
+    "vistehno",
+    "vselennayaplus",
+    "xor_journal"
+   ],
+   "bands": {
+    "10–50K": 5,
+    "50–200K": 7,
+    "200K–1M": 1
    }
   },
   {
@@ -17759,7 +17731,7 @@
   {
    "key": "alfa.me",
    "sector": "Банки и финтех",
-   "posts": 19,
+   "posts": 18,
    "channels": [
     "Romancev768",
     "d_code",
@@ -17772,9 +17744,49 @@
     "whackdoor"
    ],
    "bands": {
-    "200K–1M": 4,
+    "200K–1M": 3,
     "1M+": 13,
     "50–200K": 2
+   }
+  },
+  {
+   "key": "clc.to",
+   "sector": "Прочее",
+   "posts": 10,
+   "channels": [
+    "analytics_secrets",
+    "leadgr",
+    "linuxacademiya",
+    "loose_code",
+    "machinelearning_ru",
+    "notboring_tech",
+    "product_and_project",
+    "ruspm",
+    "thingsprogrammersdo"
+   ],
+   "bands": {
+    "10–50K": 10
+   }
+  },
+  {
+   "key": "yace.yandex.ru",
+   "sector": "IT-мероприятия",
+   "posts": 9,
+   "channels": [
+    "codecamp",
+    "concertzaal",
+    "droidergram",
+    "naebnet",
+    "provod",
+    "rozetked",
+    "technomedia",
+    "trends",
+    "whackdoor"
+   ],
+   "bands": {
+    "50–200K": 2,
+    "200K–1M": 2,
+    "1M+": 5
    }
   },
   {
@@ -17819,7 +17831,7 @@
   {
    "key": "alfabank.sale",
    "sector": "Банки и финтех",
-   "posts": 8,
+   "posts": 9,
    "channels": [
     "NeuralShit",
     "Romancev768",
@@ -17832,69 +17844,29 @@
    ],
    "bands": {
     "50–200K": 2,
-    "200K–1M": 3,
+    "200K–1M": 4,
     "1M+": 2,
     "10–50K": 1
    }
   },
   {
-   "key": "yace.yandex.ru",
-   "sector": "IT-мероприятия",
+   "key": "techday.selectel.ru",
+   "sector": "Облака и IT-инфраструктура",
    "posts": 8,
    "channels": [
-    "codecamp",
-    "concertzaal",
-    "naebnet",
-    "provod",
-    "rozetked",
-    "technomedia",
-    "trends",
-    "whackdoor"
+    "DevOPSitsec",
+    "IT_Portal",
+    "MediaComputers",
+    "NeuralShit",
+    "ai_machinelearning_big_data",
+    "artemshumeiko",
+    "dailyprompts",
+    "droidergram"
    ],
    "bands": {
-    "50–200K": 1,
-    "200K–1M": 2,
-    "1M+": 5
-   }
-  },
-  {
-   "key": "click.wowblogger.ru",
-   "sector": "Прочее",
-   "posts": 8,
-   "channels": [
-    "data_analysis_ml",
-    "frontendbook",
-    "htmlshit",
-    "javalib",
-    "javascriptv",
-    "prgrcab",
-    "react_tg",
-    "sqlhub"
-   ],
-   "bands": {
-    "50–200K": 1,
-    "10–50K": 7
-   }
-  },
-  {
-   "key": "commercial.link",
-   "sector": "Прочее",
-   "posts": 8,
-   "channels": [
-    "data_secrets",
-    "naebnet",
-    "neuro_code",
-    "rozetked",
-    "sburyi",
-    "tips_ai",
-    "trends",
-    "vibecoding_tg"
-   ],
-   "bands": {
+    "10–50K": 3,
     "50–200K": 3,
-    "1M+": 2,
-    "200K–1M": 1,
-    "10–50K": 2
+    "200K–1M": 2
    }
   },
   {
@@ -17914,25 +17886,6 @@
    "bands": {
     "1M+": 7,
     "200K–1M": 1
-   }
-  },
-  {
-   "key": "clck.ru",
-   "sector": "Прочее",
-   "posts": 10,
-   "channels": [
-    "droidergram",
-    "iteventsrus",
-    "naebnet",
-    "news_engineering",
-    "product_and_project",
-    "settersmedia_news",
-    "sysadmin_library"
-   ],
-   "bands": {
-    "50–200K": 2,
-    "10–50K": 7,
-    "1M+": 1
    }
   },
   {
@@ -17971,6 +17924,43 @@
    }
   },
   {
+   "key": "click.wowblogger.ru",
+   "sector": "Прочее",
+   "posts": 7,
+   "channels": [
+    "frontendbook",
+    "htmlshit",
+    "javalib",
+    "javascriptv",
+    "prgrcab",
+    "react_tg",
+    "sqlhub"
+   ],
+   "bands": {
+    "10–50K": 7
+   }
+  },
+  {
+   "key": "commercial.link",
+   "sector": "Прочее",
+   "posts": 7,
+   "channels": [
+    "naebnet",
+    "neuro_code",
+    "rozetked",
+    "sburyi",
+    "tips_ai",
+    "trends",
+    "vibecoding_tg"
+   ],
+   "bands": {
+    "1M+": 2,
+    "50–200K": 2,
+    "200K–1M": 1,
+    "10–50K": 2
+   }
+  },
+  {
    "key": "digital.sber.ru",
    "sector": "Банки и финтех",
    "posts": 8,
@@ -17989,6 +17979,23 @@
    }
   },
   {
+   "key": "clck.ru",
+   "sector": "Прочее",
+   "posts": 8,
+   "channels": [
+    "iteventsrus",
+    "naebnet",
+    "news_engineering",
+    "product_and_project",
+    "settersmedia_news",
+    "sysadmin_library"
+   ],
+   "bands": {
+    "10–50K": 7,
+    "1M+": 1
+   }
+  },
+  {
    "key": "codeby.academy",
    "sector": "Онлайн-школы и курсы",
    "posts": 7,
@@ -18003,24 +18010,6 @@
    "bands": {
     "10–50K": 6,
     "50–200K": 1
-   }
-  },
-  {
-   "key": "techday.selectel.ru",
-   "sector": "Облака и IT-инфраструктура",
-   "posts": 6,
-   "channels": [
-    "DevOPSitsec",
-    "IT_Portal",
-    "MediaComputers",
-    "NeuralShit",
-    "ai_machinelearning_big_data",
-    "artemshumeiko"
-   ],
-   "bands": {
-    "10–50K": 2,
-    "50–200K": 2,
-    "200K–1M": 2
    }
   },
   {
@@ -18105,23 +18094,6 @@
    }
   },
   {
-   "key": "goo.su",
-   "sector": "Прочее",
-   "posts": 5,
-   "channels": [
-    "domru_official",
-    "exploitex",
-    "remedia",
-    "ruspm",
-    "technomotel"
-   ],
-   "bands": {
-    "10–50K": 2,
-    "1M+": 2,
-    "200K–1M": 1
-   }
-  },
-  {
    "key": "c.qrooto.com",
    "sector": "Прочее",
    "posts": 5,
@@ -18139,7 +18111,7 @@
   {
    "key": "kursy-tut.ru",
    "sector": "Онлайн-школы и курсы",
-   "posts": 19,
+   "posts": 15,
    "channels": [
     "elonmusk_ru",
     "prgrcab",
@@ -18147,8 +18119,23 @@
     "trojan_anonym"
    ],
    "bands": {
-    "50–200K": 18,
+    "50–200K": 14,
     "10–50K": 1
+   }
+  },
+  {
+   "key": "eduson.academy",
+   "sector": "Онлайн-школы и курсы",
+   "posts": 5,
+   "channels": [
+    "badTechProject",
+    "best_in_development",
+    "elonmusk_ru",
+    "trojan_anonym"
+   ],
+   "bands": {
+    "10–50K": 3,
+    "50–200K": 2
    }
   },
   {
@@ -18168,6 +18155,22 @@
    }
   },
   {
+   "key": "karpov.courses",
+   "sector": "Онлайн-школы и курсы",
+   "posts": 4,
+   "channels": [
+    "ai_machinelearning_big_data",
+    "code_ready",
+    "data_secrets",
+    "databases_secrets"
+   ],
+   "bands": {
+    "200K–1M": 1,
+    "10–50K": 2,
+    "50–200K": 1
+   }
+  },
+  {
    "key": "deeptechnight.ru",
    "sector": "IT-мероприятия",
    "posts": 4,
@@ -18183,23 +18186,8 @@
    }
   },
   {
-   "key": "tprg.ru",
-   "sector": "Прочее",
-   "posts": 4,
-   "channels": [
-    "dsproglib",
-    "hahacker_news",
-    "ithumor",
-    "tproger"
-   ],
-   "bands": {
-    "10–50K": 2,
-    "50–200K": 2
-   }
-  },
-  {
    "key": "2gis.ru",
-   "sector": "Кибербез-вендоры",
+   "sector": "Прочее",
    "posts": 4,
    "channels": [
     "elonmusk_ru",
@@ -18210,6 +18198,22 @@
    "bands": {
     "50–200K": 1,
     "10–50K": 3
+   }
+  },
+  {
+   "key": "goo.su",
+   "sector": "Прочее",
+   "posts": 4,
+   "channels": [
+    "exploitex",
+    "remedia",
+    "ruspm",
+    "technomotel"
+   ],
+   "bands": {
+    "1M+": 2,
+    "200K–1M": 1,
+    "10–50K": 1
    }
   },
   {
@@ -18272,6 +18276,19 @@
    }
   },
   {
+   "key": "habr.com",
+   "sector": "Видео и медиа (самопромо)",
+   "posts": 3,
+   "channels": [
+    "Cpportal",
+    "datascienceml_jobs",
+    "devsp"
+   ],
+   "bands": {
+    "10–50K": 3
+   }
+  },
+  {
    "key": "digitalday.orionsoft.ru",
    "sector": "IT-мероприятия",
    "posts": 3,
@@ -18315,6 +18332,20 @@
    }
   },
   {
+   "key": "selectel.ru",
+   "sector": "Облака и IT-инфраструктура",
+   "posts": 3,
+   "channels": [
+    "SQLPortal",
+    "codecamp",
+    "datais"
+   ],
+   "bands": {
+    "10–50K": 1,
+    "50–200K": 2
+   }
+  },
+  {
    "key": "pt-event.ru",
    "sector": "IT-мероприятия",
    "posts": 3,
@@ -18339,21 +18370,6 @@
    "bands": {
     "200K–1M": 1,
     "1M+": 2
-   }
-  },
-  {
-   "key": "karpov.courses",
-   "sector": "Онлайн-школы и курсы",
-   "posts": 3,
-   "channels": [
-    "ai_machinelearning_big_data",
-    "code_ready",
-    "data_secrets"
-   ],
-   "bands": {
-    "200K–1M": 1,
-    "10–50K": 1,
-    "50–200K": 1
    }
   },
   {
@@ -18458,6 +18474,20 @@
    }
   },
   {
+   "key": "tprg.ru",
+   "sector": "Прочее",
+   "posts": 3,
+   "channels": [
+    "hahacker_news",
+    "ithumor",
+    "tproger"
+   ],
+   "bands": {
+    "10–50K": 1,
+    "50–200K": 2
+   }
+  },
+  {
    "key": "bi.zone",
    "sector": "Кибербез-вендоры",
    "posts": 3,
@@ -18487,13 +18517,13 @@
   {
    "key": "go.avnxt.site",
    "sector": "Прочее",
-   "posts": 8,
+   "posts": 6,
    "channels": [
     "elonmusk_ru",
     "trojan_anonym"
    ],
    "bands": {
-    "50–200K": 8
+    "50–200K": 6
    }
   },
   {
@@ -18510,6 +18540,31 @@
    }
   },
   {
+   "key": "vkvideo.ru",
+   "sector": "Видео и медиа (самопромо)",
+   "posts": 4,
+   "channels": [
+    "cifrusru",
+    "data_analysis_ml"
+   ],
+   "bands": {
+    "10–50K": 3,
+    "50–200K": 1
+   }
+  },
+  {
+   "key": "content.eduson.academy",
+   "sector": "Онлайн-школы и курсы",
+   "posts": 4,
+   "channels": [
+    "elonmusk_ru",
+    "trojan_anonym"
+   ],
+   "bands": {
+    "50–200K": 4
+   }
+  },
+  {
    "key": "sites.zerocoder.ru",
    "sector": "Прочее",
    "posts": 4,
@@ -18519,18 +18574,6 @@
    ],
    "bands": {
     "10–50K": 4
-   }
-  },
-  {
-   "key": "eduson.academy",
-   "sector": "Онлайн-школы и курсы",
-   "posts": 3,
-   "channels": [
-    "badTechProject",
-    "best_in_development"
-   ],
-   "bands": {
-    "10–50K": 3
    }
   },
   {
@@ -18546,12 +18589,12 @@
    }
   },
   {
-   "key": "selectel.ru",
-   "sector": "Облака и IT-инфраструктура",
+   "key": "youtube.com",
+   "sector": "Видео и медиа (самопромо)",
    "posts": 2,
    "channels": [
-    "SQLPortal",
-    "codecamp"
+    "NeuralToday",
+    "data_analysis_ml"
    ],
    "bands": {
     "10–50K": 1,
@@ -18685,6 +18728,18 @@
    }
   },
   {
+   "key": "tproger.ru",
+   "sector": "Прочее",
+   "posts": 2,
+   "channels": [
+    "cppproglib",
+    "dsproglib"
+   ],
+   "bands": {
+    "10–50K": 2
+   }
+  },
+  {
    "key": "phygital.plus",
    "sector": "Прочее",
    "posts": 2,
@@ -18694,6 +18749,19 @@
    ],
    "bands": {
     "10–50K": 2
+   }
+  },
+  {
+   "key": "truetechchamp.ru",
+   "sector": "Прочее",
+   "posts": 2,
+   "channels": [
+    "data_analysis_ml",
+    "datascienceml_jobs"
+   ],
+   "bands": {
+    "50–200K": 1,
+    "10–50K": 1
    }
   },
   {
@@ -18826,17 +18894,6 @@
    }
   },
   {
-   "key": "vkvideo.ru",
-   "sector": "Видео и медиа (самопромо)",
-   "posts": 3,
-   "channels": [
-    "cifrusru"
-   ],
-   "bands": {
-    "10–50K": 3
-   }
-  },
-  {
    "key": "iguides.ru",
    "sector": "Прочее",
    "posts": 3,
@@ -18878,17 +18935,6 @@
    ],
    "bands": {
     "10–50K": 2
-   }
-  },
-  {
-   "key": "habr.com",
-   "sector": "Видео и медиа (самопромо)",
-   "posts": 1,
-   "channels": [
-    "Cpportal"
-   ],
-   "bands": {
-    "10–50K": 1
    }
   },
   {
@@ -18969,17 +19015,6 @@
    }
   },
   {
-   "key": "youtube.com",
-   "sector": "Видео и медиа (самопромо)",
-   "posts": 1,
-   "channels": [
-    "NeuralToday"
-   ],
-   "bands": {
-    "10–50K": 1
-   }
-  },
-  {
    "key": "polza.ai",
    "sector": "Прочее",
    "posts": 1,
@@ -18999,39 +19034,6 @@
    ],
    "bands": {
     "10–50K": 1
-   }
-  },
-  {
-   "key": "ufactorevent.usergate.com",
-   "sector": "Кибербез-вендоры",
-   "posts": 1,
-   "channels": [
-    "Russian_OSINT"
-   ],
-   "bands": {
-    "10–50K": 1
-   }
-  },
-  {
-   "key": "bissummit.bisa.ru",
-   "sector": "IT-мероприятия",
-   "posts": 1,
-   "channels": [
-    "SecLabNews"
-   ],
-   "bands": {
-    "50–200K": 1
-   }
-  },
-  {
-   "key": "garda.ai",
-   "sector": "Прочее",
-   "posts": 1,
-   "channels": [
-    "SecLabNews"
-   ],
-   "bands": {
-    "50–200K": 1
    }
   }
  ]
