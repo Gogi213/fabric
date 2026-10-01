@@ -1,0 +1,222 @@
+{
+ "note": "Ручная проверка всех 63 сюжетов дневного прогона (+ Mate 90, ушедший при склейке в чужой сюжет). Первый канал — первый из 34 каналов монитора. measured_by: seen — момент, когда монитор увидел элемент; pub — время из ленты (элемент был в ленте до старта прогона).",
+ "with_source": [
+  {
+   "story": "Huawei Mate 90: анонс",
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T04:51:44",
+   "src": "ixbt",
+   "src_t": "2026-10-01T03:39:30",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 72.2
+  },
+  {
+   "story": "Paramount — суд одобрил сделку с Warner Bros.",
+   "first_ch": "zavtracast",
+   "first_dt": "2026-10-01T05:57:24",
+   "src": "rbc",
+   "src_t": "2026-10-01T01:01:26",
+   "src_lang": "ru",
+   "measured_by": "pub",
+   "lead_min": 296.0
+  },
+  {
+   "story": "FTC расследует OpenAI, Anthropic и др.",
+   "first_ch": "data_analysis_ml",
+   "first_dt": "2026-10-01T06:36:01",
+   "src": "the_decoder",
+   "src_t": "2026-09-30T16:20:04",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 856.0
+  },
+  {
+   "story": "Grokipedia: новый дизайн",
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T06:45:54",
+   "src": "verge",
+   "src_t": "2026-10-01T00:23:45",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 382.1
+  },
+  {
+   "story": "Бан хостинга за VPN (Минцифры)",
+   "first_ch": "whackdoor",
+   "first_dt": "2026-10-01T08:21:00",
+   "src": "habr_news",
+   "src_t": "2026-09-30T16:57:34",
+   "src_lang": "ru",
+   "measured_by": "pub",
+   "lead_min": 923.4
+  },
+  {
+   "story": "«Красная кнопка» на Госуслугах",
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T08:59:33",
+   "src": "ria",
+   "src_t": "2026-10-01T00:03:04",
+   "src_lang": "ru",
+   "measured_by": "pub",
+   "lead_min": 536.5
+  },
+  {
+   "story": "Трамп против комаров в Вашингтоне",
+   "first_ch": "technolavka",
+   "first_dt": "2026-10-01T09:29:58",
+   "src": "ria",
+   "src_t": "2026-10-01T00:01:34",
+   "src_lang": "ru",
+   "measured_by": "pub",
+   "lead_min": 568.4
+  },
+  {
+   "story": "Половина линий связи РФ устарела («Известия»)",
+   "first_ch": "whackdoor",
+   "first_dt": "2026-10-01T09:41:01",
+   "src": "tass",
+   "src_t": "2026-10-01T03:58:35",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 342.4
+  },
+  {
+   "story": "Кольцо Сбера платит через «Вжух»",
+   "first_ch": "trends",
+   "first_dt": "2026-10-01T09:47:03",
+   "src": "cnews",
+   "src_t": "2026-10-01T07:31:18",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 135.8
+  },
+  {
+   "story": "vivo X Fold6 вышел глобально",
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T09:51:39",
+   "src": "gsmarena",
+   "src_t": "2026-10-01T02:00:01",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 471.6
+  },
+  {
+   "story": "Google Gboard Conveyor Belt",
+   "first_ch": "naebnet",
+   "first_dt": "2026-10-01T10:04:10",
+   "src": "hn_new",
+   "src_t": "2026-10-01T04:13:41",
+   "src_lang": "en",
+   "measured_by": "seen",
+   "lead_min": 350.5
+  },
+  {
+   "story": "Донаты в Max",
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T10:04:47",
+   "src": "ixbt",
+   "src_t": "2026-10-01T10:01:07",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 3.7
+  },
+  {
+   "story": "Samsung Galaxy Buds On: анонс",
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T10:10:42",
+   "src": "3dnews",
+   "src_t": "2026-10-01T06:51:28",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 199.2
+  },
+  {
+   "story": "Вакцина от аллергии на пыльцу берёзы",
+   "first_ch": "techmedia",
+   "first_dt": "2026-10-01T10:10:47",
+   "src": "kommersant",
+   "src_t": "2026-09-30T13:44:39",
+   "src_lang": "ru",
+   "measured_by": "pub",
+   "lead_min": 1226.1
+  }
+ ],
+ "other": {
+  "дубль или сюжет начат до прогона": [
+   "vibecoding_tg 03:18 Gemini 4 Argon — 16 каналов 20:07–21:00 30.09, через ~6 мин после DeepMind",
+   "techmedia 07:59 бой курьеров (дубль trends)",
+   "mobiltelefonru 07:55 Mate 90 RS (дубль)",
+   "biggeekru 10:04 Mate 90 (дубль)",
+   "whackdoor 09:21 «Клиника» (дубль)",
+   "whackdoor 09:44 Доширак (дубль)",
+   "jeteed 09:54 Доширак (дубль)",
+   "xor_journal 10:08 Gboard (дубль)"
+  ],
+  "реклама и нативка": [
+   "technolavka 06:05 поездки по Европе",
+   "whackdoor 08:01 Циан",
+   "naebnet 08:29 Альфа-Банк",
+   "naebnet 08:33 Альфа-Банк × М.Видео",
+   "concertzaal 09:09 гайд по выходным",
+   "codecamp 09:30 контейнеры",
+   "technomotel 09:40 сайты миллионеров",
+   "bugnotfeature 09:41 конференция Яндекса",
+   "ai4telegram 10:00 мероприятие 17 октября",
+   "provod 10:00 «ИНТАН»"
+  ],
+  "своё: сводки, мемы, поводы дня": [
+   "rozetked 04:35 законы с 1 октября",
+   "Romancev768 05:15 что изменилось 1 октября",
+   "technomotel 05:54 мем",
+   "technomedia 06:19 день кофе",
+   "telecommunal 07:31 обзор облачного рынка",
+   "mobiltelefonru 08:21 шпаргалка цен флагманов",
+   "bugnotfeature 08:40 мем",
+   "oneshot_tg 09:50 мем",
+   "telecommunal 09:10 дата-центры"
+  ],
+  "вирусное и находки из соцсетей": [
+   "biggeekru 04:28 концепт iPod",
+   "exploitex 06:17 ffmpeg в браузере",
+   "silicon_kitchen 06:28 Snap для созвонов",
+   "remedia 06:34 скелет динозавра",
+   "trends 06:39 бой курьеров в Румынии",
+   "concertzaal 07:06 кошки и счастье",
+   "ai4telegram 07:23 симулятор dial-up",
+   "technomotel 08:06 карточка Пикачу",
+   "oneshot_tg 08:41 Инвокер и дзюцу",
+   "iphonesru 09:06 YouTube в CarPlay",
+   "ai4telegram 09:13 сайт Алека Рэдфорда"
+  ],
+  "кино, сериалы, игры (таких лент в мониторе нет)": [
+   "whackdoor 06:47 Палпатин",
+   "rozetked 09:15 «Клиника»",
+   "remedia 09:34 Hollow Knight в Fortnite",
+   "zavtracast 10:02 фильм Helldivers 2",
+   "zavtracast 10:10 Ubisoft"
+  ],
+  "сайты и блоги вендоров без ленты": [
+   "vibecoding_tg 05:01 claude.dev",
+   "data_analysis_ml 10:06 Google Research"
+  ],
+  "российские новости без ленты в мониторе": [
+   "technomedia 07:31 мошенники и «повестки»",
+   "provod 09:44 Доширак против Buldak"
+  ],
+  "гаджеты, источник не найден": [
+   "iphonesru 06:19 домашний хаб Apple",
+   "biggeekru 08:05 Fairbuds 2",
+   "mobiltelefonru 08:57 продажи iQOO 16"
+  ]
+ },
+ "n_stories": 64,
+ "lead_median_min": 366.3,
+ "lead_bands": {
+  "≤30 мин": 1,
+  "30 мин–2 ч": 1,
+  "2–6 ч": 5,
+  "6–12 ч": 4,
+  ">12 ч": 3
+ }
+}
