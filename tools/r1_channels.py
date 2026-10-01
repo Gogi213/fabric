@@ -6,6 +6,8 @@
 доля форвардов, доля видео, медианная длина, оформление (капс, эмодзи).
 
 Запуск:  python tools/r1_channels.py clusters K   → печать кластеров для ручного именования
+         python tools/r1_channels.py assign       → каналы без кластера (дособранные позже) получают
+                                                    ближайший по косинусу центроид уже названного кластера
          python tools/r1_channels.py profile      → data/r/channels.json (с именами кластеров)
 """
 import json, os, re, statistics as st, sys
@@ -65,17 +67,37 @@ def profile(ch, d):
     }
 
 
+def assign(C):
+    """Новые каналы — к ближайшему центроиду существующих кластеров; перекластеризация сбила бы имена."""
+    P = os.path.join(D, "channel_clusters.json")
+    cc = json.load(open(P))
+    cv = channel_vectors(C)
+    lab = cc["labels"]
+    cent = {}
+    for c in set(lab.values()):
+        v = np.stack([cv[h] for h, l in lab.items() if l == c and h in cv]).mean(0)
+        cent[c] = v / np.linalg.norm(v)
+    new = [h for h in cv if h not in lab]
+    for h in new:
+        lab[h] = max(cent, key=lambda c: float(cv[h] @ cent[c]))
+    cc["assigned_later"] = sorted(set(cc.get("assigned_later", [])) | set(new))
+    json.dump(cc, open(P, "w"))
+    print(f"разнесено по кластерам: {len(new)}; распределение: {Counter(lab[h] for h in new).most_common()}")
+
+
 def main():
     from sklearn.cluster import KMeans
     C = load()
+    mode = sys.argv[1]
+    if mode == "assign":
+        return assign(C)
     cv = channel_vectors(C)
     hs = sorted(cv)
     X = np.stack([cv[h] for h in hs])
-    mode = sys.argv[1]
     k = int(sys.argv[2]) if len(sys.argv) > 2 else 20
-    km = KMeans(n_clusters=k, n_init=10, random_state=0).fit(X)
-    lab = dict(zip(hs, km.labels_.tolist()))
     if mode == "clusters":
+        km = KMeans(n_clusters=k, n_init=10, random_state=0).fit(X)
+        lab = dict(zip(hs, km.labels_.tolist()))
         for c in range(k):
             mem = [h for h in hs if lab[h] == c]
             mem.sort(key=lambda h: -((C[h]["meta"] or {}).get("counters", {}).get("subscribers") or 0))
