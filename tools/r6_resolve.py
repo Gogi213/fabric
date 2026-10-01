@@ -19,14 +19,19 @@ S.headers["User-Agent"] = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi
                            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 last = {}
 C = load()
+CHS = {c["handle"]: c for c in json.load(open(os.path.join(ROOT, "data", "r", "channels.json"), encoding="utf-8"))} \
+    if os.path.exists(os.path.join(ROOT, "data", "r", "channels.json")) else {}
+SKIP = ("aliexpress", "ali.click", "market.yandex", "%d0%90%d0%9b%d0%98")   # скидочные партнёрки считаются отдельно
 urls = []
-for d in C.values():
+for ch, d in C.items():
+    if (CHS.get(ch, {}).get("deal_share") or 0) >= 0.3:
+        continue
     for p in d["posts"]:
         if is_marked_ad(p):
             for u, _ in p.get("links") or []:
                 u = u.replace("&amp;", "&")
                 h = urlparse(u).netloc.lower()
-                if h and "t.me" not in h and u not in res:
+                if h and "t.me" not in h and u not in res and not any(x in u.lower() for x in SKIP):
                     urls.append(u)
 urls = list(dict.fromkeys(urls))
 print(f"к раскрытию: {len(urls)}", file=sys.stderr)
