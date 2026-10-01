@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from r_lib import ROOT, clean, is_marked_ad, load  # noqa: E402
 
 D = os.path.join(ROOT, "data", "r")
-PAIR_SIM, STORY_SIM = 0.75, 0.82
+PAIR_SIM, STORY_SIM = 0.75, 0.80   # калибровка 30.09: 0.80–0.90 — 24/24 та же новость, 0.75–0.80 — ~9/12
 WIN_H, STORY_H = 72, 48
 
 
