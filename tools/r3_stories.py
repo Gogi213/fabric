@@ -100,20 +100,27 @@ def main():
                 print(f"                @{CH[j]}: {posts[j]['_clean'][:110]}")
         return
 
-    # сюжеты
-    par = list(range(len(posts)))
-
-    def f(x):
-        while par[x] != x:
-            par[x] = par[par[x]]
-            x = par[x]
-        return x
+    # сюжеты: якорная кластеризация по времени — пост присоединяется к сюжету, только если похож
+    # на ПЕРВЫЙ пост сюжета (якорь) и вышел не позже STORY_H после него. Цепочки «A~B~C» не склеиваются.
+    nb = defaultdict(dict)
     for i, j, s in edges:
-        if s >= STORY_SIM and T[j] - T[i] <= STORY_H * 3600:
-            par[f(i)] = f(j)
-    groups = defaultdict(list)
-    for i in range(len(posts)):
-        groups[f(i)].append(i)
+        nb[j][i] = s
+    story_of, anchors = {}, {}
+    for j in range(len(posts)):
+        best, bs = None, 0.0
+        for i, s in nb[j].items():
+            a = story_of.get(i)
+            if a is None or a != i:
+                continue                      # сравниваем только с якорями
+            if s >= STORY_SIM and T[j] - T[i] <= STORY_H * 3600 and s > bs:
+                best, bs = i, s
+        if best is None:
+            story_of[j] = j
+            anchors[j] = [j]
+        else:
+            story_of[j] = best
+            anchors[best].append(j)
+    groups = {a: m for a, m in anchors.items()}
     sim = {(i, j): s for i, j, s in edges}
     stories, copy_edges = [], []
     for g in groups.values():
