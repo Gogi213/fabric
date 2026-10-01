@@ -1,5 +1,5 @@
 {
- "note": "Ручная проверка всех 63 сюжетов дневного прогона (+ Mate 90, ушедший при склейке в чужой сюжет). Первый канал — первый из 34 каналов монитора. measured_by: seen — момент, когда монитор увидел элемент; pub — время из ленты (элемент был в ленте до старта прогона).",
+ "note": "Ручная проверка всех 63 сюжетов дневного прогона (+ Mate 90, ушедший при склейке в чужой сюжет). Первый канал — первый из 34 каналов монитора. measured_by: seen — момент, когда монитор увидел элемент; pub — время из ленты (элемент был в ленте до старта прогона). Вечер (16:12–20:05 МСК) проверен так же: 69 сюжетов; перерыв 13:12–16:12 МСК (шёл сбор каналов) не покрыт.",
  "with_source": [
   {
    "story": "Huawei Mate 90: анонс",
@@ -9,7 +9,8 @@
    "src_t": "2026-10-01T03:39:30",
    "src_lang": "ru",
    "measured_by": "seen",
-   "lead_min": 72.2
+   "lead_min": 72.2,
+   "part": "утро"
   },
   {
    "story": "Paramount — суд одобрил сделку с Warner Bros.",
@@ -19,7 +20,8 @@
    "src_t": "2026-10-01T01:01:26",
    "src_lang": "ru",
    "measured_by": "pub",
-   "lead_min": 296.0
+   "lead_min": 296.0,
+   "part": "утро"
   },
   {
    "story": "FTC расследует OpenAI, Anthropic и др.",
@@ -29,7 +31,8 @@
    "src_t": "2026-09-30T16:20:04",
    "src_lang": "en",
    "measured_by": "pub",
-   "lead_min": 856.0
+   "lead_min": 856.0,
+   "part": "утро"
   },
   {
    "story": "Grokipedia: новый дизайн",
@@ -39,7 +42,8 @@
    "src_t": "2026-10-01T00:23:45",
    "src_lang": "en",
    "measured_by": "pub",
-   "lead_min": 382.1
+   "lead_min": 382.1,
+   "part": "утро"
   },
   {
    "story": "Бан хостинга за VPN (Минцифры)",
@@ -49,7 +53,8 @@
    "src_t": "2026-09-30T16:57:34",
    "src_lang": "ru",
    "measured_by": "pub",
-   "lead_min": 923.4
+   "lead_min": 923.4,
+   "part": "утро"
   },
   {
    "story": "«Красная кнопка» на Госуслугах",
@@ -59,7 +64,8 @@
    "src_t": "2026-10-01T00:03:04",
    "src_lang": "ru",
    "measured_by": "pub",
-   "lead_min": 536.5
+   "lead_min": 536.5,
+   "part": "утро"
   },
   {
    "story": "Трамп против комаров в Вашингтоне",
@@ -69,7 +75,8 @@
    "src_t": "2026-10-01T00:01:34",
    "src_lang": "ru",
    "measured_by": "pub",
-   "lead_min": 568.4
+   "lead_min": 568.4,
+   "part": "утро"
   },
   {
    "story": "Половина линий связи РФ устарела («Известия»)",
@@ -79,7 +86,8 @@
    "src_t": "2026-10-01T03:58:35",
    "src_lang": "ru",
    "measured_by": "seen",
-   "lead_min": 342.4
+   "lead_min": 342.4,
+   "part": "утро"
   },
   {
    "story": "Кольцо Сбера платит через «Вжух»",
@@ -89,7 +97,8 @@
    "src_t": "2026-10-01T07:31:18",
    "src_lang": "ru",
    "measured_by": "seen",
-   "lead_min": 135.8
+   "lead_min": 135.8,
+   "part": "утро"
   },
   {
    "story": "vivo X Fold6 вышел глобально",
@@ -99,7 +108,8 @@
    "src_t": "2026-10-01T02:00:01",
    "src_lang": "en",
    "measured_by": "pub",
-   "lead_min": 471.6
+   "lead_min": 471.6,
+   "part": "утро"
   },
   {
    "story": "Google Gboard Conveyor Belt",
@@ -109,7 +119,8 @@
    "src_t": "2026-10-01T04:13:41",
    "src_lang": "en",
    "measured_by": "seen",
-   "lead_min": 350.5
+   "lead_min": 350.5,
+   "part": "утро"
   },
   {
    "story": "Донаты в Max",
@@ -119,7 +130,8 @@
    "src_t": "2026-10-01T10:01:07",
    "src_lang": "ru",
    "measured_by": "seen",
-   "lead_min": 3.7
+   "lead_min": 3.7,
+   "part": "утро"
   },
   {
    "story": "Samsung Galaxy Buds On: анонс",
@@ -129,7 +141,8 @@
    "src_t": "2026-10-01T06:51:28",
    "src_lang": "ru",
    "measured_by": "seen",
-   "lead_min": 199.2
+   "lead_min": 199.2,
+   "part": "утро"
   },
   {
    "story": "Вакцина от аллергии на пыльцу берёзы",
@@ -139,7 +152,129 @@
    "src_t": "2026-09-30T13:44:39",
    "src_lang": "ru",
    "measured_by": "pub",
-   "lead_min": 1226.1
+   "lead_min": 1226.1,
+   "part": "утро"
+  },
+  {
+   "story": "Взрыв газового баллона в Одинцове",
+   "first_ch": "trends",
+   "first_dt": "2026-10-01T13:22:28",
+   "src": "tass",
+   "src_t": "2026-10-01T07:27:33",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 354.9,
+   "part": "вечер"
+  },
+  {
+   "story": "«МТС Линк» запустил почту и календарь",
+   "first_ch": "telecommunal",
+   "first_dt": "2026-10-01T13:25:01",
+   "src": "cnews",
+   "src_t": "2026-10-01T11:17:00",
+   "src_lang": "ru",
+   "measured_by": "pub",
+   "lead_min": 128.0,
+   "part": "вечер"
+  },
+  {
+   "story": "Хакеры заражают ПК через Custom GPT в ChatGPT",
+   "first_ch": "silicon_kitchen",
+   "first_dt": "2026-10-01T13:28:36",
+   "src": "thehackernews",
+   "src_t": "2026-09-30T15:00:36",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 1348.0,
+   "part": "вечер"
+  },
+  {
+   "story": "HP OmniBook 5 — ответ MacBook Neo",
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T13:52:24",
+   "src": "verge",
+   "src_t": "2026-10-01T13:00:00",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 52.4,
+   "part": "вечер"
+  },
+  {
+   "story": "ЕС проверяет донат в играх",
+   "first_ch": "remedia",
+   "first_dt": "2026-10-01T13:58:22",
+   "src": "4pda",
+   "src_t": "2026-10-01T13:32:06",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 26.3,
+   "part": "вечер"
+  },
+  {
+   "story": "Honor: четыре новинки до конца года",
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T14:19:30",
+   "src": "gsmarena",
+   "src_t": "2026-09-30T14:19:02",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 1440.5,
+   "part": "вечер"
+  },
+  {
+   "story": "Видеть сквозь 2 м бетона (мюоны)",
+   "first_ch": "technomotel",
+   "first_dt": "2026-10-01T14:31:22",
+   "src": "3dnews",
+   "src_t": "2026-10-01T08:13:30",
+   "src_lang": "ru",
+   "measured_by": "seen",
+   "lead_min": 377.9,
+   "part": "вечер"
+  },
+  {
+   "story": "Фильм по SCP от Neon",
+   "first_ch": "ai4telegram",
+   "first_dt": "2026-10-01T14:47:00",
+   "src": "verge",
+   "src_t": "2026-09-30T20:45:00",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 1082.0,
+   "part": "вечер"
+  },
+  {
+   "story": "Маск в проекте Пентагона «Меридиан»",
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T14:53:49",
+   "src": "techmeme",
+   "src_t": "2026-09-30T20:35:00",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 1098.8,
+   "part": "вечер"
+  },
+  {
+   "story": "Samsung Galaxy SmartTag 3 работает с iPhone",
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T15:50:08",
+   "src": "gsmarena",
+   "src_t": "2026-09-30T12:15:02",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 1655.1,
+   "part": "вечер"
+  },
+  {
+   "story": "Новые Kindle от Amazon",
+   "first_ch": "biggeekru",
+   "first_dt": "2026-10-01T17:03:06",
+   "src": "verge",
+   "src_t": "2026-10-01T13:00:00",
+   "src_lang": "en",
+   "measured_by": "pub",
+   "lead_min": 243.1,
+   "part": "вечер"
   }
  ],
  "other": {
@@ -210,13 +345,90 @@
    "mobiltelefonru 08:57 продажи iQOO 16"
   ]
  },
- "n_stories": 64,
- "lead_median_min": 366.3,
+ "n_stories": 133,
+ "lead_median_min": 377.9,
  "lead_bands": {
-  "≤30 мин": 1,
-  "30 мин–2 ч": 1,
-  "2–6 ч": 5,
-  "6–12 ч": 4,
-  ">12 ч": 3
- }
+  "≤30 мин": 2,
+  "30 мин–2 ч": 2,
+  "2–6 ч": 8,
+  "6–12 ч": 5,
+  ">12 ч": 8
+ },
+ "other_evening": {
+  "продолжение уже идущего сюжета": [
+   "nwsmkr 13:15 Near Intents: уязвимость закрыта",
+   "data_secrets 14:41 OpenAI после снижения лимитов"
+  ],
+  "реклама и нативка": [
+   "technolavka 13:24 игра для английского",
+   "technolavka 13:46 ХК «Авангард» × Yandex DataLens",
+   "ai4telegram 13:56 конкурс с Иви",
+   "trends 14:11 Авито обучает продавцов",
+   "naebnet 14:25 день рождения Яндекс Директа",
+   "technolavka 15:01 ИИ в маркетинге",
+   "data_secrets 15:20 GoCloud Tech",
+   "concertzaal 15:39 ролик МТС ко Дню пожилого человека",
+   "provod 16:16 Яндекс Фабрика Commo",
+   "remedia 16:51 «ВсеИнструменты.ру»"
+  ],
+  "своё: сводки, мемы, стримы": [
+   "telecommunal 14:35",
+   "provod 16:00 мем",
+   "whackdoor 16:05 мем",
+   "rozetked 16:05 разбор умных часов",
+   "jeteed 16:14 мем про «ё»",
+   "zavtracast 16:55 стрим",
+   "rozetked 17:02 игры вечера"
+  ],
+  "вирусное и находки из соцсетей": [
+   "naebnet 13:44 Fermi.gg",
+   "xor_journal 13:49 ChatGPT и сербский",
+   "neuraldvig 14:05 кроссоверы вайбкодеров",
+   "oneshot_tg 14:14 кооп MOGGED",
+   "concertzaal 14:17 CGTN",
+   "petsproject 14:20 робот стирает бельё",
+   "technolavka 14:47 фото с крокодилом",
+   "concertzaal 14:48 новый союз «то что»",
+   "technomotel 15:13 дом из «Матрицы»",
+   "codecamp 15:21 /insights в Claude Code",
+   "trends 15:23 Atlas Photo",
+   "jeteed 15:41 квест по The Last of Us",
+   "biggeekru 16:03 как мыть провода Apple",
+   "technomedia 16:46 кальян",
+   "concertzaal 16:57 Claude и плюшевые игрушки",
+   "oneshot_tg 16:57 ООО «Ворую деньги»"
+  ],
+  "кино, сериалы, игры (таких лент в мониторе нет)": [
+   "zavtracast 13:18 Gears of War: E-Day",
+   "technomotel 13:30 трейлер «Эбенезер»",
+   "jeteed 15:00 сериал «Полдень» вышел",
+   "naebnet 15:16 «Кэрри»",
+   "remedia 15:24 «Декстер: Воскрешение»",
+   "rozetked 15:26 Sifu на мобильных",
+   "exploitex 16:42 System Shock 2 в EGS"
+  ],
+  "крипта и политика (@nwsmkr, вне профиля)": [
+   "nwsmkr 13:13 Near Intents",
+   "nwsmkr 15:11 Starknet",
+   "nwsmkr 15:47 Путин о ядерном оружии",
+   "nwsmkr 16:02 VVV",
+   "nwsmkr 16:33 Путин о кораблях",
+   "nwsmkr 16:52 Трамп и Иран"
+  ],
+  "новости, источник не найден": [
+   "data_secrets 13:44 Meta и контекст моделей",
+   "iphonesru 13:48 цены Galaxy S26 в США",
+   "codecamp 13:51 Raspberry Pi дорожает",
+   "techmedia 14:20 BMW X9",
+   "mobiltelefonru 14:57 хаб Apple: режим фоторамки",
+   "technomotel 15:41 Путин на «Валдае» об ИИ (прямая речь)",
+   "Romancev768 16:16 GuardoPixel, Honor Magic 8 в РФ",
+   "naebnet 16:23 набор продуктов дороже 8 тыс. ₽",
+   "concertzaal 16:29 Гейтс о налоге на роботов",
+   "bugnotfeature 17:04 20 млрд ₽ на блокировки в 2027"
+  ]
+ },
+ "n_stories_evening": 69,
+ "lead_median_seen_min": 199.2,
+ "n_seen": 9
 }

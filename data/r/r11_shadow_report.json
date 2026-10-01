@@ -1,173 +1,243 @@
 {
- "run_hours": 7.831369715266757,
+ "run_hours": 14.723220349152882,
  "t_start": 1790821317.629213,
- "t_end": 1790849510.560188,
- "n_items": 6773,
- "n_items_new": 1936,
- "n_tg": 620,
- "n_tg_new": 113,
+ "t_end": 1790874321.22247,
+ "n_items": 9111,
+ "n_items_new": 3614,
+ "n_tg": 814,
+ "n_tg_new": 228,
  "feed_latency": {
   "hn_new": {
-   "n": 247,
+   "n": 586,
    "old_resurfaced": 0,
-   "median_min": 3.673094383875529,
-   "p90_min": 5.588871660232544
+   "median_min": 3.494790599743525,
+   "p90_min": 5.5666506588459015
   },
   "tass": {
-   "n": 610,
+   "n": 999,
    "old_resurfaced": 0,
-   "median_min": 2.4955334266026816,
-   "p90_min": 3.7901358735561375
+   "median_min": 2.5291446844736734,
+   "p90_min": 3.8306449969609577
   },
   "3dnews": {
-   "n": 30,
+   "n": 47,
    "old_resurfaced": 10,
-   "median_min": 2.3043963591257732,
-   "p90_min": 5.2882750066121424
+   "median_min": 2.5998595158259072,
+   "p90_min": 5.691773231029511
   },
   "habr_news": {
-   "n": 34,
+   "n": 39,
    "old_resurfaced": 0,
-   "median_min": 1.9932310243447622,
-   "p90_min": 3.044941704670588
+   "median_min": 1.997720515727997,
+   "p90_min": 2.9994788797696432
   },
   "lenta": {
-   "n": 199,
+   "n": 392,
    "old_resurfaced": 0,
-   "median_min": 1.9045604348182679,
-   "p90_min": 3.0980368494987496
+   "median_min": 1.9387683928012849,
+   "p90_min": 3.1631047697862
   },
   "interfax": {
-   "n": 108,
+   "n": 166,
    "old_resurfaced": 0,
-   "median_min": 6.239497991402944,
-   "p90_min": 6.828085560401281
+   "median_min": 6.249409790833791,
+   "p90_min": 6.833121933539709
   },
   "ria": {
-   "n": 290,
+   "n": 563,
    "old_resurfaced": 0,
-   "median_min": 1.23467564980189,
-   "p90_min": 1.8810769907633464
+   "median_min": 1.2538276155789694,
+   "p90_min": 1.9214814432462057
   },
   "overclockers": {
-   "n": 20,
+   "n": 42,
    "old_resurfaced": 0,
-   "median_min": 3.1176527162392933,
-   "p90_min": 4.64751903295517
+   "median_min": 2.6292151749134063,
+   "p90_min": 5.297622271776199
   },
   "rbc": {
-   "n": 87,
+   "n": 154,
    "old_resurfaced": 0,
-   "median_min": 1.1514304320017497,
-   "p90_min": 1.7102491927146912
+   "median_min": 1.0935591916243235,
+   "p90_min": 1.7096424957116447
   },
   "kommersant": {
-   "n": 74,
+   "n": 141,
    "old_resurfaced": 4,
-   "median_min": 3.2908358752727507,
-   "p90_min": 5.8116925573349
+   "median_min": 3.285647749900818,
+   "p90_min": 5.511763042608897
   },
   "techmeme": {
-   "n": 15,
+   "n": 24,
    "old_resurfaced": 0,
-   "median_min": 1.7971018314361573,
-   "p90_min": 2.833787472248077
+   "median_min": 1.7259551326433817,
+   "p90_min": 2.6637360978126523
   },
   "ixbt": {
-   "n": 44,
+   "n": 56,
    "old_resurfaced": 0,
-   "median_min": 1.0410111089547476,
-   "p90_min": 1.6866225834687552
+   "median_min": 1.0679651916027069,
+   "p90_min": 1.8799368838469188
   },
   "4pda": {
-   "n": 17,
+   "n": 28,
    "old_resurfaced": 0,
-   "median_min": 31.296280999978382,
-   "p90_min": 37.65496297756831
+   "median_min": 31.31008245150248,
+   "p90_min": 46.385116264422734
   },
   "gsmarena": {
-   "n": 6,
+   "n": 10,
    "old_resurfaced": 0,
-   "median_min": 5.351584591468176,
-   "p90_min": 5.901305190722147
+   "median_min": 5.616046075026194,
+   "p90_min": 8.499387701352436
   },
   "register": {
-   "n": 6,
+   "n": 13,
    "old_resurfaced": 0,
-   "median_min": 1.1103155235449473,
-   "p90_min": 90.1254539569219
+   "median_min": 1.068310515085856,
+   "p90_min": 57.669669288794225
   },
   "cnews": {
-   "n": 58,
+   "n": 68,
    "old_resurfaced": 0,
-   "median_min": 7.352978593111038,
-   "p90_min": 11.492376197179162
+   "median_min": 7.6758190830548605,
+   "p90_min": 16.752430103222533
   },
   "vcru": {
-   "n": 4,
+   "n": 7,
    "old_resurfaced": 1,
-   "median_min": 16.312548832098642,
-   "p90_min": 50.851923927466075
+   "median_min": 6.578362832466762,
+   "p90_min": 37.89965826670329
   },
   "engadget": {
-   "n": 3,
+   "n": 9,
    "old_resurfaced": 0,
-   "median_min": 1.694426918029785,
-   "p90_min": 2.2904120222727458
+   "median_min": 3.36668936808904,
+   "p90_min": 5.344242793718974
   },
   "thehackernews": {
+   "n": 8,
+   "old_resurfaced": 0,
+   "median_min": 19.775880525509518,
+   "p90_min": 62.11624372879664
+  },
+  "electrek": {
    "n": 5,
    "old_resurfaced": 0,
-   "median_min": 35.56174131631851,
-   "p90_min": 70.09300562302272
+   "median_min": 0.539137049516042,
+   "p90_min": 0.9715482751528423
+  },
+  "nvidia_dev": {
+   "n": 66,
+   "old_resurfaced": 65,
+   "median_min": 0.6671087185541789,
+   "p90_min": 0.6671087185541789
   },
   "wired": {
-   "n": 12,
+   "n": 13,
    "old_resurfaced": 0,
    "median_min": 7.115378884474437,
    "p90_min": 7.115378884474437
   },
   "rb_ru": {
-   "n": 8,
+   "n": 23,
    "old_resurfaced": 0,
-   "median_min": 9.449766224622726,
-   "p90_min": 10.933111869891485
+   "median_min": 5.8208926518758135,
+   "p90_min": 10.399239620367686
   },
   "securitylab": {
-   "n": 14,
-   "old_resurfaced": 0,
+   "n": 23,
+   "old_resurfaced": 1,
    "median_min": 16.936319675048193,
-   "p90_min": 128.24732161760332
+   "p90_min": 107.13325288097069
   },
   "verge": {
-   "n": 3,
+   "n": 13,
    "old_resurfaced": 0,
-   "median_min": 0.8737810333569844,
-   "p90_min": 2.10903724749883
+   "median_min": 1.2177334825197856,
+   "p90_min": 2.6617806617418927
+  },
+  "9to5mac": {
+   "n": 7,
+   "old_resurfaced": 0,
+   "median_min": 0.6686361352602641,
+   "p90_min": 0.9113537542025248
+  },
+  "tomshardware": {
+   "n": 7,
+   "old_resurfaced": 0,
+   "median_min": 2.7068722168604533,
+   "p90_min": 5.828478886286418
+  },
+  "ars": {
+   "n": 4,
+   "old_resurfaced": 0,
+   "median_min": 88.94491016666095,
+   "p90_min": 113.70468046585718
+  },
+  "9to5google": {
+   "n": 9,
+   "old_resurfaced": 0,
+   "median_min": 0.9707080841064453,
+   "p90_min": 26.715198005835216
+  },
+  "techcrunch": {
+   "n": 6,
+   "old_resurfaced": 0,
+   "median_min": 0.3989865601062775,
+   "p90_min": 1.0966485261917114
   }
  },
- "n_stories": 63,
- "n_found": 16,
+ "n_stories": 132,
+ "n_found": 40,
  "lead_bands": {
-  "Telegram раньше ленты": 1,
+  "Telegram раньше ленты": 2,
   "0–5 мин": 1,
-  "5–30 мин": 1,
-  "30 мин – 2 ч": 1,
-  "2–6 ч": 3,
-  "> 6 ч": 9
+  "5–30 мин": 2,
+  "30 мин – 2 ч": 3,
+  "2–6 ч": 7,
+  "> 6 ч": 25
  },
- "lead_median_min": 411.25407906572025,
+ "lead_median_min": 712.175,
  "first_source": [
   [
    "ixbt",
-   5
+   8
+  ],
+  [
+   "kommersant",
+   4
+  ],
+  [
+   "3dnews",
+   2
   ],
   [
    "habr_news",
    2
   ],
   [
+   "rb_ru",
+   2
+  ],
+  [
    "gsmarena",
+   2
+  ],
+  [
+   "overclockers",
+   2
+  ],
+  [
+   "hn_new",
+   2
+  ],
+  [
+   "4pda",
+   2
+  ],
+  [
+   "verge",
    2
   ],
   [
@@ -179,23 +249,43 @@
    1
   ],
   [
-   "3dnews",
-   1
-  ],
-  [
    "the_decoder",
    1
   ],
   [
-   "kommersant",
-   1
-  ],
-  [
-   "rb_ru",
-   1
-  ],
-  [
    "ria",
+   1
+  ],
+  [
+   "tass",
+   1
+  ],
+  [
+   "cnews",
+   1
+  ],
+  [
+   "thehackernews",
+   1
+  ],
+  [
+   "engadget",
+   1
+  ],
+  [
+   "reddit_openai",
+   1
+  ],
+  [
+   "techmeme",
+   1
+  ],
+  [
+   "vcru",
+   1
+  ],
+  [
+   "securitylab",
    1
   ]
  ],
@@ -489,9 +579,10 @@
   {
    "first_ch": "mobiltelefonru",
    "first_dt": "2026-10-01T07:55:16+00:00",
-   "n_posts": 1,
+   "n_posts": 2,
    "n_ch": 1,
    "chs": [
+    "mobiltelefonru",
     "mobiltelefonru"
    ],
    "text": "Анонс Huawei Mate 90 RS – тяжёлый люкс за ¼ млн рублей\nПо 1000 рублей за каждый грамм китайского пафоса\n🤩\nПодробнее:\nmt.today/!dyx7mt",
@@ -505,7 +596,7 @@
    "src": "ixbt",
    "src_title": "Пять моделей, до 12 000 нит, 18 EV, 120 Гц, Kirin 9050 Pro, IP69, 6800 мА•ч. Представлены смартфоны Huawei Mate 90, Pro, Pro Max, Pro Collector’s Edition и RS Ultimate Design",
    "src_link": "https://www.ixbt.com/news/2026/10/01/439400-piat-modelei-do-12-000-nit-18-ev-120-gc-kirin-9050-pro-ip69-6800-mac-predstavleny-smartfony-huawei-mate-90-pro-pro-max-pro-collectors-edition-i-rs-ultimate-design.html",
-   "sim": 0.6746975183486938,
+   "sim": 0.6746975779533386,
    "lead_min": 255.75815813144047,
    "lead_by": "seen_t"
   },
@@ -682,10 +773,11 @@
   {
    "first_ch": "iphonesru",
    "first_dt": "2026-10-01T09:06:30+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 2,
+   "n_ch": 2,
    "chs": [
-    "iphonesru"
+    "iphonesru",
+    "Romancev768"
    ],
    "text": "Наконец-то появился способ просмотра YouTube в CarPlay. Работает даже во время движения\nДля этого необходимо установить на iPhone бесплатный китайский браузер\nAPTV\n. После этого откройте приложение в ",
    "sources": []
@@ -771,10 +863,11 @@
   {
    "first_ch": "codecamp",
    "first_dt": "2026-10-01T09:30:01+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 2,
+   "n_ch": 2,
    "chs": [
-    "codecamp"
+    "codecamp",
+    "xor_journal"
    ],
    "text": "Полезное для тех, кто пишет, выкатывает и эксплуатирует сервисы в контейнерах:\nспециалисты «Лаборатории Касперского» проведут стрим про безопасность изолированных сред\n🗒\nКо всему этому покажут Kaspers",
    "sources": []
@@ -817,11 +910,14 @@
   {
    "first_ch": "whackdoor",
    "first_dt": "2026-10-01T09:41:01+00:00",
-   "n_posts": 2,
-   "n_ch": 2,
+   "n_posts": 5,
+   "n_ch": 5,
    "chs": [
     "whackdoor",
-    "silicon_kitchen"
+    "silicon_kitchen",
+    "exploitex",
+    "provod",
+    "iphonesru"
    ],
    "text": "⚡️\nБольше половины линий связи в России безнадёжно устарели — именно по ним идёт интернет-трафик.\nОптоволокно по всей стране превысило срок службы в 25 лет, но менять его пока не будут, пишут «Извести",
    "sources": []
@@ -883,10 +979,11 @@
   {
    "first_ch": "mobiltelefonru",
    "first_dt": "2026-10-01T09:51:39+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 2,
+   "n_ch": 2,
    "chs": [
-    "mobiltelefonru"
+    "mobiltelefonru",
+    "biggeekru"
    ],
    "text": "Vivo X Fold 6 представлен глобально: цена выше, батарея меньше\nТот случай, когда даже iPhone Duo выглядит скромнее.\nПодробнее:\nmt.today/!ac38mt",
    "sources": [
@@ -916,10 +1013,11 @@
   {
    "first_ch": "ai4telegram",
    "first_dt": "2026-10-01T10:00:00+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 2,
+   "n_ch": 2,
    "chs": [
-    "ai4telegram"
+    "ai4telegram",
+    "bugnotfeature"
    ],
    "text": "🔥\nВ субботу,\n17 октября, Москва станет точкой притяжения для всех специалистов в области RecSys\nКонференция AI Driver & RecSys\n— самое главное событие года для тех, кто создает, исследует и развивает ",
    "sources": []
@@ -980,10 +1078,13 @@
   {
    "first_ch": "biggeekru",
    "first_dt": "2026-10-01T10:04:50+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 4,
+   "n_ch": 2,
    "chs": [
-    "biggeekru"
+    "biggeekru",
+    "biggeekru",
+    "biggeekru",
+    "mobiltelefonru"
    ],
    "text": "Huawei представила новые базовые флагманы Mate 90 и 90 Pro\nMate 90 и 90 Pro получили переработанный дизайн и несколько незначительных технических изменений.\nГлавная разница моделей — чипы Kirin 9030 и",
    "sources": [
@@ -1016,10 +1117,12 @@
   {
    "first_ch": "xor_journal",
    "first_dt": "2026-10-01T10:08:03+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 3,
+   "n_ch": 3,
    "chs": [
-    "xor_journal"
+    "xor_journal",
+    "exploitex",
+    "biggeekru"
    ],
    "text": "Google решила, что обычные клавиатуры слишком скучные и выкатила… ВЕРТИКАЛЬНУЮ\n😳\nВместо того чтобы двигать руками по клавишам, японские инженеры Gboard сделали наоборот: вся конструкция\nвращается по к",
    "sources": [
@@ -1046,14 +1149,16 @@
   {
    "first_ch": "mobiltelefonru",
    "first_dt": "2026-10-01T10:10:42+00:00",
-   "n_posts": 1,
-   "n_ch": 1,
+   "n_posts": 2,
+   "n_ch": 2,
    "chs": [
-    "mobiltelefonru"
+    "mobiltelefonru",
+    "biggeekru"
    ],
    "text": "Анонс Samsung Galaxy Buds On — первые наушники-клипсы в линейке Galaxy\nОни не перекрывают слуховой канал, работают до 9,5 часа и умеют принимать звонки кивком головы.\nПодробнее:\nmt.today/!k248mt",
    "sources": [
     "3dnews",
+    "4pda",
     "gsmarena"
    ],
    "src": "gsmarena",
@@ -1066,12 +1171,1015 @@
   {
    "first_ch": "techmedia",
    "first_dt": "2026-10-01T10:10:47+00:00",
+   "n_posts": 4,
+   "n_ch": 4,
+   "chs": [
+    "techmedia",
+    "whackdoor",
+    "technomedia",
+    "trends"
+   ],
+   "text": "❗️\nВакцина от аллергии от пыльцу березы будет доступна россиянам уже\nв конце ОКТЯБРЯ\n— привить\nпланируется\nдо 60 тысяч пациентов.\nАллергия — всё.\n@techmedia",
+   "sources": []
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T13:13:27+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr"
+   ],
+   "text": "Near Intents was exploited for $3.8M+ after its BSC hot wallet saw multiple irregular outflows a few hours ago.\n——\nRU\n|\nBigLiquid\n|\nPro Channel",
+   "sources": []
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T13:15:14+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr"
+   ],
+   "text": "The near intents vulnerability has been patched, full user compensation is planned, and operations will resume within one hour\n——\nRU\n|\nBigLiquid\n|\nPro Channel",
+   "sources": []
+  },
+  {
+   "first_ch": "zavtracast",
+   "first_dt": "2026-10-01T13:18:07+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "zavtracast"
+   ],
+   "text": "Gears of War: E-Day получила 87 баллов на Opencritic.\nКритики называют игру лучшей частью со времён Gears of War 3 и крепким экшеном с брутальными сражениями и мрачной атмосферой. Сюжет держится на бр",
+   "sources": [
+    "overclockers",
+    "tomshardware",
+    "verge"
+   ],
+   "src": "overclockers",
+   "src_title": "Игра Gears of War: E-Day получит режим онлайн минимум с пятью сезонами",
+   "src_link": "https://overclockers.ru/blog/Scorpion81/show/265256/Igra-Gears-of-War-E-Day-poluchit-rezhim-onlajn-minimum-s-pyat-ju-sezonami",
+   "sim": 0.6424791812896729,
+   "lead_min": 382.26504801511766,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "trends",
+   "first_dt": "2026-10-01T13:22:28+00:00",
+   "n_posts": 2,
+   "n_ch": 2,
+   "chs": [
+    "trends",
+    "exploitex"
+   ],
+   "text": "Кот взорвал квартиру в Одинцово\n— к счастью, хозяев не было дома. Внезапный взрыв прогремел утром в многоэтажке на улице Белорусской. Причиной инцидента стал нагрев и детонация туристического газового",
+   "sources": [
+    "rbc",
+    "ria",
+    "tass"
+   ],
+   "src": "tass",
+   "src_title": "ТАСС: в Одинцове в квартире жилого дома взорвался газовый баллон",
+   "src_link": "https://tass.ru/proisshestviya/28169377",
+   "sim": 0.672607421875,
+   "lead_min": 354.9162813981374,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "technolavka",
+   "first_dt": "2026-10-01T13:24:58+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technolavka"
+   ],
+   "text": "❤️\nПодтягиваем знание\nанглийского\nв Tower Defence — нашли для вас\nофигительную\nигру в Steam.\nОна называется\nTowers of Babble\n— здесь каждое английское слово превращается в\nотдельную постройку.\nНаписал",
+   "sources": []
+  },
+  {
+   "first_ch": "telecommunal",
+   "first_dt": "2026-10-01T13:25:01+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "telecommunal"
+   ],
+   "text": "▶️\nМТС Линк вышел в офисный сегмент\n.\nМТС Линк запустил\nПочту\nи\nКалендарь\n. Это первый шаг платформы в офисные решения. Компания хочет увеличить долю на российском рынке бизнес-коммуникаций и продукти",
+   "sources": [
+    "cnews",
+    "ria"
+   ],
+   "src": "cnews",
+   "src_title": "«МТС Линк» запускает обновленный таск-трекер",
+   "src_link": "https://www.cnews.ru/news/line/2026-09-30_mts_link_zapuskaet_obnovlennyj",
+   "sim": 0.6395017504692078,
+   "lead_min": 1807.0166666666667,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "silicon_kitchen",
+   "first_dt": "2026-10-01T13:28:36+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "silicon_kitchen"
+   ],
+   "text": "Хакеры научились заражать ПК прямо через настоящий ChatGPT —\nдля атаки использовали пользовательского бота внутри официального сайта.\nМошенники создали CustomGPT под названием\nPlus 5.6\n, который легко",
+   "sources": [
+    "3dnews",
+    "thehackernews"
+   ],
+   "src": "thehackernews",
+   "src_title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+   "src_link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+   "sim": 0.7410935163497925,
+   "lead_min": 1348.35,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "technomotel",
+   "first_dt": "2026-10-01T13:30:05+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technomotel"
+   ],
+   "text": "Джек Воробей и Гэндальф\nВ ОДНОМ ФИЛЬМЕ\n— вышел новый трейлер фэнтези\n«Эбенезер: Рождественская история»\n.\nДжонни Депп\nсыграет злого лондонского богача из XIX века, к которому на Рождество пришёл призр",
+   "sources": []
+  },
+  {
+   "first_ch": "data_secrets",
+   "first_dt": "2026-10-01T13:44:26+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "data_secrets"
+   ],
+   "text": "Исследователи из Meta\n*\nпредложили дать моделям полный контроль над собственным контекстом\nОбычно контекст агента устроен довольно просто: старый контекст + новый ответ -> новый контекст. История пост",
+   "sources": [
+    "hn_new"
+   ],
+   "src": "hn_new",
+   "src_title": "Stop Recomputing Context: Introducing ContextCube",
+   "src_link": "https://www.turingdata.io/blog/stop-recomputing-context-introducing-contextcube",
+   "sim": 0.6782485246658325,
+   "lead_min": -2.978398883342743,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "naebnet",
+   "first_dt": "2026-10-01T13:44:57+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "naebnet"
+   ],
+   "text": "Прокачиваем математику в уме: нашли сайт\nFermi.gg\n, где нужно «на коленке» прикидывать ответы на необычные вопросы.\nГлавное — ответить как можно ближе к правильному значению. Например, сколько минут н",
+   "sources": []
+  },
+  {
+   "first_ch": "technolavka",
+   "first_dt": "2026-10-01T13:46:06+00:00",
+   "n_posts": 2,
+   "n_ch": 2,
+   "chs": [
+    "technolavka",
+    "data_analysis_ml"
+   ],
+   "text": "💚\nХК «Авангард»\nавтоматизировал\nбизнес-аналитику с помощью\nYandex DataLens\nи Yandex Cloud.\nПосле переезда на новую арену у клуба\nвыросли\nкоммерческие показатели и объём данных. Теперь сотрудники могут",
+   "sources": []
+  },
+  {
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T13:48:59+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "iphonesru"
+   ],
+   "text": "Samsung повысила цены на все модели Galaxy S26. Пока только в США\nЦены выросли на $100, за исключением Galaxy S26 Ultra 1 ТБ — он подорожал на $200.\n▶\n︎ Galaxy S26 256 ГБ:\n$999\n→ $1099\n▶\n︎ Galaxy S26 ",
+   "sources": [
+    "9to5google",
+    "engadget",
+    "gsmarena",
+    "ixbt",
+    "rb_ru",
+    "techmeme",
+    "verge"
+   ],
+   "src": "engadget",
+   "src_title": "Samsung Galaxy Tab S12 Ultra review: The apex Android tablet",
+   "src_link": "https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/",
+   "sim": 0.7659374475479126,
+   "lead_min": 1548.9833333333333,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "xor_journal",
+   "first_dt": "2026-10-01T13:49:53+00:00",
+   "n_posts": 3,
+   "n_ch": 3,
+   "chs": [
+    "xor_journal",
+    "exploitex",
+    "silicon_kitchen"
+   ],
+   "text": "Ор, ChatGPT ломается от сербского:\nдевушка в кабинете врача попросила перевести слово «полупозвонок» на сербский — в ответ получила несколько экранов из «šššššš».\n🤭\nИ даже после просьб прекратить шипе",
+   "sources": []
+  },
+  {
+   "first_ch": "codecamp",
+   "first_dt": "2026-10-01T13:51:13+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "codecamp"
+   ],
+   "text": "Эпоха «дешёвых одноплатников за $35» официально ВСЁ: Raspberry в очередной раз\nподняла\nцены на 2GB-версии Pi 4 и Pi 5 сразу на $12.50 — до $67.50 и $77.50\n🤔\nСначала\nзалочили\nапгрейд чипов в прошивке, ",
+   "sources": []
+  },
+  {
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T13:52:24+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "iphonesru"
+   ],
+   "text": "Ответ на MacBook Neo от HP. OmniBook 5 14 оказался тоньше, легче и получил OLED\nБазовая за $699 версия получила Intel Core 5 315, 8 ГБ оперативной памяти и SSD на 256 ГБ.\nНоутбук будет выпускаться чет",
+   "sources": [
+    "3dnews",
+    "overclockers",
+    "verge"
+   ],
+   "src": "overclockers",
+   "src_title": "Acemagic представила ноутбук RX16 с процессором Intel Core Ultra X7 358H семейства Panther Lake",
+   "src_link": "https://overclockers.ru/blog/molexandr/show/265266/Acemagic-predstavila-noutbuk-RX16-s-processorom-Intel-Core-Ultra-X7-358H-semejstva-Panther-Lake",
+   "sim": 0.6202751398086548,
+   "lead_min": 262.02998166481655,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "ai4telegram",
+   "first_dt": "2026-10-01T13:56:01+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "ai4telegram"
+   ],
+   "text": "🔴\nФинал конкурса с Иви уже скоро!\nУ вас есть еще 4 дня, чтобы переписать\n«Историю его служанки»\nпо-своему — и забрать один из призов.\nНужно придумать нового героя для второго сезона:\nвнешность, характ",
+   "sources": []
+  },
+  {
+   "first_ch": "remedia",
+   "first_dt": "2026-10-01T13:58:22+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "remedia"
+   ],
+   "text": "⭐️\nMinecraft, Valorant, Candy Crush Saga, Clash of Clans и For Honor ВСЁ\n— ЕС начала\nпроверку\nигр из-за внутриигровых покупок\n😒\n😒\nИх интересует, насколько понятно игрокам показывают реальную стоимость",
+   "sources": [
+    "4pda"
+   ],
+   "src": "4pda",
+   "src_title": "Евросоюз взялся за донат. Под проверку попали Minecraft и Candy Crush",
+   "src_link": "https://4pda.to/2026/10/01/461773/evrosoyuz_vzyalsya_za_donat_pod_proverku_popali_minecraft_i_candy_crush/",
+   "sim": 0.8409913182258606,
+   "lead_min": 26.25760145187378,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "neuraldvig",
+   "first_dt": "2026-10-01T14:05:30+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "neuraldvig"
+   ],
+   "text": "Вайбкодеры продолжают создавать безумные кроссоверы игр\n😱",
+   "sources": []
+  },
+  {
+   "first_ch": "trends",
+   "first_dt": "2026-10-01T14:11:03+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "trends"
+   ],
+   "text": "Продавцов на Авито теперь будут прокачивать\n— сервис\nзапустил\nпилот образовательного портала «По делу». Это хаб, где новичкам помогут запустить первые продажи, а опытным селлерам подскажут, как эффект",
+   "sources": []
+  },
+  {
+   "first_ch": "oneshot_tg",
+   "first_dt": "2026-10-01T14:14:05+00:00",
+   "n_posts": 4,
+   "n_ch": 4,
+   "chs": [
+    "oneshot_tg",
+    "remedia",
+    "technomedia",
+    "bugnotfeature"
+   ],
+   "text": "🌟\nМогни или умри\nВышел кооп, где самого уродливого друга съедает монстр —\nMOGGED: Looksmaxx or Die\n. Днём вы варите пептиды, качаете бицепс, занимаетесь мьюингом и долбите себе лицо молотком (бонсмеши",
+   "sources": []
+  },
+  {
+   "first_ch": "concertzaal",
+   "first_dt": "2026-10-01T14:17:09+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "concertzaal"
+   ],
+   "text": "Китайский медиагигант CGTN начал писать новости для твиттерских (!) на русском — но переводчик иногда выдаёт капсом что-то в духе карточек AliExpress.\nВ комментах уже просят не увольнять переводчика. ",
+   "sources": []
+  },
+  {
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T14:19:30+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "mobiltelefonru"
+   ],
+   "text": "Honor готовит выпуск четырех новинок до конца года\nСреди них смартфон с 7\" экраном и батареей свыше 10 000 мАч.\nПодробнее:\nmt.today/!z9f8mt",
+   "sources": [
+    "gsmarena",
+    "ixbt"
+   ],
+   "src": "ixbt",
+   "src_title": "Honor уже представила флагманские Honor Magic 9 и Magic 9 Pro Max, но это только начало. К концу года выйдет Honor 700 Pro с камерой 200 Мп и двумя экранами, а также ещё 3 модели",
+   "src_link": "https://www.ixbt.com/news/2026/09/30/439319-honor-uze-predstavila-flagmanskie-honor-magic-9-i-magic-9-pro-max-no-eto-tolko-nacalo-k-koncu-goda-vyidet-honor-700-pro-s-kameroi-200-mp-i-dvumia-ekranami-a-takze-eshhe-3-modeli.html",
+   "sim": 0.6289878487586975,
+   "lead_min": 1574.3333333333333,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "petsproject",
+   "first_dt": "2026-10-01T14:20:02+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "petsproject"
+   ],
+   "text": "Теперь вы лично можете научить робота\nстирать ваши трусы\n👙\nНа Hugging Face\nзалили\nопенсорсный датасет роликов\nна 9 ТБ и 1300 часов с бытовыми действиями\n. Тут глажка одежды, готовка, уборка, стирка и ",
+   "sources": []
+  },
+  {
+   "first_ch": "techmedia",
+   "first_dt": "2026-10-01T14:20:25+00:00",
    "n_posts": 1,
    "n_ch": 1,
    "chs": [
     "techmedia"
    ],
-   "text": "❗️\nВакцина от аллергии от пыльцу березы будет доступна россиянам уже\nв конце ОКТЯБРЯ\n— привить\nпланируется\nдо 60 тысяч пациентов.\nАллергия — всё.\n@techmedia",
+   "text": "BMW готовит «убийцу Range Rover»\n— немцы\nанонсировали\nразработку огромного люксового кроссовера, который инсайдеры\nназывают X9\n😱\nОжидаются трёхрядный салон, технологии от X7 и 4,4-литровый битурбомото",
+   "sources": [
+    "rb_ru"
+   ],
+   "src": "rb_ru",
+   "src_title": "Представлен новый седан BMW 3-й серии — с дизайном в стиле электрической i3 и ценой от 4,2 млн ₽",
+   "src_link": "https://rb.ru/news/predstavlen-novyj-sedan-bmw-3-j-serii-s-dizajnom-v-stile-elektricheskoj-i3-i-cenoj-ot-42-mln/",
+   "sim": 0.6473038792610168,
+   "lead_min": 1533.4166666666667,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "naebnet",
+   "first_dt": "2026-10-01T14:25:01+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "naebnet"
+   ],
+   "text": "В свой день рождения Яндекс Директ решил устроить настоящий праздник для предпринимателей: они получили подарки для работы и отдыха, чтобы не забывать о себе и найти новых клиентов.\nВ розыгрыше к 25-л",
+   "sources": [
+    "ixbt"
+   ],
+   "src": "ixbt",
+   "src_title": "1,8 млрд рублей, 35 тысяч «Яндекс Байков» и 112 тысяч обученных курьеров: Яндекс подвел итоги по доставке",
+   "src_link": "https://www.ixbt.com/news/2026/10/01/18-mlrd-rublei-35-tysiac-iandeks-baikov-i-112-tysiac-obucennyx-kurerov-iandeks-podvel-itogi-po-dostavke.html",
+   "sim": 0.6492401361465454,
+   "lead_min": 145.0,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "technomotel",
+   "first_dt": "2026-10-01T14:31:22+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technomotel"
+   ],
+   "text": "Зрение Супермена стало\nРЕАЛЬНОСТЬЮ\n— в Румынии\nнаучились\nвидеть\nсквозь бетон\n.\nФизики центра ELI-NP врубили лазер мощностью\n10 петаватт\n, чтобы создать искусственный пучок мюонов, и с его помощью полу",
+   "sources": [
+    "3dnews"
+   ],
+   "src": "3dnews",
+   "src_title": "Учёные научились видеть сквозь 2 метра бетона — для этого понадобились мощнейший в мире лазер и мюоны",
+   "src_link": "https://3dnews.ru/1149310",
+   "sim": 0.8474295139312744,
+   "lead_min": 377.8593235651652,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "telecommunal",
+   "first_dt": "2026-10-01T14:35:34+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "telecommunal"
+   ],
+   "text": "▶️\nВозродить, вспомнив, что мы могли.\nМы на канале у себя часто рассказываем о достижениях прошлого и даем пищу для размышлений о будущем. Историю отечественной микро- и радиоэлектроники надо знать, о",
+   "sources": []
+  },
+  {
+   "first_ch": "data_secrets",
+   "first_dt": "2026-10-01T14:41:53+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "data_secrets"
+   ],
+   "text": "OpenAI пытаются задобрить пользователей после понижения лимитов\nНапоминаем, что стартап на днях объявил, что в подписке за 200 долларов пользователи теперь будут получать не 20х, а всего 10х лимитов, ",
+   "sources": [
+    "reddit_openai"
+   ],
+   "src": "reddit_openai",
+   "src_title": "If you’re on Pro 200, you need to read this!",
+   "src_link": "https://www.reddit.com/r/OpenAI/comments/1wus2rc/if_youre_on_pro_200_you_need_to_read_this/",
+   "sim": 0.6970794796943665,
+   "lead_min": 62.87389314969381,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "ai4telegram",
+   "first_dt": "2026-10-01T14:47:00+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "ai4telegram"
+   ],
+   "text": "🔐\nПо SCP\nготовят\nеще один фильм\n— на этот раз студия Neon, которая выпускала «Анору» и готовит к прокату фильм «Искусственный» про конфликт внутри OpenAI.\nВ июля на волне успеха\nBackrooms\nза хоррор по",
+   "sources": [
+    "engadget",
+    "verge"
+   ],
+   "src": "verge",
+   "src_title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+   "src_link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+   "sim": 0.7739713191986084,
+   "lead_min": 1082.0,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "technolavka",
+   "first_dt": "2026-10-01T14:47:58+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technolavka"
+   ],
+   "text": "💚\n💚\n💚\n: мужик\nможет\nсесть на\n💚\n💚\nлет\nза решётку из-за фотки с крокодилом — он сгенерил её в\nGemini.\nОн сделал\nфейковое\nизображение крокодила в водохранилище Пандан и отправил его\nколлеге.\nКартинка раз",
+   "sources": []
+  },
+  {
+   "first_ch": "concertzaal",
+   "first_dt": "2026-10-01T14:48:56+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "concertzaal"
+   ],
+   "text": "В русском языке прямо сейчас появляется новый союз 'то что' — сейчас фраза 'он сказал, то что завтра придёт' считается ошибкой,\nпишут\nРИА.\nЗумеры используют 'то что' всё чаще, и филологи уже допускают",
+   "sources": []
+  },
+  {
+   "first_ch": "iphonesru",
+   "first_dt": "2026-10-01T14:53:49+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "iphonesru"
+   ],
+   "text": "Илон Маск займётся проектом «Меридиан» и поможет Пентагону изучать войны будущего\nВ частности, Маску предстоит определить, какие технологии, вооружения и системы понадобятся США для будущих конфликтов",
+   "sources": [
+    "kommersant",
+    "lenta",
+    "overclockers",
+    "rbc",
+    "ria",
+    "securitylab",
+    "techcrunch",
+    "techmeme"
+   ],
+   "src": "techmeme",
+   "src_title": "DOD taps Elon Musk, Palmer Luckey, and former House Speaker Newt Gingrich for Project Meridian, a 120-day study of capabilities the US may need in future wars (Luke Fountain/CNBC)",
+   "src_link": "https://www.techmeme.com/260930/p45#a260930p45",
+   "sim": 0.6919786930084229,
+   "lead_min": 1098.8166666666666,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T14:57:39+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "mobiltelefonru"
+   ],
+   "text": "Домашний хаб от Apple получит режим фоторамки\nДля режима Photo Face можно выбрать подборку или общий альбом.\nПодробнее:\nmt.today/!veh8mt",
+   "sources": []
+  },
+  {
+   "first_ch": "jeteed",
+   "first_dt": "2026-10-01T15:00:13+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "jeteed"
+   ],
+   "text": "⚡️\n«Жук в муравейнике» братьев Стругацких получил новую экранную жизнь\n— в\nOkko\nвышел\nфантастический сериал «Полдень».\nПо сюжету Максим Каммерер (Юрий Колокольников) получает задание найти прогрессора",
+   "sources": [
+    "kommersant"
+   ],
+   "src": "kommersant",
+   "src_title": "Сериал «Полдень» по мотивам повести Стругацких покажут в онлайн-кинотеатрах",
+   "src_link": "https://www.kommersant.ru/doc/8990640",
+   "sim": 0.6293692588806152,
+   "lead_min": 1511.4166666666667,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "technolavka",
+   "first_dt": "2026-10-01T15:01:16+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technolavka"
+   ],
+   "text": "❤️\nИИ уже\nМЕНЯЕТ\nмаркетинг и PR — а вы понимаете, что именно делать\nпо-другому?\nЛюди всё чаще ищут ответы, сравнивают продукты и знакомятся с брендами через\nнейросети.\nМаркетологам теперь нужно разбир",
+   "sources": []
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T15:11:53+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr"
+   ],
+   "text": "Starknet co-founder recommends buying LIT after a successful signal on ZEC…\nCo-founder of STARKNET (STRK)\n🤌\n🤌\n——\nRU\n|\nBigLiquid\n|\nPro Channel",
+   "sources": []
+  },
+  {
+   "first_ch": "technomotel",
+   "first_dt": "2026-10-01T15:13:05+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technomotel"
+   ],
+   "text": "Дом\nАРХИТЕКТОРА\nиз «Матрицы» нашли в Канаде — он оснащён лютым количеством\nмониторов\n.\nВ Ванкувере\nвыставили\nна продажу шикарную квартиру за\n292 миллиона\nрублей, и одна фотка из объявления завирусилас",
+   "sources": []
+  },
+  {
+   "first_ch": "naebnet",
+   "first_dt": "2026-10-01T15:16:37+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "naebnet"
+   ],
+   "text": "Сериал «Кэрри» оказался одной из лучших экранизаций романа Стивена Кинга: сейчас у него 85%\nсвежести\nна Rotten Tomatoes после 40 обзоров.\nКритикам зашел перенос истории в современный сеттинг. Новая ад",
+   "sources": []
+  },
+  {
+   "first_ch": "data_secrets",
+   "first_dt": "2026-10-01T15:20:00+00:00",
+   "n_posts": 2,
+   "n_ch": 2,
+   "chs": [
+    "data_secrets",
+    "data_analysis_ml"
+   ],
+   "text": "😎\nGoCloud Tech 2026:\nрегистрация открыта\nЭтой осенью\nCloud․ru\nснова собирает ИТ-специалистов, чтобы вместе обсудить, как строить платформы и сервисы в эпоху ИИ.\nВ программе три трека:\n▶️\nИнфраструктур",
+   "sources": []
+  },
+  {
+   "first_ch": "codecamp",
+   "first_dt": "2026-10-01T15:21:16+00:00",
+   "n_posts": 2,
+   "n_ch": 2,
+   "chs": [
+    "codecamp",
+    "naebnet"
+   ],
+   "text": "Лайфхак для вайбкодеров:\nесли используете Claude Code, то вбейте команду\n/insights\n.\nOpus 5.5 разберёт ваши последние 200 сессий и покажет, над чем и как вы чаще всего работаете, где застреваете, как ",
+   "sources": [
+    "hn_new"
+   ],
+   "src": "hn_new",
+   "src_title": "A Rant About Claude Code's Auto-Memory",
+   "src_link": "https://elliotmilco.substack.com/p/claude-auto-memory",
+   "sim": 0.6036138534545898,
+   "lead_min": 63.13932214975357,
+   "lead_by": "seen_t"
+  },
+  {
+   "first_ch": "trends",
+   "first_dt": "2026-10-01T15:23:19+00:00",
+   "n_posts": 3,
+   "n_ch": 3,
+   "chs": [
+    "trends",
+    "technomedia",
+    "techmedia"
+   ],
+   "text": "Duolingo для фотографов завирусилось в соцсетях\n. В приложении Atlas Photo собраны красивые локации для съемок, есть интерактивная карта, тесты, лайфхаки и целое учебное пособие. В гайдах отдельно раз",
+   "sources": []
+  },
+  {
+   "first_ch": "remedia",
+   "first_dt": "2026-10-01T15:24:12+00:00",
+   "n_posts": 3,
+   "n_ch": 3,
+   "chs": [
+    "remedia",
+    "technomotel",
+    "technolavka"
+   ],
+   "text": "«Декстер: Воскрешение»\n— вышел первый трейлер второго сезона.\nВ продолжении героя ждёт борьба не только с другими маньяками, но и со своим кризисом среднего возраста.\nВо втором сезоне также сыграли Бр",
+   "sources": []
+  },
+  {
+   "first_ch": "rozetked",
+   "first_dt": "2026-10-01T15:26:32+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "rozetked"
+   ],
+   "text": "Кунг-фу экшен Sifu выйдет на мобильных платформах 12 октября\nУ стильной игры про восточные единоборства уже появились страницы в App Store и Google Play.\nДля игры на iPhone потребуется устройство с iO",
+   "sources": []
+  },
+  {
+   "first_ch": "concertzaal",
+   "first_dt": "2026-10-01T15:39:53+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "concertzaal"
+   ],
+   "text": "Сегодня День пожилого человека — и\nМТС выпустили ролик\n, чтобы напомнить, что пожилым людям невероятно важно общение. Когда человек одинок и ему не хватает близких, внимание даже со стороны случайного",
+   "sources": []
+  },
+  {
+   "first_ch": "technomotel",
+   "first_dt": "2026-10-01T15:41:09+00:00",
+   "n_posts": 2,
+   "n_ch": 2,
+   "chs": [
+    "technomotel",
+    "iphonesru"
+   ],
+   "text": "⚡️\nИИ может стать новой\nДИКТАТУРОЙ\n— об этом заявил\nВладимир Путин\nна пленарном заседании клуба «Валдай».\n«\nЦифровой тоталитаризм\nпри развитии ИИ станет таким же тупиковым, мрачным и антигуманным, как",
+   "sources": [
+    "kommersant",
+    "rbc"
+   ],
+   "src": "kommersant",
+   "src_title": "Путин поручил рассмотреть введение в «Сириусе» режима для развития ИИ",
+   "src_link": "https://www.kommersant.ru/doc/8990874",
+   "sim": 0.6677128672599792,
+   "lead_min": 1220.95,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "jeteed",
+   "first_dt": "2026-10-01T15:41:50+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "jeteed"
+   ],
+   "text": "Главное не встретить в операционной Джоэла\n☠️\n☠️\n☠️\nВ Москве открылся масштабный квест по The Last of Us\n— его можно пройти в компании из 15 человек. Участникам предстоит исследовать многоэтажную забр",
+   "sources": []
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T15:47:18+00:00",
+   "n_posts": 2,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr",
+    "nwsmkr"
+   ],
+   "text": "Putin:\nWe cannot be sure that nuclear weapons will not be used again\n——\nПутин:\nМы не можем быть уверены в том, что ядерное оружие больше не будет применено",
+   "sources": []
+  },
+  {
+   "first_ch": "mobiltelefonru",
+   "first_dt": "2026-10-01T15:50:08+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "mobiltelefonru"
+   ],
+   "text": "Анонс Samsung SmartTag 3 — первая метка бренда, работающая с iPhone\nКольцо для ключей убрали, зато метка стала на треть меньше и легче.\nПодробнее:\nmt.today/!hzi8mt",
+   "sources": [
+    "3dnews",
+    "4pda",
+    "9to5google",
+    "vcru"
+   ],
+   "src": "vcru",
+   "src_title": "Samsung представила маячок Galaxy SmartTag 3 — он работает с iOS",
+   "src_link": "https://vc.ru/tech/3167917-samsung-galaxy-smarttag-3-novyj-treker-s-podderzhkoy-ios?from=rss",
+   "sim": 0.7901489734649658,
+   "lead_min": 1576.65,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "provod",
+   "first_dt": "2026-10-01T16:00:56+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "provod"
+   ],
+   "text": "Слова начальника перед сокращением:\n⚡️\nПровод",
+   "sources": []
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T16:02:17+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr"
+   ],
+   "text": "#VVV\n$VVV annual emissions are now 2M VVV per year.\nAs scheduled, emissions stepped down from 2.5M to 2M on October 1.\nToday's emission reduction continues to pave the road to a net deflationary VVV w",
+   "sources": []
+  },
+  {
+   "first_ch": "biggeekru",
+   "first_dt": "2026-10-01T16:03:08+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "biggeekru"
+   ],
+   "text": "Помыли провода Apple! Что?\n😳\nА вы знали, что на сайте Apple есть официальная инструкция, как помыть их оригинальные провода? Мы вот узнали и решили проверить!\n❗️\nНО ВАМ НАСТОЯТЕЛЬНО НЕ РЕКОМЕНДУЕМ ТАК",
+   "sources": []
+  },
+  {
+   "first_ch": "whackdoor",
+   "first_dt": "2026-10-01T16:05:12+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "whackdoor"
+   ],
+   "text": "Беспроводным для зарядкам нашли достойное применение:",
+   "sources": []
+  },
+  {
+   "first_ch": "rozetked",
+   "first_dt": "2026-10-01T16:05:39+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "rozetked"
+   ],
+   "text": "Умные часы напичканы сенсорами, но что они измеряют на самом деле?\nМы решили подробно в этом разобраться. Рассказываем, что часы вычисляют математикой, а что действительно замеряют.\nРаз часы умные, то",
+   "sources": []
+  },
+  {
+   "first_ch": "jeteed",
+   "first_dt": "2026-10-01T16:14:14+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "jeteed"
+   ],
+   "text": "Если вы используете букву «ё» и пишите без ошибок — поздравляем, вы ИИ\n🙃\n🙃\n🙃",
+   "sources": []
+  },
+  {
+   "first_ch": "Romancev768",
+   "first_dt": "2026-10-01T16:16:18+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "Romancev768"
+   ],
+   "text": "Самый защищенный смартфон в мире GuardoPixel и первый в России Honor Magic 8 Pro Max\nЭто очень интересно!",
+   "sources": [
+    "ixbt"
+   ],
+   "src": "ixbt",
+   "src_title": "Honor назвала Magic 9 первым настоящим смартфоном с искусственным интеллектом",
+   "src_link": "https://www.ixbt.com/news/2026/09/30/439267-eti-to-tocno-pervye-tak-mozno-i-so-sceta-sbitsia-honor-zaiavila-cto-telefony-serii-magic-9-pervymi-polucili-sertifikat-kak-nastoiashhie-smartfony-s-iskusstvennym-intellektom.html",
+   "sim": 0.6519555449485779,
+   "lead_min": 1966.9333333333334,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "provod",
+   "first_dt": "2026-10-01T16:16:49+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "provod"
+   ],
+   "text": "АЙФОНЩИКИ, ВНИМАНИЕ:\nв поп-апах бренда Яндекс Фабрики Commo при любой покупке будут дарить чехол на модели 15, 16, 17 и 18 — есть\nразные цвета!\nАкция продлится всего три дня —\nс 2 по 4 октября.\nМинима",
+   "sources": []
+  },
+  {
+   "first_ch": "naebnet",
+   "first_dt": "2026-10-01T16:23:49+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "naebnet"
+   ],
+   "text": "Минимальный набор продуктов в России стоит уже более ₽8 тыс. — на 40% больше, чем 5 лет назад.\nОплатить продуктовую корзину можно\nкредиткой\nАльфа-Банка: она даёт до 150 дней беспроцентного периода. Об",
+   "sources": []
+  },
+  {
+   "first_ch": "concertzaal",
+   "first_dt": "2026-10-01T16:29:14+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "concertzaal"
+   ],
+   "text": "Брать налоги с роботов и ИИ\nпредлагает\nБилл Гейтс — если технология заменяет людей, компании должны платить за неё соц- и медицинские взносы.\nЕщё он продвигает налоги на ИИ-токены по миру. Идея в том,",
+   "sources": [
+    "kommersant"
+   ],
+   "src": "kommersant",
+   "src_title": "Трамп: Билл Гейтс изменил позицию насчет ИИ и поддерживает его развитие",
+   "src_link": "https://www.kommersant.ru/doc/8990098",
+   "sim": 0.6406182050704956,
+   "lead_min": 2073.45,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T16:33:23+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr"
+   ],
+   "text": "Putin:\nUkraine attacked Russian ships and damaged or destroyed about 100 vessels. We began to respond. Now everyone is asking us to stop the attacks on ships.\nThe same goes for oil refineries. We bega",
+   "sources": []
+  },
+  {
+   "first_ch": "exploitex",
+   "first_dt": "2026-10-01T16:42:57+00:00",
+   "n_posts": 2,
+   "n_ch": 2,
+   "chs": [
+    "exploitex",
+    "provod"
+   ],
+   "text": "⚡️\nВ EGS бесплатно отдают\nремастер\nкультовой игры\nSystem Shock 2\n— забрать прародителя современного immersive sim можно до 8 октября.\nВ игре доступен кроссплатформенный кооп — развалить Шодан можно с ",
+   "sources": []
+  },
+  {
+   "first_ch": "technomedia",
+   "first_dt": "2026-10-01T16:46:32+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "technomedia"
+   ],
+   "text": "Кальян СПАСАЕТ от запора\n— этим способом пользовался даже Александр II, уверяют в сети.\nВо время поездок на Кавказ император использовал необычный ритуал против проблем с кишечником:\nкальян, чашка коф",
+   "sources": []
+  },
+  {
+   "first_ch": "remedia",
+   "first_dt": "2026-10-01T16:51:05+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "remedia"
+   ],
+   "text": "ИИ добрался и до ремонта\n— «ВсеИнструменты.ру» уже использует его, чтобы быстрее разбираться с товарами и покупателями\n🤯\n🤯\n🤯\nЗа последний год компания провела больше 100 ИИ-проектов. Например, описани",
+   "sources": [
+    "securitylab"
+   ],
+   "src": "securitylab",
+   "src_title": "ИИ уничтожил Bug Bounty. Даже Intel перестала платить за найденные уязвимости",
+   "src_link": "https://www.securitylab.ru/news/578056.php",
+   "sim": 0.613375186920166,
+   "lead_min": 2807.7833333333333,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "nwsmkr",
+   "first_dt": "2026-10-01T16:52:53+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "nwsmkr"
+   ],
+   "text": "TRUMP ON IRAN: NOW I HAVE TO MAKE A DECISION\nTRUMP: EITHER IRAN SIGNS DEAL, OR IT WON'T EXIST ANY LONGER",
+   "sources": []
+  },
+  {
+   "first_ch": "zavtracast",
+   "first_dt": "2026-10-01T16:55:38+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "zavtracast"
+   ],
+   "text": "Сегодня Дима плохо играет в\nGears of War: E-Day\n, где режет саранчу бензопилой.\nПриходите в чатик!\nYT:\nhttps://youtube.com/c/zavtracast/live\nTW:\nhttps://www.twitch.tv/zavtracast\n@zavtracast",
+   "sources": []
+  },
+  {
+   "first_ch": "concertzaal",
+   "first_dt": "2026-10-01T16:57:07+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "concertzaal"
+   ],
+   "text": "Создатели Claude по сложным вопросам и конфликтам в офисе\nсоветуются\nс плюшевыми игрушками — это не мем: у них есть целый 'совет директоров' из игрушек со своими ролями.\nПлюшевый кот Жинжи советует от",
+   "sources": []
+  },
+  {
+   "first_ch": "oneshot_tg",
+   "first_dt": "2026-10-01T16:57:32+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "oneshot_tg"
+   ],
+   "text": "В сети нашли компанию\nООО «Ворую деньги»\n, которая заработала 999 миллиардов рублей на производстве спермы хряков.\nК сожалению, в 2025 году\nорганизацию\nликвидировали.\nТе самые дела у кореша\n😎\n🔫\nваншот",
+   "sources": []
+  },
+  {
+   "first_ch": "rozetked",
+   "first_dt": "2026-10-01T17:02:05+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "rozetked"
+   ],
+   "text": "Вечер четверга — пора затариваться новыми играми\n🕹\n🐺\nРемастер\nтретьего\n«Ведьмака» — с обновлённой графикой, боёвкой и ещё много чем. СD Project не изменяет себе: пользователи жалуются на баги и плохую",
+   "sources": [
+    "4pda"
+   ],
+   "src": "4pda",
+   "src_title": "Вайб и тормоза. Игроки оценили амбициозный киберпанк-симулятор Nivalis Nights",
+   "src_link": "https://4pda.to/2026/09/30/461726/vajb_i_tormoza_igroki_otsenili_ambitsioznyj_kiberpank_simulyator_nivalis_nights/",
+   "sim": 0.6611433029174805,
+   "lead_min": 1382.0833333333333,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "biggeekru",
+   "first_dt": "2026-10-01T17:03:06+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "biggeekru"
+   ],
+   "text": "Amazon представила обновлённую линейку Kindle\nНовые модели электронных книг Kindle, Kindle Paperwhite и Kindle Colorsoft получили новый яркий дизайн, обновлённые дисплеи, став при этом заметно тоньше ",
+   "sources": [
+    "3dnews",
+    "engadget",
+    "hn_new",
+    "techcrunch",
+    "techmeme",
+    "verge",
+    "wired"
+   ],
+   "src": "verge",
+   "src_title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+   "src_link": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+   "sim": 0.8946892023086548,
+   "lead_min": 243.1,
+   "lead_by": "pub_t"
+  },
+  {
+   "first_ch": "bugnotfeature",
+   "first_dt": "2026-10-01T17:04:16+00:00",
+   "n_posts": 1,
+   "n_ch": 1,
+   "chs": [
+    "bugnotfeature"
+   ],
+   "text": "2️⃣\n0️⃣\nМИЛЛИАРДОВ рублей потратят на блокировки в Рунете в 2027 году\n— правительство уже заложило сумму в расходы федерального бюджета на следующий год.\nЭто в 2 раза больше, чем планировалось ранее. ",
    "sources": []
   }
  ]
