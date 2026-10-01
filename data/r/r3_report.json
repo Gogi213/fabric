@@ -1,35 +1,35 @@
 {
- "n_media": 305,
+ "n_media": 357,
  "wave": {
   "2": {
-   "n": 2283,
-   "p25": 29.4,
-   "median": 176.2,
-   "p75": 905.1
+   "n": 2579,
+   "p25": 19.9,
+   "median": 154.0,
+   "p75": 835.0
   },
   "3": {
-   "n": 1135,
-   "p25": 60.7,
-   "median": 278.6,
-   "p75": 1131.9
+   "n": 1288,
+   "p25": 56.8,
+   "median": 275.29999999999995,
+   "p75": 1110.4
   },
   "5": {
-   "n": 448,
-   "p25": 77.4,
-   "median": 445.05,
-   "p75": 1318.7
+   "n": 529,
+   "p25": 89.8,
+   "median": 481.8,
+   "p75": 1310.1
   },
   "10": {
-   "n": 97,
-   "p25": 73.5,
-   "median": 704.6,
-   "p75": 1405.7
+   "n": 119,
+   "p25": 76.4,
+   "median": 644.2,
+   "p75": 1659.1
   },
   "20": {
-   "n": 12,
-   "p25": 274.2,
-   "median": 613.1500000000001,
-   "p75": 1137.4
+   "n": 16,
+   "p25": 259.1,
+   "median": 457.45,
+   "p75": 986.7
   }
  },
  "speed": [
@@ -44,33 +44,23 @@
    "median_rank": 0.0
   },
   {
-   "ch": "vibecoding_tg",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 63300,
-   "posts_per_day": 6.07,
-   "stories": 26,
-   "first": 15,
-   "first_share": 0.577,
-   "median_rank": 0.0
-  },
-  {
    "ch": "codecamp",
    "kind": "Медиа: AI и тех-новости",
    "subs": 181000,
    "posts_per_day": 6.29,
-   "stories": 45,
-   "first": 25,
-   "first_share": 0.556,
+   "stories": 54,
+   "first": 33,
+   "first_share": 0.611,
    "median_rank": 0.0
   },
   {
-   "ch": "mobiltelefonru",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 43600,
-   "posts_per_day": 15.79,
-   "stories": 28,
-   "first": 15,
-   "first_share": 0.536,
+   "ch": "exploitex",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 2050000,
+   "posts_per_day": 14.0,
+   "stories": 117,
+   "first": 59,
+   "first_share": 0.504,
    "median_rank": 0.0
   },
   {
@@ -84,34 +74,64 @@
    "median_rank": 0.038
   },
   {
+   "ch": "techmedia",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 1420000,
+   "posts_per_day": 12.71,
+   "stories": 125,
+   "first": 60,
+   "first_share": 0.48,
+   "median_rank": 0.111
+  },
+  {
    "ch": "xor_journal",
    "kind": "Медиа: AI и тех-новости",
    "subs": 204000,
    "posts_per_day": 6.5,
-   "stories": 54,
-   "first": 26,
-   "first_share": 0.481,
-   "median_rank": 0.089
-  },
-  {
-   "ch": "exploitex",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 2050000,
-   "posts_per_day": 14.0,
-   "stories": 108,
-   "first": 51,
-   "first_share": 0.472,
-   "median_rank": 0.106
+   "stories": 57,
+   "first": 27,
+   "first_share": 0.474,
+   "median_rank": 0.111
   },
   {
    "ch": "remedia",
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 694000,
    "posts_per_day": 11.5,
-   "stories": 63,
-   "first": 26,
-   "first_share": 0.413,
+   "stories": 67,
+   "first": 28,
+   "first_share": 0.418,
    "median_rank": 0.125
+  },
+  {
+   "ch": "whackdoor",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 1590000,
+   "posts_per_day": 19.57,
+   "stories": 163,
+   "first": 72,
+   "first_share": 0.442,
+   "median_rank": 0.143
+  },
+  {
+   "ch": "machinelearning_interview",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 30300,
+   "posts_per_day": 2.21,
+   "stories": 8,
+   "first": 3,
+   "first_share": 0.375,
+   "median_rank": 0.146
+  },
+  {
+   "ch": "mobiltelefonru",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 43600,
+   "posts_per_day": 15.79,
+   "stories": 30,
+   "first": 14,
+   "first_share": 0.467,
+   "median_rank": 0.156
   },
   {
    "ch": "neuraldvig",
@@ -121,26 +141,6 @@
    "stories": 29,
    "first": 13,
    "first_share": 0.448,
-   "median_rank": 0.143
-  },
-  {
-   "ch": "techmedia",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 1420000,
-   "posts_per_day": 12.71,
-   "stories": 110,
-   "first": 48,
-   "first_share": 0.436,
-   "median_rank": 0.157
-  },
-  {
-   "ch": "whackdoor",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 1590000,
-   "posts_per_day": 19.57,
-   "stories": 161,
-   "first": 70,
-   "first_share": 0.435,
    "median_rank": 0.167
   },
   {
@@ -148,20 +148,10 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 2200000,
    "posts_per_day": 9.5,
-   "stories": 75,
-   "first": 29,
-   "first_share": 0.387,
-   "median_rank": 0.2
-  },
-  {
-   "ch": "tmtwave",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 28900,
-   "posts_per_day": 2.79,
-   "stories": 9,
-   "first": 3,
-   "first_share": 0.333,
-   "median_rank": 0.2
+   "stories": 74,
+   "first": 28,
+   "first_share": 0.378,
+   "median_rank": 0.219
   },
   {
    "ch": "iphonesru",
@@ -174,24 +164,44 @@
    "median_rank": 0.222
   },
   {
-   "ch": "zavtracast",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 14700,
-   "posts_per_day": 6.86,
-   "stories": 26,
-   "first": 10,
-   "first_share": 0.385,
-   "median_rank": 0.232
+   "ch": "vistehno",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 71100,
+   "posts_per_day": 2.36,
+   "stories": 11,
+   "first": 3,
+   "first_share": 0.273,
+   "median_rank": 0.222
   },
   {
-   "ch": "ai_exee",
+   "ch": "vibecoding_tg",
    "kind": "Медиа: AI и тех-новости",
-   "subs": 23800,
-   "posts_per_day": 1.93,
-   "stories": 9,
+   "subs": 63300,
+   "posts_per_day": 6.07,
+   "stories": 26,
+   "first": 12,
+   "first_share": 0.462,
+   "median_rank": 0.225
+  },
+  {
+   "ch": "blockchainRF",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 20500,
+   "posts_per_day": 3.36,
+   "stories": 10,
    "first": 4,
-   "first_share": 0.444,
-   "median_rank": 0.25
+   "first_share": 0.4,
+   "median_rank": 0.236
+  },
+  {
+   "ch": "technomotel",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 3000000,
+   "posts_per_day": 15.79,
+   "stories": 90,
+   "first": 32,
+   "first_share": 0.356,
+   "median_rank": 0.236
   },
   {
    "ch": "datais",
@@ -204,13 +214,23 @@
    "median_rank": 0.25
   },
   {
-   "ch": "biggeekru",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 582000,
-   "posts_per_day": 9.21,
-   "stories": 65,
-   "first": 24,
-   "first_share": 0.369,
+   "ch": "zavtracast",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 14700,
+   "posts_per_day": 6.86,
+   "stories": 27,
+   "first": 10,
+   "first_share": 0.37,
+   "median_rank": 0.25
+  },
+  {
+   "ch": "jeteed",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 203000,
+   "posts_per_day": 7.0,
+   "stories": 46,
+   "first": 11,
+   "first_share": 0.239,
    "median_rank": 0.25
   },
   {
@@ -218,49 +238,39 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 3080000,
    "posts_per_day": 17.0,
-   "stories": 140,
+   "stories": 142,
    "first": 32,
-   "first_share": 0.229,
+   "first_share": 0.225,
    "median_rank": 0.25
   },
   {
-   "ch": "technomotel",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 3000000,
-   "posts_per_day": 15.79,
-   "stories": 84,
-   "first": 27,
-   "first_share": 0.321,
-   "median_rank": 0.268
-  },
-  {
-   "ch": "vistehno",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 71100,
-   "posts_per_day": 2.36,
-   "stories": 10,
-   "first": 3,
-   "first_share": 0.3,
-   "median_rank": 0.268
-  },
-  {
-   "ch": "concertzaal",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 834000,
-   "posts_per_day": 11.21,
-   "stories": 64,
-   "first": 20,
-   "first_share": 0.312,
-   "median_rank": 0.286
+   "ch": "tmtwave",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 28900,
+   "posts_per_day": 2.79,
+   "stories": 9,
+   "first": 2,
+   "first_share": 0.222,
+   "median_rank": 0.25
   },
   {
    "ch": "provod",
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 1470000,
    "posts_per_day": 19.79,
-   "stories": 167,
-   "first": 34,
-   "first_share": 0.204,
+   "stories": 171,
+   "first": 37,
+   "first_share": 0.216,
+   "median_rank": 0.273
+  },
+  {
+   "ch": "biggeekru",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 582000,
+   "posts_per_day": 9.21,
+   "stories": 67,
+   "first": 23,
+   "first_share": 0.343,
    "median_rank": 0.286
   },
   {
@@ -268,40 +278,20 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 1070000,
    "posts_per_day": 14.86,
-   "stories": 136,
-   "first": 32,
-   "first_share": 0.235,
-   "median_rank": 0.293
+   "stories": 137,
+   "first": 33,
+   "first_share": 0.241,
+   "median_rank": 0.286
   },
   {
-   "ch": "jeteed",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 203000,
-   "posts_per_day": 7.0,
-   "stories": 45,
-   "first": 10,
-   "first_share": 0.222,
-   "median_rank": 0.3
-  },
-  {
-   "ch": "telecommunal",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 43400,
-   "posts_per_day": 4.79,
-   "stories": 15,
-   "first": 5,
-   "first_share": 0.333,
-   "median_rank": 0.333
-  },
-  {
-   "ch": "petsproject",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 16900,
-   "posts_per_day": 3.29,
-   "stories": 17,
-   "first": 5,
-   "first_share": 0.294,
-   "median_rank": 0.333
+   "ch": "ned0news",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 12000,
+   "posts_per_day": 11.57,
+   "stories": 54,
+   "first": 23,
+   "first_share": 0.426,
+   "median_rank": 0.292
   },
   {
    "ch": "technolavka",
@@ -311,6 +301,86 @@
    "stories": 76,
    "first": 16,
    "first_share": 0.211,
+   "median_rank": 0.304
+  },
+  {
+   "ch": "concertzaal",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 834000,
+   "posts_per_day": 11.21,
+   "stories": 65,
+   "first": 20,
+   "first_share": 0.308,
+   "median_rank": 0.32
+  },
+  {
+   "ch": "ai_exee",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 23800,
+   "posts_per_day": 1.93,
+   "stories": 8,
+   "first": 3,
+   "first_share": 0.375,
+   "median_rank": 0.325
+  },
+  {
+   "ch": "aaplpro",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 13400,
+   "posts_per_day": 9.79,
+   "stories": 29,
+   "first": 13,
+   "first_share": 0.448,
+   "median_rank": 0.333
+  },
+  {
+   "ch": "Romancev768",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 775000,
+   "posts_per_day": 6.07,
+   "stories": 17,
+   "first": 7,
+   "first_share": 0.412,
+   "median_rank": 0.333
+  },
+  {
+   "ch": "IT_Portal",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 99900,
+   "posts_per_day": 3.29,
+   "stories": 9,
+   "first": 3,
+   "first_share": 0.333,
+   "median_rank": 0.333
+  },
+  {
+   "ch": "neuro_channel",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 11800,
+   "posts_per_day": 4.43,
+   "stories": 13,
+   "first": 3,
+   "first_share": 0.231,
+   "median_rank": 0.333
+  },
+  {
+   "ch": "petsproject",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 16900,
+   "posts_per_day": 3.29,
+   "stories": 18,
+   "first": 4,
+   "first_share": 0.222,
+   "median_rank": 0.333
+  },
+  {
+   "ch": "comss",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 11400,
+   "posts_per_day": 14.64,
+   "stories": 42,
+   "first": 9,
+   "first_share": 0.214,
    "median_rank": 0.333
   },
   {
@@ -319,8 +389,8 @@
    "subs": 922000,
    "posts_per_day": 3.93,
    "stories": 15,
-   "first": 3,
-   "first_share": 0.2,
+   "first": 2,
+   "first_share": 0.133,
    "median_rank": 0.333
   },
   {
@@ -328,9 +398,9 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 1220000,
    "posts_per_day": 9.57,
-   "stories": 85,
+   "stories": 87,
    "first": 11,
-   "first_share": 0.129,
+   "first_share": 0.126,
    "median_rank": 0.333
   },
   {
@@ -338,170 +408,100 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 130000,
    "posts_per_day": 1.5,
-   "stories": 14,
+   "stories": 15,
    "first": 1,
-   "first_share": 0.071,
+   "first_share": 0.067,
    "median_rank": 0.333
   },
   {
-   "ch": "Romancev768",
+   "ch": "neironity",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 11400,
+   "posts_per_day": 10.93,
+   "stories": 115,
+   "first": 1,
+   "first_share": 0.009,
+   "median_rank": 0.333
+  },
+  {
+   "ch": "first_neiro",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 11900,
+   "posts_per_day": 5.07,
+   "stories": 49,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.353
+  },
+  {
+   "ch": "Wylsared",
    "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 775000,
-   "posts_per_day": 6.07,
-   "stories": 16,
-   "first": 6,
-   "first_share": 0.375,
-   "median_rank": 0.354
+   "subs": 1120000,
+   "posts_per_day": 10.57,
+   "stories": 44,
+   "first": 12,
+   "first_share": 0.273,
+   "median_rank": 0.359
   },
   {
    "ch": "krohobortv",
    "kind": "Apple и смартфоны (медиа и магазины)",
    "subs": 56100,
    "posts_per_day": 3.0,
-   "stories": 22,
-   "first": 4,
-   "first_share": 0.182,
-   "median_rank": 0.363
-  },
-  {
-   "ch": "rozetked",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 671000,
-   "posts_per_day": 8.29,
-   "stories": 51,
-   "first": 14,
-   "first_share": 0.275,
-   "median_rank": 0.4
-  },
-  {
-   "ch": "IT_Portal",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 99900,
-   "posts_per_day": 3.29,
-   "stories": 8,
-   "first": 2,
-   "first_share": 0.25,
-   "median_rank": 0.417
-  },
-  {
-   "ch": "data_analysis_ml",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 50700,
-   "posts_per_day": 4.57,
-   "stories": 19,
+   "stories": 21,
    "first": 3,
-   "first_share": 0.158,
-   "median_rank": 0.429
+   "first_share": 0.143,
+   "median_rank": 0.37
+  },
+  {
+   "ch": "rozetkedplus",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 72700,
+   "posts_per_day": 10.36,
+   "stories": 58,
+   "first": 14,
+   "first_share": 0.241,
+   "median_rank": 0.414
   },
   {
    "ch": "tlive",
    "kind": "Медиа: AI и тех-новости",
    "subs": 1700000,
    "posts_per_day": 2.43,
-   "stories": 12,
-   "first": 3,
-   "first_share": 0.25,
-   "median_rank": 0.437
-  },
-  {
-   "ch": "okno_media",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 61300,
-   "posts_per_day": 1.86,
-   "stories": 9,
-   "first": 1,
-   "first_share": 0.111,
-   "median_rank": 0.444
+   "stories": 14,
+   "first": 4,
+   "first_share": 0.286,
+   "median_rank": 0.429
   },
   {
    "ch": "iPumpBrain",
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 183000,
    "posts_per_day": 6.14,
-   "stories": 46,
+   "stories": 45,
    "first": 11,
-   "first_share": 0.239,
-   "median_rank": 0.464
+   "first_share": 0.244,
+   "median_rank": 0.429
   },
   {
-   "ch": "glavhack",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 28500,
-   "posts_per_day": 5.43,
-   "stories": 24,
-   "first": 1,
-   "first_share": 0.042,
-   "median_rank": 0.483
+   "ch": "rozetked",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 671000,
+   "posts_per_day": 8.29,
+   "stories": 54,
+   "first": 14,
+   "first_share": 0.259,
+   "median_rank": 0.437
   },
   {
-   "ch": "aaplpro",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 13400,
-   "posts_per_day": 9.79,
-   "stories": 27,
-   "first": 11,
-   "first_share": 0.407,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "real4pda",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 36400,
-   "posts_per_day": 33.86,
-   "stories": 31,
-   "first": 11,
-   "first_share": 0.355,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "prohitec",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 69600,
-   "posts_per_day": 9.43,
-   "stories": 50,
+   "ch": "ru3dnews",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 17300,
+   "posts_per_day": 15.36,
+   "stories": 66,
    "first": 17,
-   "first_share": 0.34,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "it2b_channel",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 18000,
-   "posts_per_day": 3.79,
-   "stories": 9,
-   "first": 3,
-   "first_share": 0.333,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "data_secrets",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 94300,
-   "posts_per_day": 7.07,
-   "stories": 29,
-   "first": 9,
-   "first_share": 0.31,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "pro_ai_official",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 41200,
-   "posts_per_day": 5.5,
-   "stories": 13,
-   "first": 4,
-   "first_share": 0.308,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "appleinsider",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 34300,
-   "posts_per_day": 14.86,
-   "stories": 63,
-   "first": 19,
-   "first_share": 0.302,
-   "median_rank": 0.5
+   "first_share": 0.258,
+   "median_rank": 0.437
   },
   {
    "ch": "ftsec",
@@ -511,6 +511,126 @@
    "stories": 20,
    "first": 6,
    "first_share": 0.3,
+   "median_rank": 0.454
+  },
+  {
+   "ch": "Russian_OSINT",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 47900,
+   "posts_per_day": 3.79,
+   "stories": 13,
+   "first": 1,
+   "first_share": 0.077,
+   "median_rank": 0.455
+  },
+  {
+   "ch": "okno_media",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 61300,
+   "posts_per_day": 1.86,
+   "stories": 10,
+   "first": 1,
+   "first_share": 0.1,
+   "median_rank": 0.456
+  },
+  {
+   "ch": "glavhack",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 28500,
+   "posts_per_day": 5.43,
+   "stories": 24,
+   "first": 1,
+   "first_share": 0.042,
+   "median_rank": 0.464
+  },
+  {
+   "ch": "appleinsider",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 34300,
+   "posts_per_day": 14.86,
+   "stories": 66,
+   "first": 22,
+   "first_share": 0.333,
+   "median_rank": 0.472
+  },
+  {
+   "ch": "repremium",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 111000,
+   "posts_per_day": 2.57,
+   "stories": 18,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.472
+  },
+  {
+   "ch": "lama_channel_gpt",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 24500,
+   "posts_per_day": 1.93,
+   "stories": 10,
+   "first": 3,
+   "first_share": 0.3,
+   "median_rank": 0.486
+  },
+  {
+   "ch": "pro_ai_official",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 41200,
+   "posts_per_day": 5.5,
+   "stories": 15,
+   "first": 6,
+   "first_share": 0.4,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "real4pda",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 36400,
+   "posts_per_day": 33.86,
+   "stories": 35,
+   "first": 13,
+   "first_share": 0.371,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "data_secrets",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 94300,
+   "posts_per_day": 7.07,
+   "stories": 32,
+   "first": 11,
+   "first_share": 0.344,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "prohitec",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 69600,
+   "posts_per_day": 9.43,
+   "stories": 53,
+   "first": 16,
+   "first_share": 0.302,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "it2b_channel",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 18000,
+   "posts_per_day": 3.79,
+   "stories": 10,
+   "first": 3,
+   "first_share": 0.3,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "telecommunal",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 43400,
+   "posts_per_day": 4.79,
+   "stories": 17,
+   "first": 5,
+   "first_share": 0.294,
    "median_rank": 0.5
   },
   {
@@ -518,39 +638,29 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 200000,
    "posts_per_day": 5.5,
-   "stories": 34,
-   "first": 9,
-   "first_share": 0.265,
+   "stories": 35,
+   "first": 10,
+   "first_share": 0.286,
    "median_rank": 0.5
   },
   {
-   "ch": "mknewsru",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 214000,
-   "posts_per_day": 14.36,
-   "stories": 89,
-   "first": 23,
-   "first_share": 0.258,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "ai_machinelearning_big_data",
+   "ch": "droidergram",
    "kind": "Медиа: AI и тех-новости",
-   "subs": 279000,
-   "posts_per_day": 6.14,
-   "stories": 37,
-   "first": 9,
-   "first_share": 0.243,
+   "subs": 103000,
+   "posts_per_day": 3.93,
+   "stories": 21,
+   "first": 6,
+   "first_share": 0.286,
    "median_rank": 0.5
   },
   {
-   "ch": "ru3dnews",
+   "ch": "hiaimedia",
    "kind": "Медиа: AI и тех-новости",
-   "subs": 17300,
-   "posts_per_day": 15.36,
-   "stories": 58,
-   "first": 14,
-   "first_share": 0.241,
+   "subs": 2620000,
+   "posts_per_day": 2.93,
+   "stories": 15,
+   "first": 4,
+   "first_share": 0.267,
    "median_rank": 0.5
   },
   {
@@ -558,19 +668,29 @@
    "kind": "Apple и смартфоны (медиа и магазины)",
    "subs": 32300,
    "posts_per_day": 2.71,
-   "stories": 17,
-   "first": 4,
-   "first_share": 0.235,
+   "stories": 19,
+   "first": 5,
+   "first_share": 0.263,
    "median_rank": 0.5
   },
   {
-   "ch": "iguides",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 30100,
-   "posts_per_day": 9.36,
-   "stories": 39,
-   "first": 9,
-   "first_share": 0.231,
+   "ch": "ai_machinelearning_big_data",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 279000,
+   "posts_per_day": 6.14,
+   "stories": 40,
+   "first": 10,
+   "first_share": 0.25,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "forklogAI",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 11400,
+   "posts_per_day": 4.64,
+   "stories": 28,
+   "first": 7,
+   "first_share": 0.25,
    "median_rank": 0.5
   },
   {
@@ -578,29 +698,49 @@
    "kind": "Apple и смартфоны (медиа и магазины)",
    "subs": 30800,
    "posts_per_day": 9.29,
-   "stories": 80,
-   "first": 18,
-   "first_share": 0.225,
+   "stories": 81,
+   "first": 20,
+   "first_share": 0.247,
    "median_rank": 0.5
   },
   {
-   "ch": "rozetkedplus",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 72700,
-   "posts_per_day": 10.36,
-   "stories": 53,
-   "first": 11,
-   "first_share": 0.208,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "Wylsared",
+   "ch": "iguides",
    "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 1120000,
-   "posts_per_day": 10.57,
-   "stories": 41,
-   "first": 8,
-   "first_share": 0.195,
+   "subs": 30100,
+   "posts_per_day": 9.36,
+   "stories": 42,
+   "first": 10,
+   "first_share": 0.238,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "technoretail_nom",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 12400,
+   "posts_per_day": 4.0,
+   "stories": 18,
+   "first": 4,
+   "first_share": 0.222,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "mknewsru",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 214000,
+   "posts_per_day": 14.36,
+   "stories": 99,
+   "first": 22,
+   "first_share": 0.222,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "the_next_leveI",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 31100,
+   "posts_per_day": 4.14,
+   "stories": 11,
+   "first": 2,
+   "first_share": 0.182,
    "median_rank": 0.5
   },
   {
@@ -614,16 +754,6 @@
    "median_rank": 0.5
   },
   {
-   "ch": "droidergram",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 103000,
-   "posts_per_day": 3.93,
-   "stories": 17,
-   "first": 3,
-   "first_share": 0.176,
-   "median_rank": 0.5
-  },
-  {
    "ch": "typespace",
    "kind": "Медиа: AI и тех-новости",
    "subs": 1150000,
@@ -634,13 +764,43 @@
    "median_rank": 0.5
   },
   {
+   "ch": "tsingular",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 12900,
+   "posts_per_day": 10.71,
+   "stories": 31,
+   "first": 5,
+   "first_share": 0.161,
+   "median_rank": 0.5
+  },
+  {
    "ch": "rhymecoins",
    "kind": "Медиа: AI и тех-новости",
    "subs": 39600,
    "posts_per_day": 11.07,
-   "stories": 72,
-   "first": 11,
-   "first_share": 0.153,
+   "stories": 75,
+   "first": 12,
+   "first_share": 0.16,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "data_analysis_ml",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 50700,
+   "posts_per_day": 4.57,
+   "stories": 19,
+   "first": 3,
+   "first_share": 0.158,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "technodeus2023",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 101000,
+   "posts_per_day": 5.29,
+   "stories": 28,
+   "first": 4,
+   "first_share": 0.143,
    "median_rank": 0.5
   },
   {
@@ -658,9 +818,9 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 405000,
    "posts_per_day": 15.5,
-   "stories": 76,
-   "first": 10,
-   "first_share": 0.132,
+   "stories": 80,
+   "first": 11,
+   "first_share": 0.138,
    "median_rank": 0.5
   },
   {
@@ -668,19 +828,19 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 44000,
    "posts_per_day": 7.79,
-   "stories": 24,
+   "stories": 26,
    "first": 3,
-   "first_share": 0.125,
+   "first_share": 0.115,
    "median_rank": 0.5
   },
   {
-   "ch": "technodeus2023",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 101000,
-   "posts_per_day": 5.29,
-   "stories": 29,
+   "ch": "aioftheday",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 44000,
+   "posts_per_day": 4.79,
+   "stories": 27,
    "first": 3,
-   "first_share": 0.103,
+   "first_share": 0.111,
    "median_rank": 0.5
   },
   {
@@ -698,19 +858,9 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 1340000,
    "posts_per_day": 7.14,
-   "stories": 54,
+   "stories": 53,
    "first": 5,
-   "first_share": 0.093,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "ai_for_devs",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 17500,
-   "posts_per_day": 1.79,
-   "stories": 11,
-   "first": 1,
-   "first_share": 0.091,
+   "first_share": 0.094,
    "median_rank": 0.5
   },
   {
@@ -718,29 +868,39 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 1140000,
    "posts_per_day": 9.29,
-   "stories": 102,
-   "first": 7,
-   "first_share": 0.069,
+   "stories": 104,
+   "first": 8,
+   "first_share": 0.077,
    "median_rank": 0.5
   },
   {
-   "ch": "hack_less",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 237000,
-   "posts_per_day": 5.43,
-   "stories": 19,
-   "first": 1,
-   "first_share": 0.053,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "techinsiderru",
+   "ch": "chatgptv",
    "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 15200,
-   "posts_per_day": 9.5,
-   "stories": 25,
-   "first": 1,
-   "first_share": 0.04,
+   "subs": 1870000,
+   "posts_per_day": 7.57,
+   "stories": 56,
+   "first": 4,
+   "first_share": 0.071,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "CyberInvestorTrends",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 12100,
+   "posts_per_day": 43.07,
+   "stories": 48,
+   "first": 3,
+   "first_share": 0.062,
+   "median_rank": 0.5
+  },
+  {
+   "ch": "MediaComputers",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 216000,
+   "posts_per_day": 7.21,
+   "stories": 64,
+   "first": 3,
+   "first_share": 0.047,
    "median_rank": 0.5
   },
   {
@@ -748,170 +908,70 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 225000,
    "posts_per_day": 4.57,
-   "stories": 35,
-   "first": 1,
-   "first_share": 0.029,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "repremium",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 111000,
-   "posts_per_day": 2.57,
-   "stories": 19,
+   "stories": 36,
    "first": 0,
    "first_share": 0.0,
    "median_rank": 0.5
-  },
-  {
-   "ch": "ITtishka",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 21400,
-   "posts_per_day": 2.93,
-   "stories": 29,
-   "first": 0,
-   "first_share": 0.0,
-   "median_rank": 0.5
-  },
-  {
-   "ch": "hiaimedia",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 2620000,
-   "posts_per_day": 2.93,
-   "stories": 14,
-   "first": 3,
-   "first_share": 0.214,
-   "median_rank": 0.536
   },
   {
    "ch": "techno_media",
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 781000,
    "posts_per_day": 8.93,
-   "stories": 101,
+   "stories": 102,
    "first": 2,
    "first_share": 0.02,
-   "median_rank": 0.538
+   "median_rank": 0.512
   },
   {
-   "ch": "aioftheday",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 44000,
-   "posts_per_day": 4.79,
-   "stories": 26,
-   "first": 5,
-   "first_share": 0.192,
-   "median_rank": 0.55
-  },
-  {
-   "ch": "chatgptv",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 1870000,
-   "posts_per_day": 7.57,
-   "stories": 54,
-   "first": 4,
-   "first_share": 0.074,
-   "median_rank": 0.55
-  },
-  {
-   "ch": "gptpublic",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 270000,
-   "posts_per_day": 2.21,
-   "stories": 18,
-   "first": 0,
-   "first_share": 0.0,
-   "median_rank": 0.55
-  },
-  {
-   "ch": "aiaiai",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 176000,
-   "posts_per_day": 6.0,
-   "stories": 25,
-   "first": 4,
-   "first_share": 0.16,
-   "median_rank": 0.556
-  },
-  {
-   "ch": "Russian_OSINT",
+   "ch": "SecLabNews",
    "kind": "Медиа: кибербез и мошенничество",
-   "subs": 47900,
-   "posts_per_day": 3.79,
-   "stories": 13,
+   "subs": 84700,
+   "posts_per_day": 3.5,
+   "stories": 8,
    "first": 1,
-   "first_share": 0.077,
-   "median_rank": 0.556
-  },
-  {
-   "ch": "chestniyblog",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 78900,
-   "posts_per_day": 7.57,
-   "stories": 29,
-   "first": 5,
-   "first_share": 0.172,
-   "median_rank": 0.56
-  },
-  {
-   "ch": "the_next_leveI",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 31100,
-   "posts_per_day": 4.14,
-   "stories": 10,
-   "first": 2,
-   "first_share": 0.2,
-   "median_rank": 0.583
+   "first_share": 0.125,
+   "median_rank": 0.544
   },
   {
    "ch": "settersmedia_news",
    "kind": "Медиа: кибербез и мошенничество",
    "subs": 15600,
    "posts_per_day": 3.93,
-   "stories": 13,
+   "stories": 12,
    "first": 2,
-   "first_share": 0.154,
-   "median_rank": 0.6
+   "first_share": 0.167,
+   "median_rank": 0.55
   },
   {
-   "ch": "kyberhub",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 60300,
-   "posts_per_day": 4.14,
-   "stories": 43,
-   "first": 3,
-   "first_share": 0.07,
-   "median_rank": 0.6
-  },
-  {
-   "ch": "MediaComputers",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 216000,
-   "posts_per_day": 7.21,
-   "stories": 63,
-   "first": 3,
-   "first_share": 0.048,
-   "median_rank": 0.6
-  },
-  {
-   "ch": "TheOpen_Ai",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 13100,
-   "posts_per_day": 2.86,
-   "stories": 36,
+   "ch": "lifegoodd1",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 186000,
+   "posts_per_day": 3.57,
+   "stories": 8,
    "first": 2,
-   "first_share": 0.056,
-   "median_rank": 0.613
+   "first_share": 0.25,
+   "median_rank": 0.575
   },
   {
-   "ch": "lama_channel_gpt",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 24500,
+   "ch": "chestniyblog",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 78900,
+   "posts_per_day": 7.57,
+   "stories": 30,
+   "first": 3,
+   "first_share": 0.1,
+   "median_rank": 0.583
+  },
+  {
+   "ch": "apple_theme",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 11700,
    "posts_per_day": 1.93,
-   "stories": 10,
-   "first": 2,
-   "first_share": 0.2,
-   "median_rank": 0.625
+   "stories": 12,
+   "first": 1,
+   "first_share": 0.083,
+   "median_rank": 0.583
   },
   {
    "ch": "let_media",
@@ -921,17 +981,47 @@
    "stories": 49,
    "first": 6,
    "first_share": 0.122,
-   "median_rank": 0.625
+   "median_rank": 0.6
   },
   {
-   "ch": "upd_kollegi",
+   "ch": "ai_for_devs",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 17500,
+   "posts_per_day": 1.79,
+   "stories": 11,
+   "first": 1,
+   "first_share": 0.091,
+   "median_rank": 0.6
+  },
+  {
+   "ch": "hack_less",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 237000,
+   "posts_per_day": 5.43,
+   "stories": 21,
+   "first": 1,
+   "first_share": 0.048,
+   "median_rank": 0.6
+  },
+  {
+   "ch": "kyberhub",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 60300,
+   "posts_per_day": 4.14,
+   "stories": 43,
+   "first": 2,
+   "first_share": 0.047,
+   "median_rank": 0.6
+  },
+  {
+   "ch": "techinsiderru",
    "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 548000,
-   "posts_per_day": 11.71,
-   "stories": 126,
-   "first": 9,
-   "first_share": 0.071,
-   "median_rank": 0.631
+   "subs": 15200,
+   "posts_per_day": 9.5,
+   "stories": 26,
+   "first": 2,
+   "first_share": 0.077,
+   "median_rank": 0.611
   },
   {
    "ch": "PushEnter",
@@ -941,7 +1031,37 @@
    "stories": 40,
    "first": 3,
    "first_share": 0.075,
-   "median_rank": 0.642
+   "median_rank": 0.616
+  },
+  {
+   "ch": "upd_kollegi",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 548000,
+   "posts_per_day": 11.71,
+   "stories": 126,
+   "first": 9,
+   "first_share": 0.071,
+   "median_rank": 0.625
+  },
+  {
+   "ch": "yolodroider",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 11200,
+   "posts_per_day": 0.86,
+   "stories": 8,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.633
+  },
+  {
+   "ch": "cyber_cabb",
+   "kind": "Медиа: кибербез и мошенничество",
+   "subs": 81600,
+   "posts_per_day": 1.64,
+   "stories": 11,
+   "first": 2,
+   "first_share": 0.182,
+   "median_rank": 0.636
   },
   {
    "ch": "devhub",
@@ -964,53 +1084,23 @@
    "median_rank": 0.667
   },
   {
-   "ch": "alfa_trends",
+   "ch": "aiaiai",
    "kind": "Медиа: AI и тех-новости",
-   "subs": 402000,
-   "posts_per_day": 2.43,
-   "stories": 11,
-   "first": 2,
-   "first_share": 0.182,
+   "subs": 176000,
+   "posts_per_day": 6.0,
+   "stories": 27,
+   "first": 4,
+   "first_share": 0.148,
    "median_rank": 0.667
   },
   {
-   "ch": "cyber_cabb",
-   "kind": "Медиа: кибербез и мошенничество",
-   "subs": 81600,
-   "posts_per_day": 1.64,
-   "stories": 11,
-   "first": 2,
-   "first_share": 0.182,
-   "median_rank": 0.667
-  },
-  {
-   "ch": "ai_ins",
+   "ch": "neurogen_news",
    "kind": "Медиа: AI и тех-новости",
-   "subs": 41900,
-   "posts_per_day": 4.21,
-   "stories": 11,
-   "first": 2,
-   "first_share": 0.182,
-   "median_rank": 0.667
-  },
-  {
-   "ch": "InterNews_HW",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 73400,
-   "posts_per_day": 18.07,
-   "stories": 35,
-   "first": 6,
-   "first_share": 0.171,
-   "median_rank": 0.667
-  },
-  {
-   "ch": "BROwser_exe",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 63700,
-   "posts_per_day": 7.43,
-   "stories": 53,
-   "first": 7,
-   "first_share": 0.132,
+   "subs": 22900,
+   "posts_per_day": 1.86,
+   "stories": 9,
+   "first": 1,
+   "first_share": 0.111,
    "median_rank": 0.667
   },
   {
@@ -1018,9 +1108,19 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 56100,
    "posts_per_day": 3.71,
-   "stories": 45,
+   "stories": 46,
    "first": 5,
-   "first_share": 0.111,
+   "first_share": 0.109,
+   "median_rank": 0.667
+  },
+  {
+   "ch": "BROwser_exe",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 63700,
+   "posts_per_day": 7.43,
+   "stories": 55,
+   "first": 5,
+   "first_share": 0.091,
    "median_rank": 0.667
   },
   {
@@ -1038,9 +1138,29 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 30300,
    "posts_per_day": 13.0,
-   "stories": 137,
-   "first": 5,
-   "first_share": 0.036,
+   "stories": 145,
+   "first": 6,
+   "first_share": 0.041,
+   "median_rank": 0.667
+  },
+  {
+   "ch": "TheOpen_Ai",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 13100,
+   "posts_per_day": 2.86,
+   "stories": 37,
+   "first": 1,
+   "first_share": 0.027,
+   "median_rank": 0.667
+  },
+  {
+   "ch": "trendo",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 67600,
+   "posts_per_day": 10.14,
+   "stories": 87,
+   "first": 2,
+   "first_share": 0.023,
    "median_rank": 0.667
   },
   {
@@ -1054,44 +1174,94 @@
    "median_rank": 0.667
   },
   {
+   "ch": "gptpublic",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 270000,
+   "posts_per_day": 2.21,
+   "stories": 19,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.667
+  },
+  {
    "ch": "tg_security",
    "kind": "Медиа: AI и тех-новости",
    "subs": 26800,
    "posts_per_day": 2.64,
-   "stories": 20,
+   "stories": 21,
    "first": 0,
    "first_share": 0.0,
    "median_rank": 0.667
+  },
+  {
+   "ch": "media_apple",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 127000,
+   "posts_per_day": 6.71,
+   "stories": 58,
+   "first": 4,
+   "first_share": 0.069,
+   "median_rank": 0.707
+  },
+  {
+   "ch": "ITtishka",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 21400,
+   "posts_per_day": 2.93,
+   "stories": 32,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.71
+  },
+  {
+   "ch": "neyroseti_dr",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 16700,
+   "posts_per_day": 1.86,
+   "stories": 11,
+   "first": 2,
+   "first_share": 0.182,
+   "median_rank": 0.714
+  },
+  {
+   "ch": "gpt_news",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 288000,
+   "posts_per_day": 4.0,
+   "stories": 43,
+   "first": 1,
+   "first_share": 0.023,
+   "median_rank": 0.714
   },
   {
    "ch": "aitshnya",
    "kind": "Медиа: AI и тех-новости",
    "subs": 69600,
    "posts_per_day": 3.14,
-   "stories": 33,
+   "stories": 34,
    "first": 0,
    "first_share": 0.0,
-   "median_rank": 0.667
+   "median_rank": 0.721
+  },
+  {
+   "ch": "trashbox_feed",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 22400,
+   "posts_per_day": 4.36,
+   "stories": 22,
+   "first": 1,
+   "first_share": 0.045,
+   "median_rank": 0.732
   },
   {
    "ch": "neyrosetkapic",
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 152000,
    "posts_per_day": 3.71,
-   "stories": 16,
-   "first": 0,
-   "first_share": 0.0,
-   "median_rank": 0.707
-  },
-  {
-   "ch": "neurogen_news",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 22900,
-   "posts_per_day": 1.86,
-   "stories": 8,
+   "stories": 17,
    "first": 1,
-   "first_share": 0.125,
-   "median_rank": 0.725
+   "first_share": 0.059,
+   "median_rank": 0.733
   },
   {
    "ch": "source_code",
@@ -1101,6 +1271,26 @@
    "stories": 27,
    "first": 1,
    "first_share": 0.037,
+   "median_rank": 0.733
+  },
+  {
+   "ch": "zobghi",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 11200,
+   "posts_per_day": 33.57,
+   "stories": 67,
+   "first": 4,
+   "first_share": 0.06,
+   "median_rank": 0.75
+  },
+  {
+   "ch": "javalearning24",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 11800,
+   "posts_per_day": 9.93,
+   "stories": 93,
+   "first": 2,
+   "first_share": 0.022,
    "median_rank": 0.75
   },
   {
@@ -1111,36 +1301,36 @@
    "stories": 12,
    "first": 1,
    "first_share": 0.083,
-   "median_rank": 0.764
+   "median_rank": 0.774
+  },
+  {
+   "ch": "InterNews_HW",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 73400,
+   "posts_per_day": 18.07,
+   "stories": 40,
+   "first": 6,
+   "first_share": 0.15,
+   "median_rank": 0.775
+  },
+  {
+   "ch": "alfa_trends",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 402000,
+   "posts_per_day": 2.43,
+   "stories": 11,
+   "first": 2,
+   "first_share": 0.182,
+   "median_rank": 0.778
   },
   {
    "ch": "studgpt",
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 31500,
    "posts_per_day": 2.86,
-   "stories": 14,
+   "stories": 15,
    "first": 1,
-   "first_share": 0.071,
-   "median_rank": 0.764
-  },
-  {
-   "ch": "trendo",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 67600,
-   "posts_per_day": 10.14,
-   "stories": 70,
-   "first": 2,
-   "first_share": 0.029,
-   "median_rank": 0.775
-  },
-  {
-   "ch": "media_apple",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 127000,
-   "posts_per_day": 6.71,
-   "stories": 56,
-   "first": 5,
-   "first_share": 0.089,
+   "first_share": 0.067,
    "median_rank": 0.778
   },
   {
@@ -1151,47 +1341,17 @@
    "stories": 51,
    "first": 0,
    "first_share": 0.0,
+   "median_rank": 0.778
+  },
+  {
+   "ch": "chiprussia",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 10000,
+   "posts_per_day": 11.93,
+   "stories": 21,
+   "first": 2,
+   "first_share": 0.095,
    "median_rank": 0.8
-  },
-  {
-   "ch": "neyroseti_dr",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 16700,
-   "posts_per_day": 1.86,
-   "stories": 11,
-   "first": 2,
-   "first_share": 0.182,
-   "median_rank": 0.81
-  },
-  {
-   "ch": "gpt_news",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 288000,
-   "posts_per_day": 4.0,
-   "stories": 44,
-   "first": 1,
-   "first_share": 0.023,
-   "median_rank": 0.817
-  },
-  {
-   "ch": "neurohub",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 15500,
-   "posts_per_day": 2.43,
-   "stories": 14,
-   "first": 1,
-   "first_share": 0.071,
-   "median_rank": 0.826
-  },
-  {
-   "ch": "regardru",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 56200,
-   "posts_per_day": 5.29,
-   "stories": 15,
-   "first": 2,
-   "first_share": 0.133,
-   "median_rank": 0.833
   },
   {
    "ch": "neuroset_vidit",
@@ -1201,87 +1361,37 @@
    "stories": 31,
    "first": 1,
    "first_share": 0.032,
+   "median_rank": 0.8
+  },
+  {
+   "ch": "ai_ins",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 41900,
+   "posts_per_day": 4.21,
+   "stories": 12,
+   "first": 2,
+   "first_share": 0.167,
    "median_rank": 0.833
-  },
-  {
-   "ch": "trashbox_feed",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 22400,
-   "posts_per_day": 4.36,
-   "stories": 22,
-   "first": 1,
-   "first_share": 0.045,
-   "median_rank": 0.835
-  },
-  {
-   "ch": "NeuralToday",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 30300,
-   "posts_per_day": 2.36,
-   "stories": 16,
-   "first": 1,
-   "first_share": 0.062,
-   "median_rank": 0.854
-  },
-  {
-   "ch": "wishmasterrussiaa",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 46100,
-   "posts_per_day": 1.86,
-   "stories": 11,
-   "first": 0,
-   "first_share": 0.0,
-   "median_rank": 0.875
-  },
-  {
-   "ch": "bugfeature",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 569000,
-   "posts_per_day": 4.29,
-   "stories": 29,
-   "first": 8,
-   "first_share": 0.276,
-   "median_rank": 0.889
-  },
-  {
-   "ch": "aivexa_hub",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 25100,
-   "posts_per_day": 2.14,
-   "stories": 11,
-   "first": 1,
-   "first_share": 0.091,
-   "median_rank": 0.889
   },
   {
    "ch": "appleinside",
    "kind": "Apple и смартфоны (медиа и магазины)",
    "subs": 34800,
    "posts_per_day": 8.43,
-   "stories": 36,
+   "stories": 40,
    "first": 4,
-   "first_share": 0.111,
-   "median_rank": 0.89
+   "first_share": 0.1,
+   "median_rank": 0.85
   },
   {
-   "ch": "istoregroznyy",
-   "kind": "Apple и смартфоны (медиа и магазины)",
-   "subs": 22400,
+   "ch": "neurohub",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 15500,
    "posts_per_day": 2.43,
-   "stories": 8,
-   "first": 1,
-   "first_share": 0.125,
-   "median_rank": 0.917
-  },
-  {
-   "ch": "it_windows",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 18800,
-   "posts_per_day": 4.86,
    "stories": 15,
    "first": 1,
    "first_share": 0.067,
-   "median_rank": 0.917
+   "median_rank": 0.857
   },
   {
    "ch": "vpnmagnum",
@@ -1291,16 +1401,116 @@
    "stories": 11,
    "first": 0,
    "first_share": 0.0,
-   "median_rank": 0.963
+   "median_rank": 0.857
+  },
+  {
+   "ch": "aivexa_hub",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 25100,
+   "posts_per_day": 2.14,
+   "stories": 11,
+   "first": 2,
+   "first_share": 0.182,
+   "median_rank": 0.889
+  },
+  {
+   "ch": "NeuralToday",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 30300,
+   "posts_per_day": 2.36,
+   "stories": 15,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.889
+  },
+  {
+   "ch": "bugfeature",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 569000,
+   "posts_per_day": 4.29,
+   "stories": 30,
+   "first": 9,
+   "first_share": 0.3,
+   "median_rank": 0.892
+  },
+  {
+   "ch": "wishmasterrussiaa",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 46100,
+   "posts_per_day": 1.86,
+   "stories": 12,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.894
+  },
+  {
+   "ch": "istoregroznyy",
+   "kind": "Apple и смартфоны (медиа и магазины)",
+   "subs": 22400,
+   "posts_per_day": 2.43,
+   "stories": 8,
+   "first": 1,
+   "first_share": 0.125,
+   "median_rank": 0.923
+  },
+  {
+   "ch": "gpt4_tg",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 54000,
+   "posts_per_day": 4.0,
+   "stories": 50,
+   "first": 1,
+   "first_share": 0.02,
+   "median_rank": 0.927
+  },
+  {
+   "ch": "it_windows",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 18800,
+   "posts_per_day": 4.86,
+   "stories": 17,
+   "first": 1,
+   "first_share": 0.059,
+   "median_rank": 0.929
+  },
+  {
+   "ch": "VPNM1",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 28900,
+   "posts_per_day": 3.79,
+   "stories": 29,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.929
+  },
+  {
+   "ch": "regardru",
+   "kind": "Медиа: массовые тех-развлекательные",
+   "subs": 56200,
+   "posts_per_day": 5.29,
+   "stories": 18,
+   "first": 2,
+   "first_share": 0.111,
+   "median_rank": 0.95
+  },
+  {
+   "ch": "iNextGenAi",
+   "kind": "Медиа: AI и тех-новости",
+   "subs": 13700,
+   "posts_per_day": 4.64,
+   "stories": 43,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 0.967
   },
   {
    "ch": "imaxairu",
    "kind": "Медиа: кибербез и мошенничество",
    "subs": 27600,
    "posts_per_day": 15.14,
-   "stories": 36,
+   "stories": 40,
    "first": 6,
-   "first_share": 0.167,
+   "first_share": 0.15,
    "median_rank": 1.0
   },
   {
@@ -1314,23 +1524,23 @@
    "median_rank": 1.0
   },
   {
-   "ch": "vapcbuild",
-   "kind": "Медиа: гаджеты и железо",
-   "subs": 101000,
-   "posts_per_day": 7.86,
-   "stories": 28,
-   "first": 2,
-   "first_share": 0.071,
-   "median_rank": 1.0
-  },
-  {
    "ch": "cifrusru",
    "kind": "Медиа: гаджеты и железо",
    "subs": 46200,
    "posts_per_day": 6.07,
-   "stories": 34,
+   "stories": 36,
+   "first": 4,
+   "first_share": 0.111,
+   "median_rank": 1.0
+  },
+  {
+   "ch": "vapcbuild",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 101000,
+   "posts_per_day": 7.86,
+   "stories": 33,
    "first": 2,
-   "first_share": 0.059,
+   "first_share": 0.061,
    "median_rank": 1.0
   },
   {
@@ -1338,9 +1548,9 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 17400,
    "posts_per_day": 4.21,
-   "stories": 27,
+   "stories": 29,
    "first": 1,
-   "first_share": 0.037,
+   "first_share": 0.034,
    "median_rank": 1.0
   },
   {
@@ -1348,19 +1558,29 @@
    "kind": "Медиа: AI и тех-новости",
    "subs": 14600,
    "posts_per_day": 4.79,
-   "stories": 40,
+   "stories": 42,
    "first": 1,
-   "first_share": 0.025,
+   "first_share": 0.024,
    "median_rank": 1.0
   },
   {
-   "ch": "gpt4_tg",
+   "ch": "IT_elect",
    "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 54000,
-   "posts_per_day": 4.0,
-   "stories": 51,
-   "first": 1,
-   "first_share": 0.02,
+   "subs": 11800,
+   "posts_per_day": 3.0,
+   "stories": 23,
+   "first": 0,
+   "first_share": 0.0,
+   "median_rank": 1.0
+  },
+  {
+   "ch": "androed_it",
+   "kind": "Медиа: гаджеты и железо",
+   "subs": 11700,
+   "posts_per_day": 3.0,
+   "stories": 9,
+   "first": 0,
+   "first_share": 0.0,
    "median_rank": 1.0
   },
   {
@@ -1378,17 +1598,7 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 37100,
    "posts_per_day": 8.14,
-   "stories": 39,
-   "first": 0,
-   "first_share": 0.0,
-   "median_rank": 1.0
-  },
-  {
-   "ch": "iNextGenAi",
-   "kind": "Медиа: AI и тех-новости",
-   "subs": 13700,
-   "posts_per_day": 4.64,
-   "stories": 42,
+   "stories": 38,
    "first": 0,
    "first_share": 0.0,
    "median_rank": 1.0
@@ -1399,16 +1609,6 @@
    "subs": 68000,
    "posts_per_day": 5.36,
    "stories": 21,
-   "first": 0,
-   "first_share": 0.0,
-   "median_rank": 1.0
-  },
-  {
-   "ch": "VPNM1",
-   "kind": "Медиа: массовые тех-развлекательные",
-   "subs": 28900,
-   "posts_per_day": 3.79,
-   "stories": 29,
    "first": 0,
    "first_share": 0.0,
    "median_rank": 1.0
@@ -1448,7 +1648,7 @@
    "kind": "Медиа: массовые тех-развлекательные",
    "subs": 98000,
    "posts_per_day": 4.57,
-   "stories": 16,
+   "stories": 17,
    "first": 0,
    "first_share": 0.0,
    "median_rank": 1.0
@@ -1466,20 +1666,24 @@
  ],
  "verbatim_donors": [
   [
+   "techmedia",
+   165
+  ],
+  [
+   "codecamp",
+   87
+  ],
+  [
    "bugnotfeature",
    41
   ],
   [
-   "iPhoneJobs",
+   "trendo",
    40
   ],
   [
-   "techmedia",
+   "iPhoneJobs",
    38
-  ],
-  [
-   "codecamp",
-   37
   ],
   [
    "whackdoor",
@@ -1487,26 +1691,30 @@
   ],
   [
    "media1337",
-   32
+   34
+  ],
+  [
+   "technomotel",
+   34
   ],
   [
    "iPumpBrain",
    30
   ],
   [
-   "mknewsru",
-   28
+   "javalearning24",
+   29
   ],
   [
    "ai_ins",
    28
   ],
   [
-   "the_next_leveI",
+   "mknewsru",
    27
   ],
   [
-   "technomotel",
+   "the_next_leveI",
    27
   ],
   [
@@ -1515,7 +1723,7 @@
   ],
   [
    "exploitex",
-   23
+   24
   ],
   [
    "canrobots",
@@ -1530,67 +1738,79 @@
    19
   ],
   [
-   "bugfeature",
-   18
+   "neuro_code",
+   19
   ],
   [
-   "neuro_code",
-   17
+   "bugfeature",
+   18
   ],
   [
    "gpt_news",
    16
   ],
   [
+   "neironity",
+   14
+  ],
+  [
    "chatgpt_neiro_news",
-   11
+   13
+  ],
+  [
+   "xor_journal",
+   12
   ],
   [
    "source_code",
    9
   ],
   [
-   "concertzaal",
-   8
-  ],
-  [
-   "xor_journal",
+   "first_neiro",
    8
   ],
   [
    "provod",
-   7
+   8
+  ],
+  [
+   "concertzaal",
+   8
   ],
   [
    "chatgptv",
    7
   ],
   [
-   "ITtishka",
-   7
-  ],
-  [
-   "aiaiai",
+   "biggeekru",
    6
-  ],
-  [
-   "rbtshki",
-   6
-  ],
-  [
-   "rhymecoins",
-   5
-  ],
-  [
-   "media_apple",
-   5
   ]
  ],
  "verbatim_pairs": [
   [
+   "techmedia",
+   "neironity",
+   139
+  ],
+  [
+   "codecamp",
+   "first_neiro",
+   56
+  ],
+  [
+   "trendo",
+   "javalearning24",
+   40
+  ],
+  [
    "iPhoneJobs",
    "media_apple",
-   37
+   36
+  ],
+  [
+   "javalearning24",
+   "trendo",
+   28
   ],
   [
    "ai_ins",
@@ -1638,11 +1858,6 @@
    10
   ],
   [
-   "codecamp",
-   "ITtishka",
-   10
-  ],
-  [
    "gpt_news",
    "AI_Chad",
    10
@@ -1653,8 +1868,8 @@
    9
   ],
   [
-   "mknewsru",
-   "neuro_code",
+   "codecamp",
+   "ITtishka",
    7
   ],
   [
@@ -1663,7 +1878,7 @@
    7
   ],
   [
-   "techmedia",
+   "chatgpt_neiro_news",
    "neuro_code",
    7
   ],
@@ -1671,6 +1886,11 @@
    "exploitex",
    "VPNM1",
    7
+  ],
+  [
+   "mknewsru",
+   "neuro_code",
+   6
   ],
   [
    "gpt_news",
@@ -1683,8 +1903,8 @@
    6
   ],
   [
-   "techmedia",
-   "blogprogrammers",
+   "technomotel",
+   "zobghi",
    6
   ],
   [
@@ -1708,16 +1928,6 @@
    6
   ],
   [
-   "chatgpt_neiro_news",
-   "neuro_code",
-   6
-  ],
-  [
-   "techmedia",
-   "chatgpt_neiro_news",
-   5
-  ],
-  [
    "exploitex",
    "doktorgpt",
    5
@@ -1733,6 +1943,11 @@
    5
   ],
   [
+   "techmedia",
+   "blogprogrammers",
+   5
+  ],
+  [
    "canrobots",
    "chatgpt_neiro_news",
    5
@@ -1740,6 +1955,11 @@
   [
    "mknewsru",
    "chatgpt_neiro_news",
+   5
+  ],
+  [
+   "techmedia",
+   "neuro_code",
    5
   ],
   [
@@ -1758,28 +1978,18 @@
    5
   ],
   [
-   "techmedia",
-   "info_ii",
-   4
-  ],
-  [
    "mknewsru",
    "ITtishka",
    4
   ],
   [
-   "codecamp",
-   "chatgpt_neiro_news",
+   "xor_journal",
+   "first_neiro",
    4
   ],
   [
    "technomotel",
    "AI_Chad",
-   4
-  ],
-  [
-   "techmedia",
-   "doktorgpt",
    4
   ],
   [
@@ -1823,26 +2033,31 @@
    4
   ],
   [
-   "codecamp",
-   "source_code",
-   4
-  ],
-  [
-   "xor_journal",
-   "xCode_Journal",
-   4
-  ],
-  [
-   "bugnotfeature",
-   "rhymecoins",
+   "exploitex",
+   "techograminside",
    4
   ]
  ],
  "sync_pairs": [
   [
+   "neironity",
+   "techmedia",
+   113
+  ],
+  [
+   "codecamp",
+   "first_neiro",
+   50
+  ],
+  [
    "geekneural",
    "gpt4_tg",
-   48
+   46
+  ],
+  [
+   "CyberInvestorTrends",
+   "forklogAI",
+   31
   ],
   [
    "provod",
@@ -1877,7 +2092,7 @@
   [
    "technolavka",
    "technomedia",
-   12
+   13
   ],
   [
    "remedia",
@@ -1915,13 +2130,23 @@
    8
   ],
   [
-   "bugnotfeature",
-   "technomotel",
+   "Bell_tech",
+   "CyberInvestorTrends",
    7
   ],
   [
    "techmedia",
    "technomedia",
+   7
+  ],
+  [
+   "bugnotfeature",
+   "technomotel",
+   7
+  ],
+  [
+   "neironity",
+   "provod",
    7
   ],
   [
@@ -1935,13 +2160,18 @@
    7
   ],
   [
-   "exploitex",
-   "technomotel",
+   "neironity",
+   "technomedia",
    6
   ],
   [
    "chatgpt_neiro_news",
    "neuro_code",
+   6
+  ],
+  [
+   "exploitex",
+   "technomotel",
    6
   ],
   [
@@ -1960,18 +2190,13 @@
    6
   ],
   [
-   "silicon_kitchen",
-   "technolavka",
-   5
-  ],
-  [
-   "media1337",
-   "whackdoor",
-   5
-  ],
-  [
    "chatgptv",
    "provod",
+   5
+  ],
+  [
+   "neironity",
+   "silicon_kitchen",
    5
   ],
   [
@@ -1980,13 +2205,13 @@
    5
   ],
   [
-   "technomedia",
-   "trends",
+   "silicon_kitchen",
+   "technolavka",
    5
   ],
   [
-   "bugnotfeature",
-   "techmedia",
+   "media1337",
+   "whackdoor",
    5
   ],
   [
@@ -2000,6 +2225,21 @@
    5
   ],
   [
+   "ai_machinelearning_big_data",
+   "tsingular",
+   5
+  ],
+  [
+   "technomedia",
+   "trends",
+   5
+  ],
+  [
+   "bugnotfeature",
+   "techmedia",
+   5
+  ],
+  [
    "remedia",
    "whackdoor",
    5
@@ -2007,6 +2247,11 @@
   [
    "techmedia",
    "whackdoor",
+   5
+  ],
+  [
+   "jeteed",
+   "provod",
    5
   ],
   [
@@ -2015,21 +2260,6 @@
    5
   ],
   [
-   "jeteed",
-   "provod",
-   5
-  ],
-  [
-   "bugnotfeature",
-   "technomedia",
-   5
-  ],
-  [
-   "jeteed",
-   "remedia",
-   5
-  ],
-  [
    "exploitex",
    "technolavka",
    5
@@ -2040,14 +2270,29 @@
    5
   ],
   [
+   "jeteed",
+   "remedia",
+   5
+  ],
+  [
+   "bugnotfeature",
+   "technomedia",
+   5
+  ],
+  [
    "provod",
    "remedia",
    5
   ],
   [
-   "media1337",
-   "technomedia",
-   4
+   "javalearning24",
+   "trendo",
+   5
+  ],
+  [
+   "CyberInvestorTrends",
+   "tips_ai",
+   5
   ],
   [
    "silicon_kitchen",
@@ -2060,13 +2305,8 @@
    4
   ],
   [
-   "jeteed",
-   "technomotel",
-   4
-  ],
-  [
-   "provod",
-   "silicon_kitchen",
+   "media1337",
+   "technomedia",
    4
   ],
   [
@@ -2085,59 +2325,19 @@
    4
   ],
   [
-   "media1337",
-   "technolavka",
-   4
-  ],
-  [
-   "technolavka",
-   "trends",
-   4
-  ],
-  [
-   "bugnotfeature",
-   "technolavka",
-   4
-  ],
-  [
-   "techmedia",
-   "technomotel",
-   3
-  ],
-  [
-   "bugnotfeature",
-   "chatgptv",
-   3
-  ],
-  [
-   "silicon_kitchen",
-   "technomotel",
-   3
-  ],
-  [
-   "technomotel",
-   "upd_kollegi",
-   3
-  ],
-  [
-   "kostylofficial",
-   "upd_kollegi",
-   3
-  ],
-  [
-   "exploitex",
    "jeteed",
-   3
+   "technomotel",
+   4
   ],
   [
-   "MediaComputers",
-   "technolavka",
-   3
+   "provod",
+   "silicon_kitchen",
+   4
   ],
   [
-   "MediaComputers",
-   "bugnotfeature",
-   3
+   "neironity",
+   "whackdoor",
+   4
   ]
  ]
 }

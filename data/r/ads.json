@@ -40,6 +40,11 @@
    "posts": 2,
    "ads": 0
   },
+  "Ai_news_gpt4": {
+   "subs": 11300,
+   "posts": 1,
+   "ads": 0
+  },
   "AizenSoloBotInfo": {
    "subs": 18600,
    "posts": 0,
@@ -95,6 +100,11 @@
    "posts": 28,
    "ads": 0
   },
+  "BookJava": {
+   "subs": 10100,
+   "posts": 5,
+   "ads": 0
+  },
   "BookPython": {
    "subs": 18100,
    "posts": 7,
@@ -107,6 +117,26 @@
   },
   "BrowsecVPNru": {
    "subs": 50400,
+   "posts": 0,
+   "ads": 0
+  },
+  "BugUser": {
+   "subs": 11400,
+   "posts": 36,
+   "ads": 0
+  },
+  "By3side": {
+   "subs": 10200,
+   "posts": 15,
+   "ads": 0
+  },
+  "CGIT_Vines": {
+   "subs": 11600,
+   "posts": 11,
+   "ads": 1
+  },
+  "Castalia_Ai": {
+   "subs": 12700,
    "posts": 0,
    "ads": 0
   },
@@ -125,6 +155,16 @@
    "posts": 9,
    "ads": 0
   },
+  "ChollosClubXiaomi": {
+   "subs": 10200,
+   "posts": 165,
+   "ads": 0
+  },
+  "CodHub_CH": {
+   "subs": 11000,
+   "posts": 17,
+   "ads": 0
+  },
   "Colibri_bots": {
    "subs": 134000,
    "posts": 0,
@@ -135,14 +175,34 @@
    "posts": 32,
    "ads": 1
   },
+  "CyberInvestorTrends": {
+   "subs": 12100,
+   "posts": 603,
+   "ads": 2
+  },
+  "CyberSachok": {
+   "subs": 11300,
+   "posts": 43,
+   "ads": 3
+  },
   "CyberShieldTips": {
    "subs": 23600,
+   "posts": 0,
+   "ads": 0
+  },
+  "DEADPOOLGAMESAPK": {
+   "subs": null,
    "posts": 0,
    "ads": 0
   },
   "DeepSeekRussian": {
    "subs": 22800,
    "posts": 0,
+   "ads": 0
+  },
+  "DevBlog_Monjaro": {
+   "subs": 11100,
+   "posts": 4,
    "ads": 0
   },
   "DevOPSitsec": {
@@ -163,6 +223,11 @@
   "DrWeb_antivirus": {
    "subs": 18800,
    "posts": 5,
+   "ads": 0
+  },
+  "DriveMods": {
+   "subs": 11600,
+   "posts": 0,
    "ads": 0
   },
   "EcoTech_ESG": {
@@ -193,6 +258,11 @@
   "FSystem88": {
    "subs": 17000,
    "posts": 9,
+   "ads": 0
+  },
+  "FastMotionChannel": {
+   "subs": 10400,
+   "posts": 6,
    "ads": 0
   },
   "FixedOneNews": {
@@ -240,6 +310,11 @@
    "posts": 0,
    "ads": 0
   },
+  "GoDrone": {
+   "subs": 11600,
+   "posts": 50,
+   "ads": 0
+  },
   "GoGptRu": {
    "subs": 32900,
    "posts": 1,
@@ -260,6 +335,11 @@
    "posts": 170,
    "ads": 0
   },
+  "HappyPC_Piter": {
+   "subs": 10700,
+   "posts": 13,
+   "ads": 0
+  },
   "HobbyVPN_news": {
    "subs": 28200,
    "posts": 0,
@@ -275,6 +355,11 @@
    "posts": 12,
    "ads": 0
   },
+  "INKUBATORVIDEO": {
+   "subs": 10900,
+   "posts": 0,
+   "ads": 0
+  },
   "ITMeeting": {
    "subs": 15400,
    "posts": 9,
@@ -285,6 +370,11 @@
    "posts": 59,
    "ads": 1
   },
+  "IT_ABC": {
+   "subs": 12300,
+   "posts": 0,
+   "ads": 0
+  },
   "IT_Best_Lessons": {
    "subs": 13800,
    "posts": 1,
@@ -294,6 +384,16 @@
    "subs": 99900,
    "posts": 46,
    "ads": 2
+  },
+  "IT_Texnologe": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
+  "IT_elect": {
+   "subs": 11800,
+   "posts": 42,
+   "ads": 0
   },
   "IT_picnic": {
    "subs": 23100,
@@ -323,6 +423,11 @@
   "JarvisNew": {
    "subs": 85900,
    "posts": 16,
+   "ads": 0
+  },
+  "Java_Iibrary": {
+   "subs": 11600,
+   "posts": 29,
    "ads": 0
   },
   "Java_per_month": {
@@ -360,6 +465,11 @@
    "posts": 39,
    "ads": 0
   },
+  "KuretsRu": {
+   "subs": 12200,
+   "posts": 1,
+   "ads": 0
+  },
   "LagomVPN": {
    "subs": 229000,
    "posts": 2,
@@ -385,9 +495,19 @@
    "posts": 12,
    "ads": 1
   },
+  "LinuxSkill": {
+   "subs": 10700,
+   "posts": 8,
+   "ads": 2
+  },
   "Lutshie_Kursy_1C": {
    "subs": 22300,
    "posts": 21,
+   "ads": 0
+  },
+  "MWS_Cloud": {
+   "subs": 11300,
+   "posts": 11,
    "ads": 0
   },
   "Master_PC_01": {
@@ -423,6 +543,11 @@
   "Midjourney": {
    "subs": 16900,
    "posts": 0,
+   "ads": 0
+  },
+  "MyWatchRu": {
+   "subs": 10400,
+   "posts": 54,
    "ads": 0
   },
   "NanaBananaRobott": {
@@ -462,6 +587,11 @@
   },
   "OZ_ITPQ": {
    "subs": 21500,
+   "posts": 0,
+   "ads": 0
+  },
+  "OverGames1": {
+   "subs": 11000,
    "posts": 0,
    "ads": 0
   },
@@ -513,6 +643,11 @@
   "PythonPortal": {
    "subs": 50300,
    "posts": 30,
+   "ads": 0
+  },
+  "Python_Community_ru": {
+   "subs": 11600,
+   "posts": 13,
    "ads": 0
   },
   "Python_per_month": {
@@ -610,6 +745,11 @@
    "posts": 23,
    "ads": 0
   },
+  "SergeiStrelec": {
+   "subs": 10900,
+   "posts": 0,
+   "ads": 0
+  },
   "Sevenconnection": {
    "subs": 20900,
    "posts": 8,
@@ -648,6 +788,11 @@
   "StonksGift": {
    "subs": 78900,
    "posts": 28,
+   "ads": 0
+  },
+  "SysadminNotes": {
+   "subs": 12700,
+   "posts": 2,
    "ads": 0
   },
   "TON_TRY_Proxy": {
@@ -710,6 +855,11 @@
    "posts": 32,
    "ads": 0
   },
+  "TorZireael1": {
+   "subs": 12000,
+   "posts": 5,
+   "ads": 0
+  },
   "UnlimGPTBot": {
    "subs": 214000,
    "posts": 0,
@@ -745,9 +895,19 @@
    "posts": 8,
    "ads": 0
   },
+  "ViamSupervadetVadens": {
+   "subs": 10100,
+   "posts": 0,
+   "ads": 0
+  },
   "Vladharoshtg": {
    "subs": 22500,
    "posts": 2,
+   "ads": 0
+  },
+  "Windows_1_1": {
+   "subs": 10500,
+   "posts": 81,
    "ads": 0
   },
   "Windows_2027": {
@@ -805,6 +965,11 @@
    "posts": 13,
    "ads": 0
   },
+  "ZerodayAlert": {
+   "subs": 11000,
+   "posts": 16,
+   "ads": 0
+  },
   "Zuev10_Apple": {
    "subs": 16500,
    "posts": 61,
@@ -828,6 +993,11 @@
   "addmeto": {
    "subs": 71800,
    "posts": 0,
+   "ads": 0
+  },
+  "admguides": {
+   "subs": 12000,
+   "posts": 24,
    "ads": 0
   },
   "adspowerru": {
@@ -895,6 +1065,11 @@
    "posts": 15,
    "ads": 0
   },
+  "aicreator_club": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
   "aihappens": {
    "subs": 14500,
    "posts": 11,
@@ -909,6 +1084,11 @@
    "subs": 44000,
    "posts": 67,
    "ads": 1
+  },
+  "airfleps_device": {
+   "subs": 10000,
+   "posts": 0,
+   "ads": 0
   },
   "airi_research_institute": {
    "subs": 13700,
@@ -965,6 +1145,11 @@
    "posts": 5,
    "ads": 0
   },
+  "align_go": {
+   "subs": 12900,
+   "posts": 1,
+   "ads": 0
+  },
   "alukatsky": {
    "subs": 37900,
    "posts": 71,
@@ -978,6 +1163,11 @@
   "analyticsgrowthmindset": {
    "subs": 17600,
    "posts": 0,
+   "ads": 0
+  },
+  "androed_it": {
+   "subs": 11700,
+   "posts": 42,
    "ads": 0
   },
   "android_5play": {
@@ -995,9 +1185,19 @@
    "posts": 5,
    "ads": 0
   },
+  "antenkaru": {
+   "subs": 12600,
+   "posts": 19,
+   "ads": 0
+  },
   "antichristone": {
    "subs": 38400,
    "posts": 12,
+   "ads": 0
+  },
+  "anton_netbox": {
+   "subs": 12300,
+   "posts": 7,
    "ads": 0
   },
   "app1pro": {
@@ -1013,6 +1213,11 @@
   "apple_master72": {
    "subs": 14400,
    "posts": 6,
+   "ads": 0
+  },
+  "apple_theme": {
+   "subs": 11700,
+   "posts": 27,
    "ads": 0
   },
   "applebutik": {
@@ -1045,14 +1250,29 @@
    "posts": 52,
    "ads": 0
   },
+  "apptractor": {
+   "subs": 11000,
+   "posts": 18,
+   "ads": 0
+  },
   "aprelteam": {
    "subs": 15600,
    "posts": 16,
    "ads": 0
   },
+  "aqara_ru": {
+   "subs": 11200,
+   "posts": 3,
+   "ads": 0
+  },
   "aram_apple7": {
    "subs": 31900,
    "posts": 6,
+   "ads": 0
+  },
+  "archakovblog": {
+   "subs": 10700,
+   "posts": 0,
    "ads": 0
   },
   "archivator_archive": {
@@ -1075,6 +1295,16 @@
    "posts": 25,
    "ads": 0
   },
+  "atom_pulse": {
+   "subs": 10600,
+   "posts": 1,
+   "ads": 0
+  },
+  "atouchdesign": {
+   "subs": 10600,
+   "posts": 3,
+   "ads": 0
+  },
   "avanta_telecom_ru": {
    "subs": 203,
    "posts": 0,
@@ -1095,6 +1325,11 @@
    "posts": 12,
    "ads": 0
   },
+  "avleonovrus": {
+   "subs": 12100,
+   "posts": 16,
+   "ads": 0
+  },
   "ba_sa_analytics": {
    "subs": 52300,
    "posts": 26,
@@ -1104,6 +1339,11 @@
    "subs": 18900,
    "posts": 34,
    "ads": 1
+  },
+  "backenderrr": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
   },
   "backspace_mag": {
    "subs": 128000,
@@ -1135,9 +1375,29 @@
    "posts": 5,
    "ads": 0
   },
+  "bdufstecru": {
+   "subs": 10600,
+   "posts": 29,
+   "ads": 0
+  },
+  "becaps": {
+   "subs": 10100,
+   "posts": 15,
+   "ads": 0
+  },
   "beeline": {
    "subs": 21600,
    "posts": 27,
+   "ads": 0
+  },
+  "beget_official": {
+   "subs": 10100,
+   "posts": 2,
+   "ads": 0
+  },
+  "behumanai": {
+   "subs": 11200,
+   "posts": 0,
    "ads": 0
   },
   "belyakAi": {
@@ -1185,9 +1445,19 @@
    "posts": 57,
    "ads": 0
   },
+  "bithovenai": {
+   "subs": 11200,
+   "posts": 1,
+   "ads": 0
+  },
   "bitrix24_ru": {
    "subs": 29200,
    "posts": 10,
+   "ads": 0
+  },
+  "bizone_channel": {
+   "subs": 11300,
+   "posts": 32,
    "ads": 0
   },
   "black_triangle_tg": {
@@ -1203,6 +1473,11 @@
   "blogprogrammers": {
    "subs": 67900,
    "posts": 33,
+   "ads": 0
+  },
+  "blueapple_ru": {
+   "subs": 10700,
+   "posts": 27,
    "ads": 0
   },
   "book_sbornik": {
@@ -1229,6 +1504,11 @@
    "subs": null,
    "posts": 0,
    "ads": 0
+  },
+  "booksjava": {
+   "subs": 11700,
+   "posts": 3,
+   "ads": 1
   },
   "booksqa": {
    "subs": 13200,
@@ -1279,6 +1559,11 @@
    "subs": 1070000,
    "posts": 208,
    "ads": 4
+  },
+  "bukvamiocifre": {
+   "subs": 12700,
+   "posts": 50,
+   "ads": 0
   },
   "bureaucraticsecurity": {
    "subs": 19100,
@@ -1380,10 +1665,30 @@
    "posts": 5,
    "ads": 0
   },
+  "chilltunnel": {
+   "subs": 12600,
+   "posts": 1,
+   "ads": 0
+  },
+  "china_committee": {
+   "subs": 12400,
+   "posts": 15,
+   "ads": 0
+  },
   "chinagadgetsofficial": {
    "subs": 28100,
    "posts": 70,
    "ads": 64
+  },
+  "chiprussia": {
+   "subs": 10000,
+   "posts": 167,
+   "ads": 0
+  },
+  "chudotechnikintv": {
+   "subs": 12100,
+   "posts": 41,
+   "ads": 0
   },
   "cifronix": {
    "subs": 30100,
@@ -1394,6 +1699,11 @@
    "subs": 46200,
    "posts": 85,
    "ads": 4
+  },
+  "cio_channel": {
+   "subs": 10900,
+   "posts": 32,
+   "ads": 1
   },
   "citilink_official": {
    "subs": 57500,
@@ -1408,6 +1718,11 @@
   "clickpickstyle": {
    "subs": 121000,
    "posts": 84,
+   "ads": 0
+  },
+  "cloudruprovider": {
+   "subs": 10500,
+   "posts": 13,
    "ads": 0
   },
   "club_arduino": {
@@ -1425,15 +1740,30 @@
    "posts": 45,
    "ads": 2
   },
+  "code_hawk": {
+   "subs": 11200,
+   "posts": 0,
+   "ads": 0
+  },
   "code_library": {
    "subs": null,
    "posts": 0,
+   "ads": 0
+  },
+  "code_m0de": {
+   "subs": 10800,
+   "posts": 30,
    "ads": 0
   },
   "code_ready": {
    "subs": 21700,
    "posts": 17,
    "ads": 2
+  },
+  "codeblog": {
+   "subs": 10400,
+   "posts": 0,
+   "ads": 0
   },
   "codeblog8": {
    "subs": 16600,
@@ -1450,9 +1780,19 @@
    "posts": 88,
    "ads": 4
   },
+  "codeclean": {
+   "subs": 12000,
+   "posts": 46,
+   "ads": 0
+  },
   "computerchik": {
    "subs": 39000,
    "posts": 82,
+   "ads": 0
+  },
+  "comss": {
+   "subs": 11400,
+   "posts": 205,
    "ads": 0
   },
   "concertzaal": {
@@ -1470,6 +1810,11 @@
    "posts": 0,
    "ads": 0
   },
+  "content84": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
   "coursmax": {
    "subs": null,
    "posts": 0,
@@ -1479,6 +1824,11 @@
    "subs": 14400,
    "posts": 6,
    "ads": 0
+  },
+  "cpluscsharp": {
+   "subs": 10100,
+   "posts": 2,
+   "ads": 1
   },
   "cpluspluc": {
    "subs": 15500,
@@ -1520,6 +1870,11 @@
    "posts": 8,
    "ads": 0
   },
+  "csharp_ready": {
+   "subs": 10400,
+   "posts": 13,
+   "ads": 0
+  },
   "csharpproglib": {
    "subs": 21600,
    "posts": 13,
@@ -1535,6 +1890,16 @@
    "posts": 4,
    "ads": 0
   },
+  "ctorecords": {
+   "subs": 10600,
+   "posts": 9,
+   "ads": 0
+  },
+  "cult_security": {
+   "subs": 11000,
+   "posts": 24,
+   "ads": 0
+  },
   "cyber_cabb": {
    "subs": 81600,
    "posts": 23,
@@ -1543,6 +1908,11 @@
   "cyber_misha": {
    "subs": 25800,
    "posts": 13,
+   "ads": 0
+  },
+  "cyberins": {
+   "subs": 11500,
+   "posts": 29,
    "ads": 0
   },
   "cyberpolice_rus": {
@@ -1575,6 +1945,11 @@
    "posts": 30,
    "ads": 0
   },
+  "cybred": {
+   "subs": 11300,
+   "posts": 2,
+   "ads": 0
+  },
   "cyprusit": {
    "subs": 17200,
    "posts": 6,
@@ -1590,6 +1965,11 @@
    "posts": 79,
    "ads": 2
   },
+  "dakarTG": {
+   "subs": 12800,
+   "posts": 18,
+   "ads": 0
+  },
   "danieltrbn": {
    "subs": 13300,
    "posts": 20,
@@ -1600,6 +1980,11 @@
    "posts": 64,
    "ads": 6
   },
+  "data_hr": {
+   "subs": 11000,
+   "posts": 11,
+   "ads": 2
+  },
   "data_secrets": {
    "subs": 94300,
    "posts": 99,
@@ -1609,6 +1994,11 @@
    "subs": 30000,
    "posts": 17,
    "ads": 1
+  },
+  "databases_tg": {
+   "subs": 12500,
+   "posts": 7,
+   "ads": 2
   },
   "datais": {
    "subs": 62200,
@@ -1660,6 +2050,11 @@
    "posts": 42,
    "ads": 0
   },
+  "deep_school": {
+   "subs": 10700,
+   "posts": 5,
+   "ads": 0
+  },
   "deepcoolru": {
    "subs": 200000,
    "posts": 14,
@@ -1669,6 +2064,11 @@
    "subs": 63000,
    "posts": 25,
    "ads": 1
+  },
+  "denisov_valya": {
+   "subs": 11200,
+   "posts": 0,
+   "ads": 0
   },
   "denissexy": {
    "subs": 138000,
@@ -1730,15 +2130,30 @@
    "posts": 29,
    "ads": 0
   },
+  "devopsslib": {
+   "subs": 10400,
+   "posts": 4,
+   "ads": 1
+  },
   "devs_storage": {
    "subs": 19100,
    "posts": 4,
+   "ads": 0
+  },
+  "devs_store": {
+   "subs": 11800,
+   "posts": 2,
    "ads": 0
   },
   "devsp": {
    "subs": 19800,
    "posts": 40,
    "ads": 1
+  },
+  "di_park57": {
+   "subs": 10400,
+   "posts": 105,
+   "ads": 0
   },
   "digital_ninjaa": {
    "subs": 40400,
@@ -1748,6 +2163,16 @@
   "digitalrazor_catalog1": {
    "subs": 21500,
    "posts": 7,
+   "ads": 0
+  },
+  "digitaltea": {
+   "subs": 10300,
+   "posts": 8,
+   "ads": 0
+  },
+  "digiu_ai": {
+   "subs": 11200,
+   "posts": 3,
    "ads": 0
   },
   "dimaviperyoutube": {
@@ -1774,6 +2199,11 @@
    "subs": 29700,
    "posts": 15,
    "ads": 2
+  },
+  "dnevniksysadmin": {
+   "subs": 12100,
+   "posts": 61,
+   "ads": 0
   },
   "doktorgpt": {
    "subs": 225000,
@@ -1820,14 +2250,34 @@
    "posts": 35,
    "ads": 0
   },
+  "easy_java_ru": {
+   "subs": 11300,
+   "posts": 30,
+   "ads": 0
+  },
   "easy_javascript_ru": {
    "subs": 17700,
    "posts": 21,
    "ads": 0
   },
+  "easy_qa_ru": {
+   "subs": 12200,
+   "posts": 28,
+   "ads": 0
+  },
   "easyoffer_ru": {
    "subs": 35900,
    "posts": 0,
+   "ads": 0
+  },
+  "edl_testpoints": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
+  "edward_club": {
+   "subs": 11900,
+   "posts": 5,
    "ads": 0
   },
   "edya_robot": {
@@ -1868,6 +2318,11 @@
   "ep_uc": {
    "subs": 21200,
    "posts": 35,
+   "ads": 0
+  },
+  "esetnodkeys": {
+   "subs": 10600,
+   "posts": 37,
    "ads": 0
   },
   "euphoria_devs": {
@@ -1915,6 +2370,16 @@
    "posts": 1,
    "ads": 0
   },
+  "first_neiro": {
+   "subs": 11900,
+   "posts": 71,
+   "ads": 0
+  },
+  "firstmail_news": {
+   "subs": 12400,
+   "posts": 2,
+   "ads": 0
+  },
   "fon_tech": {
    "subs": 225000,
    "posts": 28,
@@ -1935,6 +2400,11 @@
    "posts": 28,
    "ads": 3
   },
+  "forklogAI": {
+   "subs": 11400,
+   "posts": 65,
+   "ads": 0
+  },
   "formula_v_line": {
    "subs": 14500,
    "posts": 19,
@@ -1944,6 +2414,11 @@
    "subs": 16000,
    "posts": 15,
    "ads": 0
+  },
+  "fpspc_ekb": {
+   "subs": 13000,
+   "posts": 37,
+   "ads": 4
   },
   "fpvcovenant": {
    "subs": 14700,
@@ -1960,10 +2435,20 @@
    "posts": 22,
    "ads": 1
   },
+  "frontend_1": {
+   "subs": 10400,
+   "posts": 6,
+   "ads": 0
+  },
   "frontendbook": {
    "subs": 14800,
    "posts": 6,
    "ads": 3
+  },
+  "frontendbooksit": {
+   "subs": 12700,
+   "posts": 1,
+   "ads": 0
   },
   "frontendnoteschannel_ru": {
    "subs": 31300,
@@ -2008,6 +2493,11 @@
   "galenamir": {
    "subs": null,
    "posts": 0,
+   "ads": 0
+  },
+  "gamedev_club1": {
+   "subs": 10700,
+   "posts": 13,
    "ads": 0
   },
   "gamerstormru": {
@@ -2060,6 +2550,11 @@
    "posts": 3,
    "ads": 0
   },
+  "gis_cybersec": {
+   "subs": 12200,
+   "posts": 24,
+   "ads": 2
+  },
   "git_developer": {
    "subs": 17000,
    "posts": 31,
@@ -2080,6 +2575,11 @@
    "posts": 24,
    "ads": 3
   },
+  "glent_FREE_RB": {
+   "subs": 11000,
+   "posts": 1,
+   "ads": 0
+  },
   "godoftesting": {
    "subs": 29500,
    "posts": 8,
@@ -2098,6 +2598,11 @@
   "gonzo_ML": {
    "subs": 24500,
    "posts": 45,
+   "ads": 0
+  },
+  "good_air1": {
+   "subs": 12500,
+   "posts": 6,
    "ads": 0
   },
   "goodstore_crimea": {
@@ -2165,6 +2670,11 @@
    "posts": 21,
    "ads": 3
   },
+  "gtacryptoupdates": {
+   "subs": 11300,
+   "posts": 0,
+   "ads": 0
+  },
   "habr_com": {
    "subs": 133000,
    "posts": 103,
@@ -2174,6 +2684,11 @@
    "subs": 63200,
    "posts": 32,
    "ads": 1
+  },
+  "hacckingbook": {
+   "subs": 11900,
+   "posts": 15,
+   "ads": 0
   },
   "hack_less": {
    "subs": 237000,
@@ -2194,6 +2709,11 @@
    "subs": 14300,
    "posts": 12,
    "ads": 0
+  },
+  "hackproglib": {
+   "subs": 12700,
+   "posts": 2,
+   "ads": 2
   },
   "hahacker_news": {
    "subs": 25500,
@@ -2220,6 +2740,11 @@
    "posts": 146,
    "ads": 0
   },
+  "heraks2net": {
+   "subs": 10800,
+   "posts": 1,
+   "ads": 0
+  },
   "hiaimedia": {
    "subs": 2620000,
    "posts": 41,
@@ -2235,6 +2760,11 @@
    "posts": 17,
    "ads": 0
   },
+  "hightech_fm": {
+   "subs": 11600,
+   "posts": 36,
+   "ads": 0
+  },
   "hisenserussia": {
    "subs": 17700,
    "posts": 11,
@@ -2248,6 +2778,11 @@
   "hitvpn_news": {
    "subs": 4430000,
    "posts": 0,
+   "ads": 0
+  },
+  "honestpc": {
+   "subs": 11100,
+   "posts": 5,
    "ads": 0
   },
   "honor_rus": {
@@ -2340,6 +2875,11 @@
    "posts": 27,
    "ads": 0
   },
+  "igorostrecov": {
+   "subs": 10400,
+   "posts": 0,
+   "ads": 0
+  },
   "iguides": {
    "subs": 30100,
    "posts": 131,
@@ -2390,6 +2930,11 @@
    "posts": 32,
    "ads": 0
   },
+  "info_cybersecurity": {
+   "subs": 10400,
+   "posts": 16,
+   "ads": 1
+  },
   "info_ii": {
    "subs": 83000,
    "posts": 20,
@@ -2400,10 +2945,20 @@
    "posts": 0,
    "ads": 0
   },
+  "infosec_tg": {
+   "subs": 10300,
+   "posts": 19,
+   "ads": 1
+  },
   "infosec_work": {
    "subs": 15800,
    "posts": 27,
    "ads": 1
+  },
+  "innocluster": {
+   "subs": 12000,
+   "posts": 27,
+   "ads": 0
   },
   "innovationwd": {
    "subs": 13500,
@@ -2430,14 +2985,29 @@
    "posts": 40,
    "ads": 0
   },
+  "intosecurity": {
+   "subs": 11900,
+   "posts": 0,
+   "ads": 0
+  },
   "involta": {
    "subs": 34000,
    "posts": 0,
    "ads": 0
   },
+  "iosgr": {
+   "subs": 12000,
+   "posts": 11,
+   "ads": 1
+  },
   "iphonesru": {
    "subs": 63000,
    "posts": 128,
+   "ads": 0
+  },
+  "iphoriya_official": {
+   "subs": 10200,
+   "posts": 6,
    "ads": 0
   },
   "ipoint_stores": {
@@ -2480,9 +3050,19 @@
    "posts": 53,
    "ads": 7
   },
+  "it_academy_tg": {
+   "subs": 12700,
+   "posts": 44,
+   "ads": 0
+  },
   "it_arch": {
    "subs": 16200,
    "posts": 5,
+   "ads": 0
+  },
+  "it_backdoor": {
+   "subs": 10300,
+   "posts": 0,
    "ads": 0
   },
   "it_books_tg": {
@@ -2495,6 +3075,11 @@
    "posts": 6,
    "ads": 0
   },
+  "it_fullstak": {
+   "subs": 10900,
+   "posts": 15,
+   "ads": 1
+  },
   "it_guides": {
    "subs": 15200,
    "posts": 31,
@@ -2505,6 +3090,16 @@
    "posts": 45,
    "ads": 1
   },
+  "it_mega_disk": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
+  "it_mega_g": {
+   "subs": 11200,
+   "posts": 9,
+   "ads": 0
+  },
   "it_pirate_tg": {
    "subs": 24200,
    "posts": 37,
@@ -2514,6 +3109,11 @@
    "subs": 62100,
    "posts": 41,
    "ads": 3
+  },
+  "it_sensei": {
+   "subs": 11100,
+   "posts": 44,
+   "ads": 0
   },
   "it_tochka": {
    "subs": 18100,
@@ -2570,6 +3170,16 @@
    "posts": 44,
    "ads": 1
   },
+  "itmemas": {
+   "subs": 10000,
+   "posts": 42,
+   "ads": 0
+  },
+  "itrecruiting": {
+   "subs": 11900,
+   "posts": 18,
+   "ads": 0
+  },
   "its_capitan": {
    "subs": 85400,
    "posts": 7,
@@ -2580,9 +3190,24 @@
    "posts": 0,
    "ads": 0
   },
+  "ixbt_official": {
+   "subs": 10500,
+   "posts": 33,
+   "ads": 0
+  },
   "iznytri": {
    "subs": 80200,
    "posts": 4,
+   "ads": 0
+  },
+  "jamesbondarapple": {
+   "subs": 10900,
+   "posts": 41,
+   "ads": 0
+  },
+  "java_fillthegaps": {
+   "subs": 12300,
+   "posts": 0,
    "ads": 0
   },
   "java_library": {
@@ -2595,6 +3220,11 @@
    "posts": 25,
    "ads": 1
   },
+  "javalearning24": {
+   "subs": 11800,
+   "posts": 139,
+   "ads": 2
+  },
   "javalib": {
    "subs": 30600,
    "posts": 42,
@@ -2604,6 +3234,11 @@
    "subs": 22000,
    "posts": 16,
    "ads": 1
+  },
+  "javarush_original": {
+   "subs": 12600,
+   "posts": 11,
+   "ads": 0
   },
   "javascript_jobs_feed": {
    "subs": 14900,
@@ -2645,6 +3280,11 @@
    "posts": 12,
    "ads": 0
   },
+  "kantor_ai": {
+   "subs": 12200,
+   "posts": 20,
+   "ads": 2
+  },
   "kaska01ru": {
    "subs": 3610,
    "posts": 2,
@@ -2655,9 +3295,19 @@
    "posts": 27,
    "ads": 0
   },
+  "kedr2earth": {
+   "subs": 10100,
+   "posts": 42,
+   "ads": 0
+  },
   "keysOutline": {
    "subs": 28800,
    "posts": 143,
+   "ads": 0
+  },
+  "kind_hack": {
+   "subs": 12000,
+   "posts": 15,
    "ads": 0
   },
   "kingstore_service": {
@@ -2693,6 +3343,11 @@
   "konspekty_shpargalki": {
    "subs": 15600,
    "posts": 13,
+   "ads": 0
+  },
+  "kontur_student": {
+   "subs": 12000,
+   "posts": 4,
    "ads": 0
   },
   "kossolapovai": {
@@ -2735,10 +3390,20 @@
    "posts": 27,
    "ads": 0
   },
+  "lantern_russia": {
+   "subs": 10500,
+   "posts": 0,
+   "ads": 0
+  },
   "leadgr": {
    "subs": 28100,
    "posts": 17,
    "ads": 5
+  },
+  "leadteh": {
+   "subs": 10500,
+   "posts": 8,
+   "ads": 0
   },
   "leftjoin": {
    "subs": 41900,
@@ -2750,6 +3415,11 @@
    "posts": 2,
    "ads": 0
   },
+  "leraprompt": {
+   "subs": 12200,
+   "posts": 11,
+   "ads": 0
+  },
   "let_media": {
    "subs": 63300,
    "posts": 131,
@@ -2757,6 +3427,11 @@
   },
   "lib_analyst": {
    "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
+  "libqa": {
+   "subs": 12000,
    "posts": 0,
    "ads": 0
   },
@@ -2770,6 +3445,16 @@
    "posts": 43,
    "ads": 2
   },
+  "linktek": {
+   "subs": 11400,
+   "posts": 763,
+   "ads": 0
+  },
+  "linux_education": {
+   "subs": 11100,
+   "posts": 18,
+   "ads": 2
+  },
   "linux_gram": {
    "subs": 13700,
    "posts": 65,
@@ -2778,6 +3463,11 @@
   "linux_read": {
    "subs": 16100,
    "posts": 2,
+   "ads": 0
+  },
+  "linux_ready": {
+   "subs": 11100,
+   "posts": 12,
    "ads": 0
   },
   "linuxacademiya": {
@@ -2800,6 +3490,11 @@
    "posts": 13,
    "ads": 2
   },
+  "lite1C": {
+   "subs": 11400,
+   "posts": 20,
+   "ads": 0
+  },
   "localhost_public": {
    "subs": 16700,
    "posts": 43,
@@ -2809,6 +3504,11 @@
    "subs": 13100,
    "posts": 22,
    "ads": 3
+  },
+  "love_it_hate": {
+   "subs": 11200,
+   "posts": 16,
+   "ads": 0
   },
   "lovedeathtransformers": {
    "subs": 25700,
@@ -2855,6 +3555,11 @@
    "posts": 0,
    "ads": 0
   },
+  "maliphone": {
+   "subs": 10900,
+   "posts": 0,
+   "ads": 0
+  },
   "maniacvoice": {
    "subs": 47200,
    "posts": 11,
@@ -2875,9 +3580,19 @@
    "posts": 0,
    "ads": 0
   },
+  "max_about_ai": {
+   "subs": 11900,
+   "posts": 1,
+   "ads": 0
+  },
   "maxzarev": {
    "subs": 25000,
    "posts": 0,
+   "ads": 0
+  },
+  "maya_pro": {
+   "subs": 12500,
+   "posts": 5,
    "ads": 0
   },
   "mdsays": {
@@ -2903,6 +3618,16 @@
   "megafon_online": {
    "subs": 63500,
    "posts": 9,
+   "ads": 0
+  },
+  "metaverse_vk": {
+   "subs": 12800,
+   "posts": 0,
+   "ads": 0
+  },
+  "micommrussia": {
+   "subs": 10800,
+   "posts": 0,
    "ads": 0
   },
   "midjourney_architecture": {
@@ -2950,6 +3675,16 @@
    "posts": 201,
    "ads": 2
   },
+  "ml_world": {
+   "subs": 11100,
+   "posts": 16,
+   "ads": 0
+  },
+  "mmbrus": {
+   "subs": 11600,
+   "posts": 2,
+   "ads": 0
+  },
   "mmmorozov": {
    "subs": 61400,
    "posts": 20,
@@ -2958,6 +3693,11 @@
   "mobi_dev": {
    "subs": 13200,
    "posts": 43,
+   "ads": 0
+  },
+  "mobile5G_RU": {
+   "subs": 10800,
+   "posts": 0,
    "ads": 0
   },
   "mobilereviewcom": {
@@ -2990,6 +3730,16 @@
    "posts": 66,
    "ads": 0
   },
+  "mtrushkoskills": {
+   "subs": 11000,
+   "posts": 8,
+   "ads": 0
+  },
+  "mts_startup_hub": {
+   "subs": 10700,
+   "posts": 5,
+   "ads": 0
+  },
   "mtsofficial": {
    "subs": 49300,
    "posts": 14,
@@ -3003,6 +3753,16 @@
   "my_el_lab": {
    "subs": 44300,
    "posts": 99,
+   "ads": 0
+  },
+  "myobrechenychannel": {
+   "subs": 10900,
+   "posts": 12,
+   "ads": 0
+  },
+  "myofficeru": {
+   "subs": 10000,
+   "posts": 2,
    "ads": 0
   },
   "myphone_dn": {
@@ -3030,6 +3790,16 @@
    "posts": 133,
    "ads": 10
   },
+  "nanoage1": {
+   "subs": 11300,
+   "posts": 0,
+   "ads": 0
+  },
+  "nanobananapromts": {
+   "subs": 10400,
+   "posts": 13,
+   "ads": 0
+  },
   "nanohypegen": {
    "subs": 39300,
    "posts": 84,
@@ -3038,6 +3808,11 @@
   "natalya_kasperskaya_channel": {
    "subs": 54700,
    "posts": 7,
+   "ads": 0
+  },
+  "naukasibur": {
+   "subs": 11500,
+   "posts": 18,
    "ads": 0
   },
   "nazarov_interviews": {
@@ -3055,9 +3830,19 @@
    "posts": 0,
    "ads": 0
   },
+  "ne_institute": {
+   "subs": 11100,
+   "posts": 2,
+   "ads": 0
+  },
   "neafiol_blog": {
    "subs": 27100,
    "posts": 0,
+   "ads": 0
+  },
+  "ned0news": {
+   "subs": 12000,
+   "posts": 162,
    "ads": 0
   },
   "neiro_newz": {
@@ -3075,6 +3860,11 @@
    "posts": 0,
    "ads": 0
   },
+  "neironity": {
+   "subs": 11400,
+   "posts": 153,
+   "ads": 0
+  },
   "neirosetblog": {
    "subs": 18300,
    "posts": 0,
@@ -3089,6 +3879,16 @@
    "subs": 64700,
    "posts": 11,
    "ads": 0
+  },
+  "networkadm": {
+   "subs": 12400,
+   "posts": 11,
+   "ads": 1
+  },
+  "neural": {
+   "subs": 11600,
+   "posts": 9,
+   "ads": 2
   },
   "neural_braining": {
    "subs": 21500,
@@ -3125,6 +3925,11 @@
    "posts": 0,
    "ads": 0
   },
+  "neuro_channel": {
+   "subs": 11800,
+   "posts": 62,
+   "ads": 0
+  },
   "neuro_code": {
    "subs": 56100,
    "posts": 52,
@@ -3145,9 +3950,19 @@
    "posts": 0,
    "ads": 0
   },
+  "neurobiznes": {
+   "subs": 12400,
+   "posts": 11,
+   "ads": 0
+  },
   "neurobussines": {
    "subs": 73700,
    "posts": 20,
+   "ads": 0
+  },
+  "neurobysak": {
+   "subs": 11200,
+   "posts": 15,
    "ads": 0
   },
   "neurogen_news": {
@@ -3195,6 +4010,11 @@
    "posts": 0,
    "ads": 0
   },
+  "new_yorko_times": {
+   "subs": 10600,
+   "posts": 1,
+   "ads": 0
+  },
   "news_engineering": {
    "subs": 25900,
    "posts": 145,
@@ -3235,9 +4055,34 @@
    "posts": 52,
    "ads": 0
   },
+  "niketasfm": {
+   "subs": 12300,
+   "posts": 0,
+   "ads": 0
+  },
   "nikita_ai_web3": {
    "subs": 351,
    "posts": 6,
+   "ads": 0
+  },
+  "nikolashinyoutube": {
+   "subs": 10900,
+   "posts": 5,
+   "ads": 0
+  },
+  "nobilix": {
+   "subs": 11700,
+   "posts": 7,
+   "ads": 0
+  },
+  "nodatanogrowth": {
+   "subs": 12800,
+   "posts": 2,
+   "ads": 0
+  },
+  "not_boring_ds": {
+   "subs": 12000,
+   "posts": 2,
    "ads": 0
   },
   "notboring_tech": {
@@ -3265,10 +4110,20 @@
    "posts": 0,
    "ads": 0
   },
+  "nplod": {
+   "subs": 11700,
+   "posts": 0,
+   "ads": 0
+  },
   "nsis_cybersec": {
    "subs": 21500,
    "posts": 30,
    "ads": 2
+  },
+  "nti2035ru": {
+   "subs": 10600,
+   "posts": 5,
+   "ads": 0
   },
   "nuancesprog": {
    "subs": 56400,
@@ -3330,10 +4185,20 @@
    "posts": 1,
    "ads": 0
   },
+  "oleglimited": {
+   "subs": 11700,
+   "posts": 0,
+   "ads": 0
+  },
   "olya_tashit": {
    "subs": 13200,
    "posts": 15,
    "ads": 0
+  },
+  "onecv8": {
+   "subs": 12500,
+   "posts": 6,
+   "ads": 1
   },
   "oneplus_ru_official": {
    "subs": 31600,
@@ -3370,6 +4235,11 @@
    "posts": 45,
    "ads": 1
   },
+  "opensource_findings": {
+   "subs": 12600,
+   "posts": 2,
+   "ads": 0
+  },
   "operby": {
    "subs": 35800,
    "posts": 23,
@@ -3385,6 +4255,11 @@
    "posts": 22,
    "ads": 3
   },
+  "orgTechAi": {
+   "subs": 12000,
+   "posts": 0,
+   "ads": 0
+  },
   "oriontelecom": {
    "subs": 16900,
    "posts": 16,
@@ -3395,6 +4270,11 @@
    "posts": 9,
    "ads": 1
   },
+  "osint_matrix": {
+   "subs": 9790,
+   "posts": 0,
+   "ads": 0
+  },
   "osint_mindset": {
    "subs": 64800,
    "posts": 0,
@@ -3403,6 +4283,11 @@
   "osintkanal": {
    "subs": 14300,
    "posts": 0,
+   "ads": 0
+  },
+  "osintru": {
+   "subs": 10700,
+   "posts": 2,
    "ads": 0
   },
   "otomosem": {
@@ -3417,6 +4302,11 @@
   },
   "overlamer1": {
    "subs": 81300,
+   "posts": 18,
+   "ads": 0
+  },
+  "overtakelab": {
+   "subs": 13000,
    "posts": 18,
    "ads": 0
   },
@@ -3455,9 +4345,24 @@
    "posts": 29,
    "ads": 0
   },
+  "pc_perfecs": {
+   "subs": 10300,
+   "posts": 4,
+   "ads": 0
+  },
   "pekinblizko": {
    "subs": 39800,
    "posts": 8,
+   "ads": 0
+  },
+  "perfectechru": {
+   "subs": 12300,
+   "posts": 7,
+   "ads": 0
+  },
+  "pervyy_tsifrovoy": {
+   "subs": 12900,
+   "posts": 0,
    "ads": 0
   },
   "petsproject": {
@@ -3470,8 +4375,18 @@
    "posts": 0,
    "ads": 0
   },
+  "phpproglib": {
+   "subs": 10500,
+   "posts": 15,
+   "ads": 1
+  },
   "pibotrus": {
    "subs": 47700,
+   "posts": 0,
+   "ads": 0
+  },
+  "pictuora": {
+   "subs": 10000,
    "posts": 0,
    "ads": 0
   },
@@ -3479,6 +4394,11 @@
    "subs": 33000,
    "posts": 9,
    "ads": 1
+  },
+  "pkleder": {
+   "subs": 12800,
+   "posts": 10,
+   "ads": 0
   },
   "pkprostoo": {
    "subs": 34600,
@@ -3489,6 +4409,11 @@
    "subs": 28500,
    "posts": 19,
    "ads": 0
+  },
+  "pm_and_it": {
+   "subs": 11400,
+   "posts": 7,
+   "ads": 2
   },
   "pmdaily": {
    "subs": 23700,
@@ -3570,6 +4495,21 @@
    "posts": 77,
    "ads": 0
   },
+  "pro_digma": {
+   "subs": 10900,
+   "posts": 3,
+   "ads": 0
+  },
+  "pro_pentest": {
+   "subs": 10100,
+   "posts": 4,
+   "ads": 0
+  },
+  "pro_python_code": {
+   "subs": 12300,
+   "posts": 7,
+   "ads": 0
+  },
   "procode404": {
    "subs": 40500,
    "posts": 16,
@@ -3582,6 +4522,11 @@
   },
   "product_channel_fit": {
    "subs": 16000,
+   "posts": 0,
+   "ads": 0
+  },
+  "product_developer": {
+   "subs": 12000,
    "posts": 0,
    "ads": 0
   },
@@ -3598,6 +4543,11 @@
   "prog_point": {
    "subs": 18000,
    "posts": 35,
+   "ads": 0
+  },
+  "prog_tools": {
+   "subs": 12900,
+   "posts": 26,
    "ads": 0
   },
   "progbook": {
@@ -3655,6 +4605,11 @@
    "posts": 25,
    "ads": 0
   },
+  "prompt_k": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
   "prompthub_yndx": {
    "subs": 25300,
    "posts": 9,
@@ -3663,6 +4618,11 @@
   "promt_aiphotos": {
    "subs": 38900,
    "posts": 98,
+   "ads": 0
+  },
+  "promtkris": {
+   "subs": null,
+   "posts": 0,
    "ads": 0
   },
   "promtyi": {
@@ -3674,6 +4634,11 @@
    "subs": 13100,
    "posts": 39,
    "ads": 3
+  },
+  "protechpub": {
+   "subs": 12300,
+   "posts": 19,
+   "ads": 0
   },
   "protestinginfo": {
    "subs": 14900,
@@ -3690,9 +4655,24 @@
    "posts": 1,
    "ads": 0
   },
+  "ptichkahome": {
+   "subs": 12400,
+   "posts": 70,
+   "ads": 0
+  },
+  "px_game": {
+   "subs": 10100,
+   "posts": 2,
+   "ads": 0
+  },
   "pygen_ru": {
    "subs": 50300,
    "posts": 7,
+   "ads": 0
+  },
+  "pylinux0": {
+   "subs": 11000,
+   "posts": 10,
    "ads": 0
   },
   "pyproglib": {
@@ -3708,6 +4688,16 @@
   "python_academy": {
    "subs": 44200,
    "posts": 15,
+   "ads": 0
+  },
+  "python_books_archive": {
+   "subs": 12400,
+   "posts": 1,
+   "ads": 0
+  },
+  "python_easy_ru": {
+   "subs": 12700,
+   "posts": 29,
    "ads": 0
   },
   "python_job_interview": {
@@ -3740,6 +4730,16 @@
    "posts": 1,
    "ads": 0
   },
+  "pythonboost": {
+   "subs": 10800,
+   "posts": 0,
+   "ads": 0
+  },
+  "pythonexpert_it": {
+   "subs": 10500,
+   "posts": 30,
+   "ads": 0
+  },
   "pythonguide_it": {
    "subs": 15900,
    "posts": 45,
@@ -3760,6 +4760,11 @@
    "posts": 0,
    "ads": 0
   },
+  "pythonknigiru": {
+   "subs": 11600,
+   "posts": 2,
+   "ads": 0
+  },
   "pythonl": {
    "subs": 58700,
    "posts": 15,
@@ -3770,10 +4775,30 @@
    "posts": 4,
    "ads": 0
   },
+  "pythonlib": {
+   "subs": 11700,
+   "posts": 1,
+   "ads": 0
+  },
+  "pythonquestions": {
+   "subs": 11900,
+   "posts": 5,
+   "ads": 1
+  },
+  "qa_chillout": {
+   "subs": 10600,
+   "posts": 2,
+   "ads": 1
+  },
   "qa_sklad": {
    "subs": 23300,
    "posts": 5,
    "ads": 0
+  },
+  "qa_wiki": {
+   "subs": 12900,
+   "posts": 2,
+   "ads": 2
   },
   "qachanell": {
    "subs": 30300,
@@ -3800,10 +4825,20 @@
    "posts": 0,
    "ads": 0
   },
+  "razrab1c": {
+   "subs": 10100,
+   "posts": 22,
+   "ads": 0
+  },
   "rbtshki": {
    "subs": 200000,
    "posts": 77,
    "ads": 2
+  },
+  "re_makeee": {
+   "subs": 10000,
+   "posts": 15,
+   "ads": 0
   },
   "react_tg": {
    "subs": 16300,
@@ -3823,6 +4858,21 @@
   "rebrain_devops": {
    "subs": 28900,
    "posts": 16,
+   "ads": 0
+  },
+  "rebro_krasnodar": {
+   "subs": 10700,
+   "posts": 26,
+   "ads": 0
+  },
+  "rebrykblog": {
+   "subs": 12200,
+   "posts": 4,
+   "ads": 0
+  },
+  "recrutach": {
+   "subs": 11100,
+   "posts": 14,
    "ads": 0
   },
   "recura_tech": {
@@ -3890,6 +4940,11 @@
    "posts": 0,
    "ads": 0
   },
+  "rfonservice": {
+   "subs": 10100,
+   "posts": 2,
+   "ads": 0
+  },
   "rhymecoins": {
    "subs": 39600,
    "posts": 155,
@@ -3898,6 +4953,11 @@
   "rkn_tg": {
    "subs": 63300,
    "posts": 0,
+   "ads": 0
+  },
+  "robotics_channel": {
+   "subs": 12300,
+   "posts": 6,
    "ads": 0
   },
   "rockyourdata": {
@@ -3975,6 +5035,11 @@
    "posts": 8,
    "ads": 0
   },
+  "rybakalexey": {
+   "subs": 10300,
+   "posts": 9,
+   "ads": 2
+  },
   "rybolos_channel": {
    "subs": 19100,
    "posts": 3,
@@ -3988,6 +5053,11 @@
   "sIivaker": {
    "subs": null,
    "posts": 0,
+   "ads": 0
+  },
+  "safebdv": {
+   "subs": 9990,
+   "posts": 19,
    "ads": 0
   },
   "sakutin_csharp": {
@@ -4020,6 +5090,11 @@
    "posts": 13,
    "ads": 0
   },
+  "sbornik_znanii": {
+   "subs": 10400,
+   "posts": 32,
+   "ads": 0
+  },
   "sburyi": {
    "subs": 19300,
    "posts": 18,
@@ -4038,6 +5113,11 @@
   "searchack": {
    "subs": 18200,
    "posts": 19,
+   "ads": 0
+  },
+  "sector_lab": {
+   "subs": 10400,
+   "posts": 10,
    "ads": 0
   },
   "secur_researcher": {
@@ -4064,6 +5144,11 @@
    "subs": 19300,
    "posts": 12,
    "ads": 0
+  },
+  "seniorcpp": {
+   "subs": 11600,
+   "posts": 16,
+   "ads": 1
   },
   "seniorjavist": {
    "subs": 20600,
@@ -4095,6 +5180,16 @@
    "posts": 1,
    "ads": 0
   },
+  "sergiobulaev": {
+   "subs": 12600,
+   "posts": 11,
+   "ads": 0
+  },
+  "sergioselfie": {
+   "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
   "serious_tester": {
    "subs": 30100,
    "posts": 5,
@@ -4115,6 +5210,11 @@
    "posts": 1,
    "ads": 0
   },
+  "shadow_group_tg": {
+   "subs": 11500,
+   "posts": 1,
+   "ads": 0
+  },
   "shahabstore14": {
    "subs": null,
    "posts": 0,
@@ -4123,6 +5223,11 @@
   "shopmts": {
    "subs": 43900,
    "posts": 54,
+   "ads": 0
+  },
+  "shotixidea": {
+   "subs": 12000,
+   "posts": 33,
    "ads": 0
   },
   "silicon_kitchen": {
@@ -4155,14 +5260,29 @@
    "posts": 22,
    "ads": 0
   },
+  "skoltech_daily": {
+   "subs": 11300,
+   "posts": 54,
+   "ads": 0
+  },
   "sl1vakerA": {
    "subs": null,
    "posts": 0,
    "ads": 0
   },
+  "small_biz": {
+   "subs": 10200,
+   "posts": 11,
+   "ads": 0
+  },
   "sofiandpartners": {
    "subs": 17300,
    "posts": 33,
+   "ads": 0
+  },
+  "solver_network_news": {
+   "subs": 12300,
+   "posts": 0,
    "ads": 0
   },
   "sopkacentr": {
@@ -4180,14 +5300,34 @@
    "posts": 76,
    "ads": 0
   },
+  "sparrowcode": {
+   "subs": 11400,
+   "posts": 1,
+   "ads": 0
+  },
   "spravportal_whocalls": {
    "subs": 193000,
    "posts": 24,
    "ads": 0
   },
+  "spring_aio": {
+   "subs": 10900,
+   "posts": 13,
+   "ads": 1
+  },
+  "sql_lib": {
+   "subs": 10200,
+   "posts": 1,
+   "ads": 0
+  },
   "sql_ready": {
    "subs": 17400,
    "posts": 14,
+   "ads": 0
+  },
+  "sqlacademyofficial": {
+   "subs": 11800,
+   "posts": 1,
    "ads": 0
   },
   "sqlhub": {
@@ -4209,6 +5349,11 @@
    "subs": 119000,
    "posts": 0,
    "ads": 0
+  },
+  "start_ds": {
+   "subs": 11500,
+   "posts": 1,
+   "ads": 1
   },
   "stasyagloss": {
    "subs": null,
@@ -4260,6 +5405,11 @@
    "posts": 13,
    "ads": 1
   },
+  "sysblok": {
+   "subs": 11600,
+   "posts": 5,
+   "ads": 0
+  },
   "sysodmins": {
    "subs": 38200,
    "posts": 100,
@@ -4280,10 +5430,20 @@
    "posts": 8,
    "ads": 0
   },
+  "systemswing": {
+   "subs": 10200,
+   "posts": 7,
+   "ads": 1
+  },
   "t0digital": {
    "subs": 28500,
    "posts": 17,
    "ads": 2
+  },
+  "t1career": {
+   "subs": 12700,
+   "posts": 10,
+   "ads": 0
   },
   "t2russia": {
    "subs": 31900,
@@ -4313,6 +5473,11 @@
   "tech_priestess": {
    "subs": 14900,
    "posts": 13,
+   "ads": 0
+  },
+  "tech_ru": {
+   "subs": 12800,
+   "posts": 0,
    "ads": 0
   },
   "techbybird": {
@@ -4390,6 +5555,11 @@
    "posts": 11,
    "ads": 0
   },
+  "technoretail_nom": {
+   "subs": 12400,
+   "posts": 56,
+   "ads": 3
+  },
   "technosplit": {
    "subs": 30300,
    "posts": 182,
@@ -4398,6 +5568,11 @@
   "techograminside": {
    "subs": 17400,
    "posts": 59,
+   "ads": 0
+  },
+  "techrocks": {
+   "subs": 12900,
+   "posts": 1,
    "ads": 0
   },
   "techrocksarchive": {
@@ -4420,6 +5595,11 @@
    "posts": 13,
    "ads": 0
   },
+  "tehnodeaf": {
+   "subs": 12800,
+   "posts": 0,
+   "ads": 0
+  },
   "tehnoflow": {
    "subs": 69100,
    "posts": 4,
@@ -4427,6 +5607,11 @@
   },
   "tehnonewsnow": {
    "subs": null,
+   "posts": 0,
+   "ads": 0
+  },
+  "tekhnologiik": {
+   "subs": 11000,
    "posts": 0,
    "ads": 0
   },
@@ -4439,6 +5624,16 @@
    "subs": 82300,
    "posts": 47,
    "ads": 38
+  },
+  "telegraf_mhk": {
+   "subs": 10100,
+   "posts": 227,
+   "ads": 0
+  },
+  "teplitsa": {
+   "subs": 12800,
+   "posts": 13,
+   "ads": 0
   },
   "termalpad_cards": {
    "subs": 43900,
@@ -4454,6 +5649,11 @@
    "subs": 18600,
    "posts": 58,
    "ads": 33
+  },
+  "texnachru": {
+   "subs": 12900,
+   "posts": 0,
+   "ads": 0
   },
   "texnikach": {
    "subs": 18400,
@@ -4510,6 +5710,16 @@
    "posts": 24,
    "ads": 0
   },
+  "tildaupdatesfortesters": {
+   "subs": 10800,
+   "posts": 2,
+   "ads": 0
+  },
+  "time_design": {
+   "subs": 11500,
+   "posts": 4,
+   "ads": 0
+  },
   "timewebru": {
    "subs": 17400,
    "posts": 8,
@@ -4533,6 +5743,11 @@
   "tmtwave": {
    "subs": 28900,
    "posts": 39,
+   "ads": 0
+  },
+  "toBeAnMLspecialist": {
+   "subs": 10900,
+   "posts": 6,
    "ads": 0
   },
   "tojdoronmobile": {
@@ -4595,6 +5810,26 @@
    "posts": 9,
    "ads": 0
   },
+  "try_cgi": {
+   "subs": 11200,
+   "posts": 9,
+   "ads": 0
+  },
+  "tsingular": {
+   "subs": 12900,
+   "posts": 150,
+   "ads": 0
+  },
+  "tutlovit": {
+   "subs": 10200,
+   "posts": 1,
+   "ads": 0
+  },
+  "tvoijazz": {
+   "subs": 11800,
+   "posts": 3,
+   "ads": 0
+  },
   "tvuspeh": {
    "subs": 33600,
    "posts": 3,
@@ -4625,9 +5860,19 @@
    "posts": 34,
    "ads": 0
   },
+  "ufanet_official": {
+   "subs": 12100,
+   "posts": 12,
+   "ads": 1
+  },
   "ulbi_tv": {
    "subs": 38300,
    "posts": 1,
+   "ads": 0
+  },
+  "ultimate_engineer": {
+   "subs": 11900,
+   "posts": 7,
    "ads": 0
   },
   "uneco_bigcitylights": {
@@ -4655,6 +5900,11 @@
    "posts": 164,
    "ads": 1
   },
+  "uptechstore": {
+   "subs": 10500,
+   "posts": 59,
+   "ads": 0
+  },
   "upvote_media": {
    "subs": 68000,
    "posts": 75,
@@ -4680,6 +5930,11 @@
    "posts": 110,
    "ads": 0
   },
+  "vecherniy_danya": {
+   "subs": 10100,
+   "posts": 32,
+   "ads": 0
+  },
   "veo3prompts": {
    "subs": 42900,
    "posts": 41,
@@ -4698,6 +5953,11 @@
   "verybadreview": {
    "subs": 13600,
    "posts": 1,
+   "ads": 0
+  },
+  "veryironman": {
+   "subs": 12100,
+   "posts": 6,
    "ads": 0
   },
   "vibecoding_tg": {
@@ -4770,6 +6030,11 @@
    "posts": 43,
    "ads": 0
   },
+  "vpnwizard": {
+   "subs": 12400,
+   "posts": 3,
+   "ads": 0
+  },
   "vselennayaplus": {
    "subs": 83000,
    "posts": 28,
@@ -4780,14 +6045,34 @@
    "posts": 10,
    "ads": 0
   },
+  "w2hack": {
+   "subs": 12800,
+   "posts": 1,
+   "ads": 0
+  },
   "watchstories": {
    "subs": null,
    "posts": 0,
    "ads": 0
   },
+  "we_use_js": {
+   "subs": 10800,
+   "posts": 43,
+   "ads": 0
+  },
+  "webpuzat": {
+   "subs": 12200,
+   "posts": 8,
+   "ads": 0
+  },
   "webstandards_ru": {
    "subs": 13900,
    "posts": 14,
+   "ads": 0
+  },
+  "welsonpc": {
+   "subs": 12700,
+   "posts": 0,
    "ads": 0
   },
   "whackdoor": {
@@ -4823,6 +6108,11 @@
   "www2centru": {
    "subs": 3830,
    "posts": 39,
+   "ads": 0
+  },
+  "x5_tech": {
+   "subs": 10800,
+   "posts": 4,
    "ads": 0
   },
   "xCode_Journal": {
@@ -4870,6 +6160,11 @@
    "posts": 18,
    "ads": 0
   },
+  "yabloko_msk": {
+   "subs": 11900,
+   "posts": 936,
+   "ads": 0
+  },
   "yabrowser": {
    "subs": 679000,
    "posts": 13,
@@ -4880,14 +6175,34 @@
    "posts": 35,
    "ads": 1
   },
+  "yandex4frontend": {
+   "subs": 10900,
+   "posts": 2,
+   "ads": 0
+  },
   "yandexcloudnews": {
    "subs": 22700,
    "posts": 17,
    "ads": 0
   },
+  "yandexforbackend": {
+   "subs": 10200,
+   "posts": 6,
+   "ads": 0
+  },
   "yandexforml": {
    "subs": 18900,
    "posts": 7,
+   "ads": 0
+  },
+  "yellowclub_official": {
+   "subs": 11400,
+   "posts": 5,
+   "ads": 0
+  },
+  "yolodroider": {
+   "subs": 11200,
+   "posts": 12,
    "ads": 0
   },
   "yoomoney": {
@@ -4930,6 +6245,16 @@
    "posts": 41,
    "ads": 0
   },
+  "zhukovstoree": {
+   "subs": 12700,
+   "posts": 53,
+   "ads": 0
+  },
+  "zobghi": {
+   "subs": 11200,
+   "posts": 470,
+   "ads": 0
+  },
   "zum_promt": {
    "subs": 15500,
    "posts": 1,
@@ -4951,6 +6276,19 @@
    "text": "Объектное хранилище в эпоху быстрых данных\nОбъём данных, с которыми нужно работать, растёт ежедневно. Стандартных решений уже не хватает для задач ИИ и аналитики. Большие объёмы данных нужно не только хранить, но и быстро записывать и читать.\nВ MWS Cloud Platform мы построили объектное хранилище не "
   },
   {
+   "ch": "CGIT_Vines",
+   "id": 3305,
+   "dt": "2026-09-24T07:01:02+00:00",
+   "views": 2660,
+   "advertiser": null,
+   "inn": "5032378556",
+   "domains": [
+    "academy.playestate.ru"
+   ],
+   "tg": [],
+   "text": "Сколько зарабатывает специалист по АГР(Архитектурно-градостроительным решениям) в 2026 году\nЦифры по рынку — без приукрашиваний.\nПо данным опроса BIM-менеджеров и архитектурных бюро\nМосквы (выборка — 32 компании):\n— Junior-специалист по АГР (после обучения с нуля): от 90\n000 ₽/мес.\n— Middle (1–2 год"
+  },
+  {
    "ch": "Cpportal",
    "id": 2321,
    "dt": "2026-09-18T13:07:00+00:00",
@@ -4962,6 +6300,71 @@
    ],
    "tg": [],
    "text": "Разработчики 3D-графики, все сюда\nЕсли вы пишете рендер на C++ с отдельным RenderThread, то знаете эту боль: данные грузятся в фоне, а GPU-ресурсы всё равно создаются в потоке отрисовки. И пока RenderThread в длинном цикле создаёт буферы и текстуры, он не рисует — он стоит, пока не обработает список"
+  },
+  {
+   "ch": "CyberInvestorTrends",
+   "id": 21548,
+   "dt": "2026-09-22T07:06:08+00:00",
+   "views": 104,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "tglink.io"
+   ],
+   "tg": [],
+   "text": "RTX 4090 Powers AI Inference\n*RTX 4090 stays top choice for AI engineers thanks to 24GB VRAM and FP8 support on Ada Lovelace, boosting inference speed and model accuracy\\. Single card not enough for big models—clusters needed for demanding tasks like fine\\-tuning and rendering\\.\n*Immers Cloud* offer"
+  },
+  {
+   "ch": "CyberInvestorTrends",
+   "id": 21872,
+   "dt": "2026-09-29T07:06:06+00:00",
+   "views": 92,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "tglink.io"
+   ],
+   "tg": [],
+   "text": "DevOps Day Tackles Real Issues\n*DevOps Day brings engineers together to discuss critical infrastructure challenges: Kubernetes testing, key mistakes, avoiding anti-patterns, and real AI/LLM tools for coding and tech debt management. Focus on making architecture rules actionable and automating checks"
+  },
+  {
+   "ch": "CyberSachok",
+   "id": 3488,
+   "dt": "2026-09-17T11:12:50+00:00",
+   "views": 3170,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "ufactorevent.usergate.com"
+   ],
+   "tg": [],
+   "text": "Кибербезопасность как инвестиция: где заканчивается гадание и начинается эффективность?\nВ условиях меняющихся киберугроз и ограниченных бюджетов бизнесу уже недостаточно просто наращивать количество средств защиты — важно понимать, какая модель кибербезопасности действительно работает и окупается.\nО"
+  },
+  {
+   "ch": "CyberSachok",
+   "id": 3511,
+   "dt": "2026-09-23T12:37:52+00:00",
+   "views": 3240,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "cyberdom.pro"
+   ],
+   "tg": [],
+   "text": "А воз и ныне там: в Кибердоме обсудят проблемы внедрения и эксплуатации NGFW-продуктов\nВсе мы помним басню Крылова, где лебедь, рак и щука тянули воз в разные стороны. Похожая история происходит с российским рынком NGFW: сертификация тянет в одну сторону, практика — в другую, а заказчики и вендоры в"
+  },
+  {
+   "ch": "CyberSachok",
+   "id": 3537,
+   "dt": "2026-09-28T14:15:35+00:00",
+   "views": 3070,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "cyberdom.pro"
+   ],
+   "tg": [],
+   "text": "Премия, где заказчик — не фон, а главный герой\nОбычно ИБ-премии — это про вендоров. Кто громче запустил продукт, кто ярче рассказал кейс, кто больше клиентов перевёл на своё решение. Заказчик в этой истории — либо фон, либо номинация «спасибо, что купили».\nПремия «Киберпризнание» от Кибердома устрое"
   },
   {
    "ch": "DevOPSitsec",
@@ -5173,6 +6576,33 @@
    ],
    "tg": [],
    "text": "Готовьтесь к защите в суде с ИИ-помощником от КонсультантПлюс\nНе рискуйте проиграть дело из-за ошибки нейросети.\nИИ-сервис «Глубокий поиск»\nпоможет ответить на иск, опираясь на судебную практику из системы КонсультантПлюс:\n🔘\nдаст краткое резюме по вопросу;\nперечислит правовые основания для выстраива"
+  },
+  {
+   "ch": "LinuxSkill",
+   "id": 1234,
+   "dt": "2026-09-21T08:57:01+00:00",
+   "views": 1230,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "otus.pw",
+    "otus.ru"
+   ],
+   "tg": [],
+   "text": "🎥\nВебинар: «Сможет ли ИИ починить Linux-сервер: где заканчиваются подсказки и начинается инженерная диагностика»\nРазберем реальный инцидент с Linux-сервером и попробуем найти причину проблемы с помощью ИИ. Посмотрим, какие рекомендации действительно помогают инженеру, какой информации не хватает мод"
+  },
+  {
+   "ch": "LinuxSkill",
+   "id": 1238,
+   "dt": "2026-09-29T08:57:44+00:00",
+   "views": 719,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "otus.pw"
+   ],
+   "tg": [],
+   "text": "Kagent + Ollama: ИИ-агент для работы с Kubernetes\nКак использовать локальную языковую модель для работы с Kubernetes? На вебинаре разберём связку Kagent + Ollama и посмотрим, как ИИ-агент помогает анализировать состояние кластера и взаимодействовать с его ресурсами.\n1 октября в 20:00 МСК\nна открытом"
   },
   {
    "ch": "Master_PC_01",
@@ -9971,6 +11401,22 @@
    "text": "Бесплатный вводный урок английского для взрослых\nХотите узнать свой уровень английского и понять, с чего начать обучение? Запишитесь на\nбесплатное занятие\nс преподавателем SYNG.\nЗа 40 минут вы:\n— определите свой уровень английского;\n— выявите пробелы в знаниях;\n— составите персональный план обучения"
   },
   {
+   "ch": "booksjava",
+   "id": 1820,
+   "dt": "2026-09-23T11:02:23+00:00",
+   "views": 1190,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "otus.ru",
+    "vk.cc"
+   ],
+   "tg": [
+    "Tool"
+   ],
+   "text": "👩‍💻\nSpring AI 2.0 на практике: добавляем AI в Spring Boot и доводим до production\nПриглашаем на открытый урок.\n🗓\n30 сентября в 20:00 МСК\n🆓\nБесплатно. Урок в рамках старта курса\n«Разработчик на Spring Framework».\nНа занятии мы разберем:\n✔️\nОт обычного Spring Boot-сервиса к AI-функции. Подключим Sprin"
+  },
+  {
    "ch": "booksqa",
    "id": 2094,
    "dt": "2026-09-28T08:40:00+00:00",
@@ -11018,6 +12464,19 @@
    ],
    "tg": [],
    "text": "SONY XPERIA 10 VIII! ПЕРВЫЙ обзор в РОССИИ!\n📱\nСмотреть обзор в VK\n📱\n📱\nСмотреть обзор на YouTube\n📱\nПромокод: GERMAN\nErid: 2VtzqvvD2Zr\nSony Xperia 10 VIII:\nhttps://clck.ru/3WAzGw"
+  },
+  {
+   "ch": "cio_channel",
+   "id": 8439,
+   "dt": "2026-09-22T09:03:59+00:00",
+   "views": 793,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "yandex.cloud"
+   ],
+   "tg": [],
+   "text": "Трафик на сайт в сезон распродаж растёт быстро. Инфраструктура должна быть готова к пиковым нагрузкам\n📊\nКогда трафик за несколько часов увеличивается в 3–10 раз и даже кратковременный сбой может стоит заказов и репутации. Проверки требуют вычислительные мощности, сеть, доставка контента, системы защ"
   },
   {
    "ch": "citilink_official",
@@ -12068,6 +13527,19 @@
    "text": "«А вдруг психология — это моё?» Протестируйте профессию бесплатно, не бросая работу и не меняя жизнь\nНе нужно тратить месяцы на обучение, чтобы понять, подходит ли вам профессия психолога.\nПройдите бесплатный курс, где вы попробуете себя в роли психолога, разберёте 3 клиентских случая и заглянете в "
   },
   {
+   "ch": "cpluscsharp",
+   "id": 593,
+   "dt": "2026-09-24T10:21:29+00:00",
+   "views": 650,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "click.wowblogger.ru"
+   ],
+   "tg": [],
+   "text": "Участвуй во всероссийском ИТ-чемпионате МТС True Tech Champ 2026 c призовой фондом 10 250 000 рублей.\nЕсли тебе нравятся алгоритмы, структуры данных и задачи на чистую логику — участвуй в алгоритмическом треке с индивидуальным зачетом.\nРешай задачи разного уровня сложности: от базовых до тех, что пр"
+  },
+  {
    "ch": "cppproglib",
    "id": 6873,
    "dt": "2026-09-19T08:02:01+00:00",
@@ -12308,6 +13780,32 @@
    "text": "Что, если заменить аналитиков нейросетью?\nДа ничего хорошего: результаты анализа получаются слишком общими, и половину работы потом всё равно приходится переделывать руками.\nХард-скилы дешевеют — SQL-запрос или кусок кода теперь может сгенерировать почти кто угодно. А вот доменная экспертиза и умени"
   },
   {
+   "ch": "data_hr",
+   "id": 1375,
+   "dt": "2026-09-22T13:42:29+00:00",
+   "views": 1600,
+   "advertiser": null,
+   "inn": "7811764627",
+   "domains": [
+    "clc.to"
+   ],
+   "tg": [],
+   "text": "Аналитик, который умеет не только работать с данными, но и автоматизировать вокруг них процессы с помощью ИИ, выглядит на рынке заметно сильнее.\nSQL, Python и BI уже давно стали базой. Следующий слой – умение собрать систему, которая сама принимает запрос, находит нужную информацию в документах, воз"
+  },
+  {
+   "ch": "data_hr",
+   "id": 1381,
+   "dt": "2026-09-30T17:14:47+00:00",
+   "views": 532,
+   "advertiser": null,
+   "inn": null,
+   "domains": [],
+   "tg": [
+    "intensives_simulative_bot"
+   ],
+   "text": "Стать аналитиком данных всего\nза 10 недель — это реально!\nЕсли вы давно смотрите в сторону аналитики или хотите войти в профессию системно, а не одной ногой — сейчас самый подходящий момент.\nСимулейтив — школа аналитики, где обучают через практику и реальные кейсы, запускает абсолютно новый курс-бут"
+  },
+  {
    "ch": "data_secrets",
    "id": 10005,
    "dt": "2026-09-24T09:01:00+00:00",
@@ -12373,6 +13871,32 @@
    ],
    "tg": [],
    "text": "Открываете любое приложение — а там уже готовая подборка, как будто вас знают\nЛенты, подборки товаров, плейлисты — все это собирает не человек, а система, которая учится на том, что вы смотрели и на что нажимали. Как именно она решает, что показать первым, — тема отдельная и интересная, особенно для"
+  },
+  {
+   "ch": "databases_tg",
+   "id": 1437,
+   "dt": "2026-09-25T10:48:25+00:00",
+   "views": 1130,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "developers.sber.ru"
+   ],
+   "tg": [],
+   "text": "Как облегчить работу ИТ-аналитика уже сейчас — без долгосрочных перестроек процессов?\nОбсудим на IT-analyst Meetup от Сбера! В программе — прикладные доклады:\n— Как эффективнее использовать возможности мозга\n— Какие навыки развивать аналитику и как выстроить план роста\n— SDD на практике: подводные к"
+  },
+  {
+   "ch": "databases_tg",
+   "id": 1439,
+   "dt": "2026-09-26T12:49:01+00:00",
+   "views": 1430,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "slc.tl"
+   ],
+   "tg": [],
+   "text": "UPDATE — оператор обновления данных в MySQL\n🗂️\nЕсли в таблице нужно изменить значение в уже существующей строке, используют команду UPDATE. Она позволяет обновлять записи точечно, но важно правильно задать условие: без него изменения могут затронуть всю таблицу.\nUPDATE products\nSET price = 50500\nWHE"
   },
   {
    "ch": "datais",
@@ -12531,6 +14055,19 @@
    ],
    "tg": [],
    "text": "🧠\nTechlead в эпоху AI: новый взгляд с Podlodka TechLead Crew\nAI всё глубже входит в разработку, и всё сильнее меняется сама профессия инженера. Сейчас многие техлиды чувствуют необходимость переработать процессы и сам подход к управлению командами.\nОрганизаторы Podlodka TechLead Crew собрали\nновый с"
+  },
+  {
+   "ch": "devopsslib",
+   "id": 5045,
+   "dt": "2026-09-29T11:09:15+00:00",
+   "views": 593,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clc.to"
+   ],
+   "tg": [],
+   "text": "Для тех, кто работает с Kubernetes и облачной инфраструктурой, в октябре намечается отличный повод выбраться из рабочих чатов и встретиться офлайн\n👀\nОбсудим:\n– как пройти путь от бизнес-требования к ядру Linux\n– как дать агенту управление кластером вашей инфраструктуры\n– как в MWS Cloud Platform дос"
   },
   {
    "ch": "devsp",
@@ -13277,6 +14814,63 @@
    "text": "Gemini Pro на 18 месяцев за 150₽\n♊️\n💬\nАккаунты Telegram за 79₽\n🐸\nАренда NFT подарков от 10₽ за день\nИ еще 25+ других товаров ценой дешевле чем напрямую\n🙂\nВсе в этом боте\n👉\n@staticabuybot\n#реклама"
   },
   {
+   "ch": "fpspc_ekb",
+   "id": 1407,
+   "dt": "2026-09-19T08:23:45+00:00",
+   "views": 6860,
+   "advertiser": null,
+   "inn": "9704254424",
+   "domains": [
+    "market.yandex.ru",
+    "wildberries.ru"
+   ],
+   "tg": [],
+   "text": "😊\nПродолжаем рубрику сборок ПК, cегодня за 200.000р\nСобираем мощную сборку на актуальном сокете без нюансов:\n🟣\nВидеокарта\nRTX 5070 OC\n— 77 270 ₽\n🟣\nПроцессор\nUltra 250K Plus\n— 17 072 ₽\n🟣\nМатеринская плата\nB860 PRO RS WIFI\n— 13 553 ₽\n🟣\nОперативка\n32ГБ (16x2) 7200МГц CL34\n— 52 170 ₽\n🟣\nSSD\nMSI PCI-e 5.0"
+  },
+  {
+   "ch": "fpspc_ekb",
+   "id": 1416,
+   "dt": "2026-09-20T09:38:04+00:00",
+   "views": 5270,
+   "advertiser": null,
+   "inn": "7703380158",
+   "domains": [
+    "%d0%90%d0%9b%d0%98%d0%91%d0%90%d0%91%d0%90.%d0%9a%d0%9e%d0%9c",
+    "ali.click"
+   ],
+   "tg": [],
+   "text": "🔥\nЛучшая цена за\nмонитор 24 дюйма, 240ГЦ и IPS матрице\n, у нас подобные от 8.5к стартуют, а этот с прошлого раза стал ещё дешевле\n😨\n#монитор\n#hoesd\n💬\nFpsPC\nРеклама. ООО \"\nАЛИБАБА.КОМ\n(РУ)\", ИНН 7703380158"
+  },
+  {
+   "ch": "fpspc_ekb",
+   "id": 1417,
+   "dt": "2026-09-20T09:43:00+00:00",
+   "views": 5890,
+   "advertiser": null,
+   "inn": "7703380158",
+   "domains": [
+    "%d0%90%d0%9b%d0%98%d0%91%d0%90%d0%91%d0%90.%d0%9a%d0%9e%d0%9c",
+    "ali.click"
+   ],
+   "tg": [],
+   "text": "🛍\n🛍\nСейчас ещё Алик заколлабился с Яндекс.ПЭЙ\n➡️\nМожно\nдополнительно получать по 10% кэшбэком\nпри покупке от 5.000 ₽ и тот же моник выходит в 5.763 ₽ с учётом Кэшбэка\n💪\n#акция\n💬\nFpsPC\nРеклама. ООО \"\nАЛИБАБА.КОМ\n(РУ)\", ИНН 7703380158"
+  },
+  {
+   "ch": "fpspc_ekb",
+   "id": 1419,
+   "dt": "2026-09-20T10:12:23+00:00",
+   "views": 7360,
+   "advertiser": null,
+   "inn": "7703380158",
+   "domains": [
+    "%d0%90%d0%9b%d0%98%d0%91%d0%90%d0%91%d0%90.%d0%9a%d0%9e%d0%9c",
+    "ali.click",
+    "ozon.ru"
+   ],
+   "tg": [],
+   "text": "🔥\nПодборка мониторов от Titan Army с местной доставкой\n😎\n🟣\nTITAN ARMY P2510H PLUS\n— 8.870 ₽\n24.5 дюйма, FullHD разрешение, 260ГЦ на Fast IPS матрице\n🟣\nTITAN ARMY KG277R\n— 12.562 ₽\n27 дюймов, 2К разрешение, 245ГЦ и Fast IPS матрица\n🟣\nTITAN ARMY P275MV PLUS\n— 29.113 ₽\n27 дюймов, 4К разрешение на 160ГЦ"
+  },
+  {
    "ch": "freeitevent",
    "id": 1603,
    "dt": "2026-09-17T06:01:50+00:00",
@@ -13511,6 +15105,32 @@
    "text": "🤖\nTechlead в эпоху AI: пересобираем роль с Podlodka Techlead Crew\nAI изменил привычный уклад работы, и пришло время перестраивать команды, адаптировать новые инструменты и определять, какие решения остаются в зоне ответственности лидеров разработки, а какие можно делегировать ИИ-коллегам.\n💡\nОрганиза"
   },
   {
+   "ch": "gis_cybersec",
+   "id": 4800,
+   "dt": "2026-09-21T12:05:17+00:00",
+   "views": 1090,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "events.astra.ru"
+   ],
+   "tg": [],
+   "text": "😃\n😄\n😆\n😌\n☺️\n🙂\n🫥\nОбычное заканчивается: новые векторы развития ИТ-инфраструктуры от «Группы Астра»\n25 сентября, ждем всех на\n«АстраКонф 2026»\nнашей главной конференции о развитии отечественной ИТ-экосистемы. Самое время взглянуть на программу мероприятия!\nБудет три блока:\n🤩\nAstra 2.0 — платформенный п"
+  },
+  {
+   "ch": "gis_cybersec",
+   "id": 4802,
+   "dt": "2026-09-23T09:03:30+00:00",
+   "views": 2490,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "giscl.ru"
+   ],
+   "tg": [],
+   "text": "Через неделю стартует GISDAYS 2026\n🗓\n30 сентября — 2 октября IX Ежегодный форум по информационной безопасности и ИТ GISDAYS пройдёт в двух столицах: стартуем в Санкт-Петербурге, продолжим в Москве.\nЧто в программе:\n🔗\nБизнес-трек\n— стратегии ИБ, управление рисками, эффективность расходов на инфрастру"
+  },
+  {
    "ch": "glazovpc",
    "id": 3436,
    "dt": "2026-09-29T13:25:01+00:00",
@@ -13675,6 +15295,32 @@
    ],
    "tg": [],
    "text": "Кибератака началась. Время пошло\n⏱️\n«Не защищены» — подкаст о том, что происходит после взлома.\nКто должен принимать ключевые решения? Как снизить негативные последствия?\nРинат Сагиров, директор центра мониторинга и реагирования «Инфосистемы Джет», вместе с коллегами и экспертами рынка обсуждают:\n💠\n"
+  },
+  {
+   "ch": "hackproglib",
+   "id": 5780,
+   "dt": "2026-09-19T09:02:01+00:00",
+   "views": 1020,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "tprg.ru"
+   ],
+   "tg": [],
+   "text": "А вы уже забрали свой подарок ко Дню программиста?\nК вашему профессиональному празднику Tproger, Proglib, Столото, Центральный университет и SmartApe собрали целую коробку подарков. Переходите по ссылке, трясите коробку и забирайте свой презент:\nhttps://tprg.ru/UGuq\nРеклама. ИП Михайлишина Гузель Фа"
+  },
+  {
+   "ch": "hackproglib",
+   "id": 5781,
+   "dt": "2026-09-29T10:02:01+00:00",
+   "views": 540,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "jetcsirt.su"
+   ],
+   "tg": [],
+   "text": "Кибератака началась. Время пошло\n⏱️\n«Не защищены»\n—\nподкаст о том, что происходит после взлома\n.\nКто должен принимать ключевые решения? Как снизить негативные последствия?\nРинат Сагиров, директор центра мониторинга и реагирования «Инфосистемы Джет», вместе с коллегами и экспертами рынка обсуждают:\n—"
   },
   {
    "ch": "hahacker_news",
@@ -13877,6 +15523,33 @@
    "text": "Как Valve сделала возможным гейминг на Linux?\nЧисло пользователей, которые играют на Linux-системах постоянно растет. Это обусловлено желанием крупных компаний расширить сферу своего влияния на рынке и сделать игровой контент доступным.\nСамым ярким представителем игровой индустрии является компания "
   },
   {
+   "ch": "info_cybersecurity",
+   "id": 1792,
+   "dt": "2026-09-30T08:00:35+00:00",
+   "views": 590,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "telega.in",
+    "tglink.io"
+   ],
+   "tg": [],
+   "text": "8 схем одного лета — в новом «Фрод-дайджесте» F6\nИИ внутри Android-трояна, ретрансляция NFC-сигналов, фейковые инвестиционные платформы и атаки на сотрудников компаний — мошеннические сценарии становятся сложнее и затрагивают разные этапы пользовательского пути.\nЭксперты F6 собрали в одном выпуске 8"
+  },
+  {
+   "ch": "infosec_tg",
+   "id": 1504,
+   "dt": "2026-09-27T09:00:04+00:00",
+   "views": 1070,
+   "advertiser": null,
+   "inn": "7731399513",
+   "domains": [
+    "tglink.io"
+   ],
+   "tg": [],
+   "text": "Возьмите сервер с GPU на сутки — без переплат\nНужно настроить инференс модели, протестировать гипотезу, запустить генерацию, обработать данные или провести ML-эксперименты? А может, вам нужен сервер для прототипирования или 3D-рендеринга видео, где возможностей обычного VPS уже не хватает?\nВ FirstVD"
+  },
+  {
    "ch": "infosec_work",
    "id": 4296,
    "dt": "2026-09-30T07:17:01+00:00",
@@ -13890,6 +15563,21 @@
     "CodebyAcademyBot"
    ],
    "text": "От теории к реальным задачам: как учат веб-пентесту в Codeby\n🚗\nМожно знать OWASP Top 10, понимать, как работают SQLi и SSRF, и уметь пользоваться Burp Suite. Но в реальном проекте важно самостоятельно исследовать приложение, находить цепочки уязвимостей и доводить их до эксплуатации.\nИменно поэтому\n"
+  },
+  {
+   "ch": "iosgr",
+   "id": 4778,
+   "dt": "2026-09-30T12:30:01+00:00",
+   "views": 2410,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "podlodka.io"
+   ],
+   "tg": [
+    "tech_rwb"
+   ],
+   "text": "🏗\nСтроим мультиагентные системы для разработки на Podlodka AI Crew\nИнженерные задачи редко состоит из одного действия. В традиционной разработке их распределяют между несколькими специалистами.\nМультиагентный подход переносит ту же логику в среду искусственного интеллекта:\nвместо одного исполнителя "
   },
   {
    "ch": "ironmanexpress",
@@ -15249,6 +16937,19 @@
    "text": "ИИ-проект может упереться не в саму модель, а в то, что происходит вокруг неё: сбор и разметку данных, обучение и проверку результатов.\nДля задач компьютерного зрения этот путь можно собрать в одном инструменте. Luna Line от VisionLabs объединяет каталог данных, разметку, обучение моделей, видеоанал"
   },
   {
+   "ch": "it_fullstak",
+   "id": 3673,
+   "dt": "2026-09-30T12:45:49+00:00",
+   "views": 436,
+   "advertiser": null,
+   "inn": null,
+   "domains": [],
+   "tg": [
+    "tochkaseti"
+   ],
+   "text": "🐕\nИдём по киберследу: Анализ защищенности Active Directory c помощью утилиты BloodHound\nПредставьте, что вы можете видеть невидимые связи в вашей инфраструктуре Active Directory, выявлять сложные последовательности атак и устранять их до того, как они приведут к инцидентам. Утилита BloodHound делает"
+  },
+  {
    "ch": "it_guides",
    "id": 6449,
    "dt": "2026-09-29T10:20:08+00:00",
@@ -15612,6 +17313,32 @@
    "text": "⚡️\n⚡️\nJoker 2026: что происходит с профессией разработчика\nИндустрия разработки проходит через серьезный переломный момент. Меняются не только инструменты и фреймворки, но и привычный подход к работе.\nПоэтому в этом сезоне меняется и\nJoker\n:\nпервый день традиционно посвящен Java — Core Java, рантайм"
   },
   {
+   "ch": "javalearning24",
+   "id": 8192,
+   "dt": "2026-09-28T18:05:02+00:00",
+   "views": 199,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "kursy-tut.ru"
+   ],
+   "tg": [],
+   "text": "Как уйти на удалёнку и не остаться без денег? Безопасный план выхода на доход от 50 000₽\nОсвойте профессию менеджера маркетплейсов, которую можно совмещать с основной работой и постепенно перейти на удалённый формат. Это самый безопасный и быстрый путь в онлайн. Начнёте зарабатывать от 50 000 ₽, уде"
+  },
+  {
+   "ch": "javalearning24",
+   "id": 8230,
+   "dt": "2026-09-30T18:05:02+00:00",
+   "views": 172,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "go.avnxt.site"
+   ],
+   "tg": [],
+   "text": "«А вдруг психология — это моё?» Протестируйте профессию бесплатно, не бросая работу и не меняя жизнь\nНе нужно тратить месяцы на обучение, чтобы понять, подходит ли вам профессия психолога.\nПройдите бесплатный курс, где вы попробуете себя в роли психолога, разберёте 3 клиентских случая и заглянете в "
+  },
+  {
    "ch": "javalib",
    "id": 7639,
    "dt": "2026-09-17T10:02:01+00:00",
@@ -15774,6 +17501,32 @@
    ],
    "tg": [],
    "text": "Кажется, розетка нам больше не понадобится\nXiaomi\nпредставила\nв России новую серию\nREDMI Note 17\n— ее старшая модель REDMI Note 17 Pro Max 5G получила аккумулятор на рекордные для смартфонов Xiaomi 10 000 мАч.\nПричем ждать часами не придется: 100-ваттная зарядка HyperCharge позволяет быстро восстано"
+  },
+  {
+   "ch": "kantor_ai",
+   "id": 834,
+   "dt": "2026-09-23T17:03:06+00:00",
+   "views": 2950,
+   "advertiser": null,
+   "inn": "7707083893",
+   "domains": [
+    "gitverse.ru"
+   ],
+   "tg": [],
+   "text": "Анонс агентного конвейера\nGitVerse от Сбера\nСегодня на Гигаконф2026 представили агентный конвейер GitVerse.\nЕсли вдруг вы не знаете:\nGitVerse\n— это ИИ-платформа, которая входит в экосистему продуктов Сбера для разработчиков вместе с ИИ-ассистентом\nGigaCode\n, средой разработки\nGigaIDE\nи ИИ-системой G"
+  },
+  {
+   "ch": "kantor_ai",
+   "id": 840,
+   "dt": "2026-09-28T08:17:49+00:00",
+   "views": 2400,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "yace.yandex.ru"
+   ],
+   "tg": [],
+   "text": "Конференция Яндекса про образование YaC/e стартует уже через 2 дня\n30 сентября 2026 года в 10:30 (МСК) Яндекс проведёт YaC/e 2026, онлайн-конференцию об образовании. В этом году она посвящена ИИ и образованию. В программе будут практические кейсы использования нейросетей в преподавании, работа с тал"
   },
   {
    "ch": "knijnoe_xranilishe",
@@ -15987,6 +17740,33 @@
    ],
    "tg": [],
    "text": "Объектное хранилище в эпоху быстрых данных\nОбъём данных, с которыми нужно работать, растёт ежедневно. Стандартных решений уже не хватает для задач ИИ и аналитики. Большие объёмы данных нужно не только хранить, но и быстро записывать и читать.\nВ MWS Cloud Platform мы построили объектное хранилище не "
+  },
+  {
+   "ch": "linux_education",
+   "id": 2809,
+   "dt": "2026-09-28T11:33:02+00:00",
+   "views": 627,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "smmbox.com",
+    "tglink.io"
+   ],
+   "tg": [],
+   "text": "‍\nCENTI CONF: DevOps Day — митап по разработке и инженерным решениям\n⚡️\n6 ноября Centicore Group собирает инженеров и технических специалистов, чтобы поговорить о том, что реально болит в инфраструктуре (\nhttps://tglink.io/e8ad323df13458?erid=2W5zFGRc6Xj\n): от Kubernetes и AI-инструментов до архитек"
+  },
+  {
+   "ch": "linux_education",
+   "id": 2812,
+   "dt": "2026-09-29T08:13:46+00:00",
+   "views": 624,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "vk.cc"
+   ],
+   "tg": [],
+   "text": "Kagent + Ollama: ИИ-агент для работы с Kubernetes\nКак использовать локальную языковую модель для работы с Kubernetes? На вебинаре разберём связку Kagent + Ollama и посмотрим, как ИИ-агент помогает анализировать состояние кластера и взаимодействовать с его ресурсами.\n1 октября в 20:00 МСК\nна открытом"
   },
   {
    "ch": "linux_gram",
@@ -16508,6 +18288,47 @@
    "text": "Как СМС о зарплате превратилась в ключи от новой машины\nПомните, мы предлагали перевести Зарплату в Сбер ради шанса выиграть авто? Победитель акции нашелся — ей стала Светлана Рожкова. Она просто перевела зарплату на карту Сбера, а через три месяца получила сообщение от банка: «Светлана, вы выиграли"
   },
   {
+   "ch": "networkadm",
+   "id": 1967,
+   "dt": "2026-09-23T14:05:02+00:00",
+   "views": 1350,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "telega.in",
+    "tglink.io"
+   ],
+   "tg": [],
+   "text": "9 октября в Москве пройдет\nСисАдмин 2026\n— большая конференция для системных администраторов, ИТ-менеджеров, инженеров и специалистов по поддержке инфраструктуры.\n📍\nМосква, кластер «Ломоносов»\n📅\n9 октября 2026\n🗣\nОфлайн-формат, один день\nУчастие бесплатное, нужно только зарегистрироваться -  sysadmin"
+  },
+  {
+   "ch": "neural",
+   "id": 10385,
+   "dt": "2026-09-24T10:20:42+00:00",
+   "views": 738,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "click.wowblogger.ru"
+   ],
+   "tg": [],
+   "text": "Участвуй во всероссийском ИТ-чемпионате МТС True Tech Champ 2026 c призовой фондом 10 250 000 рублей.\nЕсли тебе нравятся алгоритмы, структуры данных и задачи на чистую логику — участвуй в алгоритмическом треке с индивидуальным зачетом.\nРешай задачи разного уровня сложности: от базовых до тех, что пр"
+  },
+  {
+   "ch": "neural",
+   "id": 10387,
+   "dt": "2026-09-25T09:00:43+00:00",
+   "views": 797,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "2gis.ru",
+    "developers.sber.ru"
+   ],
+   "tg": [],
+   "text": "В субботу,\n17 октября, Москва станет точкой притяжения для всех специалистов в области RecSys\n🔥\nКонференция AI Driver & RecSys\n— главное событие года для тех, кто создаёт, исследует и развивает рекомендательные системы.\n🔝\nВесь день ведущие эксперты индустрии из крупнейших IT-компаний проведут на пло"
+  },
+  {
    "ch": "neural_houses",
    "id": 2068,
    "dt": "2026-09-29T06:03:08+00:00",
@@ -16810,6 +18631,19 @@
     "docsinbox"
    ],
    "text": "Постоянные расхождения при инвентаризации алкоголя? Неправильные остатки? Куча неучтенных бутылок? Признавайтесь, было\n😉\nДействительно, работа с алкоголем может добавлять головной боли — так что давайте ее снимать.\n📌\n1 октября в 14:00\nмск\nDocsInBox\nприглашает на вебинар «5 ошибок в ЕГАИС, которые мо"
+  },
+  {
+   "ch": "onecv8",
+   "id": 2406,
+   "dt": "2026-09-29T07:01:32+00:00",
+   "views": 1720,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "promo.k2.cloud"
+   ],
+   "tg": [],
+   "text": "Работу техподдержки 1С обычно редко обсуждают, пока все работает в штатном режиме\n. Но когда случается сбой и выясняется, что время реакции на инцидент слишком большое, возникает ощущение, что проверить это стоило заранее.\nК счастью, теперь такую проверку можно провести структурно. K2 Cloud и АСТОН "
   },
   {
    "ch": "open_source_friend",
@@ -17196,6 +19030,19 @@
    ],
    "tg": [],
    "text": "Премия, где заказчик — не фон, а главный герой\nОбычно ИБ-премии — это про вендоров. Кто громче запустил продукт, кто ярче рассказал кейс, кто больше клиентов перевёл на своё решение. Заказчик в этой истории — либо фон, либо номинация «спасибо, что купили».\nПремия «Киберпризнание» от Кибердома устрое"
+  },
+  {
+   "ch": "phpproglib",
+   "id": 6714,
+   "dt": "2026-09-19T09:01:01+00:00",
+   "views": 1700,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "tprg.ru"
+   ],
+   "tg": [],
+   "text": "А вы уже забрали свой подарок ко Дню программиста?\nК вашему профессиональному празднику Tproger, Proglib, Столото, Центральный университет и SmartApe собрали целую коробку подарков. Переходите по ссылке, трясите коробку и забирайте свой презент:\nhttps://tprg.ru/ZX3b\nРеклама. ИП Михайлишина Гузель Фа"
   },
   {
    "ch": "pizdatascience",
@@ -19070,6 +20917,33 @@
    "text": "📱\nRealme смартфон RMX3938 Note 60х 3GB 64GB черный\n💸\n14 398\n₽ →\n12 709\n₽\n🔥\nСкидка 12%\n✅\nВ наличии на Маркете\n✅\nОфициальная карточка товара\n🛒\nЗаказать -\nСсылка"
   },
   {
+   "ch": "pm_and_it",
+   "id": 2094,
+   "dt": "2026-09-23T09:02:25+00:00",
+   "views": 1730,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clck.ru",
+    "otus.ru"
+   ],
+   "tg": [],
+   "text": "ИИ уже умеет писать тексты, анализировать данные и предлагать решения. Но можно ли доверять его ответам без проверки?\nОдна из главных задач при работе с LLM — научиться получать не просто быстрый, а качественный и проверяемый результат. На открытом уроке «Проверка ответов LLM и борьба с галлюцинация"
+  },
+  {
+   "ch": "pm_and_it",
+   "id": 2098,
+   "dt": "2026-09-29T09:58:18+00:00",
+   "views": 912,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clck.ru"
+   ],
+   "tg": [],
+   "text": "🔥\nПриглашаем на бесплатный открытый вебинар курса «Менеджер продукта в ИТ»:\n«Как AI помогает продакту быстрее проверять гипотезы».\n🗓\nКогда: 05 октября, 20:00 (мск)\nAI меняет подход к проверке гипотез: неделя анализа теперь может превратиться в час, а эксперименты становятся быстрее и дешевле. На веб"
+  },
+  {
    "ch": "polzaSAS",
    "id": 21356,
    "dt": "2026-09-19T06:56:33+00:00",
@@ -19580,6 +21454,63 @@
    "text": "Бесплатный вводный урок английского для взрослых\nХотите узнать свой уровень английского и понять, с чего начать обучение? Запишитесь на\nбесплатное занятие\nс преподавателем SYNG.\nЗа 40 минут вы:\n— определите свой уровень английского;\n— выявите пробелы в знаниях;\n— составите персональный план обучения"
   },
   {
+   "ch": "pythonquestions",
+   "id": 2039,
+   "dt": "2026-09-30T14:59:58+00:00",
+   "views": 381,
+   "advertiser": null,
+   "inn": "7733374017",
+   "domains": [
+    "jumse.ai"
+   ],
+   "tg": [
+    "JUMSEapp"
+   ],
+   "text": "👀\nПроверить себя\n— это, оказывается, интересно\nМы привыкли, что нас оценивают другие: интервьюер, тимлид, рынок. А что, если развернуть это и\nоценить себя самому\n?\nJumse — платформа, по скринингу которой разработчиков нанимают 100+ компаний (МТС Банк, Газпромбанк, ЕВРАЗ, Лента). Только теперь тот же"
+  },
+  {
+   "ch": "qa_chillout",
+   "id": 523,
+   "dt": "2026-09-19T08:21:11+00:00",
+   "views": 2520,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "heisenbug.ru",
+    "survey.jugru.org"
+   ],
+   "tg": [],
+   "text": "⚡️\n⚡️\nТестирование, ИИ и автоматизация: о чем будут говорить на Heisenbug 2026\n16–17 октября в Санкт-Петербурге и онлайн пройдет\nHeisenbug 2026 Autumn\n— крупнейшая в России конференция по тестированию программного обеспечения. В программе — доклады для QA-инженеров, разработчиков, тимлидов и руковод"
+  },
+  {
+   "ch": "qa_wiki",
+   "id": 2224,
+   "dt": "2026-09-21T11:11:32+00:00",
+   "views": 1790,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "heisenbug.ru",
+    "survey.jugru.org"
+   ],
+   "tg": [],
+   "text": "⚡️\n⚡️\nТестирование, ИИ и автоматизация: о чем будут говорить на Heisenbug 2026\n16–17 октября в Санкт-Петербурге и онлайн пройдет\nHeisenbug 2026 Autumn\n— крупнейшая в России конференция по тестированию программного обеспечения. В программе — доклады для QA-инженеров, разработчиков, тимлидов и руковод"
+  },
+  {
+   "ch": "qa_wiki",
+   "id": 2229,
+   "dt": "2026-09-29T13:01:10+00:00",
+   "views": 865,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clck.ru",
+    "otus.ru"
+   ],
+   "tg": [],
+   "text": "🎥\nВебинар: «Онбординг QA-инженера: воркшоп по планированию первых 90 дней»\nНа уроке разберём, как выстроить онбординг QA-инженера с учётом задач команды, особенностей проекта и потребностей нового сотрудника.\nО чем поговорим:\n• Онбординг и адаптация: в чём разница\n• Модель 30–60–90 дней\n• Что необхо"
+  },
+  {
    "ch": "rbtshki",
    "id": 31294,
    "dt": "2026-09-23T10:20:13+00:00",
@@ -19941,6 +21872,30 @@
    "text": "🎬\nAvito Action — первая конференция про дизайн и продукт от Авито\nДля продактов, которые хотят прокачать работу в тандеме с дизайном:\n— Как создавать сильные продукты в дуэте с дизайнером\n— Где граница между ролями и что будет, если её нарушать\n— Неожиданные параллели с кинопроизводством и нейробиол"
   },
   {
+   "ch": "rybakalexey",
+   "id": 564,
+   "dt": "2026-09-17T14:03:55+00:00",
+   "views": 2840,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clc.to"
+   ],
+   "tg": [],
+   "text": "Конфа для управленцев Avito.Tech.Conf\n👀\nРебят, Авито\n26 сентября\nустраивают большую конфу для CTO/CPO, IT-лидов и управленцев.\nСреди участников — топы/лидеры Авито и не только. В программе: управление разработкой, AI PDLC, платформенная разработка, круглые столы и куча активностей, включая бильярд, "
+  },
+  {
+   "ch": "rybakalexey",
+   "id": 567,
+   "dt": "2026-09-21T11:16:41+00:00",
+   "views": 2770,
+   "advertiser": null,
+   "inn": "773379585100",
+   "domains": [],
+   "tg": [],
+   "text": "Пошаговый план для запуска убыточного B2B SaaS\n• Найди уникальную идею, не имеющую аналогов в мире\n• Полируй код полгода, пока продукт не будет идеальным\n• Продвижением занимайся только после того, как продукт будет готов\nА если хочешь узнать, как делать прибыльный продукт, переходи в канал\nТвой Пет"
+  },
+  {
    "ch": "sburyi",
    "id": 915,
    "dt": "2026-09-30T12:00:24+00:00",
@@ -19979,6 +21934,19 @@
    ],
    "tg": [],
    "text": "🤖\nAI для фронтенд-разработчика: собираем инструменты на Podlodka Frontend Crew\nAI-инструменты уже используют все, но порой в обсуждении с LLM возникает ощущение, что голова полна ответов, но их всё ещё недостаточно, чтобы разрешить вполне себе прикладные вопросы.\nЭксперты Podlodka Frontend Crew собр"
+  },
+  {
+   "ch": "seniorcpp",
+   "id": 3277,
+   "dt": "2026-09-22T10:32:58+00:00",
+   "views": 823,
+   "advertiser": null,
+   "inn": "7736207543",
+   "domains": [
+    "c.qrooto.com"
+   ],
+   "tg": [],
+   "text": "Не отставайте от рынка — учитесь со скидкой 16%\nЕсли чувствуете, что стоите на месте, и хотите освоить востребованную профессию, — сейчас хороший момент начать.\nПотому что до\n30 сентября\nна все курсы Практикума действует\nскидка 16%\n.\nВыбрать курс\nВы сможете:\n— получить актуальные навыки;\n— освоить И"
   },
   {
    "ch": "seniorjavist",
@@ -20101,6 +22069,19 @@
    "text": "Пока все учатся разговаривать с нейросетями, кто-то уже режет их по слоям.\n«\nИИ Лоботомия\n» — канал про то,\nчто происходит внутри больших языковых моделей.\nПочему модель решает отказаться от ответа? Можно ли найти отвечающее за это направление во внутренних представлениях и вырезать его из весов? На"
   },
   {
+   "ch": "spring_aio",
+   "id": 1168,
+   "dt": "2026-09-22T06:33:14+00:00",
+   "views": 3710,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "jokerconf.com"
+   ],
+   "tg": [],
+   "text": "⚡️\n⚡️\nJoker 2026: что происходит с профессией разработчика\nИндустрия разработки проходит через серьезный переломный момент. Меняются не только инструменты и фреймворки, но и привычный подход к работе.\nПоэтому в этом сезоне меняется и\nJoker\n:\nпервый день традиционно посвящен Java — Core Java, рантайм"
+  },
+  {
    "ch": "sqlhub",
    "id": 2494,
    "dt": "2026-09-17T15:56:48+00:00",
@@ -20177,6 +22158,19 @@
    ],
    "tg": [],
    "text": "Что крупные заказчики проверяют на пилоте NGFW\nЧем крупнее сеть, тем выше требования к NGFW. Выдержит ли он пиковую нагрузку при активных IPS и инспекции зашифрованного трафика? Сохранятся ли соединения при отказе узла? Как отработает переключение между каналами при росте задержек и потере пакетов? "
+  },
+  {
+   "ch": "start_ds",
+   "id": 600,
+   "dt": "2026-09-27T08:02:07+00:00",
+   "views": 1720,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clc.to"
+   ],
+   "tg": [],
+   "text": "🛠\nAvito DS Meetup: RL, AI-агенты и оптимизация рекламы\n7 октября ребята из Авито проводят DS-митап. В программе три доклада:\n• Обучение языковых моделей с помощью RL. Булат Шарипов расскажет, как в Авито обучают собственные языковые модели.\n• BidCorrection и рекламный трафик. Владислав Воробьев разб"
   },
   {
    "ch": "sterkin_ru",
@@ -20469,6 +22463,19 @@
    ],
    "tg": [],
    "text": "Бесплатный урок: права доступа к файлам в Linux\n🐧\nРазбор того, как устроены права в Linux, как их читать через ls -l, как менять с помощью chmod и chown, где чаще всего ошибаются новички и как не наломать дров с правами на реальном сервере.\nУрок из курса\n«Администрирование ОС Linux»\n- та же подача и"
+  },
+  {
+   "ch": "systemswing",
+   "id": 984,
+   "dt": "2026-09-25T14:01:58+00:00",
+   "views": 1480,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "developers.sber.ru"
+   ],
+   "tg": [],
+   "text": "Как облегчить работу ИТ-аналитика уже сейчас — без долгосрочных перестроек процессов?\nОбсудим на IT-analyst Meetup от Сбера! В программе — прикладные доклады:\n— Как эффективнее использовать возможности мозга\n— Какие навыки развивать аналитику и как выстроить план роста\n— SDD на практике: подводные к"
   },
   {
    "ch": "t0digital",
@@ -20848,6 +22855,46 @@
    ],
    "tg": [],
    "text": "Купер запустил\nРаспакупер\n— специальную витрину, где собраны\nскидки, акции, бонусы\nи предложения с повышенным кешбэком.\nИдея простая: не бегать по разделам в поисках выгоды, а сразу открыть одну витрину и выбрать нужное.\nТеперь распаковка — это не только про коробки, но и про скидки\n🍑\nПравила акции\n"
+  },
+  {
+   "ch": "technoretail_nom",
+   "id": 2284,
+   "dt": "2026-09-17T11:43:01+00:00",
+   "views": 2740,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "idnom.ru",
+    "track.ad2sub.ru"
+   ],
+   "tg": [],
+   "text": "Экономика компьютерных клубов — очень сложная система: сейчас это рынок на 30 миллиардов рублей, в котором бар приносит до половины выручки. Бизнеса в этом секторе уже давно больше, чем игр. Речь об этом шла в канале ранее.\nРебята из LANGAME, Colizeum и Paygine в Forbes детально анализируют это явле"
+  },
+  {
+   "ch": "technoretail_nom",
+   "id": 2286,
+   "dt": "2026-09-17T15:03:05+00:00",
+   "views": 2590,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "yandex.cloud"
+   ],
+   "tg": [],
+   "text": "🤔\nГотова ли ваша инфраструктура к пиковой нагрузке в сезон распродаж?\nЧёрная пятница и предновогодние акции могут увеличить трафик на сайт в 3–10 раз за считанные часы. А простой в пиковый день — это не только потеря выручки, но и удар по репутации. Если начать подготовку слишком поздно, у вас может"
+  },
+  {
+   "ch": "technoretail_nom",
+   "id": 2364,
+   "dt": "2026-09-30T16:36:12+00:00",
+   "views": 2380,
+   "advertiser": null,
+   "inn": null,
+   "domains": [
+    "clck.ru"
+   ],
+   "tg": [],
+   "text": "Ещё один инструмент для продвижения товаров и услуг в сфере электроники и бытовой техники — Карусель в рекламе на Connected TV\nВ аукционную видеорекламу на\nConnected TV\nтеперь можно добавить карусель товаров и услуг. Так вы сможете дополнить свой ролик карточками с конкретными предложениями и привес"
   },
   {
    "ch": "technosplit",
@@ -22416,6 +24463,19 @@
    ],
    "tg": [],
    "text": "Много хочешь — много получишь.\nВ обновлённом\nРИИЛ\nты сам выбираешь цену, минуты и гигабайты.\nЕсли опаздываешь к друзьям, старт на самокатах Юрент бесплатный."
+  },
+  {
+   "ch": "ufanet_official",
+   "id": 2431,
+   "dt": "2026-09-21T06:42:25+00:00",
+   "views": 1440,
+   "advertiser": null,
+   "inn": "3661051384",
+   "domains": [
+    "uvi.ru"
+   ],
+   "tg": [],
+   "text": "5000 бонусов на покупку украшений от «Ювелирочки»!\n«Ювелирочка» — телеканал в сети Уфанет, где зрители могут вдохновляться историями драгоценных камней, ювелирными трендами и красивыми образами.\n🟣\nболее 16000 изделий в ограниченном количестве от искусных российских ювелиров\n🟣\nболее 100 природных дра"
   },
   {
    "ch": "upd_kollegi",
@@ -27049,7 +29109,7 @@
   {
    "key": "dom:slc.tl",
    "name": null,
-   "posts": 25,
+   "posts": 26,
    "channels": [
     "DevOPSitsec",
     "IT_Portal",
@@ -27060,6 +29120,7 @@
     "artemshumeiko",
     "codecamp",
     "dailyprompts",
+    "databases_tg",
     "datais",
     "droidergram",
     "i_odmin",
@@ -27079,7 +29140,7 @@
    "domains": [
     [
      "slc.tl",
-     25
+     26
     ]
    ],
    "tg": [
@@ -27092,7 +29153,7 @@
   {
    "key": "dom:go.avnxt.site",
    "name": null,
-   "posts": 29,
+   "posts": 30,
    "channels": [
     "backend_it",
     "book_sbornik",
@@ -27109,6 +29170,7 @@
     "it_pirate_tg",
     "it_tochka",
     "itles_tg",
+    "javalearning24",
     "knijnoe_xranilishe",
     "openit_tg",
     "porscode_tg",
@@ -27120,7 +29182,7 @@
    "domains": [
     [
      "go.avnxt.site",
-     29
+     30
     ]
    ],
    "tg": []
@@ -27128,9 +29190,10 @@
   {
    "key": "dom:tglink.io",
    "name": null,
-   "posts": 24,
+   "posts": 26,
    "channels": [
     "Cpportal",
+    "CyberInvestorTrends",
     "DevOPSitsec",
     "ITMeeting",
     "codeby_sec",
@@ -27155,7 +29218,7 @@
    "domains": [
     [
      "tglink.io",
-     24
+     26
     ]
    ],
    "tg": [
@@ -27164,6 +29227,41 @@
      1
     ]
    ]
+  },
+  {
+   "key": "dom:clc.to",
+   "name": null,
+   "posts": 19,
+   "channels": [
+    "NeuralToday",
+    "analytics_secrets",
+    "data_analysis_ml",
+    "datascienceml_jobs",
+    "devops_sc",
+    "devopsslib",
+    "devsp",
+    "freeitevent",
+    "leadgr",
+    "linuxacademiya",
+    "loose_code",
+    "machinelearning_ru",
+    "notboring_tech",
+    "product_and_project",
+    "ruspm",
+    "rybakalexey",
+    "start_ds"
+   ],
+   "domains": [
+    [
+     "clc.to",
+     19
+    ],
+    [
+     "trisigma.io",
+     2
+    ]
+   ],
+   "tg": []
   },
   {
    "key": "dom:commercial.link",
@@ -27219,38 +29317,6 @@
     [
      "personal.ep.mts.ru",
      15
-    ]
-   ],
-   "tg": []
-  },
-  {
-   "key": "dom:clc.to",
-   "name": null,
-   "posts": 16,
-   "channels": [
-    "NeuralToday",
-    "analytics_secrets",
-    "data_analysis_ml",
-    "datascienceml_jobs",
-    "devops_sc",
-    "devsp",
-    "freeitevent",
-    "leadgr",
-    "linuxacademiya",
-    "loose_code",
-    "machinelearning_ru",
-    "notboring_tech",
-    "product_and_project",
-    "ruspm"
-   ],
-   "domains": [
-    [
-     "clc.to",
-     16
-    ],
-    [
-     "trisigma.io",
-     2
     ]
    ],
    "tg": []
@@ -27312,6 +29378,83 @@
    ]
   },
   {
+   "key": "dom:clck.ru",
+   "name": null,
+   "posts": 21,
+   "channels": [
+    "ba_sa_analytics",
+    "cifrusru",
+    "d_code",
+    "droidergram",
+    "iteventsrus",
+    "naebnet",
+    "pm_and_it",
+    "product_and_project",
+    "qa_wiki",
+    "serious_tester",
+    "settersmedia_news",
+    "sysadmin_library",
+    "technoretail_nom"
+   ],
+   "domains": [
+    [
+     "clck.ru",
+     21
+    ],
+    [
+     "otus.ru",
+     6
+    ],
+    [
+     "youtu.be",
+     4
+    ],
+    [
+     "vkvideo.ru",
+     3
+    ],
+    [
+     "vk.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "7736207543",
+   "name": null,
+   "posts": 12,
+   "channels": [
+    "Golang_google",
+    "ba_sa_analytics",
+    "freeitevent",
+    "iteventsrus",
+    "javalib",
+    "leadgr",
+    "mmmorozov",
+    "pizdatascience",
+    "seniorcpp",
+    "sterkin_ru",
+    "sysadmin_library",
+    "technosplit"
+   ],
+   "domains": [
+    [
+     "c.qrooto.com",
+     7
+    ],
+    [
+     "tglink.io",
+     3
+    ],
+    [
+     "practicum.yandex.ru",
+     2
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "7709751313",
    "name": "ООО «ДИХАУС",
    "posts": 12,
@@ -27338,34 +29481,26 @@
    "tg": []
   },
   {
-   "key": "7736207543",
+   "key": "dom:developers.sber.ru",
    "name": null,
-   "posts": 11,
+   "posts": 14,
    "channels": [
-    "Golang_google",
+    "ITMeeting",
+    "ai_machinelearning_big_data",
     "ba_sa_analytics",
-    "freeitevent",
-    "iteventsrus",
-    "javalib",
-    "leadgr",
-    "mmmorozov",
-    "pizdatascience",
-    "sterkin_ru",
-    "sysadmin_library",
-    "technosplit"
+    "chatgptv",
+    "data_analysis_ml",
+    "databases_tg",
+    "machinelearning_interview",
+    "neuraldvig",
+    "systemswing",
+    "vistehno",
+    "whackdoor"
    ],
    "domains": [
     [
-     "c.qrooto.com",
-     6
-    ],
-    [
-     "tglink.io",
-     3
-    ],
-    [
-     "practicum.yandex.ru",
-     2
+     "developers.sber.ru",
+     14
     ]
    ],
    "tg": []
@@ -27395,78 +29530,17 @@
    "tg": []
   },
   {
-   "key": "dom:clck.ru",
-   "name": null,
-   "posts": 17,
-   "channels": [
-    "ba_sa_analytics",
-    "cifrusru",
-    "d_code",
-    "droidergram",
-    "iteventsrus",
-    "naebnet",
-    "product_and_project",
-    "serious_tester",
-    "settersmedia_news",
-    "sysadmin_library"
-   ],
-   "domains": [
-    [
-     "clck.ru",
-     17
-    ],
-    [
-     "otus.ru",
-     4
-    ],
-    [
-     "youtu.be",
-     4
-    ],
-    [
-     "vkvideo.ru",
-     3
-    ],
-    [
-     "vk.ru",
-     1
-    ]
-   ],
-   "tg": []
-  },
-  {
-   "key": "dom:developers.sber.ru",
-   "name": null,
-   "posts": 12,
-   "channels": [
-    "ITMeeting",
-    "ai_machinelearning_big_data",
-    "ba_sa_analytics",
-    "chatgptv",
-    "data_analysis_ml",
-    "machinelearning_interview",
-    "neuraldvig",
-    "vistehno",
-    "whackdoor"
-   ],
-   "domains": [
-    [
-     "developers.sber.ru",
-     12
-    ]
-   ],
-   "tg": []
-  },
-  {
    "key": "dom:telega.in",
    "name": null,
-   "posts": 16,
+   "posts": 18,
    "channels": [
     "data_analysis_ml",
     "freeitevent",
     "imaxairu",
+    "info_cybersecurity",
     "iteventsrus",
     "machinelearning_interview",
+    "networkadm",
     "open_source_friend",
     "progeri",
     "sysodmins"
@@ -27474,11 +29548,11 @@
    "domains": [
     [
      "telega.in",
-     16
+     18
     ],
     [
      "tglink.io",
-     15
+     17
     ]
    ],
    "tg": [
@@ -27489,12 +29563,41 @@
    ]
   },
   {
+   "key": "dom:click.wowblogger.ru",
+   "name": null,
+   "posts": 10,
+   "channels": [
+    "cpluscsharp",
+    "data_analysis_ml",
+    "frontendbook",
+    "htmlshit",
+    "javalib",
+    "javascriptv",
+    "neural",
+    "prgrcab",
+    "react_tg",
+    "sqlhub"
+   ],
+   "domains": [
+    [
+     "click.wowblogger.ru",
+     10
+    ],
+    [
+     "wowblogger.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "dom:yace.yandex.ru",
    "name": null,
-   "posts": 8,
+   "posts": 9,
    "channels": [
     "codecamp",
     "concertzaal",
+    "kantor_ai",
     "naebnet",
     "provod",
     "rozetked",
@@ -27505,59 +29608,7 @@
    "domains": [
     [
      "yace.yandex.ru",
-     8
-    ]
-   ],
-   "tg": []
-  },
-  {
-   "key": "dom:click.wowblogger.ru",
-   "name": null,
-   "posts": 8,
-   "channels": [
-    "data_analysis_ml",
-    "frontendbook",
-    "htmlshit",
-    "javalib",
-    "javascriptv",
-    "prgrcab",
-    "react_tg",
-    "sqlhub"
-   ],
-   "domains": [
-    [
-     "click.wowblogger.ru",
-     8
-    ],
-    [
-     "wowblogger.ru",
-     1
-    ]
-   ],
-   "tg": []
-  },
-  {
-   "key": "dom:sberbank.ru",
-   "name": null,
-   "posts": 8,
-   "channels": [
-    "exploitex",
-    "naebnet",
-    "provod",
-    "rozetked",
-    "silicon_kitchen",
-    "technomedia",
-    "trends",
-    "whackdoor"
-   ],
-   "domains": [
-    [
-     "sberbank.ru",
-     8
-    ],
-    [
-     "v.sber.ru",
-     7
+     9
     ]
    ],
    "tg": []
@@ -27565,12 +29616,13 @@
   {
    "key": "7703380158",
    "name": null,
-   "posts": 565,
+   "posts": 568,
    "channels": [
     "NostalgiePK_official",
     "alexandr_kames",
     "chinagadgetsofficial",
     "club_arduino",
+    "fpspc_ekb",
     "otomosem",
     "texanit",
     "ypavla"
@@ -27578,11 +29630,11 @@
    "domains": [
     [
      "%d0%90%d0%9b%d0%98%d0%91%d0%90%d0%91%d0%90.%d0%9a%d0%9e%d0%9c",
-     503
+     506
     ],
     [
      "ali.click",
-     486
+     489
     ],
     [
      "max.ru",
@@ -27617,6 +29669,58 @@
    ]
   },
   {
+   "key": "dom:2gis.ru",
+   "name": null,
+   "posts": 8,
+   "channels": [
+    "ITMeeting",
+    "elonmusk_ru",
+    "machinelearning_books",
+    "machinelearning_interview",
+    "neural",
+    "pythonbooks",
+    "rockyourdata",
+    "trojan_anonym"
+   ],
+   "domains": [
+    [
+     "2gis.ru",
+     8
+    ],
+    [
+     "developers.sber.ru",
+     8
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "dom:sberbank.ru",
+   "name": null,
+   "posts": 8,
+   "channels": [
+    "exploitex",
+    "naebnet",
+    "provod",
+    "rozetked",
+    "silicon_kitchen",
+    "technomedia",
+    "trends",
+    "whackdoor"
+   ],
+   "domains": [
+    [
+     "sberbank.ru",
+     8
+    ],
+    [
+     "v.sber.ru",
+     7
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "dom:mws.ru",
    "name": null,
    "posts": 7,
@@ -27632,31 +29736,6 @@
    "domains": [
     [
      "mws.ru",
-     7
-    ]
-   ],
-   "tg": []
-  },
-  {
-   "key": "dom:2gis.ru",
-   "name": null,
-   "posts": 7,
-   "channels": [
-    "ITMeeting",
-    "elonmusk_ru",
-    "machinelearning_books",
-    "machinelearning_interview",
-    "pythonbooks",
-    "rockyourdata",
-    "trojan_anonym"
-   ],
-   "domains": [
-    [
-     "2gis.ru",
-     7
-    ],
-    [
-     "developers.sber.ru",
      7
     ]
    ],
@@ -27688,6 +29767,56 @@
    "tg": [
     [
      "Maniacvoice",
+     1
+    ]
+   ]
+  },
+  {
+   "key": "dom:tprg.ru",
+   "name": null,
+   "posts": 7,
+   "channels": [
+    "cppproglib",
+    "dsproglib",
+    "hackproglib",
+    "hahacker_news",
+    "ithumor",
+    "phpproglib",
+    "tproger"
+   ],
+   "domains": [
+    [
+     "tprg.ru",
+     7
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "dom:otus.ru",
+   "name": null,
+   "posts": 11,
+   "channels": [
+    "booksjava",
+    "godoftesting",
+    "i_odmin",
+    "programmist_of",
+    "sysadminof",
+    "sysodmins"
+   ],
+   "domains": [
+    [
+     "otus.ru",
+     11
+    ],
+    [
+     "vk.cc",
+     9
+    ]
+   ],
+   "tg": [
+    [
+     "Tool",
      1
     ]
    ]
@@ -27811,6 +29940,51 @@
    "tg": []
   },
   {
+   "key": "dom:yandex.cloud",
+   "name": null,
+   "posts": 6,
+   "channels": [
+    "badTechProject",
+    "cio_channel",
+    "dmitrii_ireshev_Agile_PMP",
+    "it2b_channel",
+    "product_and_project",
+    "technoretail_nom"
+   ],
+   "domains": [
+    [
+     "yandex.cloud",
+     6
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "dom:podlodka.io",
+   "name": null,
+   "posts": 6,
+   "channels": [
+    "frontendnoteschannel_ru",
+    "htmlshit",
+    "iosgr",
+    "leadgr",
+    "seniorFront",
+    "xCode_Journal"
+   ],
+   "domains": [
+    [
+     "podlodka.io",
+     6
+    ]
+   ],
+   "tg": [
+    [
+     "tech_rwb",
+     2
+    ]
+   ]
+  },
+  {
    "key": "dom:market.yandex.ru",
    "name": null,
    "posts": 164,
@@ -27846,24 +30020,20 @@
    "tg": []
   },
   {
-   "key": "dom:otus.ru",
+   "key": "dom:kursy-tut.ru",
    "name": null,
-   "posts": 10,
+   "posts": 20,
    "channels": [
-    "godoftesting",
-    "i_odmin",
-    "programmist_of",
-    "sysadminof",
-    "sysodmins"
+    "elonmusk_ru",
+    "javalearning24",
+    "prgrcab",
+    "trendo",
+    "trojan_anonym"
    ],
    "domains": [
     [
-     "otus.ru",
-     10
-    ],
-    [
-     "vk.cc",
-     8
+     "kursy-tut.ru",
+     20
     ]
    ],
    "tg": []
@@ -27926,83 +30096,46 @@
    "tg": []
   },
   {
-   "key": "dom:tprg.ru",
+   "key": "dom:jokerconf.com",
    "name": null,
    "posts": 5,
    "channels": [
-    "cppproglib",
-    "dsproglib",
-    "hahacker_news",
-    "ithumor",
-    "tproger"
+    "java_tg",
+    "javaproglib",
+    "javatg",
+    "seniorjavist",
+    "spring_aio"
    ],
    "domains": [
     [
-     "tprg.ru",
+     "jokerconf.com",
      5
     ]
    ],
    "tg": []
   },
   {
-   "key": "dom:podlodka.io",
+   "key": "dom:vk.cc",
    "name": null,
-   "posts": 5,
+   "posts": 6,
    "channels": [
-    "frontendnoteschannel_ru",
-    "htmlshit",
-    "leadgr",
-    "seniorFront",
-    "xCode_Journal"
+    "javalib",
+    "javatasks",
+    "linux_education",
+    "sys_sa"
    ],
    "domains": [
     [
-     "podlodka.io",
-     5
+     "vk.cc",
+     6
     ]
    ],
    "tg": [
     [
-     "tech_rwb",
-     1
+     "Tool",
+     2
     ]
    ]
-  },
-  {
-   "key": "dom:kursy-tut.ru",
-   "name": null,
-   "posts": 19,
-   "channels": [
-    "elonmusk_ru",
-    "prgrcab",
-    "trendo",
-    "trojan_anonym"
-   ],
-   "domains": [
-    [
-     "kursy-tut.ru",
-     19
-    ]
-   ],
-   "tg": []
-  },
-  {
-   "key": "dom:yandex.cloud",
-   "name": null,
-   "posts": 4,
-   "channels": [
-    "badTechProject",
-    "dmitrii_ireshev_Agile_PMP",
-    "it2b_channel",
-    "product_and_project"
-   ],
-   "domains": [
-    [
-     "yandex.cloud",
-     4
-    ]
-   ],
-   "tg": []
   },
   {
    "key": "dom:deeptechnight.ru",
@@ -28049,6 +30182,24 @@
    "tg": []
   },
   {
+   "key": "7811764627",
+   "name": null,
+   "posts": 4,
+   "channels": [
+    "code_ready",
+    "data_hr",
+    "databases_secrets",
+    "thingsprogrammersdo"
+   ],
+   "domains": [
+    [
+     "clc.to",
+     4
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "dom:goo.su",
    "name": null,
    "posts": 4,
@@ -28085,44 +30236,22 @@
    "tg": []
   },
   {
-   "key": "dom:jokerconf.com",
+   "key": "7731399513",
    "name": null,
    "posts": 4,
    "channels": [
-    "java_tg",
-    "javaproglib",
-    "javatg",
-    "seniorjavist"
+    "infosec_tg",
+    "linux_gram",
+    "recura_tech",
+    "sysodmins"
    ],
    "domains": [
     [
-     "jokerconf.com",
+     "tglink.io",
      4
     ]
    ],
    "tg": []
-  },
-  {
-   "key": "dom:vk.cc",
-   "name": null,
-   "posts": 5,
-   "channels": [
-    "javalib",
-    "javatasks",
-    "sys_sa"
-   ],
-   "domains": [
-    [
-     "vk.cc",
-     5
-    ]
-   ],
-   "tg": [
-    [
-     "Tool",
-     2
-    ]
-   ]
   },
   {
    "key": "dom:cybercamp.su",
@@ -28243,23 +30372,6 @@
    "tg": []
   },
   {
-   "key": "7811764627",
-   "name": null,
-   "posts": 3,
-   "channels": [
-    "code_ready",
-    "databases_secrets",
-    "thingsprogrammersdo"
-   ],
-   "domains": [
-    [
-     "clc.to",
-     3
-    ]
-   ],
-   "tg": []
-  },
-  {
    "key": "dom:genotek.ru",
    "name": null,
    "posts": 3,
@@ -28332,6 +30444,27 @@
    "tg": []
   },
   {
+   "key": "dom:jetcsirt.su",
+   "name": null,
+   "posts": 3,
+   "channels": [
+    "elliot_cybersec",
+    "hackproglib",
+    "nsis_cybersec"
+   ],
+   "domains": [
+    [
+     "jetcsirt.su",
+     3
+    ],
+    [
+     "ord.vk.com",
+     2
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "7733568767",
    "name": null,
    "posts": 3,
@@ -28370,23 +30503,6 @@
    "tg": []
   },
   {
-   "key": "7731399513",
-   "name": null,
-   "posts": 3,
-   "channels": [
-    "linux_gram",
-    "recura_tech",
-    "sysodmins"
-   ],
-   "domains": [
-    [
-     "tglink.io",
-     3
-    ]
-   ],
-   "tg": []
-  },
-  {
    "key": "dom:bi.zone",
    "name": null,
    "posts": 3,
@@ -28418,6 +30534,34 @@
     ],
     [
      "onlinetrade.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "9704254424",
+   "name": null,
+   "posts": 7,
+   "channels": [
+    "fpspc_ekb",
+    "ypavla"
+   ],
+   "domains": [
+    [
+     "market.yandex.ru",
+     7
+    ],
+    [
+     "max.ru",
+     4
+    ],
+    [
+     "github.com",
+     3
+    ],
+    [
+     "wildberries.ru",
      1
     ]
    ],
@@ -28492,6 +30636,26 @@
    "tg": []
   },
   {
+   "key": "dom:otus.pw",
+   "name": null,
+   "posts": 3,
+   "channels": [
+    "LinuxSkill",
+    "iteventsrus"
+   ],
+   "domains": [
+    [
+     "otus.pw",
+     3
+    ],
+    [
+     "otus.ru",
+     2
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "tg:sberstudent",
    "name": null,
    "posts": 3,
@@ -28516,6 +30680,22 @@
     "frontendbook"
    ],
    "domains": [],
+   "tg": []
+  },
+  {
+   "key": "dom:ufactorevent.usergate.com",
+   "name": null,
+   "posts": 2,
+   "channels": [
+    "CyberSachok",
+    "Russian_OSINT"
+   ],
+   "domains": [
+    [
+     "ufactorevent.usergate.com",
+     2
+    ]
+   ],
    "tg": []
   },
   {
@@ -28726,26 +30906,6 @@
    "tg": []
   },
   {
-   "key": "dom:jetcsirt.su",
-   "name": null,
-   "posts": 2,
-   "channels": [
-    "elliot_cybersec",
-    "nsis_cybersec"
-   ],
-   "domains": [
-    [
-     "jetcsirt.su",
-     2
-    ],
-    [
-     "ord.vk.com",
-     2
-    ]
-   ],
-   "tg": []
-  },
-  {
    "key": "dom:github.com",
    "name": null,
    "posts": 2,
@@ -28796,6 +30956,22 @@
    "domains": [
     [
      "gigaconf.ru",
+     2
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "dom:events.astra.ru",
+   "name": null,
+   "posts": 2,
+   "channels": [
+    "gis_cybersec",
+    "sysodmins"
+   ],
+   "domains": [
+    [
+     "events.astra.ru",
      2
     ]
    ],
@@ -28866,24 +31042,21 @@
    "tg": []
   },
   {
-   "key": "9704254424",
+   "key": "dom:heisenbug.ru",
    "name": null,
-   "posts": 6,
+   "posts": 2,
    "channels": [
-    "ypavla"
+    "qa_chillout",
+    "qa_wiki"
    ],
    "domains": [
     [
-     "market.yandex.ru",
-     6
+     "heisenbug.ru",
+     2
     ],
     [
-     "max.ru",
-     4
-    ],
-    [
-     "github.com",
-     3
+     "survey.jugru.org",
+     2
     ]
    ],
    "tg": []
@@ -28899,6 +31072,21 @@
     [
      "iguides.ru",
      3
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "dom:cyberdom.pro",
+   "name": null,
+   "posts": 2,
+   "channels": [
+    "CyberSachok"
+   ],
+   "domains": [
+    [
+     "cyberdom.pro",
+     2
     ]
    ],
    "tg": []
@@ -28960,6 +31148,21 @@
     [
      "tadviser.ru",
      2
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "5032378556",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "CGIT_Vines"
+   ],
+   "domains": [
+    [
+     "academy.playestate.ru",
+     1
     ]
    ],
    "tg": []
@@ -29118,21 +31321,6 @@
      1
     ]
    ]
-  },
-  {
-   "key": "dom:ufactorevent.usergate.com",
-   "name": null,
-   "posts": 1,
-   "channels": [
-    "Russian_OSINT"
-   ],
-   "domains": [
-    [
-     "ufactorevent.usergate.com",
-     1
-    ]
-   ],
-   "tg": []
   },
   {
    "key": "dom:securitylab.ru",
@@ -29605,6 +31793,21 @@
    "tg": []
   },
   {
+   "key": "tg:intensives_simulative_bot",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "data_hr"
+   ],
+   "domains": [],
+   "tg": [
+    [
+     "intensives_simulative_bot",
+     1
+    ]
+   ]
+  },
+  {
    "key": "9728100991",
    "name": null,
    "posts": 1,
@@ -29804,6 +32007,21 @@
    ]
   },
   {
+   "key": "dom:giscl.ru",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "gis_cybersec"
+   ],
+   "domains": [
+    [
+     "giscl.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "dom:cti-lake.ctt.ru",
    "name": null,
    "posts": 1,
@@ -29883,23 +32101,19 @@
    "tg": []
   },
   {
-   "key": "dom:otus.pw",
+   "key": "tg:tochkaseti",
    "name": null,
    "posts": 1,
    "channels": [
-    "iteventsrus"
+    "it_fullstak"
    ],
-   "domains": [
+   "domains": [],
+   "tg": [
     [
-     "otus.pw",
-     1
-    ],
-    [
-     "otus.ru",
+     "tochkaseti",
      1
     ]
-   ],
-   "tg": []
+   ]
   },
   {
    "key": "tg:aiaiai_daily",
@@ -29917,6 +32131,21 @@
    ]
   },
   {
+   "key": "7707083893",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "kantor_ai"
+   ],
+   "domains": [
+    [
+     "gitverse.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "dom:energy.trehsosensky.ru",
    "name": null,
    "posts": 1,
@@ -29926,6 +32155,25 @@
    "domains": [
     [
      "energy.trehsosensky.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "dom:smmbox.com",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "linux_education"
+   ],
+   "domains": [
+    [
+     "smmbox.com",
+     1
+    ],
+    [
+     "tglink.io",
      1
     ]
    ],
@@ -30186,6 +32434,21 @@
    ]
   },
   {
+   "key": "dom:promo.k2.cloud",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "onecv8"
+   ],
+   "domains": [
+    [
+     "promo.k2.cloud",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "dom:wowblogger.ru",
    "name": null,
    "posts": 1,
@@ -30273,6 +32536,26 @@
    ]
   },
   {
+   "key": "7733374017",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "pythonquestions"
+   ],
+   "domains": [
+    [
+     "jumse.ai",
+     1
+    ]
+   ],
+   "tg": [
+    [
+     "JUMSEapp",
+     1
+    ]
+   ]
+  },
+  {
    "key": "dom:regard.ru",
    "name": null,
    "posts": 1,
@@ -30333,6 +32616,16 @@
      1
     ]
    ]
+  },
+  {
+   "key": "773379585100",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "rybakalexey"
+   ],
+   "domains": [],
+   "tg": []
   },
   {
    "key": "dom:lead.okdesk.ru",
@@ -30416,21 +32709,6 @@
      1
     ]
    ]
-  },
-  {
-   "key": "dom:events.astra.ru",
-   "name": null,
-   "posts": 1,
-   "channels": [
-    "sysodmins"
-   ],
-   "domains": [
-    [
-     "events.astra.ru",
-     1
-    ]
-   ],
-   "tg": []
   },
   {
    "key": "tg:LinuxMegaBot",
@@ -30689,6 +32967,25 @@
    "tg": []
   },
   {
+   "key": "dom:idnom.ru",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "technoretail_nom"
+   ],
+   "domains": [
+    [
+     "idnom.ru",
+     1
+    ],
+    [
+     "track.ad2sub.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
    "key": "400406297392",
    "name": null,
    "posts": 1,
@@ -30847,6 +33144,21 @@
    "domains": [
     [
      "mts.ru",
+     1
+    ]
+   ],
+   "tg": []
+  },
+  {
+   "key": "3661051384",
+   "name": null,
+   "posts": 1,
+   "channels": [
+    "ufanet_official"
+   ],
+   "domains": [
+    [
+     "uvi.ru",
      1
     ]
    ],
